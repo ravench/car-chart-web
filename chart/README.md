@@ -1,27 +1,26 @@
-# Identical Car Chart v1.8 — self-contained copy (2026-10-26)
+# Identical Car Chart v1.9 — self-contained copy (2026-10-26)
 
 Open `index.html` in a browser (serve the folder over http for the front views, e.g. `python3 -m http.server`;
 the side views work from a plain file:// open as well).
 
-- `index.html` — the chart (also published at https://claude.ai/artifact/SQLziPkb5ir5kasuaUEHrc, Version 15)
-- `img/<id>-side.webp` — 486 side views (405 from carsized.com, 81 from other sources), trimmed and to scale
-- `img/fronts.json` — 440 front views as one base64 WebP pack
-- `img_manifest.json` — which model has which view
-- `build/` — the generator (`gen.py`; 7th argument = `drive.json`), the cut-out script for non-carsized pictures
-  (`build_ext.py`, `ext_manifest.json`, `JUDGED.md`) and the drive data:
-  - `build/drive.json` — per model: drives (FWD/RWD/AWD), awd flag, the brand's AWD term, note, confidence, source page
-  - `build/drive/result-1..9.json` — the nine Opus 5.5 research batches (`batch-1.json` shows the input format)
-  - `build/drive/verified.json` — 21 entries re-checked by hand on manufacturer/importer pages (overrides the batches)
-  - `build/drive/merge_drive.py` — merges batches + verified entries into `drive.json` (`--write`), checks consistency
+- `index.html` — the chart (also published at https://claude.ai/artifact/SQLziPkb5ir5kasuaUEHrc, Version 16)
+- `img/`, `img_manifest.json` — pictures as in v1.7/v1.8
+- `build/` — generator (`gen.py`), merge pipeline (`apply_corrections.py` → `merge.py` → data.json), the manual
+  overrides (`overrides.base.json`: aliases, exclusions, `edges_add`/`edges_remove` keyed "brand model|row",
+  `group_labels` keyed by family id, `final` per-model field fixes), the drive data (`drive.json`, `drive/`),
+  the external-picture tooling and `merge_report.md`.
 
-v1.8 (2026-10-26): AWD badge and filters. 302 of 525 models are sold with all-wheel drive or 4x4 in at least one
-version (Europe, Swiss/German line-ups first). Each tile carries an "AWD" chip; the detail panel's "Drive" row names
-the drive layouts, the brand's term (quattro, 4MATIC, xDrive, 4x4, e-4ORCE …), the versions AWD is limited to and the
-page checked. Two new filter rows: Powertrain (BEV, PHEV, full hybrid, mild hybrid, petrol incl. LPG/CNG, diesel,
-hydrogen) and Drive (front, rear, all-wheel); brands and rows without a visible model collapse.
-Confidence: 418 entries rest on a manufacturer/importer page, price list or ADAC/press-portal entry ("high");
-107 rest on trade press or product knowledge and are marked "(not checked on a manufacturer page)" in the detail panel.
-Dangel 4x4 conversions of Stellantis and Toyota vans are not counted as factory AWD (noted in those panels).
-Corrections from the hand check: ID. Buzz Cargo, ID. Tiguan, Audi Q5, Maxus eDeliver 7, Ebro s900, Voyah Courage
-gained AWD/FWD versions; Farizon V7E is front-wheel drive.
-Earlier versions: `../chart-v1.7/` (pictures from other sources, v1.7 notes), `../chart-v1.5/`.
+v1.9 (2026-10-26): results of the platform check of all 296 unframed tiles (../platform-check/) applied.
+- 3 new families: E-GMP (Ioniq 3 + EV4, compact cars), SEA (Zeekr 001 + Lotus Emeya), SEA-S (Zeekr 9X + Lotus Eletre).
+- 8 models added to existing families: Dacia Duster, Bigster, Striker (CMF-B), Kia EV3 and EV5 (E-GMP; the
+  measurement check flags EV3's 320 mm longer wheelbase against the Ioniq 5 as "to be reviewed"), Polestar 4 (SEA;
+  width flag), Jaecoo 5 (Chery T1X), Omoda 9 (Tiggo 9 family, now labelled Chery T1X/M3X).
+- DR 5 (2026) removed from the Chery T1X family: it is based on the Changan CS35 Plus (the earlier DR 5.0 was Chery-based).
+- 25 platform descriptions corrected (Velar, Q7, Peaq, Ora 03/5, Lepas L8, Denza, BYD Ti 7, Staria, Musso EV, M-Hero, Bugatti …).
+- New detail-panel line "Platform relatives in other classes" for 52 models whose platform siblings sit in other rows
+  (Aygo X → Mazda2 Hybrid/LBX, Scala → MQB A0 cars, DS 7 → 308/408/Astra …); the links open the relative's panel.
+- Not framed (noted in the panels): Wey 05/Haval H6 and Wey 03/Jolion Pro (L.E.M.O.N. link only in secondary
+  sources), GR Supra (its Z4 twin is gone; not a CLAR sibling of the 2 Series/4 Series).
+- Status questions from the check: GR Supra and petrol Mazda2 were already marked run-out; the AMG GT SUV has had an
+  open order book since 20 Oct 2026, so it stays.
+Earlier versions: `../chart-v1.8/` (AWD badge and filters), `../chart-v1.7/` (pictures from other sources), `../chart-v1.5/`.

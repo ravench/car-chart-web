@@ -1,0 +1,668 @@
+{
+ "aliases": {
+  "renault trafic van": "renault trafic",
+  "fiat qubo l": "fiat qubo",
+  "opel combo life": "opel combo",
+  "hyundai staria cargo": "hyundai staria van",
+  "fiat doblo cargo": "fiat doblo",
+  "maxus deliver 7": "maxus edeliver 7",
+  "maxus deliver 9": "maxus edeliver 9",
+  "nissan townstar kombi": "nissan townstar",
+  "nissan primastar kombi": "nissan primastar",
+  "renault trafic passenger": "renault trafic",
+  "mazda mazda2": "mazda mazda2",
+  "mazda 2": "mazda mazda2",
+  "mazda 2 hybrid": "mazda mazda2 hybrid",
+  "mazda 3": "mazda mazda3",
+  "mazda 6e": "mazda mazda 6e"
+ },
+ "models": {
+  "volvo xc40|c-suv": {
+   "display": "XC40 / EX40 / EC40",
+   "powertrains": [
+    "MHEV",
+    "BEV"
+   ],
+   "other_names": [
+    "EX40 (battery-electric version, XC40 Recharge until 2024)",
+    "EC40 (electric coupé version, C40 Recharge until 2024)"
+   ],
+   "generation": "I (2017–; facelift 2022; EX40/EC40 since 2024)",
+   "notes": "One tile for the XC40 (mild hybrid), EX40 (BEV) and EC40 (BEV coupé): same CMA body shell, sold under three names since the 2024 renaming."
+  },
+  "volkswagen multivan|mpv-large": {
+   "display": "Multivan / California",
+   "other_names": [
+    "Multivan eHybrid",
+    "California Beach / Coast / Ocean (camper version, 5,173 mm)"
+   ],
+   "notes": "One tile for the T7 Multivan and the California camper built on it."
+  },
+  "volkswagen crafter|van-large": {
+   "display": "Crafter / Grand California",
+   "other_names": [
+    "Grand California 600 / 680 (camper version)"
+   ],
+   "notes": "One tile for the Crafter and the Grand California camper built on it; the MAN TGE is the rebadged twin."
+  },
+  "mercedes benz v class|mpv-large": {
+   "display": "V-Class / Vito Tourer",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "BEV"
+   ],
+   "other_names": [
+    "V-Klasse (DE/CH), Classe V (FR/IT)",
+    "Vito Tourer / eVito Tourer (commercial passenger version)",
+    "Marco Polo / Marco Polo Horizon (camper version)"
+   ],
+   "notes": "One tile for the W447 passenger body: V-Class, Vito Tourer (incl. the electric eVito Tourer) and the Marco Polo camper share the same shell. The electric EQV was replaced by the VLE in 2026."
+  },
+  "maserati granturismo|sports": {
+   "display": "GranTurismo / GranCabrio",
+   "other_names": [
+    "GranCabrio (convertible version)",
+    "GranTurismo Folgore / GranCabrio Folgore (BEV)"
+   ],
+   "notes": "Coupé and convertible of the same model share one tile."
+  },
+  "renault trucks trafic|van-mid": {
+   "display": "Trafic"
+  },
+  "renault trucks master|van-large": {
+   "display": "Master"
+  },
+  "kgm musso|pickup": {
+   "display": "Musso (previous generation)"
+  },
+  "genesis g90|e-car": {
+   "status": "runout",
+   "status_note": "Genesis Europe sells the G90 by consultation only: genesis.com/ch lists it without price or configurator (Oct 2026) and electrive reported in January 2025 that it would be offered only until mid-2025. Treated as run-out."
+  }
+ },
+ "exclude": [
+  "volvo ex40|c-suv",
+  "volvo ec40|c-suv",
+  "volkswagen california|mpv-large",
+  "volkswagen grand california|van-large",
+  "mercedes benz marco polo|mpv-large",
+  "mercedes benz vito tourer|mpv-large",
+  "maserati grancabrio|sports"
+ ],
+ "group_labels": {
+  "g-d-suv-1": "Chery T1X/M3X"
+ },
+ "edges_add": [
+  {
+   "a": "dacia duster|c-suv",
+   "b": "renault symbioz|c-suv",
+   "tier": 2,
+   "source": "https://www.fleetnews.co.uk/news/dacia-duster-moves-to-new-platform-and-gains-hybrid-powertrain",
+   "note": "Platform check Oct 2026: Duster III on CMF-B like Symbioz/Grandis"
+  },
+  {
+   "a": "dacia bigster|c-suv",
+   "b": "renault symbioz|c-suv",
+   "tier": 2,
+   "source": "https://fleetworld.co.uk/dacia-enters-midsize-suv-sector-with-hybrid-bigster",
+   "note": "Platform check Oct 2026: Bigster on CMF-B"
+  },
+  {
+   "a": "dacia striker|c-suv",
+   "b": "renault symbioz|c-suv",
+   "tier": 2,
+   "source": "https://en.wikipedia.org/wiki/Dacia_Striker",
+   "note": "Platform check Oct 2026: Striker on CMF-B LS"
+  },
+  {
+   "a": "jaecoo jaecoo 5|c-suv",
+   "b": "omoda omoda 5|c-suv",
+   "tier": 2,
+   "source": "https://en.wikipedia.org/wiki/Jaecoo_J5",
+   "note": "Platform check Oct 2026: Jaecoo 5 on Chery T1X like Omoda 5"
+  },
+  {
+   "a": "polestar 4|d-suv",
+   "b": "zeekr 7x|d-suv",
+   "tier": 2,
+   "source": "https://en.wikipedia.org/wiki/Polestar_4",
+   "note": "Platform check Oct 2026: Polestar 4 on SEA (PMA2) like Zeekr 7X / smart #5"
+  },
+  {
+   "a": "omoda omoda 9|d-suv",
+   "b": "chery tiggo 9|d-suv",
+   "tier": 2,
+   "source": "https://en.wikipedia.org/wiki/Exeed_Yaoguang",
+   "note": "Platform check Oct 2026: Omoda 9 = Exeed RX on Chery M3X, Tiggo 9 family"
+  },
+  {
+   "a": "hyundai ioniq 3|c-hatch",
+   "b": "kia ev4|c-hatch",
+   "tier": 2,
+   "source": "https://www.just-auto.com/news/hyundai-unveils-european-made-ioniq-3-bev/",
+   "note": "Platform check Oct 2026: both on E-GMP (400 V)"
+  },
+  {
+   "a": "kia ev3|c-suv",
+   "b": "hyundai ioniq 5|c-suv",
+   "tier": 2,
+   "source": "https://www.motor1.com/news/745773/kia-ev3-e-gmp-platform-details/",
+   "note": "Platform check Oct 2026: Kia names E-GMP (400 V derivative)"
+  },
+  {
+   "a": "kia ev5|c-suv",
+   "b": "hyundai ioniq 5|c-suv",
+   "tier": 2,
+   "source": "https://www.kia.com/ie/about-kia/news-and-events/the-kia-ev5-tailors-electric-mobility-for-european-drivers/",
+   "note": "Platform check Oct 2026: Kia names E-GMP (400 V)"
+  },
+  {
+   "a": "zeekr 001|e-car",
+   "b": "lotus emeya|e-car",
+   "tier": 2,
+   "source": "https://carnewschina.com/2022/03/30/lotus-eletre-suv-unveiled-with-lidars-inside-wheels-to-be-built-in-wuhan/",
+   "note": "Platform check Oct 2026: Lotus EPA is a derivative of Geely SEA"
+  },
+  {
+   "a": "zeekr 9x|e-suv",
+   "b": "lotus eletre|e-suv",
+   "tier": 2,
+   "source": "https://www.motoringresearch.com/car-news/lotus-eletre-x-plug-in-hybrid-suv/",
+   "note": "Platform check Oct 2026: Eletre X shares its underpinnings with the Zeekr 9X (SEA-S)"
+  }
+ ],
+ "edges_remove": [
+  {
+   "a": "ebro s400|b-suv",
+   "b": "dr dr 5|b-suv",
+   "note": "DR 5 (2026) is Changan CS35 Plus based, not the Chery-based DR 5.0"
+  },
+  {
+   "a": "chery tiggo 4|b-suv",
+   "b": "dr dr 5|b-suv",
+   "note": "same"
+  }
+ ],
+ "promote": [
+  {
+   "brand": "smart",
+   "model": "#2",
+   "status": "on_sale",
+   "status_note": "Binding orders open since 2026-10-13 in DE/FR/IT (DE price list EUR 19,990–25,690); full market launch and deliveries in 2027. Shown as on sale under the chart’s rule that an open order book counts; ch.smart.com listed the #2 as new without a configurator on 2026-10-22."
+  }
+ ],
+ "announced_exclude": [
+  "BYD Seal U facelift",
+  "Avatr Avatr (brand)",
+  "Deepal S07 PHEV",
+  "Honda 0 SUV",
+  "Honda 0 Saloon"
+ ],
+ "announced_aliases": {
+  "renault estafette": "renault estafette e tech",
+  "renault goelette": "renault goelette e tech",
+  "ora ora 05": "ora ora 5",
+  "levc next generation taxi": "levc next generation taxi"
+ },
+ "final": {
+  "kgm musso rhino|pickup": {
+   "ch_on_sale": true
+  },
+  "kgm musso|pickup": {
+   "ch_on_sale": false,
+   "display": "Musso (previous generation)",
+   "status": "runout",
+   "status_note": "Previous-generation (Q200) Musso, sold from stock in the UK while the new Musso (UK: Musso Rhino) replaces it; no longer listed on kgm.ch."
+  },
+  "skoda octavia|c-hatch": {
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status_note": "Listed on skoda.ch (range; RS 30 Years Edition), Oct 2026. The plug-in hybrid Octavia iV was dropped with the 2024 facelift; the Swiss line-up is 1.5 TSI (with or without mild hybrid), 2.0 TSI 4x4, 2.0 TDI and the RS. A full hybrid (1.5 TSI, 100 or 125 kW, 1.6 kWh battery) was announced on 5 Oct 2026 with orders from October and first deliveries from December 2026; it was not yet listed on skoda.ch on 25 Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range",
+    "https://www.skoda.ch/models/octavia/octavia/octavia-technologie",
+    "https://www.skoda.ch/news/news-detail/vorverkaufsstart-octavia",
+    "https://autonotizen.de/neuigkeiten/skoda-octavia-hybrid"
+   ],
+   "_why": "Checked 2026-10-25 for Raven: the Octavia iV plug-in hybrid was dropped with the spring-2024 facelift (skoda.ch technology page lists 3 petrol, 1 diesel, 2 mild-hybrid variants and no plug-in; Autonotizen 13 Dec 2024). Full hybrid announced 5 Oct 2026, orders Oct 2026, deliveries Dec 2026, not on skoda.ch yet."
+  },
+  "hyundai inster|a-city": {
+   "platform": "Hyundai-Kia K1 BEV (Casper-derived)"
+  },
+  "byd dolphin g|b-hatch": {
+   "platform": "BYD DM-i 5.0 (Atto 2 DM-i based)"
+  },
+  "dongfeng box|b-hatch": {
+   "platform": "Dongfeng Quantum Architecture S3 (Nammi 01)"
+  },
+  "dr dr 3|b-suv": {
+   "platform": "Chery Tiggo 3x (Fulwin 2 base), not T1X"
+  },
+  "ora ora 03|c-hatch": {
+   "platform": "GWM L.E.M.O.N.",
+   "cross_row_siblings": [
+    "haval-jolion-pro",
+    "haval-h6"
+   ]
+  },
+  "jaecoo jaecoo 5|c-suv": {
+   "platform": "Chery T1X"
+  },
+  "ora ora 5|c-suv": {
+   "platform": "GWM ONE (Guiyuan)"
+  },
+  "zeekr 7 gt|d-car": {
+   "platform": "SEA (PMA2+)",
+   "cross_row_siblings": [
+    "smart-5",
+    "polestar-4"
+   ]
+  },
+  "skoda peaq|d-suv": {
+   "platform": "MEB",
+   "cross_row_siblings": [
+    "volkswagen-id-7",
+    "volkswagen-id-4",
+    "volkswagen-id-5",
+    "audi-q4-e-tron",
+    "cupra-tavascan",
+    "ford-explorer"
+   ]
+  },
+  "omoda omoda 9|d-suv": {
+   "platform": "Chery M3X (Exeed RX / Tiggo 9 family)"
+  },
+  "chery tiggo 9|d-suv": {
+   "platform": "Chery T1X/M3X"
+  },
+  "lepas l8|d-suv": {
+   "platform": "Chery LEX (export version of the 2025 China Tiggo 8)"
+  },
+  "land rover range rover velar|d-suv": {
+   "platform": "JLR iQ[Al] (D7a, ex-Jaguar F-Pace architecture)"
+  },
+  "lotus emeya|e-car": {
+   "platform": "EPA (Lotus derivative of Geely SEA)"
+  },
+  "denza z9 gt|e-car": {
+   "platform": "BYD e³ (PHEV) / e-Platform 3.0 Evo (BEV)"
+  },
+  "audi q7|e-suv": {
+   "platform": "PPC (gen III; gen II was MLB evo)"
+  },
+  "lotus eletre|e-suv": {
+   "platform": "EPA (SEA-based, BEV) / Geely SEA-S hybrid platform shared with Zeekr 9X (Eletre X)",
+   "cross_row_siblings": [
+    "lotus-emeya",
+    "zeekr-001"
+   ]
+  },
+  "byd ti 7|e-suv": {
+   "platform": "BYD/Fangchengbao Evo+ unibody, EREV"
+  },
+  "hyundai staria|mpv-large": {
+   "platform": "Hyundai-Kia N3 (FWD/AWD); Kia Carnival twin not sold in Europe",
+   "cross_row_siblings": [
+    "kia-sportage",
+    "kia-sorento"
+   ]
+  },
+  "denza d9|mpv-large": {
+   "platform": "BYD DM-i (EU version); EV on e-Platform 3.0"
+  },
+  "farizon v7e|van-mid": {
+   "platform": "Geely GXA-M (skateboard, drive-by-wire electric van architecture)"
+  },
+  "kgm musso ev|pickup": {
+   "platform": "KGM U100 (Torres EVX-based monocoque EV platform)"
+  },
+  "mhero mhero i|offroad": {
+   "platform": "Dongfeng Mengshi M-Tech / MORA off-road architecture (M-Hero 917)"
+  },
+  "toyota gr supra|sports": {
+   "platform": "Toyota-BMW joint sports-car platform (Z4 G29 twin), CLAR-derived",
+   "twin_note": "Platform check Oct 2026: the Supra’s twin, the BMW Z4 (G29), is no longer sold; BMW engineers say the Z4/Supra shares little with other CLAR cars, so it is not framed with the 2 Series Coupé or 4 Series."
+  },
+  "bugatti tourbillon|sports": {
+   "platform": "Bugatti carbon monocoque (Rimac Technology battery/e-drive components)"
+  },
+  "dr dr 5|b-suv": {
+   "platform": "Changan CS35 Plus (DR 5, 2026–; the earlier DR 5.0 was Chery T1X)",
+   "twin_note": "Platform check Oct 2026: the 2026 DR 5 is based on the Changan CS35 Plus (Wikipedia; its 1.4 TGDI 158 CV engine is Changan’s), so it leaves the Chery T1X family of the earlier DR 5.0."
+  },
+  "wey wey 05|d-suv": {
+   "twin_note": "Platform check Oct 2026: Wey 05 (Mocha) and Haval H6 are both described as GWM L.E.M.O.N. models, but only secondary sources link the Wey models to the platform, so the two are not framed as a family."
+  },
+  "haval h6|d-suv": {
+   "twin_note": "Platform check Oct 2026: possible L.E.M.O.N. sibling of the Wey 05 (same row); only secondary sources link the Wey models to the platform, so no frame."
+  },
+  "haval jolion pro|c-suv": {
+   "twin_note": "Platform check Oct 2026: possible L.E.M.O.N. sibling of the Wey 03 (same row); not confirmed by GWM, so no frame.",
+   "cross_row_siblings": [
+    "ora-ora-03"
+   ]
+  },
+  "wey wey 03|c-suv": {
+   "twin_note": "Platform check Oct 2026: possible L.E.M.O.N. sibling of the Haval Jolion Pro; not confirmed by GWM, so no frame.",
+   "cross_row_siblings": [
+    "ora-ora-03",
+    "haval-h6"
+   ]
+  },
+  "toyota aygo x|a-city": {
+   "cross_row_siblings": [
+    "mazda-mazda2-hybrid",
+    "lexus-lbx"
+   ]
+  },
+  "hyundai i20|b-hatch": {
+   "cross_row_siblings": [
+    "kia-stonic"
+   ]
+  },
+  "renault renault 4|b-suv": {
+   "cross_row_siblings": [
+    "alpine-a290",
+    "nissan-micra",
+    "dacia-spring"
+   ]
+  },
+  "kia ev2|b-suv": {
+   "cross_row_siblings": [
+    "hyundai-ioniq-3"
+   ]
+  },
+  "skoda scala|c-hatch": {
+   "cross_row_siblings": [
+    "volkswagen-polo",
+    "audi-a1",
+    "seat-ibiza",
+    "volkswagen-t-cross",
+    "volkswagen-taigo",
+    "seat-arona"
+   ]
+  },
+  "citroen c4|c-hatch": {
+   "cross_row_siblings": [
+    "peugeot-208",
+    "opel-corsa",
+    "lancia-ypsilon",
+    "peugeot-2008",
+    "ds-ds-3",
+    "opel-mokka",
+    "fiat-600",
+    "abarth-600e",
+    "alfa-romeo-junior",
+    "jeep-avenger"
+   ]
+  },
+  "bmw 1 series|c-hatch": {
+   "cross_row_siblings": [
+    "mini-countryman"
+   ]
+  },
+  "bmw 2 series gran coupe|c-hatch": {
+   "cross_row_siblings": [
+    "mini-countryman"
+   ]
+  },
+  "toyota corolla|c-hatch": {
+   "cross_row_siblings": [
+    "lexus-ux"
+   ]
+  },
+  "toyota prius|c-hatch": {
+   "cross_row_siblings": [
+    "lexus-ux"
+   ]
+  },
+  "hyundai ioniq 3|c-hatch": {
+   "cross_row_siblings": [
+    "kia-ev3",
+    "kia-ev5",
+    "kia-ev2"
+   ]
+  },
+  "hyundai i30|c-hatch": {
+   "cross_row_siblings": [
+    "kia-xceed",
+    "kia-stonic"
+   ]
+  },
+  "kia k4|c-hatch": {
+   "cross_row_siblings": [
+    "hyundai-kona"
+   ]
+  },
+  "ds ds 7|c-suv": {
+   "cross_row_siblings": [
+    "peugeot-308",
+    "peugeot-408",
+    "opel-astra"
+   ]
+  },
+  "kia ev3|c-suv": {
+   "cross_row_siblings": [
+    "hyundai-ioniq-3"
+   ]
+  },
+  "kia xceed|c-suv": {
+   "cross_row_siblings": [
+    "hyundai-i30"
+   ]
+  },
+  "deepal s05|c-suv": {
+   "cross_row_siblings": [
+    "mazda-cx-6e",
+    "mazda-mazda-6e"
+   ]
+  },
+  "volkswagen id 7|d-car": {
+   "cross_row_siblings": [
+    "skoda-enyaq",
+    "skoda-elroq",
+    "cupra-tavascan",
+    "audi-q4-e-tron",
+    "ford-explorer",
+    "ford-capri",
+    "cupra-born",
+    "audi-a2-e-tron",
+    "skoda-peaq"
+   ]
+  },
+  "alfa romeo giulia|d-car": {
+   "cross_row_siblings": [
+    "maserati-grecale",
+    "jeep-grand-cherokee",
+    "maserati-granturismo"
+   ]
+  },
+  "bmw 3 series|d-car": {
+   "cross_row_siblings": [
+    "toyota-gr-supra"
+   ]
+  },
+  "bmw 4 series gran coupe|d-car": {
+   "cross_row_siblings": [
+    "toyota-gr-supra"
+   ]
+  },
+  "mazda mazda 6e|d-car": {
+   "cross_row_siblings": [
+    "deepal-s07",
+    "deepal-s05"
+   ]
+  },
+  "hyundai ioniq 6|d-car": {
+   "cross_row_siblings": [
+    "kia-ev6",
+    "genesis-gv60",
+    "kia-ev9"
+   ]
+  },
+  "polestar 2|d-car": {
+   "cross_row_siblings": [
+    "volvo-xc40",
+    "lynk-co-01",
+    "lynk-co-08"
+   ]
+  },
+  "byd seal|d-car": {
+   "cross_row_siblings": [
+    "denza-d9"
+   ]
+  },
+  "bmw x3|d-suv": {
+   "cross_row_siblings": [
+    "toyota-gr-supra"
+   ]
+  },
+  "lynk and co 08|d-suv": {
+   "cross_row_siblings": [
+    "polestar-2",
+    "volvo-xc40"
+   ]
+  },
+  "byd sealion 7|d-suv": {
+   "cross_row_siblings": [
+    "denza-d9"
+   ]
+  },
+  "audi a6 e tron|e-car": {
+   "cross_row_siblings": [
+    "porsche-macan",
+    "porsche-cayenne"
+   ]
+  },
+  "audi a8|e-car": {
+   "cross_row_siblings": [
+    "volkswagen-touareg",
+    "porsche-cayenne",
+    "bentley-bentayga",
+    "lamborghini-urus"
+   ]
+  },
+  "lexus es|e-car": {
+   "cross_row_siblings": [
+    "toyota-rav4",
+    "suzuki-across"
+   ]
+  },
+  "volvo es90|e-car": {
+   "cross_row_siblings": [
+    "polestar-3"
+   ]
+  },
+  "zeekr 001|e-car": {
+   "cross_row_siblings": [
+    "smart-1",
+    "smart-3",
+    "volvo-ex30",
+    "lynk-co-02",
+    "polestar-4",
+    "smart-5"
+   ]
+  },
+  "lexus rx|e-suv": {
+   "cross_row_siblings": [
+    "toyota-rav4",
+    "suzuki-across"
+   ]
+  },
+  "zeekr 9x|e-suv": {
+   "cross_row_siblings": [
+    "zeekr-001",
+    "lotus-emeya"
+   ]
+  },
+  "dacia jogger|mpv-small": {
+   "cross_row_siblings": [
+    "renault-clio",
+    "mitsubishi-colt",
+    "renault-captur",
+    "nissan-juke",
+    "mitsubishi-asx",
+    "renault-symbioz",
+    "mitsubishi-grandis"
+   ]
+  },
+  "bmw 2 series active tourer|mpv-small": {
+   "cross_row_siblings": [
+    "mini-countryman"
+   ]
+  },
+  "volkswagen id buzz|mpv-large": {
+   "cross_row_siblings": [
+    "audi-q4-e-tron",
+    "skoda-enyaq",
+    "skoda-elroq",
+    "cupra-tavascan",
+    "ford-explorer",
+    "ford-capri",
+    "cupra-born",
+    "audi-a2-e-tron"
+   ]
+  },
+  "volkswagen multivan|mpv-large": {
+   "cross_row_siblings": [
+    "audi-a3",
+    "skoda-octavia",
+    "seat-leon",
+    "cupra-leon",
+    "audi-q3",
+    "cupra-formentor",
+    "cupra-terramar",
+    "skoda-superb",
+    "skoda-kodiaq"
+   ]
+  },
+  "lexus lm|mpv-large": {
+   "cross_row_siblings": [
+    "toyota-rav4",
+    "suzuki-across"
+   ]
+  },
+  "volkswagen id buzz cargo|van-mid": {
+   "cross_row_siblings": [
+    "audi-q4-e-tron",
+    "skoda-enyaq",
+    "skoda-elroq",
+    "cupra-tavascan",
+    "ford-explorer",
+    "ford-capri",
+    "cupra-born",
+    "audi-a2-e-tron"
+   ]
+  },
+  "hyundai staria van|van-mid": {
+   "cross_row_siblings": [
+    "kia-sportage",
+    "kia-sorento"
+   ]
+  },
+  "ford bronco|offroad": {
+   "cross_row_siblings": [
+    "volkswagen-amarok",
+    "ford-ranger"
+   ]
+  },
+  "bentley continental gt|sports": {
+   "cross_row_siblings": [
+    "porsche-panamera",
+    "bentley-flying-spur"
+   ]
+  },
+  "maserati granturismo|sports": {
+   "cross_row_siblings": [
+    "alfa-romeo-giulia",
+    "alfa-romeo-stelvio",
+    "jeep-grand-cherokee"
+   ]
+  }
+ }
+}
