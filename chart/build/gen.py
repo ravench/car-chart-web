@@ -9,7 +9,9 @@ MANIFEST = json.load(open(sys.argv[3])) if len(sys.argv) > 3 and os.path.exists(
 DIMS = json.load(open(sys.argv[4])) if len(sys.argv) > 4 and os.path.exists(sys.argv[4]) else {}
 FLAGS = json.load(open(sys.argv[5])) if len(sys.argv) > 5 and os.path.exists(sys.argv[5]) else {'edges': [], 'groups': {}, 'img_notes': {}, 'summary': {}, 'length_check': []}
 EXT_PATH = sys.argv[6] if len(sys.argv) > 6 else os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ext', 'manifest.json')
-EXT = json.load(open(EXT_PATH)) if os.path.exists(EXT_PATH) else {}   # id -> {side: {url, page, source, licence, notes}, front: {...}} for pictures not from carsized
+EXT = json.load(open(EXT_PATH)) if os.path.exists(EXT_PATH) else {}
+DRIVE_PATH = sys.argv[7] if len(sys.argv) > 7 else os.path.join(os.path.dirname(os.path.abspath(__file__)), 'drive.json')
+DRIVE = json.load(open(DRIVE_PATH)) if os.path.exists(DRIVE_PATH) else {}   # id -> {drives, awd, awd_term, note, confidence, source}   # id -> {side: {url, page, source, licence, notes}, front: {...}} for pictures not from carsized
 PREV = set(FLAGS.get('prev_model', []))   # models pictured with a previous model because carsized has no entry for the current one
 PREV_YEAR = {k: int(v) for k, v in (FLAGS.get('prev_year') or {}).items()}   # id -> badge year (last year of carsized's range, capped at 2025)
 def full_name(brand, display):
@@ -47,6 +49,22 @@ def pt_tags(pts):
         if k in (pts or []) and v not in out: out.append(v)
     return out
 
+PT_FILTER = [('BEV', 'ev'), ('PHEV', 'phev'), ('HEV', 'hev'), ('MHEV', 'mhev'), ('petrol', 'petrol'), ('LPG', 'petrol'), ('CNG', 'petrol'), ('diesel', 'diesel'), ('FCEV', 'h2')]
+PT_FILTER_LABEL = [('ev', 'Electric (BEV)'), ('phev', 'Plug-in hybrid'), ('hev', 'Full hybrid'), ('mhev', 'Mild hybrid'), ('petrol', 'Petrol (incl. LPG, CNG)'), ('diesel', 'Diesel'), ('h2', 'Hydrogen')]
+DRIVE_LABEL = [('FWD', 'Front-wheel drive'), ('RWD', 'Rear-wheel drive'), ('AWD', 'All-wheel drive / 4x4'), ('unknown', 'Drive not researched')]
+def pt_keys(pts):
+    out = []
+    for k, v in PT_FILTER:
+        if k in (pts or []) and v not in out: out.append(v)
+    return out or ['other']
+def drive_keys(m):
+    d = DRIVE.get(m['id']) or {}
+    return [x for x in d.get('drives') or [] if x in ('FWD', 'RWD', 'AWD')] or ['unknown']
+def awd_title(d):
+    t = 'Sold with all-wheel drive' + (f' ({d["awd_term"]})' if d.get('awd_term') else '')
+    if d.get('note'): t += ' — ' + d['note']
+    return t
+
 def tile(m, s=0, place=''):
     g = m.get('twin_group'); style = m.get('twin_style')
     cls = ['tile']
@@ -58,10 +76,13 @@ def tile(m, s=0, place=''):
     if st: attrs.append(f'style="{";".join(st)}"')
     L = ((DIMS.get(m['id']) or {}).get('len') if MANIFEST.get(m['id']) else None) or m.get('length_mm')
     if L: attrs.append(f'data-len="{L}"')
+    attrs.append(f'data-pt="{" ".join(pt_keys(m.get("powertrains")))}"'); attrs.append(f'data-drive="{" ".join(drive_keys(m))}"')
     img = MANIFEST.get(m['id'], {})
     side = img.get('side'); front = img.get('front')
     chip = f'<span class="chip" title="{E(tgs[g]["label"])}">{E(tgs[g]["label"])}</span>' if g else ''
     tags = ' '.join(f'<span class="tag">{E(t)}</span>' for t in pt_tags(m.get('powertrains')))
+    dv = DRIVE.get(m['id']) or {}
+    if dv.get('awd'): tags += f' <span class="tag awd" title="{E(awd_title(dv))}">AWD</span>'
     flags = ''
     if m.get('status') == 'runout': flags += '<span class="tag warn">run-out</span>'
     if m.get('ch_on_sale') is False: flags += '<span class="tag off">not in CH</span>'
@@ -139,6 +160,11 @@ print('\n'.join(sub_report))
 # ---------- group chips for filters ----------
 gchips = ''.join(f'<label class="fchip"><input type="checkbox" id="g-{i}" data-group="{E(g["label"])}" checked><span>{E(g["label"])}</span><small>{len(g["brands"])}</small></label>' for i, g in enumerate(groups))
 rchips = ''.join(f'<label class="fchip"><input type="checkbox" id="r-{r["code"]}" data-row="{E(r["code"])}" checked><span>{E(r["name"])}</span></label>' for r in rows)
+pt_count = {k: sum(1 for m in models if k in pt_keys(m.get('powertrains'))) for k, _ in PT_FILTER_LABEL}
+pchips = ''.join(f'<label class="fchip"><input type="checkbox" id="p-{k}" data-pt="{k}" checked><span>{E(lab)}</span><small>{pt_count[k]}</small></label>' for k, lab in PT_FILTER_LABEL if pt_count[k])
+dv_count = {k: sum(1 for m in models if k in drive_keys(m)) for k, _ in DRIVE_LABEL}
+dchips = ''.join(f'<label class="fchip"><input type="checkbox" id="d-{k}" data-drive="{k}" checked><span>{E(lab)}</span><small>{dv_count[k]}</small></label>' for k, lab in DRIVE_LABEL if dv_count[k])
+n_awd = sum(1 for m in models if (DRIVE.get(m['id']) or {}).get('awd'))
 
 # ---------- twin list (text view) ----------
 tl = []
@@ -232,6 +258,7 @@ if mc_edges:
 else:
     meascheck = '<p>No measurements loaded.</p>'
 data_json = json.dumps({'ext': {i: {k: {kk: v.get(kk) for kk in ('page', 'source', 'licence', 'notes', 'angle')} for k, v in e.items() if isinstance(v, dict)} for i, e in EXT.items()}, 'models': {m['id']: {k: m.get(k) for k in ('brand','model','display','row','group','body','generation','length_mm','platform','powertrains','status','status_note','status_sources','ch_on_sale','ch_source','other_names','twin_group','twin_style','twin_note','twin_sources','carsized_slug','notes')} for m in models},
+                        'drive': {i: {k: v.get(k) for k in ('drives', 'awd', 'awd_term', 'note', 'confidence', 'source')} for i, v in DRIVE.items() if isinstance(v, dict)},
                         'groups': {g['id']: g for g in DATA['twin_groups']},
                         'rows': {r['code']: r['name'] for r in rows},
                         'dims': dims_out, 'check': {'edges': FLAGS.get('edges', []), 'groups': FLAGS.get('groups', {})}}, ensure_ascii=False)
@@ -247,7 +274,7 @@ page = f'''<meta charset="utf-8">
   --bg:#f4f4f1; --surface:#fcfcfb; --surface-2:#ebebe6; --fg:#15171a; --fg-2:#4f524f; --muted:#86877f;
   --line:#dcdcd5; --line-2:#c5c5bd; --accent:#1f2a44; --accent-fg:#ffffff; --tilebg:#ffffff; --imgbg:#ffffff;
   --c1:#2a78d6; --c2:#eb6834; --c3:#1baf7a; --c4:#eda100; --c5:#e87ba4; --c6:#008300; --c7:#6250d6; --c8:#e34948;
-  --warn:#b26a00; --off:#86877f;
+  --warn:#b26a00; --off:#86877f; --awd:#2a6f3a;
   --display:"Barlow Condensed","Arial Narrow","Helvetica Neue",Arial,sans-serif;
   --body:"Barlow","Helvetica Neue",Arial,sans-serif;
   --colw:156px; --tileh:auto; --imgratio:2.3;
@@ -256,12 +283,12 @@ page = f'''<meta charset="utf-8">
   --bg:#141517; --surface:#1b1d20; --surface-2:#24272b; --fg:#ecece8; --fg-2:#bdbdb6; --muted:#8c8d86;
   --line:#2d3034; --line-2:#3b3e43; --accent:#d6deef; --accent-fg:#15171a; --tilebg:#1f2125; --imgbg:#f3f3ef;
   --c1:#3987e5; --c2:#d95926; --c3:#199e70; --c4:#c98500; --c5:#d55181; --c6:#008300; --c7:#9085e9; --c8:#e66767;
-  --warn:#e0a24a; --off:#8c8d86; color-scheme:dark }} }}
+  --warn:#e0a24a; --off:#8c8d86; --awd:#7fd08f; color-scheme:dark }} }}
 :root[data-theme="dark"] {{
   --bg:#141517; --surface:#1b1d20; --surface-2:#24272b; --fg:#ecece8; --fg-2:#bdbdb6; --muted:#8c8d86;
   --line:#2d3034; --line-2:#3b3e43; --accent:#d6deef; --accent-fg:#15171a; --tilebg:#1f2125; --imgbg:#f3f3ef;
   --c1:#3987e5; --c2:#d95926; --c3:#199e70; --c4:#c98500; --c5:#d55181; --c6:#008300; --c7:#9085e9; --c8:#e66767;
-  --warn:#e0a24a; --off:#8c8d86; color-scheme:dark }}
+  --warn:#e0a24a; --off:#8c8d86; --awd:#7fd08f; color-scheme:dark }}
 * {{ box-sizing:border-box }}
 body {{ background:var(--bg); color:var(--fg); font-family:var(--body); font-size:14px; line-height:1.45; margin:0;
   padding-left:max(16px, env(safe-area-inset-left, 0px)); padding-right:max(16px, env(safe-area-inset-right, 0px)); padding-block:0 32px }}
@@ -334,6 +361,8 @@ a {{ color:inherit }}
 .tag {{ font-family:var(--display); font-weight:600; font-size:10px; letter-spacing:.04em; color:var(--fg-2); background:var(--surface-2); border-radius:3px; padding:0 4px; line-height:15px }}
 .tag.warn {{ color:var(--warn); background:transparent; border:1px solid var(--warn) }}
 .tag.off {{ color:var(--off); background:transparent; border:1px dashed var(--off) }}
+.tag.awd {{ color:var(--awd); background:transparent; border:1px solid var(--awd) }}
+.legend .tag {{ display:inline-block; vertical-align:middle; margin-right:6px }}
 .chip {{ position:absolute; top:-2px; left:-2px; z-index:1; background:var(--gc); color:#fff; font-family:var(--display); font-weight:700; font-size:10.5px; letter-spacing:.03em; padding:1px 6px; border-radius:7px 0 7px 0; max-width:85%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap }}
 .tile.t2 .chip {{ background:var(--tilebg); color:var(--gc); border:1.5px dashed var(--gc); padding:0 5px }}
 .yr {{ font-family:var(--display); font-weight:600; font-size:9.5px; letter-spacing:.03em; color:var(--fg-2); background:var(--surface-2); border:1px solid var(--line-2); border-radius:3px; padding:0 4px; line-height:14px; white-space:nowrap }}
@@ -397,12 +426,15 @@ details summary {{ cursor:pointer; font-weight:600 }}
     <span><i class="ex t0"></i>Plain: no twin on sale in Europe</span>
     <span>Same colour within a row = same family, and the members of a family sit on the same line. Hover a tile to light up its relatives; click for details and sources.</span>
     <span><span class="yr yr-lg">2025 model</span> carsized.com has no picture of the current generation, so the tile shows the newest previous model it has; the badge gives that model’s year.</span>
+    <span><span class="tag awd">AWD</span> Sold with all-wheel drive or 4x4 in at least one version ({n_awd} models); the detail panel names the manufacturer's term and the versions it is limited to.</span>
   </div>
 </section>
 
 <section class="panel controls" id="controls">
   <fieldset><legend>Ownership groups <button class="btn" type="button" id="g-all">all</button> <button class="btn" type="button" id="g-none">none</button></legend><div class="chips">{gchips}</div></fieldset>
   <fieldset><legend>Vehicle classes <button class="btn" type="button" id="r-all">all</button> <button class="btn" type="button" id="r-none">none</button></legend><div class="chips">{rchips}</div></fieldset>
+  <fieldset><legend>Powertrain <button class="btn" type="button" id="p-all">all</button> <button class="btn" type="button" id="p-none">none</button></legend><div class="chips">{pchips}</div></fieldset>
+  <fieldset><legend>Drive <button class="btn" type="button" id="d-all">all</button> <button class="btn" type="button" id="d-none">none</button></legend><div class="chips">{dchips}</div></fieldset>
   <fieldset><legend>View</legend>
     <div class="chips">
       <span class="seg"><label><input type="radio" name="view" id="view-side" value="side" checked>Side view</label><label><input type="radio" name="view" id="view-front" value="front">Front view</label></span>
@@ -433,7 +465,7 @@ details summary {{ cursor:pointer; font-weight:600 }}
   {coming}
   {gone}
   <h2>Sources and method</h2>
-  <p>Line-ups were compiled from the brands' official Swiss and German model pages and press releases, then cross-checked against European trade press and verified a second time by an independent pass. Twin and platform relationships cite manufacturer statements or trade-press reporting; each tile's sources are listed in its detail panel. Images and the measurements of the measurement check are from <a href="https://www.carsized.com/" target="_blank" rel="noopener">carsized.com</a> (the pictured version is named in each detail panel). Where carsized has no entry for the current generation, a tile shows the newest previous model of the same line that carsized has, badged with that model's year ({len(PREV)} models); where carsized has no entry of the model line at all, the picture comes from the manufacturer's website, press site or configurator, or for a few models from a third-party catalogue site ({len(EXT)} models; the source, its terms and the editing applied are given in the detail panel) and was cut out, mirrored where it faced the wrong way and scaled to match; a few vans are shown as the manufacturer's outline drawing; the remaining tiles show the name only. Data were checked on {E(meta.get('checked_on',''))}. Errors are possible, especially for models launched or withdrawn in the weeks before that date.</p>
+  <p>Line-ups were compiled from the brands' official Swiss and German model pages and press releases, then cross-checked against European trade press and verified a second time by an independent pass. Twin and platform relationships cite manufacturer statements or trade-press reporting; each tile's sources are listed in its detail panel. Images and the measurements of the measurement check are from <a href="https://www.carsized.com/" target="_blank" rel="noopener">carsized.com</a> (the pictured version is named in each detail panel). Where carsized has no entry for the current generation, a tile shows the newest previous model of the same line that carsized has, badged with that model's year ({len(PREV)} models); where carsized has no entry of the model line at all, the picture comes from the manufacturer's website, press site or configurator, or for a few models from a third-party catalogue site ({len(EXT)} models; the source, its terms and the editing applied are given in the detail panel) and was cut out, mirrored where it faced the wrong way and scaled to match; a few vans are shown as the manufacturer's outline drawing; the remaining tiles show the name only. Drive layouts (front-, rear- or all-wheel drive) were researched from the brands' Swiss and German configurators, price lists and press pages in October 2026; the detail panel gives the versions an all-wheel-drive option is limited to and the page checked, and says so where an entry rests on trade press or product knowledge rather than a manufacturer page ({sum(1 for v in DRIVE.values() if v.get('confidence') != 'high')} of {len(DRIVE)} models). Data were checked on {E(meta.get('checked_on',''))}. Errors are possible, especially for models launched or withdrawn in the weeks before that date.</p>
   {srcs}
 </section>
 
@@ -454,22 +486,27 @@ matrix.querySelectorAll('.tile img').forEach(im => im.addEventListener('error', 
 
 // ---- layout / filters ----
 const gInputs = [...document.querySelectorAll('input[data-group]')], rInputs = [...document.querySelectorAll('input[data-row]')];
+const pInputs = [...document.querySelectorAll('input[data-pt]')], dInputs = [...document.querySelectorAll('input[data-drive]')];
 function layout() {{
   const onlyTwins = document.getElementById('only-twins').checked, showT2 = document.getElementById('show-t2').checked;
   const okG = new Set(gInputs.filter(i => i.checked).map(i => i.dataset.group));
   const okR = new Set(rInputs.filter(i => i.checked).map(i => i.dataset.row));
-  // tiles: twin filter
+  const okP = new Set(pInputs.filter(i => i.checked).map(i => i.dataset.pt)), okD = new Set(dInputs.filter(i => i.checked).map(i => i.dataset.drive));
+  const ptFilt = pInputs.some(i => !i.checked), dvFilt = dInputs.some(i => !i.checked), anyFilt = onlyTwins || ptFilt || dvFilt;
+  // tiles: twin, powertrain and drive filters
   const shown = new Map();
   tiles.forEach(t => {{
     let show = true;
     if (onlyTwins) show = !!t.dataset.g && (showT2 || t.classList.contains('t1'));
+    if (show && ptFilt) show = (t.dataset.pt || '').split(' ').some(k => okP.has(k));
+    if (show && dvFilt) show = (t.dataset.drive || '').split(' ').some(k => okD.has(k));
     shown.set(t, show);
     t.classList.toggle('t2', !!(showT2 && t.dataset.g && !t.classList.contains('t1')));
     if (!showT2 && t.dataset.g && !t.classList.contains('t1')) t.classList.add('plain'); else t.classList.remove('plain');
   }});
   // columns: visible brand columns
   const bh = [...matrix.querySelectorAll('.bhdr')];
-  const visBrands = bh.filter(h => okG.has(h.dataset.group) && (!onlyTwins || tiles.some(t => t.dataset.brand === h.dataset.brand && shown.get(t))));
+  const visBrands = bh.filter(h => okG.has(h.dataset.group) && (!anyFilt || tiles.some(t => t.dataset.brand === h.dataset.brand && shown.get(t))));
   const colOf = new Map(); visBrands.forEach((h, i) => colOf.set(h.dataset.brand, i + 2));
   bh.forEach(h => {{ const c = colOf.get(h.dataset.brand); h.classList.toggle('hide', !c); if (c) h.style.gridColumn = c; }});
   // group headers span
@@ -479,7 +516,7 @@ function layout() {{
   }});
   // rows: each class is a band of sub-rows; the members of a twin group share one sub-row
   const rh = [...matrix.querySelectorAll('.rhdr')];
-  const visRows = rh.filter(h => okR.has(h.dataset.row) && (!onlyTwins || tiles.some(t => t.dataset.row === h.dataset.row && shown.get(t))));
+  const visRows = rh.filter(h => okR.has(h.dataset.row) && (!anyFilt || tiles.some(t => t.dataset.row === h.dataset.row && shown.get(t))));
   const bandOf = new Map(); let base = 3;
   visRows.forEach(h => {{ const S = +h.dataset.sub || 1; bandOf.set(h.dataset.row, [base, S]); base += S; }});
   const span = b => b[0] + '/' + (b[0] + b[1]);
@@ -511,7 +548,11 @@ function scaleImages() {{
   tiles.forEach(t => {{ const l = +t.dataset.len || 0; maxByRow[t.dataset.row] = Math.max(maxByRow[t.dataset.row] || 0, l); }});
   tiles.forEach(t => {{ const l = +t.dataset.len || 0; const mx = maxByRow[t.dataset.row] || 1; t.querySelectorAll('img').forEach(im => im.style.setProperty('--sc', l ? (100 * l / mx).toFixed(1) + '%' : '100%')); }});
 }}
-[...gInputs, ...rInputs, document.getElementById('only-twins'), document.getElementById('show-t2'), document.getElementById('true-scale')].forEach(i => i.addEventListener('change', layout));
+[...gInputs, ...rInputs, ...pInputs, ...dInputs, document.getElementById('only-twins'), document.getElementById('show-t2'), document.getElementById('true-scale')].forEach(i => i.addEventListener('change', layout));
+document.getElementById('p-all').onclick = () => {{ pInputs.forEach(i => i.checked = true); layout(); }};
+document.getElementById('p-none').onclick = () => {{ pInputs.forEach(i => i.checked = false); layout(); }};
+document.getElementById('d-all').onclick = () => {{ dInputs.forEach(i => i.checked = true); layout(); }};
+document.getElementById('d-none').onclick = () => {{ dInputs.forEach(i => i.checked = false); layout(); }};
 document.getElementById('g-all').onclick = () => {{ gInputs.forEach(i => i.checked = true); layout(); }};
 document.getElementById('g-none').onclick = () => {{ gInputs.forEach(i => i.checked = false); layout(); }};
 document.getElementById('r-all').onclick = () => {{ rInputs.forEach(i => i.checked = true); layout(); }};
@@ -543,7 +584,9 @@ function openDetail(id) {{
   pinned = id; light(m.twin_group, true);
   const g = m.twin_group ? D.groups[m.twin_group] : null;
   const twins = [], sibs = [];
-  const dm = D.dims[id]; const ex = D.ext && D.ext[id]; const num = v => (v == null ? '–' : Number(v).toLocaleString('en-US'));
+  const dm = D.dims[id]; const ex = D.ext && D.ext[id]; const dv = D.drive && D.drive[id]; const num = v => (v == null ? '–' : Number(v).toLocaleString('en-US'));
+  const DRV = {{FWD: 'front-wheel drive', RWD: 'rear-wheel drive', AWD: 'all-wheel drive'}};
+  const driveText = d => {{ const parts = (d.drives || []).filter(k => DRV[k]).map(k => DRV[k] + (k === 'AWD' && d.awd_term ? ` (${{d.awd_term}})` : '')); let t = parts.length ? parts.join(' or ') : 'not researched'; t = t.charAt(0).toUpperCase() + t.slice(1); if (d.note) t += ' — ' + d.note; if (d.confidence === 'low') t += ' (unverified)'; else if (d.confidence === 'medium') t += ' (not checked on a manufacturer page)'; return t; }};
   const SYM = {{ok: '✓', check: '⚠', variant: 'ℹ', convention: 'ℹ', design: 'ℹ', info: 'ℹ', prev: '–'}};
   const chk = (i) => {{ const e = D.check.edges.find(e => (e.a === id && e.b === i) || (e.b === id && e.a === i)); if (!e || !e.cat) return ''; return ` <small class="chk ${{e.cat}}" title="${{esc(e.text)}}">${{SYM[e.cat] || 'ℹ'}} wheelbase Δ${{num(e.d_wb)}} · width Δ${{num(e.d_wid)}} · length Δ${{num(e.d_len)}} mm</small>`; }};
   if (g) g.members.forEach(i => {{ if (i === id) return; const o = D.models[i]; const e = g.edges.find(e => (e.a === id && e.b === i) || (e.b === id && e.a === i)); (e && e.tier === 1 ? twins : sibs).push(`<span class="rel"><a data-id="${{i}}">${{esc(fullName(o))}}</a>${{chk(i)}}</span>`); }});
@@ -559,6 +602,7 @@ function openDetail(id) {{
       ${{dm ? `<dt>Measured</dt><dd class="meas">${{num(dm.len)}} × ${{num(dm.wid)}} × ${{num(dm.hei)}} mm · wheelbase ${{num(dm.wb)}} mm${{dm.kg ? ` · ${{num(dm.kg)}} kg` : ''}}<br><small>carsized.com entry: ${{esc(dm.label)}}${{dm.note ? ' — ' + esc(dm.note) : ''}}</small></dd>` : ''}}
       ${{m.platform ? `<dt>Platform</dt><dd>${{esc(m.platform)}}</dd>` : ''}}
       ${{pt ? `<dt>Powertrains</dt><dd>${{esc(pt)}}</dd>` : ''}}
+      ${{dv ? `<dt>Drive</dt><dd>${{esc(driveText(dv))}}${{dv.source ? ` <a href="${{esc(dv.source)}}" target="_blank" rel="noopener"><small>source</small></a>` : ''}}</dd>` : ''}}
       <dt>Status</dt><dd>${{m.status === 'runout' ? 'Run-out' : 'On sale'}}${{m.status_note ? ' · ' + esc(m.status_note) : ''}}</dd>
       <dt>Switzerland</dt><dd>${{m.ch_on_sale === true ? 'On sale' : m.ch_on_sale === false ? 'Not sold' : 'Not checked'}}</dd>
       ${{(m.other_names || []).length ? `<dt>Other names</dt><dd>${{esc(m.other_names.join(', '))}}</dd>` : ''}}

@@ -1,0 +1,5460 @@
+{
+ "volkswagen-id-polo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-motor MEB+ (incl. ID. Polo GTI); no AWD version",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-polo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions incl. Polo GTI front-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "audi-a1": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions incl. allstreet front-wheel drive; runout",
+  "confidence": "high",
+  "source": null
+ },
+ "skoda-fabia": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "seat-ibiza": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "cupra-raval": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-motor MEB+ incl. VZ; no AWD version",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-id-cross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions (85/99/155 kW) front-wheel drive; no 4MOTION announced",
+  "confidence": "high",
+  "source": "https://www.electrive.net/2026/10/19/vw-id-cross-basisversion-ab-28-000-euro-jetzt-konfigurierbar/"
+ },
+ "volkswagen-t-cross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-taigo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "audi-q2": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro only on 40 TFSI and 35 TDI (S tronic); other engines FWD; runout, production ends 2026",
+  "confidence": "medium",
+  "source": "https://www.audi.com/en/q2-until-2026-209/technical-data"
+ },
+ "skoda-epiq": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-motor MEB+ (twin of ID. Cross); no 4x4 version",
+  "confidence": "high",
+  "source": null
+ },
+ "skoda-kamiq": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "seat-arona": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-golf": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION on Golf R / Golf R Variant (333 PS); all other versions in the Swiss range incl. GTI and GTE FWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/golf-r.html"
+ },
+ "volkswagen-id-3": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Rear motor on all versions incl. ID.3 GTI; no AWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/id3-neo.html"
+ },
+ "audi-a2-e-tron": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions rear motor; no quattro; deliveries from Dec 2026",
+  "confidence": "high",
+  "source": "https://www.audi.com/de/pressemitteilungen/audi-a2-e-tron-effizienz-neu-gedacht-18299/download"
+ },
+ "audi-a3": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro on S3 and RS 3 (plus 2.0 TFSI quattro versions in some markets); other versions incl. e-hybrid FWD",
+  "confidence": "high",
+  "source": "https://www.audi.com/en/quattro-247"
+ },
+ "skoda-octavia": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 only with selected 2.0 TSI / 2.0 TDI DSG versions (e.g. 2.0 TSI 150 kW 4x4; 2.0 TDI 4x4 in CH); other engines FWD",
+  "confidence": "high",
+  "source": "https://cdn.skoda-storyboard.com/2026/03/4x4-modeli_4fb42710.pdf"
+ },
+ "skoda-scala": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "seat-leon": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "4Drive no longer offered; all versions FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "cupra-born": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Rear motor on all versions incl. VZ; no AWD",
+  "confidence": "high",
+  "source": null
+ },
+ "cupra-leon": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4Drive",
+  "note": "4Drive only on Leon Sportstourer VZ 2.0 TSI (333 PS); hatchback and other versions FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "volkswagen-id-tiguan": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "Trend/Life 58 kWh (190 PS) and the 286 PS versions are rear-wheel drive; 4MOTION (299 PS, 77 kWh) on Life and R-Line, orders open since October 2026",
+  "confidence": "high",
+  "source": "https://www.autozine.nl/volkswagen/idtiguan/nieuws/volkswagen-prijst-id-tiguan"
+ },
+ "volkswagen-id-4": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION (dual motor) on ID.4 Pro 4MOTION and GTX; other versions RWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.at/modelle/fahrzeugtypen/allrad-suv"
+ },
+ "volkswagen-id-5": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION (dual motor) on ID.5 GTX; other versions RWD; not offered in CH",
+  "confidence": "medium",
+  "source": null
+ },
+ "volkswagen-t-roc": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION only with the 2.0 TSI (204 PS); 1.5 eTSI/hybrid and T-Roc Cabriolet FWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/der-neue-t-roc.html"
+ },
+ "volkswagen-tiguan": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION on the 2.0 TSI (204/265 PS) and top 2.0 TDI; 1.5 (e)TSI and eHybrid FWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/tiguan.html"
+ },
+ "audi-q3": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro on the stronger TFSI/TDI versions (e.g. TFSI 195 kW quattro); entry TFSI/TDI and e-hybrid FWD",
+  "confidence": "high",
+  "source": "https://www.audi.com/en/quattro-247"
+ },
+ "audi-q4-e-tron": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro (dual motor) on the top versions; other versions RWD",
+  "confidence": "high",
+  "source": null
+ },
+ "skoda-elroq": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4 (85x, RS)",
+  "note": "AWD (dual motor) on Elroq 85x and Elroq RS; 50/60/85 RWD",
+  "confidence": "high",
+  "source": "https://www.skoda-media.de/press/detail/4513/"
+ },
+ "skoda-enyaq": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4 (85x, RS)",
+  "note": "AWD (dual motor) on Enyaq / Enyaq Coupé 85x and RS; other versions RWD",
+  "confidence": "high",
+  "source": "https://www.skoda-media.de/press/detail/4513/"
+ },
+ "skoda-karoq": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 with 2.0 TSI (140 kW) and 2.0 TDI (110 kW) DSG; other engines FWD",
+  "confidence": "high",
+  "source": "https://cdn.skoda-storyboard.com/2026/03/4x4-modeli_4fb42710.pdf"
+ },
+ "seat-ateca": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4Drive",
+  "note": "4Drive only with 2.0 TDI 150 PS DSG (2.0 TSI 190 PS 4Drive in some markets); other engines FWD; runout",
+  "confidence": "medium",
+  "source": null
+ },
+ "cupra-ateca": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4Drive",
+  "note": "4Drive on the 2.0 TSI 300 PS (VZ); 1.5 TSI 150 PS FWD where offered; runout",
+  "confidence": "medium",
+  "source": null
+ },
+ "cupra-formentor": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4Drive",
+  "note": "4Drive on 2.0 TSI 204 PS and VZ 2.0 TSI 333 PS; 1.5 TSI and e-HYBRID FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "cupra-tavascan": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4Drive",
+  "note": "4Drive (dual motor, 340 PS) on VZ / EDGE 4D; single-motor versions RWD",
+  "confidence": "high",
+  "source": "https://www.cupraofficial.ch/de"
+ },
+ "cupra-terramar": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4Drive",
+  "note": "4Drive on 2.0 TSI 204/265 PS; 1.5 eTSI and e-HYBRID FWD",
+  "confidence": "high",
+  "source": "https://www.cupraofficial.ch/de"
+ },
+ "volkswagen-id-7": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "Dual-motor 4MOTION only on GTX / GTX Tourer (340 PS); Pro and Pro S RWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/id7.html"
+ },
+ "volkswagen-passat": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION with 2.0 TSI 265 PS and 2.0 TDI 193 PS; other engines and eHybrid FWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/passat.html"
+ },
+ "audi-a5": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro on most versions (TFSI 272 PS, TDI quattro, e-hybrid, S5, RS 5); base TFSI and TDI also FWD",
+  "confidence": "high",
+  "source": "https://www.audi.com/en/quattro-247"
+ },
+ "skoda-superb": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 with 2.0 TDI 142 kW and 2.0 TSI 195 kW DSG; other engines and iV FWD",
+  "confidence": "high",
+  "source": "https://cdn.skoda-storyboard.com/2026/03/4x4-modeli_4fb42710.pdf"
+ },
+ "volkswagen-tayron": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION with 2.0 TSI (204/265 PS) and 2.0 TDI 193 PS; 1.5 eTSI and eHybrid FWD",
+  "confidence": "high",
+  "source": "https://www.volkswagen.at/modelle/fahrzeugtypen/allrad-suv"
+ },
+ "audi-q5": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "Q5 and Q5 Sportback 2.0 TFSI MHEV plus (150 kW) with front-wheel drive (ADAC: Vorderrad, from 07/2025); TDI, e-hybrid and SQ5 are quattro",
+  "confidence": "high",
+  "source": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/audi/q5/gu/344609/"
+ },
+ "audi-q6-e-tron": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro (dual motor) on Q6 e-tron quattro and SQ6; base/performance versions RWD",
+  "confidence": "high",
+  "source": "https://www.audi.com/en/quattro-247"
+ },
+ "skoda-kodiaq": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 with 2.0 TDI 142 kW, 2.0 TSI 150 kW and RS (195 kW); 1.5 TSI and iV FWD",
+  "confidence": "high",
+  "source": "https://cdn.skoda-storyboard.com/2026/03/4x4-modeli_4fb42710.pdf"
+ },
+ "skoda-peaq": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4 (90x)",
+  "note": "AWD (dual motor, 220 kW) on Peaq 90x; 60/90 RWD",
+  "confidence": "high",
+  "source": "https://www.skoda-storyboard.com/en/press-releases/skoda-auto-launches-production-of-the-new-peaq-in-mlada-boleslav/"
+ },
+ "porsche-macan": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allrad (Macan 4, 4S, GTS, Turbo)",
+  "note": "Base Macan RWD; Macan 4/4S/GTS/Turbo dual-motor AWD; electric only (combustion Macan no longer sold in EU)",
+  "confidence": "high",
+  "source": "https://www.porsche.com/swiss/de/models/macan/"
+ },
+ "audi-a6": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro on TDI quattro, e-hybrid quattro and A6 allroad; TFSI 204 PS and base TDI FWD",
+  "confidence": "high",
+  "source": "https://www.audi.com/en/quattro-247"
+ },
+ "audi-a6-e-tron": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro on A6 e-tron quattro, S6 e-tron and RS 6 e-tron; base and performance RWD",
+  "confidence": "high",
+  "source": null
+ },
+ "audi-a8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro standard on all versions; runout, not sold in CH",
+  "confidence": "high",
+  "source": null
+ },
+ "audi-e-tron-gt": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "All versions (e-tron GT quattro, S, RS, RS performance) dual-motor quattro",
+  "confidence": "high",
+  "source": "https://www.audi.com/en/quattro-247"
+ },
+ "porsche-panamera": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allrad (Panamera 4, 4S, GTS, Turbo)",
+  "note": "Base Panamera RWD; 4 / 4S / GTS / Turbo E-Hybrid versions AWD",
+  "confidence": "high",
+  "source": null
+ },
+ "porsche-taycan": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allrad (Taycan 4, 4S, GTS, Turbo)",
+  "note": "Base Taycan and Sport Turismo RWD; 4/4S/GTS/Turbo and all Cross Turismo AWD",
+  "confidence": "high",
+  "source": null
+ },
+ "bentley-flying-spur": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Permanent all-wheel drive on all (hybrid) versions",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-touareg": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION standard on all versions; runout (FINAL EDITION)",
+  "confidence": "high",
+  "source": "https://www.volkswagen.ch/de/modelle/touareg.html"
+ },
+ "audi-q7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro standard on all versions",
+  "confidence": "high",
+  "source": null
+ },
+ "audi-q8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro standard on all versions incl. SQ8 / RS Q8",
+  "confidence": "high",
+  "source": null
+ },
+ "audi-q9": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "quattro",
+  "note": "quattro standard on all versions",
+  "confidence": "high",
+  "source": null
+ },
+ "porsche-cayenne": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allrad",
+  "note": "All versions AWD, incl. Cayenne Electric (dual motor)",
+  "confidence": "high",
+  "source": null
+ },
+ "bentley-bentayga": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Permanent all-wheel drive on all versions",
+  "confidence": "high",
+  "source": null
+ },
+ "lamborghini-urus": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Permanent all-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "porsche-911": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allrad (Carrera 4, Targa 4, Turbo)",
+  "note": "Carrera / Carrera S / T / GTS and GT3 RWD; Carrera 4S, 4 GTS, Targa 4 models and Turbo S AWD",
+  "confidence": "high",
+  "source": null
+ },
+ "bentley-continental-gt": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD on all hybrid GT/GTC versions; RWD only on the limited Continental GT Supersports (V8 petrol)",
+  "confidence": "medium",
+  "source": null
+ },
+ "lamborghini-revuelto": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Electric front axle (two motors) plus V12: all-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "lamborghini-temerario": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Electric front axle (two motors) plus V8: all-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-caddy": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION only with the 2.0 TDI (122 PS, manual); other engines and eHybrid FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "volkswagen-caravelle": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION with the 2.0 TDI; other diesels and eHybrid FWD; e-Caravelle rear-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-id-buzz": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION (dual motor) on the ID. Buzz GTX; other versions RWD",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-multivan": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION only on the eHybrid 4MOTION (245 PS); TSI, TDI and FWD eHybrid FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-caddy-cargo": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION only with the 2.0 TDI (122 PS, manual); other engines FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "volkswagen-id-buzz-cargo": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "Rear motor standard; ID. Buzz Cargo Pro 4MOTION (two motors, 250 kW / 340 PS) listed by ADAC from 06/2026 (first version 08/2024)",
+  "confidence": "high",
+  "source": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/vw-nutzfahrzeuge/id-buzz/1generation/350825/"
+ },
+ "volkswagen-transporter": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "4MOTION with the 2.0 TDI; other diesels and eHybrid FWD; e-Transporter rear-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-crafter": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "FWD, RWD (heavier/longer versions) and 4MOTION, all with the 2.0 TDI",
+  "confidence": "high",
+  "source": null
+ },
+ "man-tge": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Front-, rear- and all-wheel-drive (4x4) versions",
+  "confidence": "high",
+  "source": null
+ },
+ "volkswagen-amarok": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MOTION",
+  "note": "All versions 4MOTION: selectable (part-time) on 4-cyl TDI, permanent on V6 TDI",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-ami": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-rocks": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-topolino": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-500": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-panda": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No 4x4 in the current Pandina range (1.0 Hybrid only); the old Panda 4x4 is discontinued",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/de-de/fiat/press/der-neue-fiat-pandina-kann-jetzt-bestellt-werden"
+ },
+ "abarth-500e": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "leapmotor-t03": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "medium",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/t03"
+ },
+ "peugeot-208": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "citroen-c3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-corsa": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-grande-panda": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "A Grande Panda 4x4 (electrified rear axle) has only been shown as a concept (2026); not on sale",
+  "confidence": "high",
+  "source": "https://www.autoblog.it/post/fiat-grande-panda-4x4-il-mito-sta-per-tornare-anteprima-in-italia"
+ },
+ "lancia-ypsilon": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Ypsilon HF (280 PS BEV) is FWD; 'HF Integrale' AWD is only the Rally2 competition car",
+  "confidence": "high",
+  "source": "https://www.wrc.com/en/news/lancia-confirms-works-supported-wrc-return-with-ypsilon-rally2-hf-integrale"
+ },
+ "peugeot-2008": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "citroen-c3-aircross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ds-ds-3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-frontera": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-mokka": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mokka GSE (280 PS) is FWD too",
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-600": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No 4x4 version found (unlike sister models Jeep Avenger 4xe and Alfa Romeo Junior Q4)",
+  "confidence": "medium",
+  "source": null
+ },
+ "abarth-600e": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Scorpionissima (280 PS) is FWD with a mechanical limited-slip differential",
+  "confidence": "high",
+  "source": null
+ },
+ "alfa-romeo-junior": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "AWD only on the Junior Ibrida Q4 (1.2 48V hybrid, 145 PS, rear e-motor); Elettrica (incl. Veloce) and other Ibrida FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/alfa-romeo/press/alfa-romeo-junior-ibrida-q4-allradversion-kann-ab-sofort-bestellt-werden"
+ },
+ "jeep-avenger": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4xe",
+  "note": "AWD only on the Avenger 4xe (1.2 e-Hybrid 145 PS with rear e-motor); petrol, e-Hybrid and Electric FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/jeep/press/jeep-avenger-my25-guenstiger-und-neu-mit-allrad-bestellbar"
+ },
+ "leapmotor-b03x": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/der-leapmotor-b03x-startet-in-der-schweiz"
+ },
+ "peugeot-308": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "peugeot-408": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "citroen-c4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ds-n-4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-astra": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "leapmotor-b05": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (218 PS)",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/leapmotor-scheibt-rekordzahlen-und-lanciert-den-neuen-leapmotor-b05-fuer-chf-25-900"
+ },
+ "peugeot-3008": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "AWD only on the E-3008 Dual Motor 325 (BEV); Hybrid, Plug-in Hybrid and single-motor E-3008 FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/peugeot/press/peugeot-stellt-die-peugeot-e-3008-e-5008-in-der-version-dual-motor-325-vor"
+ },
+ "citroen-c5-aircross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No AWD version (Hybrid, Plug-in Hybrid and ë-C5 Aircross all FWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "ds-ds-7": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "AWD on the Plug-in Hybrid 4x4 300 and 4x4 360; Plug-in Hybrid 225 and diesel (Ligne Noire edition) FWD",
+  "confidence": "high",
+  "source": "https://www.dsautomobiles.ch/de/modelle/neuer-ds-7/ds-7-plug-in-hybrid.html"
+ },
+ "ds-n-7": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the E-Tense AWD Long Range (dual-motor BEV, 350 PS / 375 PS boost), deliveries from autumn 2026; Hybrid and FWD BEVs front-drive",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/de-de/ds/press/bestellstart-in-wenigen-wochen-ds-automobiles-gibt-einen-ausblick-auf-die-preise-fuer-den-neuen-ds-n07"
+ },
+ "opel-grandland": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the Grandland Electric AWD (dual-motor BEV, 325 PS); Hybrid, Plug-in Hybrid and single-motor Electric FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/opel/press/auf-neuen-wegen-der-opel-grandland-electric-mit-allradantrieb"
+ },
+ "alfa-romeo-tonale": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "AWD only on the Plug-in Hybrid Q4 (1.3 PHEV, 280 PS CH / 270 PS DE); 1.5 Hybrid and 1.6 diesel FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/alfa-romeo/press/alfa-romeo-senkt-die-preise-auf-seine-suv"
+ },
+ "lancia-gamma": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "HF Integrale",
+  "note": "AWD only on the Gamma HF Integrale (dual-motor BEV, 375 PS), orders opened at the Paris show Oct 2026; Hybrid and single-motor BEVs FWD",
+  "confidence": "medium",
+  "source": "https://www.electrive.net/2026/10/14/weltpremiere-fuer-den-lancia-gamma-in-paris/"
+ },
+ "jeep-compass": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4xe",
+  "note": "AWD only on the Compass 4xe (dual-motor BEV, 375 PS, orders since June 2026); e-Hybrid, Plug-in Hybrid and single-motor Electric FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/em-en/jeep/press/new-jeep-compass-doubles-up-on-freedom-of-choice-orders-open-today-across-europe-for-the-new-4xe"
+ },
+ "leapmotor-b10": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "BEV and Hybrid EV (range extender) both rear-driven",
+  "confidence": "medium",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/neuer-leapmotor-b10-hybrid-ev-innovation-leicht-gemacht"
+ },
+ "alfa-romeo-giulia": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "Q4 AWD on the 2.2 diesel 210 PS (and 2.0 Turbo 280 PS where offered); RWD on the 2.2 diesel 160 PS (Italy) and the Quadrifoglio 520 PS",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/it-it/download-price-lists/272"
+ },
+ "peugeot-5008": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "AWD only on the E-5008 Dual Motor 325 (BEV); Hybrid, Plug-in Hybrid and single-motor E-5008 FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/peugeot/press/peugeot-stellt-die-peugeot-e-3008-e-5008-in-der-version-dual-motor-325-vor"
+ },
+ "ds-n-8": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "AWD only on the N°8 4x4 Long Range (dual-motor, 350 PS / 375 PS boost; 'AWD Long Range' in DE); FWD and FWD Long Range front-drive",
+  "confidence": "high",
+  "source": "https://www.dsautomobiles.ch/de/modelle/ds-n8.html"
+ },
+ "alfa-romeo-stelvio": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "Switzerland: every version Q4 (2.2 diesel 210, 2.0 Turbo 280, Quadrifoglio 520); RWD only on the 2.2 diesel 160 PS sold in Italy",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/alfa-romeo/press/alfa-romeo-senkt-die-preise-auf-seine-suv"
+ },
+ "jeep-grand-cherokee": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4xe",
+  "note": "Europe: 2.0 4xe plug-in hybrid only, permanent 4x4; runout",
+  "confidence": "high",
+  "source": "https://www.automobile.at/neuwagen/jeep/grand-cherokee.html"
+ },
+ "maserati-grecale": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD (GT, Modena, Trofeo V6 and dual-motor Folgore)",
+  "confidence": "high",
+  "source": "https://autotijd.be/de/motor/maserati/grecale"
+ },
+ "leapmotor-c10": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "AWD only on the dual-motor C10 4x4 (BEV, about 570-600 PS; in CH since early 2026, kept for MY2027); BEV and Hybrid EV (range extender) RWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/premiere-im-schnee-leapmotor-c10-4x4"
+ },
+ "jeep-wrangler": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 only (2.0 turbo petrol); runout",
+  "confidence": "high",
+  "source": null
+ },
+ "maserati-granturismo": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD (Modena, Trofeo and tri-motor Folgore), coupé and GranCabrio",
+  "confidence": "high",
+  "source": "https://autotijd.be/de/motor/maserati/granturismo"
+ },
+ "maserati-mcpura": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined V6, coupé and Cielo: RWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "peugeot-rifter": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-berlingo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-combo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-qubo-l": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-traveller": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-spacetourer": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-zafira": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-ulysse": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-partner": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-berlingo-van": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-combo-cargo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-doblo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat Professional's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-expert": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-jumpy": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-vivaro": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-scudo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat Professional's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-boxer": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-jumper": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-movano": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-ducato": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat Professional's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "hyundai-inster": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor only (42/49 kWh, incl. Inster Cross); no AWD version.",
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-i10": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Runout; front-wheel drive only (1.0/1.2 petrol, N Line).",
+  "confidence": "high",
+  "source": null
+ },
+ "kia-picanto": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-i20": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "i20 N (FWD) discontinued in 2024; current i20 FWD only.",
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-bayon": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "kia-ev2": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "42.2 kWh (108 kW) and 61.0 kWh (99.5 kW), both single front motor; no EV2 GT or AWD (DE price list, Stand 1 Oct 2026).",
+  "confidence": "high",
+  "source": "https://www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/utility/Preisliste/Kia-Germany-EV2-Preisliste.pdf"
+ },
+ "kia-stonic": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-ioniq-3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "42.2/61 kWh with a single motor of up to 107.8 kW (147 PS), same front-drive unit as the Kia EV2; no AWD version.",
+  "confidence": "high",
+  "source": "https://www.hyundai.com/ch/de/modelle/ioniq3.html"
+ },
+ "hyundai-i30": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Hatchback and Wagon FWD only; i30 N (FWD) discontinued in Europe.",
+  "confidence": "high",
+  "source": null
+ },
+ "kia-ev4": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "FWD base (58.3/81.4 kWh); dual-motor AWD on 81.4 kWh versions (195 kW) and EV4 GT (215 kW). Kia Schweiz offers AWD as an option ('Allrad') and EV4 GT 81.4 kWh AWD.",
+  "confidence": "high",
+  "source": "https://www.kia.ch/de/modelle/ev4-hatchback"
+ },
+ "kia-k4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Hatchback and Sportswagon, petrol and HEV, FWD only.",
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-ioniq-5": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "63/84 kWh single rear motor RWD; 84 kWh dual-motor AWD (239 kW) on upper trims; IONIQ 5 N (609 PS) AWD.",
+  "confidence": "high",
+  "source": "https://dmassets.hyundai.com/is/content/hyundaiautoever/hyundai-ioniq-5-preislistepdf"
+ },
+ "hyundai-kona": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "4WD only with the 1.6 T-GDI 180 PS DCT petrol (DE: N Line X; CH: 'KONA 1.6 T-GDi 4WD'); Hybrid and Electric FWD only.",
+  "confidence": "high",
+  "source": "https://www.hyundai.com/eu/dam/downloads/de/broschueren-preislisten/kona/hyundai-kona-preisliste.pdf"
+ },
+ "hyundai-tucson": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "4WD available with 1.6 T-GDI 180 PS petrol, 1.6 CRDi 48V diesel, Hybrid and Plug-in Hybrid (DE price list Sept 2026); base petrol 2WD only. CH sells e.g. 'TUCSON Hybrid 4WD'.",
+  "confidence": "high",
+  "source": "https://dmassets.hyundai.com/is/content/hyundaiautoever/hyundai-tucson-preisliste-my27pdf"
+ },
+ "kia-ev3": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "FWD base; dual-motor AWD on 81.4 kWh versions (from April 2026) and EV3 GT (215 kW). Kia Schweiz lists AWD as '4x4'.",
+  "confidence": "high",
+  "source": "https://www.kia.ch/de/modelle/ev3"
+ },
+ "kia-ev5": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "FWD base; dual-motor AWD on 81.4 kWh versions (e.g. CH 'EV5 81 kWh Earth 4x4', 'GT-Line 4x4') and EV5 GT (225 kW). Kia Schweiz calls it '4x4'.",
+  "confidence": "high",
+  "source": "https://www.kia.com/de/modelle/ev-gt-modelle/"
+ },
+ "kia-ev6": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "63/84 kWh RWD; 84 kWh dual-motor AWD (239 kW); EV6 GT (448 kW) AWD.",
+  "confidence": "high",
+  "source": "https://www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/utility/Preisliste/Kia-Germany-EV6_Pricelist.pdf"
+ },
+ "kia-niro": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Now HEV only; FWD.",
+  "confidence": "high",
+  "source": null
+ },
+ "kia-seltos": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Base 1.6 T-GDi 2WD; 4x4 on 1.6 T-GDi and 1.6 GDi HEV (CH: 'Seltos X-Line 1.6 GDi HEV 4x4'). Kia Schweiz calls it '4x4'.",
+  "confidence": "high",
+  "source": "https://www.kia.ch/de/modelle/seltos"
+ },
+ "kia-sportage": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD on 1.6 T-GDI 180 PS DCT, HEV and PHEV (HEV/PHEV also 2WD); 150 PS petrol and 1.6 CRDi diesel 2WD only (DE price list 31 Aug 2026). Kia Schweiz: '4x4'.",
+  "confidence": "high",
+  "source": "https://eu-www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/utility/Preisliste/Kia-Germany-Sportage-Preisliste.pdf"
+ },
+ "kia-xceed": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "genesis-gv60": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Pure 168 kW single rear motor RWD; Premium 234 kW and Luxury 360 kW dual-motor AWD; GV60 Magma (478 kW) AWD.",
+  "confidence": "high",
+  "source": "https://www.genesis.com/ch/de/models/gv60.html"
+ },
+ "hyundai-ioniq-6": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "63/84 kWh single-motor RWD; 84 kWh dual-motor AWD (239 kW); IONIQ 6 N (448 kW) AWD.",
+  "confidence": "high",
+  "source": "https://www.hyundai.com/ch/de/modelle/ioniq6.html"
+ },
+ "hyundai-nexo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor; not sold in Switzerland.",
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-santa-fe": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Hybrid in 2WD or 4WD; Plug-in Hybrid 4WD only (DE). Switzerland sells the Hybrid as 4WD ('SANTA FE Hybrid 4x4').",
+  "confidence": "high",
+  "source": "https://www.hyundai.com/de/de/modelle/santa-fe-hybrid/varianten-und-preise.html"
+ },
+ "kia-sorento": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "2.2 CRDi diesel and 1.6 T-GDI HEV in 2WD or AWD; PHEV AWD only (DE price list 1 Oct 2026). CH: diesel '4x4'.",
+  "confidence": "high",
+  "source": "https://www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/utility/Preisliste/Kia-Germany-Sorento-pricelist.pdf"
+ },
+ "genesis-gv70": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Europe: Electrified GV70 only (dual motor, 360 kW / 490 PS boost), AWD; combustion GV70 (2.5T/2.2D, all AWD) no longer listed.",
+  "confidence": "high",
+  "source": "https://www.genesis.com/ch/de/models/electrified-gv70.html"
+ },
+ "genesis-g80": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Europe: Electrified G80 only (dual motor, 272 kW / 370 PS), AWD; earlier 2.5T petrol RWD/AWD no longer listed.",
+  "confidence": "high",
+  "source": "https://www.genesis.com/ch/de/models/electrified-g80.html"
+ },
+ "genesis-g90": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "CH: G90 3.5T AWD (415 PS) only; runout.",
+  "confidence": "high",
+  "source": "https://www.genesis.com/ch/de/models/g90.html"
+ },
+ "hyundai-ioniq-9": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "110 kWh RWD (160 kW); AWD (226 kW) and AWD Performance (315 kW) (DE price list July 2026).",
+  "confidence": "high",
+  "source": "https://dmassets.hyundai.com/is/content/hyundaiautoever/hyundai-ioniq-9-preislistepdf"
+ },
+ "kia-ev9": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD 76.1/99.8 kWh; dual-motor AWD (283 kW); EV9 GT (374 kW) AWD.",
+  "confidence": "high",
+  "source": "https://www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/utility/Preisliste/Kia-Germany-EV9-Preisliste.pdf"
+ },
+ "hyundai-staria": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Staria Electric FWD (DE price list Oct 2026); Staria Hybrid FWD (not stated on CH page); the former 2.2 CRDi 4WD diesel is no longer offered.",
+  "confidence": "medium",
+  "source": "https://www.hyundai.com/content/dam/hyundai/downloads/de/broschueren-preislisten/staria-ev/hyundai-staria-elektro-preisliste-my27.pdf"
+ },
+ "kia-pv5-passenger": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor.",
+  "confidence": "high",
+  "source": null
+ },
+ "hyundai-staria-cargo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Staria Cargo Electric shares the Staria Electric front-motor powertrain; FWD only.",
+  "confidence": "medium",
+  "source": null
+ },
+ "kia-pv5-cargo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor (Cargo, Crew, Chassis Cab).",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-discovery-sport": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All current European versions AWD (MHEV petrol/diesel, P300e PHEV); runout; earlier FWD (2WD) entry versions discontinued.",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-range-rover-evoque": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All current European versions AWD (MHEV petrol/diesel, P300e PHEV); earlier FWD (2WD) entry versions discontinued.",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-range-rover-velar": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD, incl. P400e PHEV.",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-discovery": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Permanent AWD on all versions.",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-range-rover": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD, incl. PHEV and dual-motor Range Rover Electric.",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-range-rover-sport": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD, incl. PHEV, SV and Range Rover Sport Electric.",
+  "confidence": "high",
+  "source": null
+ },
+ "land-rover-defender": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Permanent 4WD with two-speed transfer box on all versions (90, 110, 130, Hard Top, OCTA).",
+  "confidence": "high",
+  "source": null
+ },
+ "ferrari-purosangue": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Front-mid V12 with front power transfer unit (Ferrari 4RM four-wheel-drive system).",
+  "confidence": "high",
+  "source": null
+ },
+ "ferrari-12cilindri": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ferrari-296": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "PHEV with single motor between V6 and gearbox; GTB, GTS, Speciale and Speciale A all RWD.",
+  "confidence": "high",
+  "source": null
+ },
+ "ferrari-849-testarossa": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "PHEV with two electric motors on the front axle (RAC-e) plus rear V8 + motor; Coupé and Spider.",
+  "confidence": "high",
+  "source": null
+ },
+ "ferrari-amalfi": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ferrari-f80": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Hybrid V6 with electric front axle (two motors); limited run of 799, sold out.",
+  "confidence": "high",
+  "source": null
+ },
+ "hongqi-ehs5": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Norway (only European listing found): single version 'EHS5 Exclusive 4WD', 85 kWh LFP, dual motor 202 + 210 kW (563 hp). No 2WD version listed. Not sold in CH.",
+  "confidence": "medium",
+  "source": "https://hongqi.no/biler/ehs5/spesifikasjoner/"
+ },
+ "hongqi-eh7": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (two motors)",
+  "note": "Norway: Premium and Exclusive with two-motor AWD (619 PS); Netherlands/Belgium also sell the single-motor rear-drive version (344 PS), 85 or 111 kWh",
+  "confidence": "high",
+  "source": "https://hongqi.no/biler/eh7/"
+ },
+ "hongqi-e-hs9": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All three Norwegian versions are AWD (551 PS); only the Exclusive+ (120 kWh) is currently orderable, Premium and Exclusive are marked temporarily sold out",
+  "confidence": "high",
+  "source": "https://hongqi.no/biler/e-hs9/"
+ },
+ "hongqi-ehs7": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD (two motors)",
+  "note": "Norway: Premium and Exclusive with 4WD only (619 PS, 85 or 111 kWh); the Netherlands also get a rear-wheel-drive version",
+  "confidence": "high",
+  "source": "https://hongqi.no/biler/ehs7/"
+ },
+ "morgan-plus-four": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "morgan-supersport": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "microlino-microlino": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear-mounted motor driving the rear axle (Microlino, Lite, Spiaggina).",
+  "confidence": "high",
+  "source": null
+ },
+ "geely-e2": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear-mounted motor (Xingyuan/EX2 layout); no dual-motor version announced for Europe. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "volvo-ex30": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD on single-motor P3/P5/P5 Long Range; AWD only on P8 AWD (ex Twin Motor Performance, 428 PS). EX30 Cross Country is sold only as P8 AWD.",
+  "confidence": "high",
+  "source": "https://www.volvocars.com/de/cars/ex30-electric/"
+ },
+ "lynk-co-02": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single motor, rear-wheel drive ('Hinterradantrieb') only.",
+  "confidence": "high",
+  "source": "https://www.lynkco.com/de-ch/cars/02"
+ },
+ "zeekr-x": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Core RWD and Long Range RWD; AWD only on Privilege AWD (dual motor, 365 kW).",
+  "confidence": "high",
+  "source": "https://zeekr.eu/models/x"
+ },
+ "volvo-xc40": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "XC40 mild hybrids (B3, B4) are FWD only in CH/DE; single-motor EX40/EC40 (P5, P5 Long Range) are RWD; AWD only on electric EX40/EC40 P8 AWD and P8 Performance AWD (Twin Motor).",
+  "confidence": "high",
+  "source": "https://automobilrevue.ch/neuheiten/volvo-xc40-ex40-und-ec40-mehr-technik-zum-neuen-modelljahr"
+ },
+ "lynk-co-01": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-wheel drive ('Frontantrieb') only; no AWD version in Europe.",
+  "confidence": "high",
+  "source": "https://www.lynkco.com/de-ch/cars/01"
+ },
+ "geely-e5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor (160 kW); no dual-motor version in Europe. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "volvo-v60": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "B4 mild hybrid is FWD; AWD only on the T6 AWD plug-in hybrid. V60 Cross Country is no longer available new (DE page: 'nicht mehr lieferbar'; not listed in CH).",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-v60-kombi-facelift/"
+ },
+ "polestar-2": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Standard/Long Range Single Motor are RWD; AWD on Long Range Dual Motor (optionally with Performance pack).",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-2/"
+ },
+ "zeekr-7-gt": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Business Edition RWD and Long Range RWD; AWD only on Privilege AWD (dual motor, 475 kW). zeekr.eu model page could not be fetched; per Zeekr NL configurator as reported.",
+  "confidence": "high",
+  "source": "http://thedriven.io/2026/01/17/zeekr-7gt-pricing-and-specs-revealed-undercuts-popular-7x-suv/"
+ },
+ "volvo-ex60": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "P6 is RWD; AWD on P10 AWD and P12 AWD.",
+  "confidence": "high",
+  "source": "https://www.volvocars.com/uk/cars/ex60-electric/"
+ },
+ "volvo-xc60": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD: B5 AWD mild hybrid, T6 AWD and T8 AWD plug-in hybrids (motorized.ch: 'Alle Varianten des Volvo XC60 SUV verfügen über Allradantrieb'); no FWD B4 in CH/DE.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-xc-60-suv/"
+ },
+ "polestar-4": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Rear Motor (single motor) is RWD; AWD on Dual Motor (400 kW).",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-4/"
+ },
+ "lynk-co-08": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Plug-in hybrid with front-wheel drive in Europe (the 4WD EM-P is China-only); the Swiss page does not state the drive type, so not confirmed on a manufacturer page.",
+  "confidence": "medium",
+  "source": "https://www.lynkco.com/de-ch/cars/08"
+ },
+ "zeekr-7x": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Core RWD and Long Range RWD; AWD only on Privilege AWD (ex Performance, dual motor, 470 kW). Applies to the current 7X; the all-new 7X arrives Q1 2027.",
+  "confidence": "high",
+  "source": "https://www.electrive.com/2025/05/21/zeekr-starts-delivering-the-7x-in-norway"
+ },
+ "geely-starray-em-i": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "EM-i plug-in hybrid drives the front wheels; no AWD version. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "volvo-es90": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Twin Motor",
+  "note": "Single Motor Extended Range is RWD; AWD on Twin Motor and Twin Motor Performance.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-es90-limousine/"
+ },
+ "polestar-5": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "AWD only: Dual Motor and Performance (both dual motor).",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-5/"
+ },
+ "zeekr-001": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Long Range RWD (single motor); AWD on Privilege AWD and Performance AWD (dual motor, 400 kW).",
+  "confidence": "high",
+  "source": "https://zeekr.eu/models/001"
+ },
+ "lotus-emeya": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only: Emeya 600 and 900 are both dual-motor (front + rear). The Swiss page names the versions but does not spell out the drive layout.",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/emeya"
+ },
+ "volvo-ex90": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Twin Motor",
+  "note": "Single Motor (245 kW) is RWD ('Hinterradantrieb'); AWD on Twin Motor and Twin Motor Performance.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-ex90-suv/"
+ },
+ "volvo-xc90": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD: B5 AWD mild hybrid and T8 AWD plug-in hybrid; no FWD version.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-xc-90-suv/"
+ },
+ "polestar-3": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Rear Motor is RWD; AWD on Dual Motor and Performance.",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-3/"
+ },
+ "zeekr-9x": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only: Ultra AWD plug-in hybrid with front + rear motors (897 hp system).",
+  "confidence": "high",
+  "source": "https://zeekr.eu/models/9x"
+ },
+ "lotus-eletre": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only: Eletre 600 and 900 are dual-motor with 'Allradtraktion'; the Eletre X range-extender also drives through front and rear e-motors (its Swiss page does not state the layout).",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/eletre"
+ },
+ "lotus-emira": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined, rear-wheel drive only (V6 and 2.0 turbo four).",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/"
+ },
+ "lotus-evija": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Four electric motors (one per wheel), AWD only.",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/"
+ },
+ "levc-tx": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Range-extender electric; the e-motor drives the rear wheels. Not sold in CH. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "farizon-sv": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor driving the front wheels; no AWD version",
+  "confidence": "medium",
+  "source": "https://en.wikipedia.org/wiki/Farizon_SV"
+ },
+ "farizon-v7e": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor (100 kW), front-wheel drive per the Australian spec sheet; no AWD version",
+  "confidence": "medium",
+  "source": "https://www.carexpert.com.au/farizon/v7e/2026/features-and-specs"
+ },
+ "levc-vn5": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Same range-extender drivetrain as the TX taxi: e-motor drives the rear wheels. Not sold in CH. Not verified on a manufacturer page.",
+  "confidence": "high",
+  "source": null
+ },
+ "kgm-tivoli": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "1.5 T-GDI (163 PS) with 2WD or 4WD; KGM Switzerland advertises the Tivoli Steel as 'der günstigste 4x4 der Schweiz' and Swiss dealers list new 2026 Tivoli 4WD cars",
+  "confidence": "high",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-korando": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "1.5 T-GDi petrol with 6-speed automatic: 2WD (front) standard; 'Allrad 4x4' (4WD 6AT) is a CHF 3,000 option on every trim (Steel, Blackline, Titanium).",
+  "confidence": "high",
+  "source": "https://www.kgm.ch/de/modelle/korando"
+ },
+ "kgm-actyon": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "KGM Switzerland advertises the 'KGM Actyon 4x4'; the 1.5 T-GDi petrol comes in 2WD and 4WD (per the site's technical table), while the Actyon Hybrid is 2WD (front) only.",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-torres": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "4WD only with the 1.5 T-GDi petrol (2WD or 4WD); Torres Hybrid is 2WD only and the Torres EVX (single front motor) is FWD. Swiss model pages not fetched (budget exhausted).",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-rexton": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "2.2 e-XDi diesel (202 PS) with '4WD Allradantrieb' only; the diesel row of KGM CH's technical table lists 4WD only.",
+  "confidence": "high",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-musso": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Run-out: 2.2 e-XDi diesel, 4WD only (part-time 4x4, rear-drive based); Musso Grand long-bed likewise. Still listed on KGM CH's price page (Musso from CHF 42,689, Musso Grand from CHF 44,311).",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de/preislisten"
+ },
+ "kgm-musso-ev": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4 (two motors)",
+  "note": "Germany: 2WD (single 152 kW motor) with optional 4x4 (two motors, 175 kW); Switzerland sells the 4WD only",
+  "confidence": "high",
+  "source": "https://www.kgm.de/images/cenniki/Preisliste_Musso_EV.pdf"
+ },
+ "kgm-musso-rhino": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "2.2 e-XDi diesel with part-time 4x4 (rear-drive based); KGM CH lists Musso (MY26) from CHF 35,143 and Musso Grand (MY26) from CHF 36,998, and its diesel row shows 4WD only. A 2WD version elsewhere in Europe is not ruled out.",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de/preislisten"
+ },
+ "honda-super-n": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor, FWD only (N-One e: based). Not sold in CH.",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-jazz": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only (incl. Crosstar).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-hr-v": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only in Europe.",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-civic": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only (the Type R was also FWD).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-zr-v": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only in Europe (4WD is Japan-only). Not verified on a Honda page (honda.ch fetch failed).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-cr-v": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the e:HEV full hybrid; e:PHEV plug-in hybrid is FWD only. Not verified on a Honda page (honda.ch fetch failed).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-prelude": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV coupé, FWD only.",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-750s": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined V8, RWD only (coupé and Spider).",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-artura": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "V6 plug-in hybrid with the e-motor in the gearbox; RWD only (coupé and Spider).",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-gts": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined V8, RWD only.",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-w1": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "V8 hybrid hypercar, RWD only (limited run).",
+  "confidence": "high",
+  "source": null
+ },
+ "koenigsegg-cc850": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Twin-turbo V8, RWD only (limited run).",
+  "confidence": "high",
+  "source": null
+ },
+ "koenigsegg-gemera": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "HV8 hybrid with Dark Matter e-motor: 'four-wheel drive and four-wheel torque vectoring' (limited run).",
+  "confidence": "high",
+  "source": "https://www.koenigsegg.com/model/gemera"
+ },
+ "koenigsegg-jesko": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Twin-turbo V8, RWD only (Attack and Absolut; limited run).",
+  "confidence": "high",
+  "source": null
+ },
+ "deepal-s05": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (BEV), RWD only in Europe. Not sold in CH. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "deepal-s07": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (BEV, 160 kW), RWD only in Europe. Not sold in CH. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "smart-2": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Rear-wheel drive only ('ausschliesslich Hinterradantrieb', like the fortwo). World premiere Paris Oct 2026, deliveries from Q2 2027; ch.smart.com already shows the 999-unit #2 Couture Edition.",
+  "confidence": "medium",
+  "source": "https://www.autozeitung.de/smart-2-2026-premiere-preis-reichweite-205253.html"
+ },
+ "smart-1": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (Dual Motor)",
+  "note": "RWD on Pro/Pro+/Premium (single rear motor); dual-motor AWD only on #1 Pulse and #1 BRABUS.",
+  "confidence": "high",
+  "source": "https://jesmb.de/24922/"
+ },
+ "smart-3": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (Dual Motor)",
+  "note": "RWD on Pro/Pro+/Premium; dual-motor AWD (one motor per axle, 315 kW) on #3 BRABUS (and Pulse/anniversary editions where offered).",
+  "confidence": "high",
+  "source": "https://greencarscompare.com/car/smart-3-brabus/"
+ },
+ "mercedes-benz-a-class": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "FWD on A 180/A 200/A 250 e and diesels; 4MATIC on A 220 4MATIC, A 250 4MATIC, AMG A 35 4MATIC and AMG A 45 S 4MATIC+ (Swiss price list). Swiss site now lists only the hatchback.",
+  "confidence": "high",
+  "source": "https://merbag.ch/media/ultpfy4w/a-class-wv177-price-list-de.pdf"
+ },
+ "mercedes-benz-cla": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "Electric CLA 200/250/250+ are RWD ('Hinterradantrieb'), CLA 350 4MATIC electric is AWD; hybrid CLA 180/200/220 are FWD ('Vorderradantrieb'), CLA 200 4MATIC and CLA 220 4MATIC hybrid are AWD. Same split for the Shooting Brake.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/saloon/cla/overview.html"
+ },
+ "mercedes-benz-gla": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "New electric GLA: GLA 200 and 250+ RWD, GLA 350 4MATIC AWD (orders from 30 Jul 2026). FWD only on the outgoing H247 (GLA 180/200/250 e, runout) and on the new hybrid GLA due early 2027 (FWD or 4MATIC). H247 4MATIC: GLA 220 d/250 4MATIC, AMG GLA 35/45 S.",
+  "confidence": "high",
+  "source": "https://jesmb.de/35103/"
+ },
+ "mercedes-benz-glb": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "Electric GLB 250+ RWD ('Hinterradantrieb'), GLB 350 4MATIC AWD; hybrid GLB 200/220 FWD ('Vorderradantrieb'), GLB 200/220 4MATIC AWD (Swiss pages). Outgoing X247 (GLB 250 4MATIC, AMG GLB 35) in runout.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/suv/glb-electric/overview.html"
+ },
+ "mercedes-benz-c-class": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "RWD on C 200, C 250, C 300, C 200 d/C 250 d, C 300 e ('Hinterradantrieb'); 4MATIC on C 250 4MATIC, C 250 d 4MATIC, C 300 e/C 400 e 4MATIC; All-Terrain and AMG C 43/C 63 are 4MATIC only; electric C-Class with EQ Technology also listed in CH (dual-motor 4MATIC at launch).",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/saloon/c-class/overview.html"
+ },
+ "mercedes-benz-glc": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "All combustion and plug-in GLC / GLC Coupé are 4MATIC only ('Allradantrieb' on every variant in CH). Only 2WD version: the electric GLC 250 (single rear motor, 260 kW); electric GLC 300 4MATIC and GLC 400 4MATIC are dual motor.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.de/passengercars/models/suv/glc-electric/overview.html"
+ },
+ "smart-5": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (Dual Motor)",
+  "note": "RWD on Pro, Pro+ and Premium; dual-motor AWD ('Allrad') on Pulse, Summit Edition and BRABUS.",
+  "confidence": "high",
+  "source": "https://jesmb.de/26414/"
+ },
+ "mercedes-benz-amg-gt-4-door-coupe": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC+",
+  "note": "AWD only: AMG GT 53 ('Antriebsart: Allradantrieb', 400 kW) and the more powerful GT 55 / GT 63 (AMG.EA axial-flux motors).",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/coupe/amg-gt-4-door/overview.html"
+ },
+ "mercedes-benz-e-class": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "RWD on E 200 and E 200 d ('Hinterradantrieb'); 4MATIC on E 200 4MATIC, E 220 d/E 450 d 4MATIC, E 450 4MATIC and all plug-in hybrids in CH (E 300 e/E 300 de/E 400 e 4MATIC); All-Terrain and AMG E 53 HYBRID are 4MATIC only.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/saloon/e-class/overview.html"
+ },
+ "mercedes-benz-eqe": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "RWD on EQE 300 and EQE 350+ ('Hinterradantrieb'); EQE 350 4MATIC, EQE 500 4MATIC and AMG EQE 53 4MATIC+ are AWD. Runout.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/saloon/eqe/overview.html"
+ },
+ "mercedes-benz-eqs": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "RWD on EQS 400 and EQS 450+ ('Hinterradantrieb'); EQS 500 4MATIC and EQS 580 4MATIC ('Allradantrieb') and AMG EQS 53 4MATIC+ are AWD.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/saloon/eqs/overview.html"
+ },
+ "mercedes-benz-s-class": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "Swiss line-up is 4MATIC except the S 450 e plug-in hybrid ('Hinterradantrieb'): S 350 d/450 d 4MATIC, S 450/500/580 4MATIC, S 580 e 4MATIC, AMG S 63 E PERFORMANCE 4MATIC+ and Mercedes-Maybach S-Class all AWD.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/saloon/s-class/overview.html"
+ },
+ "mercedes-benz-amg-gt-suv": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC+",
+  "note": "AWD only: electric Mercedes-AMG GT 53 SUV (400 kW / 544 PS, 'Antriebsart: Allradantrieb'; CH from CHF 114,900).",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.de/passengercars/models/suv/amg-gt-suv/overview.html"
+ },
+ "mercedes-benz-eqe-suv": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "RWD on the single-motor EQE 350+ SUV ('Hinterradantrieb'); EQE 350 4MATIC, EQE 500 4MATIC and AMG EQE 53 4MATIC+ SUV are AWD ('Allradantrieb').",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/suv/eqe/overview.html"
+ },
+ "mercedes-benz-eqs-suv": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "AWD only: EQS 450 4MATIC, EQS 500 4MATIC, EQS 580 4MATIC SUV ('Antriebsart: Allradantrieb') and Mercedes-Maybach EQS 680 SUV; no RWD EQS 450+ SUV in CH.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/suv/eqs/overview.html"
+ },
+ "mercedes-benz-gle": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "AWD only: every GLE and GLE Coupé is 4MATIC ('Antriebsart: Allradantrieb' for GLE 350 d/450 d, 450 e, 450, 580 4MATIC); AMG GLE 53/63 4MATIC+.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/suv/gle/overview.html"
+ },
+ "mercedes-benz-gls": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "All versions 4MATIC (GLS 450/580 4MATIC, GLS 350 d/450 d 4MATIC, AMG GLS 63 4MATIC+, Mercedes-Maybach GLS 600 4MATIC); Swiss price list.",
+  "confidence": "high",
+  "source": "https://www.merbag.ch/media/v3fgfkzu/gls-suv-x167-price-list-de.pdf"
+ },
+ "mercedes-benz-g-class": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Permanent all-wheel drive on every version: G 450 d, G 500 and AMG G 63 with low range and three 100% differential locks; G 580 with EQ Technology has four individually controlled electric motors.",
+  "confidence": "high",
+  "source": "https://professional.auto-motor-und-sport.de/static-download/news/12987296/Mercedes-Benz-Preisliste-G-Klasse-WN465.pdf"
+ },
+ "mercedes-benz-amg-gt": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC+",
+  "note": "RWD only on the 4-cylinder AMG GT 43 Coupé ('Hinterradantrieb'; listed in DE, not in the Swiss selector); GT 55/GT 63/GT 63 PRO 4MATIC+ and GT 63 S E PERFORMANCE are AWD ('AMG Performance 4MATIC+ Allradantrieb', with drift mode).",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.de/passengercars/models/coupe/amg-gt-2-door/overview.html"
+ },
+ "mercedes-benz-cle": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "RWD on CLE 180, CLE 200 and CLE 220 d (Germany, 'Hinterradantrieb'); CLE 200 4MATIC and AMG CLE 53 4MATIC+ are AWD. The Swiss site lists only the CLE 200 4MATIC (plus AMG CLE 53), so in CH it is effectively AWD-only.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.de/passengercars/models/coupe/cle/overview.html"
+ },
+ "mercedes-benz-sl": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC+",
+  "note": "RWD only on the Mercedes-AMG SL 43 ('Antriebsart: Hinterradantrieb'); SL 55 4MATIC+, SL 63 4MATIC+, SL 63 S E PERFORMANCE and Mercedes-Maybach SL 680 Monogram Series are AWD.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/passengercars/models/cabriolet-roadster/sl/overview.html"
+ },
+ "mercedes-benz-b-class": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "Runout: gone from the Swiss site; the German page still shows the B 250 e (FWD plug-in hybrid) and advertises 'sogar Allradantrieb 4MATIC' (B 220 4MATIC). Others (B 180/B 200, diesels) FWD.",
+  "confidence": "medium",
+  "source": "https://www.mercedes-benz.de/passengercars/models/hatchback/b-class/overview.html"
+ },
+ "mercedes-benz-v-class": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "V-Class, Marco Polo/Marco Polo Horizon and diesel Vito Tourer are RWD with optional 4MATIC; FWD only on the electric eVito Tourer (front motor), which mercedes-benz.ch still lists. Drop FWD if the eVito Tourer is not counted in this tile.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/vans.html?group=all&subgroup=see-all&view=CLASS"
+ },
+ "mercedes-benz-vle": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "VLE 300 (203 kW, single motor) is front-wheel drive ('Vorderradantrieb'); VLE 400 4MATIC (310 kW, dual motor) is AWD ('Allradantrieb'). Both also as 'bis 3.5t' versions.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.de/passengercars/models/grand-limousine/vle/overview.html"
+ },
+ "mercedes-benz-vito": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4MATIC",
+  "note": "Diesel Vito panel van/Mixto RWD with optional 4MATIC; electric eVito panel van is FWD (front motor). Both still listed on mercedes-benz.ch.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/vans.html?group=all&subgroup=see-all&view=CLASS"
+ },
+ "mercedes-benz-sprinter": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "RWD standard (diesel Sprinter and eSprinter); diesel Sprinter 4x4 (selectable AWD, optional low range) for panel van/chassis; FWD Sprinter dropped in Europe in 2024. Swiss site lists Sprinter (incl. Tourer) and eSprinter; 4x4 not verified on a page.",
+  "confidence": "high",
+  "source": "https://www.mercedes-benz.ch/de/vans.html?group=all&subgroup=see-all&view=CLASS"
+ },
+ "mazda-mazda2": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only (runout).",
+  "confidence": "high",
+  "source": null
+ },
+ "mazda-mazda2-hybrid": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only (Toyota Yaris hybrid twin; no AWD-i).",
+  "confidence": "high",
+  "source": null
+ },
+ "mazda-mazda3": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "i-Activ AWD",
+  "note": "e-Skyactiv G 140 (2.5) is FWD only; i-Activ AWD optional with the e-Skyactiv X 186 and automatic (Mazda Germany, model year 2027)",
+  "confidence": "high",
+  "source": "https://de.mazda-press.com/news/2026/mazda3-2027-clever-aufgewertet-ins-neue-modelljahr/"
+ },
+ "mazda-cx-30": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "i-Activ AWD",
+  "note": "e-Skyactiv G 140 (2.5) is FWD only; i-Activ AWD optional with the e-Skyactiv X 186 automatic (Mazda Germany, model year 2027)",
+  "confidence": "high",
+  "source": "https://de.mazda-press.com/news/2026/mazda-cx-30-2027-mit-mehr-sicherheit-verfeinertem-design-und-erweiterter-modellpalette-ins-neue-modelljahr/"
+ },
+ "mazda-cx-5": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "i-ACTIV AWD",
+  "note": "New CX-5 with 2.5 e-Skyactiv G (141 PS, automatic) offered as 2WD (FWD) or AWD. Not verified on a manufacturer page (web budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "mazda-mazda-6e": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (68.8 kWh 190 kW or 80 kWh Long Range 180 kW); no AWD in Europe. Not verified on a manufacturer page (web budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "mazda-cx-60": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "i-ACTIV AWD",
+  "note": "RWD on e-Skyactiv D 200; AWD on e-Skyactiv D 254 and the e-Skyactiv PHEV. Not verified on a manufacturer page (web budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "mazda-cx-6e": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (EZ-60/Deepal S07 platform, 'motor placed at the rear'); no AWD announced for Europe (launched Brussels Jan 2026). Mazda sites not fetchable.",
+  "confidence": "medium",
+  "source": "https://en.wikipedia.org/wiki/Mazda_EZ-60"
+ },
+ "mazda-cx-80": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "i-ACTIV AWD",
+  "note": "AWD only in Europe (e-Skyactiv D 254 AWD and e-Skyactiv PHEV AWD). Not verified on a manufacturer page (web budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "mazda-mx-5": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD only (roadster and RF).",
+  "confidence": "high",
+  "source": null
+ },
+ "xpeng-l03": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "BEV: RWD Standard/Long Range (180 kW rear motor), AWD Performance and AWD Performance Ultra (dual motor, 285 kW). Range extender: single rear motor (RWD). First European deliveries Oct 2026.",
+  "confidence": "high",
+  "source": "https://carnewschina.com/2026/07/16/xpeng-l03-launches-in-europe-at-40740-usd-to-fight-for-market-share/"
+ },
+ "xpeng-g6": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD Performance",
+  "note": "RWD Standard Range and Long Range; AWD Performance (two motors) orderable in Germany since July 2025 (51,600 EUR)",
+  "confidence": "high",
+  "source": "https://www.xpeng.com/de/news/0197f5ede48c97e8d9368a02811e004b"
+ },
+ "xpeng-g9": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD Standard Range and RWD Long Range ('Hecktriebler'); AWD Performance (dual motor, 405 kW). Line-up kept for the 2025 update. xpeng.com not fetchable.",
+  "confidence": "high",
+  "source": "https://www.autozeitung.de/xpeng-g9-2024-preis-reichweite-204791.html"
+ },
+ "xpeng-p7-plus": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor only (180 kW or 230 kW); no dual-motor/AWD version (applies to BEV and range-extender; 2026 facelift built by Magna Steyr in Graz). xpeng.com not fetchable.",
+  "confidence": "medium",
+  "source": "https://en.wikipedia.org/wiki/XPeng_P7%2B"
+ },
+ "xpeng-g9l": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD Long Range Ultra (7 seats, 270 kW); AWD Performance Ultra (6 or 7 seats, 430 kW). Orders opened Oct 2026 (DE from EUR 74,600).",
+  "confidence": "high",
+  "source": "https://www.electrive.net/2026/10/13/xpeng-g9l-74600-euro/"
+ },
+ "xpeng-x9": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Unusual layout: the single-motor X9 drives the FRONT axle (export version 255 kW); dual-motor AWD version (export 395 kW) added with the 2026 model year. Exact European line-up not confirmed (xpeng.com not fetchable).",
+  "confidence": "medium",
+  "source": "https://en.wikipedia.org/wiki/XPeng_X9"
+ },
+ "suzuki-swift": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALLGRIP AUTO",
+  "note": "1.2 Dualjet Hybrid: FWD standard (e.g. Unico 5MT, CHF 19,990); ALLGRIP AUTO 4x4 optional, standard on the Swiss 'Piz Sulai' trims ('serienmässiger Allradantrieb').",
+  "confidence": "high",
+  "source": "https://www.suzuki.ch/de/modelle/swift"
+ },
+ "suzuki-vitara": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALLGRIP SELECT",
+  "note": "ALLGRIP SELECT 4x4 (four modes) on mild and full hybrid; Swiss site shows only '1.4 Turbo Benzin ALLGRIP 4x4' versions, 2WD (FWD) versions are sold in other European markets (e.g. Germany).",
+  "confidence": "high",
+  "source": "https://www.suzuki.ch/de/modelle/vitara"
+ },
+ "suzuki-e-vitara": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALLGRIP-e",
+  "note": "2WD (front motor) with 49 or 61 kWh (e.g. Unico 2WD 49 kWh, CHF 31,990); dual-motor ALLGRIP-e AWD ('elektrisches Allradsystem AllGrip-e') with 61 kWh.",
+  "confidence": "high",
+  "source": "https://www.suzuki.ch/de/modelle/e-vitara"
+ },
+ "suzuki-across": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-Four",
+  "note": "New Across (RAV4-based PHEV, 2.5 petrol) has electric all-wheel drive 'E-Four' with TRAIL mode; no FWD version mentioned by Suzuki Schweiz.",
+  "confidence": "high",
+  "source": "https://www.suzuki.ch/de/news/new-across-2026"
+ },
+ "suzuki-s-cross": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALLGRIP SELECT",
+  "note": "FWD (2WD) standard; ALLGRIP SELECT 4x4 optional on the 1.4 mild hybrid and the 1.5 full hybrid (in CH mostly sold as 4x4). Not verified on a manufacturer page (web budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "iveco-ejolly": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only (Stellantis electric mid-size van with Iveco badge); no factory 4x4.",
+  "confidence": "high",
+  "source": null
+ },
+ "iveco-daily": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Daily van/chassis cab, CNG and eDaily are RWD; the diesel Daily 4x4 (off-road chassis cab with low range and locking differentials) is sold under the Daily name. Not verified on iveco.com.",
+  "confidence": "high",
+  "source": "https://en.wikipedia.org/wiki/Iveco_Daily"
+ },
+ "iveco-esuperjolly": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only (Stellantis large electric van, Ducato body); no factory 4x4.",
+  "confidence": "high",
+  "source": null
+ },
+ "bugatti-tourbillon": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "V16 (Cosworth, 8.3 l) plus three electric motors, two on the front axle and one at the rear: mid-engine all-wheel drive. 250 units; bugatti.com not fetchable.",
+  "confidence": "high",
+  "source": "https://en.wikipedia.org/wiki/Bugatti_Tourbillon"
+ },
+ "rimac-nevera": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Four motors, one driving each wheel ('individual-wheel drive' with torque vectoring); same for Nevera R.",
+  "confidence": "high",
+  "source": "https://en.wikipedia.org/wiki/Rimac_Nevera"
+ },
+ "toyota-aygo-x": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5 Hybrid (116 PS) only, front-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "toyota-yaris": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "GR-FOUR",
+  "note": "AWD only on the GR Yaris (1.6 turbo, 280 PS, GR-FOUR, from CHF 44,900); every Yaris Hybrid version (116/130 PS) is FWD (CH price list valid from 01.06.2026)",
+  "confidence": "high",
+  "source": "https://de.toyota.ch/neuwagen-kaufen/gr-yaris"
+ },
+ "toyota-urban-cruiser": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 61 kWh battery (184 PS); 49 kWh (144 PS) and 61 kWh (174 PS) are FWD",
+  "confidence": "high",
+  "source": "https://de.toyota.ch/neuwagen-kaufen/urban-cruiser"
+ },
+ "toyota-yaris-cross": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "1.5 Hybrid 130 PS available with AWD-i (Comfort, Trend, Premium); GR SPORT is FWD only (CH price list valid from 21.08.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2429363/storage/MjQyOTM2My8wL21hc3Rlci8vLzI0Njk5NDEz"
+ },
+ "lexus-lbx": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "1.5 Hybrid (136 PS) as FWD or E-FOUR electric AWD (selected trims); new LBX AWD cars listed by Swiss Lexus dealers; LBX Morizo RR not offered in Europe",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_LBX_AT.pdf"
+ },
+ "toyota-corolla": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.8 and 2.0 Hybrid, hatchback and Touring Sports, all FWD (CH price lists valid from 29.09.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/487249/storage/MDQ4NzI0OS8wL21hc3Rlci8vLzIzOTExNTU1"
+ },
+ "toyota-prius": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 Plug-in Hybrid, FWD only in Europe",
+  "confidence": "high",
+  "source": null
+ },
+ "toyota-c-hr": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "AWD only on the 2.0 Hybrid (180 PS); the 1.8 Hybrid and the 2.0 Plug-in Hybrid (223 PS) are FWD only (CH price lists valid from 27.07.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2134322/storage/MjEzNDMyMi8wL21hc3Rlci8vLzI0NDY2ODYx"
+ },
+ "toyota-c-hr-plus": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD 252 kW (343 PS) with the 77 kWh battery; FWD 165 kW (224 PS); some markets also have a 57.7 kWh FWD base version",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2290825/storage/MjI5MDgyNS8wL21hc3Rlci8vLzIzOTQ0Nzkw"
+ },
+ "toyota-corolla-cross": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "AWD only with the 2.0 Hybrid (180 PS); the 1.8 Hybrid is FWD only; GR SPORT and Premium are AWD only",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2417145/storage/MjQxNzE0NS8wL21hc3Rlci8vLzIzOTQ0ODg5"
+ },
+ "toyota-rav4": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "Both the 2.5 Hybrid (AWD 194 PS) and the Plug-in Hybrid (AWD 309 PS) come as FWD or AWD; GR SPORT and Premium are AWD only (CH price list valid from 08.10.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2364906/storage/MjM2NDkwNi8wL21hc3Rlci8vLzI0NzQwOTA2"
+ },
+ "lexus-nx": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "NX 350h as FWD or E-FOUR; NX 450h+ plug-in hybrid is E-FOUR only",
+  "confidence": "high",
+  "source": "https://preview3.assetsadobe.com/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_NX_AT.pdf"
+ },
+ "lexus-ux": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "UX 300h as FWD or E-FOUR (AWD only on F SPORT in the AT list); the UX 300e is no longer listed",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_UX_AT.pdf"
+ },
+ "toyota-bz4x": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 73.1 kWh battery, 252 kW (343 PS); FWD with 57.7 kWh (167 PS) or 73.1 kWh (224 PS)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2191803/storage/MjE5MTgwMy8wL21hc3Rlci8vLzI0MDA5Mjg5"
+ },
+ "toyota-bz4x-touring": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "74.7 kWh battery: FWD 165 kW (224 PS, Style only) or AWD 279 kW (380 PS)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2327160/storage/MjMyNzE2MC8wL21hc3Rlci8vLzIzOTEzMTc2"
+ },
+ "lexus-rz": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "DIRECT4",
+  "note": "RZ 350e is FWD; RZ 500e and RZ 550e F SPORT have DIRECT4 AWD",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_RZ_AT.pdf"
+ },
+ "toyota-mirai": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Fuel-cell saloon, rear-wheel drive only",
+  "confidence": "high",
+  "source": null
+ },
+ "lexus-es": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD / DIRECT4",
+  "note": "New 8th-gen ES in CH: ES 300h hybrid (196 PS) AWD, ES 500e electric DIRECT4 AWD; only the electric ES 350e is FWD (the outgoing 7th-gen ES 300h, still in some price lists, was FWD)",
+  "confidence": "high",
+  "source": "https://de.lexus.ch/new-cars/es"
+ },
+ "lexus-rx": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR / DIRECT4",
+  "note": "AWD only: RX 350h and RX 450h+ have E-FOUR, RX 500h has DIRECT4; no FWD version in the Lexus Austria price list",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_RX_AT.pdf"
+ },
+ "toyota-land-cruiser": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Permanent four-wheel drive on every version (2.8 diesel 48V mild hybrid, 205/230 PS, 8-speed automatic)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2208852/storage/MjIwODg1Mi8wL21hc3Rlci8vLzI0MDI1OTc4"
+ },
+ "toyota-gr-supra": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Runout; 3.0 straight-six, rear-wheel drive only",
+  "confidence": "high",
+  "source": null
+ },
+ "toyota-proace-city-verso": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (1.2 petrol, 1.5 diesel, electric) are FWD; Toyota France sold Dangel 4x4 conversions of the pre-facelift van (2022), but no 4x4 appears in current CH or FR listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/1918481/storage/MTkxODQ4MS8wL21hc3Rlci8vLzI0NjUyNDQ3"
+ },
+ "toyota-proace-verso": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (2.2 diesel 150/180 PS, electric) are FWD; Dangel 4x4 conversions were sold through Toyota France for the pre-facelift model (2022), not in current listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/1725040/storage/MTcyNTA0MC8wL21hc3Rlci8vLzIzOTEyMjc0"
+ },
+ "lexus-lm": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "LM 350h, 2.5 hybrid (250 PS), with E-FOUR electric AWD on every version",
+  "confidence": "high",
+  "source": "https://de.lexus.ch/modelle/lm"
+ },
+ "toyota-proace-city": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (1.2 petrol, 1.5 diesel, electric) are FWD; Toyota France sold Dangel 4x4 conversions of the pre-facelift van (2022), but none appear in current CH or FR listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2017717/storage/MjAxNzcxNy8wL21hc3Rlci8vLzI0Nzk3NzQx"
+ },
+ "toyota-proace": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (1.5/2.2 diesel, electric) are FWD; Toyota France sold Dangel 4x4 conversions of the pre-facelift van (2022), but none appear in current CH or FR listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/1946036/storage/MTk0NjAzNi8wL21hc3Rlci8vLzIzOTE0ODgz"
+ },
+ "toyota-proace-max": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All panel van, chassis cab and special-body versions (2.2 diesel 120–180 PS, electric) are FWD; no RWD or 4x4 version",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2066749/storage/MjA2Njc0OS8wL21hc3Rlci8vLzIzOTE1MDUx"
+ },
+ "toyota-hilux": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Every version in the CH price lists is 4x4: the new electric Hilux (dual-motor AWD, 196 PS), the 2.8 48V mild hybrid (204 PS), and the outgoing 2.4/2.8 diesel including Single/Extra Cab; no 4x2 in CH",
+  "confidence": "medium",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2364467/storage/MjM2NDQ2Ny8wL21hc3Rlci8vLzI0NzQxMTE4"
+ },
+ "nissan-micra": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Electric, single front motor (Renault 5-based)",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-juke": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "DIG-T petrol and Hybrid, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-leaf": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Electric, single front motor",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-ariya": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "e-4ORCE",
+  "note": "e-4ORCE AWD on the 87 kWh Evolve e-4ORCE, the Evolve400 (from stock only) and the NISMO; 63 and 87 kWh versions otherwise FWD",
+  "confidence": "high",
+  "source": "https://de.nissan.ch/fahrzeuge/neuwagen/ariya.html"
+ },
+ "nissan-qashqai": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALL-MODE 4x4-i",
+  "note": "4WD only with the 1.3 Mild-Hybrid 158 PS Xtronic (not on ACENTA); e-POWER 190/205 PS is FWD only (CH MY25.5 price list valid from 01.01.2026)",
+  "confidence": "high",
+  "source": "https://document.astara-partner.com/document/Nissan/CH/qashqai/de-ch"
+ },
+ "nissan-x-trail": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "e-4ORCE",
+  "note": "e-POWER 204 PS FWD (5 seats, N-CONNECTA only) or e-4ORCE 214 PS AWD (5 or 7 seats); the CH list has no mild-hybrid version",
+  "confidence": "high",
+  "source": "https://document.astara-partner.com/document/Nissan/CH/X-TrailCH/de-ch"
+ },
+ "nissan-townstar-kombi": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and electric, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-primastar-kombi": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 dCi diesel, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-townstar-van-small": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and electric, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-primastar-van-mid": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 dCi diesel, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-interstar": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only: dCi 130/150/170 diesel and Interstar-e 40/87 kWh; the CH brochure and price list (MY25) list no RWD, twin-wheel or 4x4 version",
+  "confidence": "high",
+  "source": "https://www-europe.nissan-cdn.net/content/dam/Nissan/ch/Pricelists-and-Brochures/NewInterstar/neuer-interstar-broschuere.pdf"
+ },
+ "firefly-firefly": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (105 kW)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-et5": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "ET5 and ET5 Touring, runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-el6": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-et7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-el7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-el8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "dongfeng-box": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor (70/95 kW)",
+  "confidence": "medium",
+  "source": null
+ },
+ "voyah-courage": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD (two motors)",
+  "note": "Single-motor versions are rear-wheel drive (rear motor); the Norwegian importer also lists a two-motor 4WD version (320 kW)",
+  "confidence": "high",
+  "source": "https://www.voyah.no/voyah-courage"
+ },
+ "voyah-free": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD (two motors)",
+  "note": "Two-motor all-wheel drive only (360 kW / 489 PS); voyah.no now marks it as a discontinued model (used cars only), the Dutch importer still lists it",
+  "confidence": "high",
+  "source": "https://www.voyah.no/voyah-free"
+ },
+ "mhero-mhero-i": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Multi-motor electric off-roader, AWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "voyah-dream": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD (two motors)",
+  "note": "Two-motor 4WD only (320 kW); voyah.no marks it as discontinued (used cars only), the Dutch importer still lists it",
+  "confidence": "high",
+  "source": "https://www.voyah.no/voyah-dream"
+ },
+ "renault-trucks-trafic": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 Blue dCi diesel, FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "renault-trucks-master": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Master IV diesel and E-Tech electric are FWD; its twin, the Nissan Interstar, is FWD only in the CH brochure. Not checked whether Renault Trucks also lists RWD heavy versions or 4x4 conversions",
+  "confidence": "medium",
+  "source": null
+ },
+ "lucid-air": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Air Pure is single-motor RWD; Touring and Grand Touring are dual-motor AWD; Sapphire is tri-motor AWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "lucid-gravity": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Touring and Grand Touring are dual-motor AWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "isuzu-d-max": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Most versions are 4x4 (shift-on-the-fly); 4x2 only on base Single Cab in some markets; the D-Max EV is 4x4",
+  "confidence": "medium",
+  "source": null
+ },
+ "mini-cooper": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions FWD: Cooper C/S/JCW (3- and 5-door) and electric Cooper E/SE/JCW Electric",
+  "confidence": "high",
+  "source": "https://www.mini.de/content/dam/MINI/marketDSM_DE/mini_de/brochures/brochures2025/F66_F65_MINI_3T_5T_ICE_0725_Ausgabe1_Produktflyer_V2.pdf.asset.1769526056530.pdf"
+ },
+ "mini-aceman": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions FWD (Aceman E, SE and JCW Aceman); no ALL4",
+  "confidence": "high",
+  "source": null
+ },
+ "bmw-1-series": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "FWD on 116, 118d, 120, 120d; xDrive on 123 xDrive and M135 xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw1er.pdf.coredownload.pdf"
+ },
+ "bmw-2-series-gran-coupe": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "FWD on 216, 218d, 220, 220d; xDrive on 223 xDrive and M235 xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw2er-grancoupe.pdf.coredownload.inline.pdf"
+ },
+ "bmw-x1": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "sDrive (FWD) on 18i, 20i, 18d, 20d and iX1 eDrive20; xDrive on 23i, 20d, 23d, PHEV 25e/30e, M35i and iX1 xDrive30",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwx1-003.pdf.coredownload.inline.pdf"
+ },
+ "bmw-x2": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "sDrive (FWD) on 20i, 18d, 20d and iX2 eDrive20; xDrive on xDrive20d, M35i xDrive and iX2 xDrive30",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwx2.pdf.coredownload.inline.pdf"
+ },
+ "mini-countryman": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALL4",
+  "note": "FWD on ONE, C, D and electric E; ALL4 on S ALL4, electric SE ALL4 and JCW ALL4",
+  "confidence": "high",
+  "source": "https://www.mini.de/content/dam/MINI/marketDSM_DE/mini_de/brochures/brochures2025/U25_MINI_Countryman_ICE_0725_Ausgabe1_Produktflyer_V2.pdf.asset.1769526063826.pdf"
+ },
+ "bmw-3-series": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "RWD on 318i/320i/318d/320d and 330e Limousine; xDrive on 320d/330d/330i/330e xDrive, M340i/M340d xDrive and M3 (M xDrive; M3 Touring xDrive only). New G50 (revealed 30 Sep 2026): 318/320 RWD, 330/M350 xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.ch/de/bmw-neuwagen/3-er-Modelle/bmw-3-er-touring/bmw-3er-touring-technische-daten.html"
+ },
+ "bmw-4-series-gran-coupe": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "RWD on 420i, 420d and i4 eDrive35/eDrive40; xDrive on 420d xDrive, 430i/430d xDrive, M440i xDrive, i4 xDrive40 and i4 M60 xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw4er-grancoupe.pdf.coredownload.inline.pdf"
+ },
+ "bmw-i3": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "Only dual-motor versions so far: i3 40 xDrive and i3 50 xDrive (DE price list Nov 2026); no RWD version announced yet",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwi3.pdf.coredownload.pdf"
+ },
+ "bmw-x3": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "All European versions xDrive (20, 20d, 40d, 30e PHEV, M50); the RWD X3 20 sDrive is sold only outside Europe (Mexico)",
+  "confidence": "high",
+  "source": "https://www.bmw.ch/de/bmw-neuwagen/x/x3/bmw-x3.html"
+ },
+ "bmw-ix3": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "RWD on the single-motor iX3 40 (added late 2026); xDrive on iX3 40 xDrive and iX3 50 xDrive (CH launch March 2026 with 50 xDrive)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwiX3-50-xdrive.pdf.coredownload.pdf"
+ },
+ "bmw-ix4": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "Revealed 8 Oct 2026, deliveries 2027: iX4 40 RWD; iX4 50 xDrive and iX4 M60 xDrive dual motor",
+  "confidence": "medium",
+  "source": "https://en.wikipedia.org/wiki/BMW_iX4"
+ },
+ "bmw-5-series": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "RWD on 520i, 520d, 530e and i5 eDrive40; xDrive on 520d xDrive, 530e xDrive, 540d xDrive, 550e xDrive, i5 xDrive40, i5 M60 xDrive and M5 (M xDrive)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw5er2026.pdf.coredownload.pdf"
+ },
+ "bmw-7-series": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "Facelifted range is xDrive only: 740 xDrive, 740d xDrive, 750e xDrive, M760e xDrive, i7 50/60/M70 xDrive; the former RWD i7 eDrive50 is no longer listed (DE price list Nov 2026)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw7er.pdf.coredownload.pdf"
+ },
+ "rolls-royce-ghost": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "All-wheel drive",
+  "note": "All-wheel drive and all-wheel steering on all versions (Ghost, Extended, Black Badge)",
+  "confidence": "high",
+  "source": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445483EN/ghost-series-ii:-the-most-advanced-driver-focused-v12-rolls-royce-ever-created?language=en"
+ },
+ "rolls-royce-phantom": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD with all-wheel steering (standard and Extended)",
+  "confidence": "high",
+  "source": null
+ },
+ "bmw-x5": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "G65 range all xDrive: X5 40 xDrive, 40d xDrive, 50e xDrive, M60e xDrive and electric iX5 60 xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwx5-2026.pdf.asset.1782794871974.pdf"
+ },
+ "bmw-x6": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "All versions xDrive (xDrive40i, xDrive30d, xDrive40d, M60i xDrive, X6 M Competition)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwx62026.pdf.coredownload.pdf"
+ },
+ "bmw-x7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "All versions xDrive (xDrive40i, xDrive40d, M60i xDrive)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwx7.pdf.coredownload.pdf"
+ },
+ "bmw-xm": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "M xDrive",
+  "note": "XM 50e and XM Label, both PHEV with M xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwxm.pdf.coredownload.pdf"
+ },
+ "bmw-ix": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "All versions dual-motor xDrive (xDrive45, xDrive60, M70 xDrive)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmwix.pdf.coredownload.inline.pdf"
+ },
+ "rolls-royce-cullinan": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "All-wheel drive",
+  "note": "All-wheel drive and all-wheel steer on all versions incl. Black Badge",
+  "confidence": "high",
+  "source": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0280959EN/effortless-everywhere:-the-rolls-royce-cullinan"
+ },
+ "bmw-2-series-coupe": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "RWD on 218i, 220i, 230i, 220d and M2; xDrive on M240i xDrive and the new M2 M xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw2er.pdf.coredownload.pdf"
+ },
+ "bmw-4-series": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "RWD on 420i, 420d and M4 (manual/Competition); xDrive on 420d xDrive, 430i/430d xDrive, M440i/M440d xDrive and M4 Competition M xDrive (Coupé and Cabrio)",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw4er.pdf.coredownload.pdf"
+ },
+ "mini-cooper-cabrio": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All versions FWD (C, S, JCW)",
+  "confidence": "high",
+  "source": null
+ },
+ "rolls-royce-spectre": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "All-wheel drive",
+  "note": "Two motors, front and rear (190 kW front, 360 kW rear) on all versions incl. Black Badge and Series II",
+  "confidence": "high",
+  "source": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0422818EN/rolls-royce-spectre:-the-rolls-royce-that-changes-everything?language=en"
+ },
+ "bmw-2-series-active-tourer": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "xDrive",
+  "note": "FWD on 218i, 220i, 218d, 220d; xDrive on 223i xDrive, 223d xDrive and PHEV 225e/230e xDrive",
+  "confidence": "high",
+  "source": "https://www.bmw.de/content/dam/bmw/marketDE/bmw_de/new-vehicles/pricelists/preisliste-bmw2er-activetourer.pdf.coredownload.inline.pdf"
+ },
+ "chery-tiggo-4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5 TGDI petrol and 1.5 hybrid both FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "omoda-omoda-5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.6 TGDI petrol, SHS-H hybrid and E5 electric all FWD",
+  "confidence": "high",
+  "source": "https://omodaauto.co.uk/omoda-5/"
+ },
+ "omoda-omoda-7": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.6 TGDI petrol and SHS-P plug-in hybrid both FWD",
+  "confidence": "high",
+  "source": "https://omodaauto.co.uk/omoda-7/"
+ },
+ "jaecoo-jaecoo-5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and E5 electric both FWD",
+  "confidence": "high",
+  "source": "https://jaecoo.co.uk/jaecoo-5/"
+ },
+ "jaecoo-jaecoo-7": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 1.6 T-GDI petrol (Luxury trim, UK); SHS-P plug-in and SHS-H hybrid are FWD",
+  "confidence": "high",
+  "source": "https://jaecoo.co.uk/jaecoo-7/"
+ },
+ "chery-tiggo-7": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.6 TGDI petrol, Super Hybrid (CSH) plug-in and hybrid all FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "omoda-omoda-9": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "SHS-P plug-in hybrid with two electric motors, AWD standard ('intelligent all-wheel drive')",
+  "confidence": "high",
+  "source": "https://omodaauto.co.uk/omoda-9/"
+ },
+ "jaecoo-jaecoo-8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "SHS-P 1.5T 3DHT plug-in hybrid, AWD standard (6- and 7-seat)",
+  "confidence": "high",
+  "source": "https://jaecoo.co.uk/jaecoo-8/"
+ },
+ "chery-tiggo-8": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.6 TGDI petrol and Super Hybrid (CSH) plug-in both FWD; the plug-in uses the same single-motor DHT system as the FWD Jaecoo 7 SHS",
+  "confidence": "medium",
+  "source": "https://evfleetworld.co.uk/chery-tiggo-8-seven-seat-suv-hits-uk-in-petrol-and-phev-form/"
+ },
+ "chery-tiggo-9": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Super Hybrid (CSH) plug-in with 1.5T and three motors, AWD standard (same system as the Jaecoo 8)",
+  "confidence": "medium",
+  "source": null
+ },
+ "lepas-l8": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "SHS-P 1.5T plug-in hybrid with front-wheel drive (spec confirmed for Indonesia; UK/EU spec page not reachable)",
+  "confidence": "medium",
+  "source": "https://en.wikipedia.org/wiki/Lepas_L8"
+ },
+ "mitsubishi-colt": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and full hybrid both FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "mitsubishi-asx": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol, mild hybrid and full hybrid all FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "mitsubishi-eclipse-cross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Electric model with a single front motor; the former 4WD Eclipse Cross PHEV is no longer sold",
+  "confidence": "high",
+  "source": null
+ },
+ "mitsubishi-grandis": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Full hybrid and mild hybrid both FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "mitsubishi-outlander": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "S-AWC (Twin Motor 4WD)",
+  "note": "Plug-in hybrid with front and rear motors, 4WD on all versions",
+  "confidence": "high",
+  "source": null
+ },
+ "mitsubishi-l200": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD (Super Select 4WD-II / Easy Select 4WD)",
+  "note": "European versions are 4WD (part-time Easy Select on lower trims, Super Select 4WD-II on upper trims)",
+  "confidence": "medium",
+  "source": null
+ },
+ "aston-martin-dbx": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD (DBX, DBX S, DBX707)",
+  "confidence": "high",
+  "source": null
+ },
+ "aston-martin-db12": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD (Coupé, Volante, DB12 S)",
+  "confidence": "high",
+  "source": null
+ },
+ "aston-martin-valhalla": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "V8 drives the rear axle, two electric motors drive the front axle; pure-EV mode is front-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "aston-martin-vanquish": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD (Coupé and Volante)",
+  "confidence": "high",
+  "source": null
+ },
+ "aston-martin-vantage": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD (Coupé, Roadster, Vantage S)",
+  "confidence": "high",
+  "source": null
+ },
+ "vinfast-vf-6": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor on Eco and Plus",
+  "confidence": "high",
+  "source": null
+ },
+ "vinfast-vf-8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Eco and Plus both dual-motor AWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ineos-grenadier": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Permanent 4x4 with low-range transfer case on all versions (Station Wagon and Utility Wagon, petrol and diesel)",
+  "confidence": "high",
+  "source": null
+ },
+ "ineos-quartermaster": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Permanent 4x4 with low-range transfer case on all versions (petrol and diesel)",
+  "confidence": "high",
+  "source": null
+ },
+ "caterham-seven": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "mobilize-duo": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Rear-wheel drive (propulsion); orders stopped end of 2025, runout only",
+  "confidence": "medium",
+  "source": "https://www.automobile-propre.com/voitures/mobilize-duo/fiche-technique"
+ },
+ "renault-twingo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "dacia-spring": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-clio": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-renault-5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only; the limited-series R5 Turbo 3E (rear in-wheel motors, RWD) is not counted (deliveries planned from 2027)",
+  "confidence": "high",
+  "source": null
+ },
+ "dacia-sandero": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Sandero Stepway is FWD only as well",
+  "confidence": "high",
+  "source": null
+ },
+ "alpine-a290": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-captur": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-renault-4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only (optional 'Extended Grip' traction control); 4x4 versions (4 Savane 4x4, JP 4x4) are concepts only",
+  "confidence": "high",
+  "source": "https://de.renault.ch/elektroautos/renault-4.html"
+ },
+ "renault-megane-e-tech": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-austral": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "4Control is four-wheel steering, not AWD",
+  "confidence": "high",
+  "source": null
+ },
+ "renault-scenic-e-tech": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor only; no dual-motor version",
+  "confidence": "high",
+  "source": "https://de.renault.ch/elektroautos/scenic-etech-electric.html"
+ },
+ "renault-symbioz": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "dacia-bigster": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 via the new hybrid 150 4x4 (48V mild-hybrid 1.2 petrol on the front axle + electric rear-axle motor, 6-speed DCT; bi-fuel 'hybrid-G 150 4x4' in LPG markets); hybrid 155 and LPG versions FWD; the earlier manual mild hybrid 140 4x4 may still be listed in some markets",
+  "confidence": "high",
+  "source": "https://de.dacia.ch/4x4-antrieb.html"
+ },
+ "dacia-duster": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 via the new hybrid 150 4x4 (48V mild-hybrid 1.2 petrol on the front axle + electric rear-axle motor, 6-speed DCT; bi-fuel 'hybrid-G 150 4x4' in LPG markets); hybrid 155 and LPG versions FWD; the earlier manual 4x4 may still be listed in some markets",
+  "confidence": "high",
+  "source": "https://de.dacia.ch/hybrid-and-electric-range/duster-suv.html"
+ },
+ "dacia-striker": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 only with the hybrid 150 4x4 (mild-hybrid petrol + electric rear axle) listed on the Swiss site; hybrid 155 and LPG versions FWD",
+  "confidence": "medium",
+  "source": "https://de.dacia.ch/hybrid-and-electric-range/striker.html"
+ },
+ "alpine-a390": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (tri-motor)",
+  "note": "GT and GTS both have three motors (one front, two rear with torque vectoring); no 2WD version",
+  "confidence": "high",
+  "source": "https://www.automobile-propre.com/articles/alpine-a390-avec-un-peu-de-retard-la-version-gts-et-ses-470-ch-est-enfin-disponible-a-la-commande/"
+ },
+ "renault-espace": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Full hybrid E-Tech 200 only; 'Allradlenkung' (4Control) is four-wheel steering, not AWD",
+  "confidence": "high",
+  "source": "https://de.renault.ch/hybrid/renault-espace-2025.html"
+ },
+ "renault-rafale": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-Tech 4x4",
+  "note": "AWD only with the E-Tech 4x4 300 PS plug-in hybrid (rear e-motor); full hybrid 200 is FWD",
+  "confidence": "high",
+  "source": "https://de.renault.ch/hybrid/rafale-e-tech-hybrid.html"
+ },
+ "alpine-a110": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Runout (final editions)",
+  "confidence": "high",
+  "source": null
+ },
+ "renault-kangoo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "dacia-jogger": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-trafic-passenger": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No factory 4x4; third-party conversions are not listed by Renault",
+  "confidence": "high",
+  "source": null
+ },
+ "renault-kangoo-van": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "renault-trafic-van-mid": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Diesel and E-Tech electric both FWD; no 4x4 in the Renault CH line-up",
+  "confidence": "high",
+  "source": "https://de.business.renault.ch/nutzfahrzeuge/trafic-van.html"
+ },
+ "renault-master": {
+  "drives": [
+   "FWD",
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD on long (L3/L4) and heavy chassis-cab versions; L2 FWD only; no 4x4 listed by Renault for the new generation",
+  "confidence": "medium",
+  "source": "https://www.drive.com.au/news/2025-renault-master-unveiled/"
+ },
+ "byd-dolphin-surf": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "byd-dolphin": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "byd-dolphin-g": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single DM-i plug-in hybrid model; no AWD version listed",
+  "confidence": "medium",
+  "source": "https://www.byd.com/eu/hybrid-cars/dolphin-g"
+ },
+ "byd-atto-2": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "BEV (single front drive motor) and Atto 2 DM-i plug-in hybrid both FWD; no AWD version listed",
+  "confidence": "high",
+  "source": "https://www.byd.com/eu/electric-cars/atto-2"
+ },
+ "byd-atto-3": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Atto 3 EVO (2026): single rear motor 230 kW RWD or dual-motor 330 kW AWD; the pre-facelift Atto 3 was FWD",
+  "confidence": "high",
+  "source": "https://www.byd.com/material/byd-site/de/preview/ATTO_3_Evo_Brochure.pdf"
+ },
+ "byd-seal": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Comfort (170 kW) and Design (230 kW) RWD; Excellence AWD 390 kW dual motor",
+  "confidence": "high",
+  "source": "https://www.byd.com/material/byd-site/de/preview/SEAL_2026_Brochure_DE.pdf"
+ },
+ "byd-seal-6": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Saloon and Touring both FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "byd-seal-u": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the top DM-i version (dual motor, 0-100 km/h 5.9 s); Boost/Comfort FWD",
+  "confidence": "high",
+  "source": "https://www.byd.com/eu/hybrid-cars/seal-u-dm-i"
+ },
+ "byd-sealion-5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single DM-i plug-in hybrid model; no AWD version listed",
+  "confidence": "medium",
+  "source": "https://www.byd.com/eu/hybrid-cars/sealion-5-dm-i"
+ },
+ "byd-sealion-7": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Comfort RWD (single rear motor); Design and Excellence AWD (dual motor)",
+  "confidence": "high",
+  "source": "https://www.byd.com/eu/electric-cars/sealion-7"
+ },
+ "denza-z9-gt": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (tri-motor)",
+  "note": "Z9GT EV: three motors (one front, two rear) with AWD on the e³ platform; Z9GT DM-i plug-in hybrid also listed (specs pending, tri-motor AWD as in China)",
+  "confidence": "medium",
+  "source": "https://www.denza.com/de/z9gt"
+ },
+ "byd-tang": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allradantrieb / AWD",
+  "note": "Electric 7-seater sold only as dual-motor AWD",
+  "confidence": "high",
+  "source": "https://www.byd.com/de/e-fahrzeuge/tang"
+ },
+ "byd-ti-7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "DM-p",
+  "note": "Sold as Ti 7 DM-p (performance plug-in hybrid with front and rear motors); UK page names only the DM-p model and does not spell out the drive layout",
+  "confidence": "medium",
+  "source": "https://www.byd.com/uk/hybrid-cars/ti-7"
+ },
+ "denza-d9": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (DM-i)",
+  "note": "Only the D9 DM-i plug-in hybrid is listed in Germany, with AWD ('Das DM-i System gewährleistet Allradantrieb'); BEV D9 not listed on the DE site; specs still preliminary",
+  "confidence": "medium",
+  "source": "https://www.denza.com/de/d9"
+ },
+ "byd-shark": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "intelligenter Allradantrieb (DMO)",
+  "note": "DMO plug-in hybrid pickup with intelligent AWD; no 2WD version listed",
+  "confidence": "high",
+  "source": "https://www.byd.com/de/hybrid-fahrzeuge/shark"
+ },
+ "ora-ora-03": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ora-ora-5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5 turbo petrol (DCT) and hybrid (DHT) listed with no AWD option; electric version (150 kW) marked coming soon",
+  "confidence": "medium",
+  "source": "https://www.gwm-motor.de/ora-5"
+ },
+ "wey-wey-03": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "2.0 PHEV: FWD (front e-motor 120 kW, 270 kW system) or AWD (front 120 kW + rear 135 kW e-motors, 325 kW system); marked 'Auslaufmodell' (runout) in Germany",
+  "confidence": "high",
+  "source": "https://www.gwm-motor.de/wey"
+ },
+ "haval-jolion-pro": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5 turbo (130 kW) with 7-speed DCT; no AWD listed",
+  "confidence": "high",
+  "source": "https://www.gwm-motor.de/haval"
+ },
+ "wey-wey-05": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "2.0 PHEV with front (120 kW) and rear (135 kW) e-motors, 350 kW system, AWD only; marked 'Auslaufmodell' (runout) in Germany",
+  "confidence": "high",
+  "source": "https://www.gwm-motor.de/wey"
+ },
+ "haval-h6": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "H6 Hybrid (1.5 turbo + 130 kW e-motor, 179 kW system) only; no AWD listed (GWM Germany labels FWD/AWD only for the separate H7)",
+  "confidence": "high",
+  "source": "https://www.gwm-motor.de/haval"
+ },
+ "cadillac-optiq": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual-Motor-Allradantrieb (AWD)",
+  "note": "Standard dual-motor AWD; no RWD version listed in Switzerland",
+  "confidence": "high",
+  "source": "https://www.cadillaceurope.com/ch-de/optiq"
+ },
+ "cadillac-lyriq": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD (Allradantrieb)",
+  "note": "Standard dual-motor AWD (528 PS, Sport/Luxury); Lyriq-V also AWD; no RWD version in Europe",
+  "confidence": "high",
+  "source": "https://www.cadillaceurope.com/ch-de/lyriq"
+ },
+ "cadillac-vistiq": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dualmotor-Allradantrieb (AWD)",
+  "note": "Standard dual-motor AWD (646 PS); no RWD version",
+  "confidence": "high",
+  "source": "https://www.cadillaceurope.com/ch-de/vistiq"
+ },
+ "chevrolet-corvette": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allradantrieb (E-Ray eAWD)",
+  "note": "AWD only on the E-Ray hybrid (electric front axle); Stingray and Z06 RWD; ZR1 not listed on the European site",
+  "confidence": "high",
+  "source": "https://www.chevroleteurope.com/de-de"
+ },
+ "tesla-model-3": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor AWD (Allradantrieb)",
+  "note": "Standard and Premium RWD single motor; Premium Long Range AWD and Performance dual motor",
+  "confidence": "high",
+  "source": null
+ },
+ "tesla-model-y": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor AWD (Allradantrieb)",
+  "note": "Standard and Premium RWD single motor; Premium Long Range AWD and Performance dual motor",
+  "confidence": "high",
+  "source": null
+ },
+ "piaggio-porter-np6": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Rear-drive micro truck (single or dual-tyre rear axle, standard or short final drive for HD versions); no 4x4 offered",
+  "confidence": "high",
+  "source": "https://commercial.piaggio.com/en_EN/thermal-range/"
+ },
+ "mg-mg3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol (manual) and Hybrid+ are both front-wheel drive",
+  "confidence": "high",
+  "source": "https://www.mgmotor.ch/de/configurator"
+ },
+ "mg-zs": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5 petrol and Hybrid+ are both front-wheel drive",
+  "confidence": "high",
+  "source": "https://www.mgmotor.ch/de/configurator"
+ },
+ "mg-mg4": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "XPOWER",
+  "note": "Single-motor versions are RWD; AWD only on the dual-motor MG4 XPOWER (320 kW), still offered for MY26",
+  "confidence": "high",
+  "source": "https://www.mgmotor.de/"
+ },
+ "mg-mg4-urban": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front motor, FWD only (43 and 54 kWh)",
+  "confidence": "high",
+  "source": "https://www.electrive.com/2026/01/29/mg-introduces-new-mg4-to-europe-initially-only-in-the-uk"
+ },
+ "mg-hs": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5T petrol, Hybrid+ and PHEV are all front-wheel drive; no AWD in Europe",
+  "confidence": "high",
+  "source": "https://completecar.ie/car-reviews/article/MG/HS/HS_PHEV_(2025)/2542/14064/2025-MG-HS-PHEV-(2025)-review.html"
+ },
+ "mg-mgs5-ev": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor, RWD only",
+  "confidence": "high",
+  "source": "https://drive-electric.co.uk/news/mg-introduces-the-mgs5-ev-a-new-all-electric-suv"
+ },
+ "mg-im5": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD single motor 300 kW (CH: 100 Long Range, DE: 100 kWh Premium); AWD dual motor 553 kW (CH: 100 Performance, DE: 100 kWh Premium AWD)",
+  "confidence": "high",
+  "source": "https://www.mgmotor.de/model/im5"
+ },
+ "mg-im6": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD single motor 300 kW (CH: 100 Long Range, DE: 100 kWh Premium); AWD dual motor 553 kW (CH: 100 Performance, DE: 100 kWh Premium AWD)",
+  "confidence": "high",
+  "source": "https://www.mgmotor.de/model/im6"
+ },
+ "mg-mgs6-ev": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD single motor; AWD dual motor (DE: Luxury AWD, UK: Trophy Dual Motor 266 kW) with the 77 kWh battery only",
+  "confidence": "high",
+  "source": "https://www.mgmotor.de/model/mgs6"
+ },
+ "mg-mgs9-phev": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5T plug-in hybrid (HS PHEV drivetrain), front-wheel drive only",
+  "confidence": "high",
+  "source": "https://www.completecar.ie/car-reviews/article/MG/S9/S9_PHEV_(2026)/2685/14791/2026-MG-S9-PHEV-(2026)-review.html"
+ },
+ "mg-cyberster": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "XPOWER",
+  "note": "Base Cyberster (Trophy) single motor 250 kW RWD; Cyberster XPOWER (formerly GT) dual motor 375 kW AWD",
+  "confidence": "high",
+  "source": "https://www.mgmotor.de/model/cyberster"
+ },
+ "maxus-mifa-7": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single 180 kW front motor, FWD only",
+  "confidence": "high",
+  "source": "https://ev-database.org/imp/car/2293/Maxus-MIFA-7-90-kWh"
+ },
+ "maxus-mifa-9": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single 180 kW front motor (same drive unit as Mifa 7), FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "maxus-edeliver-3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front motor, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "maxus-edeliver-5-van-mid": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-mounted 120 kW motor on every version (UK launch report); no AWD",
+  "confidence": "medium",
+  "source": "https://evpowered.co.uk/news/electric-powered-commercial-vehicle-news/maxus-launches-edeliver-5-cargo-van-and-mifa-7-mpv/"
+ },
+ "maxus-edeliver-7": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Allradantrieb (two motors)",
+  "note": "Front-wheel drive standard; an all-wheel-drive version with two motors is offered in Germany since February 2025. Diesel Deliver 7 is FWD",
+  "confidence": "medium",
+  "source": "https://ecomento.de/modelle/maxus-edeliver-7/"
+ },
+ "maxus-edeliver-9": {
+  "drives": [
+   "FWD",
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "eDeliver 9 (BEV) is FWD; diesel Deliver 9 is offered with FWD or RWD (RWD on heavier vans and chassis cabs)",
+  "confidence": "medium",
+  "source": "https://www.vanguide.co.uk/vans/maxus/maxus-deliver-9-mwb-rwd"
+ },
+ "maxus-t60-max": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Sold in Europe as 2.0 diesel double cab with selectable 4WD and low range; no 2WD version seen",
+  "confidence": "medium",
+  "source": "https://gbcarleasing.co.uk/maxus-van-lease-deals/business/t60-max/pickup-diesel-2-0-double-cab-pickup-4wd-auto"
+ },
+ "maxus-t90-ev": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor, RWD only; run-out",
+  "confidence": "medium",
+  "source": null
+ },
+ "maxus-eterron-9": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Dual-motor all-wheel drive only",
+  "confidence": "high",
+  "source": "https://evpowered.co.uk/news/commercial-vehicles/maxus-eterron-9-revealed-as-europes-first-4x4-electric-pick-up/"
+ },
+ "ford-puma": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mild-hybrid EcoBoost and Puma Gen-E are both FWD",
+  "confidence": "high",
+  "source": "https://www.de.ford.ch/hybrid-elektrisch"
+ },
+ "ford-capri": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD single motor; AWD dual motor (250 kW) only with the Extended Range battery",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-explorer": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD single motor; AWD dual motor (250 kW) only with the Extended Range battery",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-kuga": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 2.5 Full Hybrid (FHEV); 1.5 EcoBoost and PHEV are FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ford-mustang-mach-e": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD single motor (Standard/Extended Range); AWD dual motor on Extended Range AWD, GT and Rally",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-bronco": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 only (2.7 EcoBoost V6, Badlands and Outer Banks); not officially sold in Switzerland",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-mustang": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "RWD only (5.0 V8 GT, Dark Horse, GTD)",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-tourneo-connect": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 2.0 EcoBlue diesel; petrol and PHEV are FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ford-tourneo-courier": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and E-Tourneo Courier are both FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-tourneo-custom": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 2.0 EcoBlue diesel; PHEV is FWD; E-Tourneo Custom is RWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ford-transit-connect": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 2.0 EcoBlue diesel; PHEV is FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ford-transit-courier": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol, diesel and E-Transit Courier are all FWD",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-transit-city": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "JMC-built electric van; the 110 kW motor drives the front wheels. Orders from Q2 2026, first deliveries Q4 2026",
+  "confidence": "medium",
+  "source": "https://www.eurotransport.de/fahrzeuge/transporter/ford-transit-city-premiere-neue-elektro-transporter-vielfalt/"
+ },
+ "ford-transit-custom": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 2.0 EcoBlue diesel; PHEV is FWD; E-Transit Custom is RWD",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-transit": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Diesel offered with FWD, RWD or AWD; E-Transit is RWD",
+  "confidence": "high",
+  "source": null
+ },
+ "ford-ranger": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 only in Europe, incl. Raptor and PHEV (part-time or permanent 4WD); no 4x2 seen",
+  "confidence": "medium",
+  "source": null
+ },
+ "subaru-impreza": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Symmetrical AWD",
+  "note": "2.0i e-Boxer, AWD standard",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/impreza"
+ },
+ "subaru-crosstrek": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Symmetrical AWD",
+  "note": "AWD standard on all versions",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/crosstrek"
+ },
+ "subaru-forester": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Symmetrical AWD",
+  "note": "AWD standard on all versions",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/forester"
+ },
+ "subaru-uncharted": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "FWD (4x2) with 58 or 77 kWh; AWD (4x4, dual motor, 252 kW / 343 PS) only with 77 kWh (CH: Classic 4x4, Luxury 4x4)",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/uncharted"
+ },
+ "subaru-e-outback": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Dual-motor AWD only (74.7 kWh)",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/e-outback"
+ },
+ "subaru-outback": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Symmetrical AWD",
+  "note": "2.5i Final Edition (run-out), AWD standard",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/outback"
+ },
+ "subaru-solterra": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Dual-motor AWD only (252 kW / 343 PS, 73.1 kWh); no FWD in CH or DE",
+  "confidence": "high",
+  "source": "https://www.subaru.ch/de/modelle/solterra"
+ },
+ "dr-dr-1-0-ev": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Rear-wheel drive ('la trazione è posteriore'), 45 kW motor; Italy only",
+  "confidence": "medium",
+  "source": "https://www.alvolante.it/news/dr-1-0-ev-caratteristiche-prezzo-381952"
+ },
+ "dr-dr-3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and LPG, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "dr-dr-5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol, LPG and HEV, FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "dr-dr-6": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol, LPG and PHEV, FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "dr-dr-7": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and LPG, FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "dr-dr-pk8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "2.0 turbodiesel double cab, 4x4 only",
+  "confidence": "medium",
+  "source": null
+ },
+ "ebro-s400": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Hybrid (Chery CSH), FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "ebro-s700": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.6 TGDI petrol, HEV and PHEV, all FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ebro-s800": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.6 TGDI petrol and PHEV, both FWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "ebro-s900": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Plug-in hybrid with 1.5T petrol and three motors (two front, one rear), 425 PS; the only version sold in Spain is 4x4",
+  "confidence": "high",
+  "source": "https://movilidadelectrica.com/ebro-s900-phev-sistema-traccion/"
+ },
+ "pagani-utopia": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined AMG V12, RWD (coupé and Roadster); run-out",
+  "confidence": "high",
+  "source": null
+ }
+}
