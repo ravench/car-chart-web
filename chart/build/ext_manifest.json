@@ -1,0 +1,1790 @@
+{
+ "aston-martin-db12": {
+  "side": {
+   "url": null,
+   "page": "https://www.astonmartin.com/en/models/db12",
+   "source": "manufacturer website (astonmartin.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "press photo, background removed",
+   "angle": "side",
+   "src": "misc2/aston-martin-db12-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/aston-martin/db12/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "zig5/db12-0-FullFrontViewofDB12",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "aston-martin-valhalla": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/aston-martin/valhalla/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "zigwheels/aston-martin-valhalla-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/aston-martin/valhalla/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "zigwheels/aston-martin-valhalla-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "audi-a2-e-tron": {
+  "side": {
+   "url": null,
+   "page": "https://www.audi.com/en/photos/detail/audi-a2-e-tron-133575",
+   "source": "manufacturer website (audi.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "near-side view, background removed",
+   "angle": "side",
+   "src": "batch1/audi-a2-e-tron-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "audi-q9": {
+  "side": {
+   "url": null,
+   "page": "https://www.audi.com/en/photos/detail/audi-sq9-suv-133048",
+   "source": "manufacturer website (audi.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, near-side view (slight angle), background removed",
+   "angle": "side",
+   "src": "batch1/audi-q9-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.audi.com/en/photos/detail/audi-q9-suv-133035",
+   "source": "manufacturer website (audi.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "batch1/audi-q9-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "bmw-i3": {
+  "side": {
+   "url": null,
+   "page": "https://www.bmw.com/",
+   "source": "manufacturer website (bmw.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed, mirrored",
+   "angle": "side",
+   "src": "bmw/bmw-i3-stage",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.bmw.com/",
+   "source": "manufacturer website (bmw.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "bmw/bmw-i3-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "bmw-ix4": {
+  "side": {
+   "url": null,
+   "page": "https://www.bmw.com/",
+   "source": "manufacturer website (bmw.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo seen slightly from the rear, background removed, mirrored",
+   "angle": "side",
+   "src": "bmw/bmw-ix4-rear-view",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.bmw.com/",
+   "source": "manufacturer website (bmw.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "bmw/bmw-ix4-front-view",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "byd-sealion-5": {
+  "side": {
+   "url": null,
+   "page": "https://www.byd.com/eu/hybrid-cars/sealion-5-dm-i",
+   "source": "manufacturer website (byd.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension drawing (side view cropped from the three-view figure)",
+   "angle": "side",
+   "src": "china/byd-sealion-5-side",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "byd-shark": {
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/byd/shark-6/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "zig3/shark6-0-FullFrontViewofShark6",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "bugatti-tourbillon": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/bugatti/tourbillon/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "dark studio photo, background removed, mirrored",
+   "angle": "side",
+   "src": "zigwheels/bugatti-tourbillon-side",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/bugatti/tourbillon/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "studio photo, background removed",
+   "angle": "front",
+   "src": "zigwheels/bugatti-tourbillon-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "chery-tiggo-4": {
+  "side": {
+   "url": null,
+   "page": "https://www.chery.co.za/",
+   "source": "manufacturer website (chery.co.za)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "china/chery-tiggo-4-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "chery-tiggo-9": {
+  "side": {
+   "url": null,
+   "page": "https://www.chery.co.za/",
+   "source": "manufacturer website (chery.co.za)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "china/chery-tiggo-9-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "citroen-jumper": {
+  "side": {
+   "url": null,
+   "page": "https://www.citroen.ch/",
+   "source": "manufacturer website (citroen.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "citroen/citroen-jumper-bcc576",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.citroen.ch/",
+   "source": "manufacturer website (citroen.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "citroen/citroen-jumper-hero",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "dr-dr-1-0-ev": {
+  "front": {
+   "url": null,
+   "page": "https://drautomobiles.com/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "driving photo, near-front view (slight angle), background removed",
+   "angle": "front",
+   "src": "ebro/dr-1-motor",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "dr-dr-3": {
+  "side": {
+   "url": null,
+   "page": "https://drautomobiles.com/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "near-side view",
+   "angle": "side",
+   "src": "dr/dr-3-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "dr-dr-5": {
+  "side": {
+   "url": null,
+   "page": "https://drautomobiles.com/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "DR 5 HEV",
+   "angle": "side",
+   "src": "dr/dr-5-hev",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "dr-dr-pk8": {
+  "side": {
+   "url": null,
+   "page": "https://drautomobiles.com/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "near-side view, small source image",
+   "angle": "side",
+   "src": "dr/dr-pk8-side2",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ds-n-7": {
+  "side": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/fr-fr/ds/press/ds-n07-le-suv-premiere-classe",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo, background removed, mirrored",
+   "angle": "side",
+   "src": "ds2/dsn7-3112476",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "dacia-striker": {
+  "side": {
+   "url": null,
+   "page": "https://www.dacia.ch/",
+   "source": "manufacturer website (dacia.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "dacia/striker-xl2",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.dacia.ch/",
+   "source": "manufacturer website (dacia.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "outline drawing from the dimension sheet",
+   "angle": "front",
+   "src": "renault/dacia-striker-front",
+   "treatment": "flood-drawing",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "deepal-s05": {
+  "side": {
+   "url": null,
+   "page": "https://www.changaneurope.com/de/modelle/changan-deepal-s05",
+   "source": "manufacturer website (changaneurope.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "background removed",
+   "angle": "side",
+   "src": "china/deepal-s05-alt1-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "deepal-s07": {
+  "side": {
+   "url": null,
+   "page": "https://www.changaneurope.com/de/modelle/changan-deepal-s07",
+   "source": "manufacturer website (changaneurope.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "background removed",
+   "angle": "side",
+   "src": "china/deepal-s07-alt1-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "dongfeng-box": {
+  "side": {
+   "url": null,
+   "page": "https://www.dongfeng-global.com/business/pv",
+   "source": "manufacturer website (dongfeng-global.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "background removed",
+   "angle": "side",
+   "src": "china/dongfeng-box-alt2-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ebro-s800": {
+  "side": {
+   "url": null,
+   "page": "https://www.motor.es/noticias/ebro-s800-2024102218.html",
+   "source": "trade press (motor.es), EBRO press photo",
+   "licence": "EBRO press photo republished by motor.es; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "ebro/ebro-s800-3",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ferrari-amalfi": {
+  "side": {
+   "url": null,
+   "page": "https://www.autocarindia.com/cars/ferrari/amalfi/images",
+   "source": "autocarindia.com (third-party gallery photo)",
+   "licence": "copyright Autocar India / Ferrari; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "batch1/ferrari-amalfi-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.autocarindia.com/cars/ferrari/amalfi/images/front-view",
+   "source": "autocarindia.com (third-party gallery photo)",
+   "licence": "copyright Autocar India / Ferrari; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "batch1/ferrari-amalfi-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ferrari-f80": {
+  "side": {
+   "url": null,
+   "page": "https://www.ferrari.com/",
+   "source": "manufacturer website (ferrari.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "press photo, background removed",
+   "angle": "side",
+   "src": "f80/f80-16",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.ferrari.com/",
+   "source": "manufacturer website (ferrari.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "press photo, background removed",
+   "angle": "front",
+   "src": "f80/f80-12",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "fiat-ducato": {
+  "side": {
+   "url": null,
+   "page": "https://www.fiat.ch/",
+   "source": "manufacturer website (fiat.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render, near-side view (slight angle), background removed",
+   "angle": "side",
+   "src": "fiat/ducato-s2-a1",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "fiat-scudo": {
+  "side": {
+   "url": null,
+   "page": "https://www.fiat.ch/",
+   "source": "manufacturer website (fiat.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render, background removed",
+   "angle": "side",
+   "src": "fiat2/scudo-thermic-s2-a1",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "fiat-qubo-l": {
+  "side": {
+   "url": null,
+   "page": "https://www.fiat.ch/",
+   "source": "manufacturer website (fiat.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render, background removed",
+   "angle": "side",
+   "src": "fiat3/fiat-qubo-l-s2",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "firefly-firefly": {
+  "side": {
+   "url": null,
+   "page": "https://www.firefly.world/firefly",
+   "source": "manufacturer website (firefly.world)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "side",
+   "src": "firefly/firefly-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.firefly.world/firefly",
+   "source": "manufacturer website (firefly.world)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "front",
+   "src": "firefly/firefly-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ford-transit-city": {
+  "side": {
+   "url": null,
+   "page": "https://www.ford.de/",
+   "source": "manufacturer website (ford.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render, mirrored",
+   "angle": "side",
+   "src": "ford3/tcity-spin-1-ee5eb3fb",
+   "treatment": "flood",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.ford.de/",
+   "source": "manufacturer website (ford.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render",
+   "angle": "front",
+   "src": "ford3/tcity-spin-8-4eb0e654",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ford-transit": {
+  "side": {
+   "url": null,
+   "page": "https://www.ford.de/nutzfahrzeuge-modelle/ford-e-transit",
+   "source": "manufacturer website (ford.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "E-Transit (same body), mirrored",
+   "angle": "side",
+   "src": "ford2/transit-car1",
+   "treatment": "flood",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.ford.co.uk/vans-and-pickups/transit",
+   "source": "manufacturer website (ford.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "ford5/transit-uk-front-blue",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "geely-e2": {
+  "side": {
+   "url": null,
+   "page": "https://www.geelyauto.co.uk/models/geely-ex2",
+   "source": "manufacturer website (geelyauto.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "geely/geely-ex2-7",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.geelyauto.co.uk/models/geely-ex2",
+   "source": "manufacturer website (geelyauto.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "geely/geely-ex2-1",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "geely-starray-em-i": {
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/geely/starray/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "dark studio photo, background removed",
+   "angle": "front",
+   "src": "zig2/starray-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "honda-super-n": {
+  "side": {
+   "url": null,
+   "page": "https://www.honda.co.uk/cars/new/super-n/specifications.html",
+   "source": "manufacturer website (honda.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "misc2/honda-super-n-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.honda.co.uk/cars/new/super-n/specifications.html",
+   "source": "manufacturer website (honda.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "misc2/honda-super-n-front",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "hongqi-eh7": {
+  "side": {
+   "url": null,
+   "page": "https://hongqi.no/biler/eh7/konfigurator/",
+   "source": "manufacturer website (hongqi.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "china/hongqi-eh7-side",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "hongqi-ehs5": {
+  "side": {
+   "url": null,
+   "page": "https://hongqi.no/biler/ehs5/konfigurator/",
+   "source": "manufacturer website (hongqi.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "china/hongqi-ehs5-side",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://hongqi.no/biler/ehs5/",
+   "source": "manufacturer website (hongqi.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "background removed",
+   "angle": "front",
+   "src": "china/hongqi-ehs5-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "hongqi-ehs7": {
+  "side": {
+   "url": null,
+   "page": "https://hongqi.no/biler/ehs7/",
+   "source": "manufacturer website (hongqi.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "china/hongqi-ehs7-side",
+   "treatment": "rembg/rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://hongqi.no/biler/ehs7/",
+   "source": "manufacturer website (hongqi.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "background removed",
+   "angle": "front",
+   "src": "china/hongqi-ehs7-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "hyundai-ioniq-3": {
+  "side": {
+   "url": null,
+   "page": "https://www.hyundai.news/",
+   "source": "manufacturer website (hyundai.news)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "side",
+   "src": "hyundai2/ioniq3-unveil-04",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.hyundai.news/",
+   "source": "manufacturer website (hyundai.news)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "front",
+   "src": "hyundai2/ioniq3-unveil-08",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ineos-quartermaster": {
+  "side": {
+   "url": null,
+   "page": "https://ineosgrenadier.com/de/ch/quartermaster",
+   "source": "manufacturer website (ineosgrenadier.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "batch1/ineos-quartermaster-side",
+   "treatment": "rembg/rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "jaecoo-jaecoo-5": {
+  "side": {
+   "url": null,
+   "page": "https://www.jaecoo.co.uk/",
+   "source": "manufacturer website (jaecoo.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "omoda/jaecoo-5-side",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://jaecoo.co.uk/jaecoo-5/",
+   "source": "manufacturer website (jaecoo.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "omoda/jaecoo-5-front",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "kgm-actyon": {
+  "side": {
+   "url": null,
+   "page": "https://www.kgm-motors.co.uk/",
+   "source": "manufacturer website (kgm-motors.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "kgm2/kgm-actyon-sideR",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "kgm-musso": {
+  "side": {
+   "url": null,
+   "page": "https://www.kgm-motors.co.uk/new-cars/musso/",
+   "source": "manufacturer website (kgm-motors.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "kgm2/kgm-musso-sideR",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "kgm-musso-rhino": {
+  "side": {
+   "url": null,
+   "page": "https://www.kgm-motors.co.uk/new-cars/all-new-musso-rhino/",
+   "source": "manufacturer website (kgm-motors.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "kgm2/kgm-musso-rhino-sideR",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "koenigsegg-cc850": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/koenigsegg/cc850/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "studio photo, mirrored",
+   "angle": "side",
+   "src": "zigwheels/koenigsegg-cc850-side",
+   "treatment": "rembg/rembg",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/koenigsegg/cc850/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "studio photo",
+   "angle": "front",
+   "src": "zigwheels/koenigsegg-cc850-front",
+   "treatment": "rembg/rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "koenigsegg-gemera": {
+  "side": {
+   "url": null,
+   "page": "https://www.evo.co.uk/koenigsegg/gemera/202315/koenigsegg-gemera-pictures",
+   "source": "evo.co.uk (Koenigsegg press photo)",
+   "licence": "copyright Koenigsegg; press photo via evo.co.uk",
+   "notes": "press photo (car small in frame), background removed",
+   "angle": "side",
+   "src": "gemera2/gemera-evo-08",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "koenigsegg-jesko": {
+  "side": {
+   "url": null,
+   "page": "https://www.koenigsegg.com/",
+   "source": "manufacturer website (koenigsegg.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "press photo on a runway, background removed",
+   "angle": "side",
+   "src": "koenigsegg/jesko-04-KoenigseggJeskoAbs",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.koenigsegg.com/",
+   "source": "manufacturer website (koenigsegg.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "press photo, background removed",
+   "angle": "front",
+   "src": "koenigsegg/jesko-12-KoenigseggJeskoAbs",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "levc-tx": {
+  "front": {
+   "url": null,
+   "page": "https://www.levc.com/",
+   "source": "manufacturer website (levc.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, slight angle, background removed",
+   "angle": "front",
+   "src": "levc/levc-tx-exterior-pack",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "lancia-gamma": {
+  "side": {
+   "url": null,
+   "page": "https://www.lancia.it/",
+   "source": "manufacturer website (lancia.it)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "render cut from the manufacturer dimension sheet",
+   "angle": "side",
+   "src": "lancia/gamma-mhev-dim",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "leapmotor-b03x": {
+  "side": {
+   "url": null,
+   "page": "https://www.leapmotor.net/models/b03x",
+   "source": "manufacturer website (leapmotor.net)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "misc2/leapmotor-b03x-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "lexus-lm": {
+  "side": {
+   "url": null,
+   "page": "https://lexus.jp/models/lm/features/exterior/",
+   "source": "manufacturer website (lexus.jp)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dark studio photo, background removed",
+   "angle": "side",
+   "src": "misc2/lexus-lm-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://lexus.jp/models/lm/features/exterior/",
+   "source": "manufacturer website (lexus.jp)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dark studio photo, background removed",
+   "angle": "front",
+   "src": "misc2/lexus-lm-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "lotus-evija": {
+  "side": {
+   "url": null,
+   "page": "https://www.lotuscars.com/",
+   "source": "manufacturer website (lotuscars.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "press photo, background removed",
+   "angle": "side",
+   "src": "lotus/evija-6-2f57b496",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/lotus/evija/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "background removed",
+   "angle": "front",
+   "src": "zigwheels/lotus-evija-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "man-tge": {
+  "side": {
+   "url": null,
+   "page": "https://www.man.eu/ch/de/van/",
+   "source": "manufacturer website (man.eu)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "man/man-tge-kastenwagen-navi",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mazda-mazda2-hybrid": {
+  "side": {
+   "url": null,
+   "page": "https://www.mazda.ch/",
+   "source": "manufacturer website (mazda.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "white car, background removed",
+   "angle": "side",
+   "src": "mazda/m2h-cgi-01",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.mazda.ch/",
+   "source": "manufacturer website (mazda.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "mazda/m2h-cgi-10",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mclaren-750s": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/mclaren/750s/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "zigwheels/mclaren-750s-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/mclaren/750s/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "zigwheels/mclaren-750s-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mclaren-gts": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/mclaren/gts/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "zigwheels/mclaren-gts-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/mclaren/gts/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "zigwheels/mclaren-gts-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mclaren-w1": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/mclaren/w1/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "background removed, mirrored",
+   "angle": "side",
+   "src": "zigwheels/mclaren-w1-side",
+   "treatment": "rembg+clean",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "mercedes-benz-amg-gt-suv": {
+  "side": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image",
+   "angle": "side",
+   "src": "mercedes/mercedes-benz-amg-gt-suv-BE270",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image",
+   "angle": "front",
+   "src": "mercedes/mercedes-benz-amg-gt-suv-BE000",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mercedes-benz-vle": {
+  "side": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image",
+   "angle": "side",
+   "src": "mercedes/mercedes-benz-vle-BE270",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image",
+   "angle": "front",
+   "src": "mercedes/mercedes-benz-vle-BE000",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mercedes-benz-sprinter": {
+  "side": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image",
+   "angle": "side",
+   "src": "mercedes/sprinter-907645-BE270-1600",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image",
+   "angle": "front",
+   "src": "mercedes/sprinter-907645-BE000-1600",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mitsubishi-grandis": {
+  "side": {
+   "url": null,
+   "page": "https://www.mitsubishi-motors.ch/",
+   "source": "manufacturer website (mitsubishi-motors.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "mitsubishi/grandis-g00",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "morgan-plus-four": {
+  "front": {
+   "url": null,
+   "page": "https://media.morgan-motor.com/images/new-plus-four-images/",
+   "source": "manufacturer press site (media.morgan-motor.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "studio photo, near-front view (slight angle), background removed",
+   "angle": "front",
+   "src": "morgan/morgan-plus-four-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "morgan-supersport": {
+  "side": {
+   "url": null,
+   "page": "https://media.morgan-motor.com/images/supersport-studio/",
+   "source": "manufacturer press site (media.morgan-motor.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "side",
+   "src": "morgan/morgan-supersport-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://media.morgan-motor.com/images/supersport-studio/",
+   "source": "manufacturer press site (media.morgan-motor.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "dark studio photo, background removed",
+   "angle": "front",
+   "src": "morgan2/ss-sportStudio008",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "nissan-townstar-kombi": {
+  "side": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar-kombi.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "nissan/nissan-townstar-kombi-side",
+   "treatment": "flood",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar-kombi.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "outline drawing (technical data page)",
+   "angle": "front",
+   "src": "nissan/nissan-townstar-kombi-front",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "nissan-primastar-kombi": {
+  "front": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar/technische-daten.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension drawing of the Primastar van (identical front end)",
+   "angle": "front",
+   "src": "nissan/nissan-primastar-van-mid-front",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "nissan-townstar-van-small": {
+  "side": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "outline drawing (technical data page), mirrored",
+   "angle": "side",
+   "src": "nissan/nissan-townstar-van-small-side",
+   "treatment": "flood",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "nissan/nissan-townstar-van-small-front",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "nissan-primastar-van-mid": {
+  "side": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar/technische-daten.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension drawing (technical data page)",
+   "angle": "side",
+   "src": "nissan/nissan-primastar-van-mid-side",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar/technische-daten.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension drawing (technical data page)",
+   "angle": "front",
+   "src": "nissan/nissan-primastar-van-mid-front",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "nissan-interstar": {
+  "side": {
+   "url": null,
+   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/interstar.html",
+   "source": "manufacturer website (de.nissan.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "white van, background removed, mirrored",
+   "angle": "side",
+   "src": "nissan/nissan-interstar-side",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://europe.nissannews.com/en-GB/releases/work-better-live-better-here-is-the-next-generation-interstar",
+   "source": "manufacturer press site (europe.nissannews.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "background removed",
+   "angle": "front",
+   "src": "batch1/nissan-interstar-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "omoda-omoda-7": {
+  "side": {
+   "url": null,
+   "page": "https://omodaauto.co.uk/omoda-7/",
+   "source": "manufacturer website (omodaauto.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "omoda/omoda-7-side",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "omoda-omoda-9": {
+  "side": {
+   "url": null,
+   "page": "https://omodaauto.co.uk/omoda-9/",
+   "source": "manufacturer website (omodaauto.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "omoda/omoda-9-side",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "opel-movano": {
+  "side": {
+   "url": null,
+   "page": "https://www.opel.ch/",
+   "source": "manufacturer website (opel.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "opel2/opel-movano-bev-side576",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ora-ora-5": {
+  "side": {
+   "url": null,
+   "page": "https://www.carbase.my/great-wall/ora-5/ec15s/exterior/211735",
+   "source": "CarBase.my (third-party event photo)",
+   "licence": "copyright CarBase.my; watermarked third-party placeholder",
+   "notes": "event photo (CarBase.my watermark), background removed",
+   "angle": "side",
+   "src": "ora5full/ora5full-044",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.carbase.my/great-wall/ora-5/ec15s/exterior/211735",
+   "source": "CarBase.my (third-party event photo)",
+   "licence": "copyright CarBase.my; watermarked third-party placeholder",
+   "notes": "event photo (CarBase.my watermark), background removed",
+   "angle": "front",
+   "src": "ora5full/ora5full-005",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "pagani-utopia": {
+  "side": {
+   "url": null,
+   "page": "https://www.pagani.com/press/utopia-roadster",
+   "source": "manufacturer website (pagani.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Utopia Roadster, studio photo, background removed",
+   "angle": "side",
+   "src": "pagani/pagani-utopia-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.pagani.com/press/utopia-roadster",
+   "source": "manufacturer website (pagani.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "front",
+   "src": "pagani/pagani-utopia-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "peugeot-boxer": {
+  "side": {
+   "url": null,
+   "page": "https://www.peugeot.ch/",
+   "source": "manufacturer website (peugeot.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "peugeot/peugeot-boxer-sideview",
+   "treatment": "flood",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "piaggio-porter-np6": {
+  "front": {
+   "url": null,
+   "page": "https://commercial.piaggio.com/",
+   "source": "manufacturer website (commercial.piaggio.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "piaggio/np6-veicolo",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "polestar-5": {
+  "side": {
+   "url": null,
+   "page": "https://media.polestar.com/",
+   "source": "manufacturer press site (media.polestar.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "side",
+   "src": "polestar/ps4966m",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "renault-master": {
+  "side": {
+   "url": null,
+   "page": "https://www.renault.ch/",
+   "source": "manufacturer website (renault.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "misc2/renault-master-side-xl",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "renault-trucks-master": {
+  "front": {
+   "url": null,
+   "page": "https://www.renault-trucks.ch/",
+   "source": "manufacturer website (renault-trucks.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "centre van cropped from a three-van press photo, background removed",
+   "angle": "front",
+   "src": "rtrucks/rtm-p042754",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "rimac-nevera": {
+  "side": {
+   "url": null,
+   "page": "https://www.evspecs.org/tech-specs/rimac/nevera/r",
+   "source": "evspecs.org (third-party spec site photo)",
+   "licence": "copyright of the manufacturer / evspecs.org; third-party placeholder",
+   "notes": "background removed",
+   "angle": "side",
+   "src": "misc2/rimac-nevera-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "subaru-uncharted": {
+  "side": {
+   "url": null,
+   "page": "https://www.subaru.ch/",
+   "source": "manufacturer website (subaru.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "side",
+   "src": "subaru/uncharted-006",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.subaru.ch/",
+   "source": "manufacturer website (subaru.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "front",
+   "src": "subaru/uncharted-000",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "subaru-e-outback": {
+  "side": {
+   "url": null,
+   "page": "https://www.subaru.ch/",
+   "source": "manufacturer website (subaru.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "side",
+   "src": "subaru/eoutback-006",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.subaru.ch/",
+   "source": "manufacturer website (subaru.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "front",
+   "src": "subaru/eoutback-000",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "suzuki-e-vitara": {
+  "side": {
+   "url": null,
+   "page": "https://cars.suzuki.co.uk/new-cars/e-vitara/",
+   "source": "manufacturer website (cars.suzuki.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "side",
+   "src": "batch1/suzuki-e-vitara-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://cars.suzuki.co.uk/new-cars/e-vitara/",
+   "source": "manufacturer website (cars.suzuki.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "front",
+   "src": "batch1/suzuki-e-vitara-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "toyota-c-hr-plus": {
+  "side": {
+   "url": null,
+   "page": "https://newsroom.toyota.eu/world-debut-of-the-all-new-battery-electric-toyota--c-hr/",
+   "source": "manufacturer press site (newsroom.toyota.eu)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "batch1/toyota-c-hr-plus-front",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://newsroom.toyota.eu/world-debut-of-the-all-new-battery-electric-toyota--c-hr/",
+   "source": "manufacturer press site (newsroom.toyota.eu)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "batch1/toyota-c-hr-plus-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "toyota-bz4x-touring": {
+  "side": {
+   "url": null,
+   "page": "https://www.toyota.ch/",
+   "source": "manufacturer website (toyota.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "side",
+   "src": "batch1/bzthi-27",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.toyota.ch/",
+   "source": "manufacturer website (toyota.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "front",
+   "src": "batch1/bzthi-00",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "toyota-proace-max": {
+  "side": {
+   "url": null,
+   "page": "https://www.toyota.ch/",
+   "source": "manufacturer website (toyota.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "side",
+   "src": "batch1/pmxhi-27",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.toyota.ch/",
+   "source": "manufacturer website (toyota.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "360° view frame",
+   "angle": "front",
+   "src": "batch1/pmxhi-00",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "vinfast-vf-6": {
+  "side": {
+   "url": null,
+   "page": "https://shop.vinfastauto.eu/fr_FR/reservation/?model=VF6",
+   "source": "manufacturer website (shop.vinfastauto.eu)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "side",
+   "src": "vinfast/vinfast-vf6-3",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://shop.vinfastauto.eu/fr_FR/reservation/?model=VF6",
+   "source": "manufacturer website (shop.vinfastauto.eu)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": null,
+   "angle": "front",
+   "src": "vinfast/vinfast-vf6-4",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "volkswagen-id-cross": {
+  "side": {
+   "url": null,
+   "page": "https://www.volkswagen-newsroom.com/",
+   "source": "manufacturer press site (volkswagen-newsroom.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "studio photo, near-side view, background removed",
+   "angle": "side",
+   "src": "vw/vwn-514",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "volkswagen-id-tiguan": {
+  "side": {
+   "url": null,
+   "page": "https://www.volkswagen-newsroom.com/",
+   "source": "manufacturer press site (volkswagen-newsroom.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "side",
+   "src": "vw2/idt-side-b64",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "voyah-courage": {
+  "side": {
+   "url": null,
+   "page": "https://voyah.nl/voyah-courage?hsLang=nl",
+   "source": "manufacturer website (voyah.nl)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio photo, background removed",
+   "angle": "side",
+   "src": "china/voyah-courage-side",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "xpeng-x9": {
+  "side": {
+   "url": null,
+   "page": "https://xpeng-newsroom.pr.co/de-DE/assets/239954/",
+   "source": "manufacturer press site (xpeng-newsroom.pr.co)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "near-side view (slight angle)",
+   "angle": "side",
+   "src": "china/xpeng-x9-alt1-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "zeekr-9x": {
+  "front": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/new-cars/zeekr/9x/images",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "zig4/zeekr9x-0-FullFrontViewof9X",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "skoda-peaq": {
+  "side": {
+   "url": null,
+   "page": "https://www.skoda-auto.com/",
+   "source": "manufacturer website (skoda-auto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "mirrored",
+   "angle": "side",
+   "src": "skoda/peaq-d1",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.skoda-auto.com/",
+   "source": "manufacturer website (skoda-auto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo, background removed",
+   "angle": "front",
+   "src": "skoda/peaq-g1",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ }
+}
