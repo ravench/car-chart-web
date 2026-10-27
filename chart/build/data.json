@@ -6111,7 +6111,7 @@
    "body": "5-door electric compact hatchback",
    "generation": "I (2026–)",
    "length_mm": 4160,
-   "platform": "E-GMP (400 V derivative, shared with Kia EV2/EV3/EV4)",
+   "platform": "Hyundai-Kia K3 (400 V)",
    "powertrains": [
     "BEV"
    ],
@@ -6125,7 +6125,7 @@
    ],
    "twin_tier": null,
    "twin_members": [],
-   "twin_note": "No same-row sibling: Wikipedia (fetched 2026-10-22) lists the Kia EV2 (b-suv) as related and the EV3 (c-suv, identical 2,680 mm wheelbase, 400 V E-GMP) as the hardware donor; the Kia EV4 (c-hatch) has a 2,820 mm wheelbase and larger packs, so it is not grouped. Cross-row note only.",
+   "twin_note": "Plausibility check Oct 2026: Hyundai's European press kit puts the IONIQ 3 on the Hyundai-Kia K3 platform (400 V, front-wheel drive, 2,680 mm wheelbase, the same as the Kia EV3); Wikipedia's infobox calls it 'E-GMP (400 V architecture)', which is Kia's name for the same hardware. Framed with the Kia EV4 (same 400 V front-drive hardware family, distinct body, 2,820 mm wheelbase) → tier 2. The EV3 and the K3 combustion/hybrid cars Kona, Niro and Seltos are relatives in the C-SUV class.",
    "twin_sources": [
     "https://en.wikipedia.org/wiki/Hyundai_Ioniq_3",
     "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
@@ -6141,7 +6141,9 @@
    "notes": "Length 4,155–4,170 mm, wheelbase 2,680 mm (Wikipedia) – borderline between b-hatch and c-hatch; placed in c-hatch by Hyundai's compact positioning (ID.3 / Mégane rival) and its C-segment wheelbase. 42.2 kWh/108 kW FWD or 61 kWh/99 kW (electrive).",
    "cross_row_siblings": [
     "kia-ev3",
-    "kia-ev5",
+    "hyundai-kona",
+    "kia-niro",
+    "kia-seltos",
     "kia-ev2"
    ],
    "id": "hyundai-ioniq-3",
@@ -6210,7 +6212,7 @@
    "body": "5-door electric hatchback / Fastback saloon",
    "generation": "I (2025–)",
    "length_mm": 4430,
-   "platform": "E-GMP (400 V)",
+   "platform": "E-GMP 400 V (Kia name; K3-based 400 V hardware of the EV3 / Hyundai IONIQ 3)",
    "powertrains": [
     "BEV"
    ],
@@ -6223,7 +6225,7 @@
    ],
    "twin_tier": null,
    "twin_members": [],
-   "twin_note": "E-GMP (Wikipedia lists EV4 CT as E-GMP) but no same-row sibling: Hyundai Ioniq 3 (c-hatch) has a 2,680 mm wheelbase vs the EV4's 2,820 mm and different packs → not grouped (cross-row note only).",
+   "twin_note": "Plausibility check Oct 2026: Kia names E-GMP 400 V (Wikipedia infobox, related model: EV3). The EV4 shares the EV3's front-drive 400 V hardware, whose chassis derives from the Hyundai-Kia K3 platform, and the Hyundai IONIQ 3 is K3 per Hyundai's press kit → framed with the IONIQ 3 (tier 2, distinct bodies, 2,820 vs 2,680 mm wheelbase). Not framed with the 800 V E-GMP cars (IONIQ 5, EV6, GV60).",
    "twin_sources": [
     "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
    ],
@@ -6235,6 +6237,9 @@
    "commons_file": null,
    "wikipedia_en": "Kia EV4",
    "notes": "Hatch 4,430 mm; Fastback 4,730 mm (same tile).",
+   "cross_row_siblings": [
+    "kia-ev3"
+   ],
    "id": "kia-ev4",
    "twin_group": "g-c-hatch-1",
    "twin_style": 2,
@@ -9174,7 +9179,7 @@
     "Kia Niro",
     "Kia Seltos"
    ],
-   "twin_note": "Kona (SX2), Niro (SG2) and the new Seltos (SP3, 2026) are all listed on the Hyundai-Kia K3 platform (Wikipedia platform page, fetched 2026-10-22); they share the 1.6 T-GDi / 1.6 GDI hybrid systems; wheelbases 2,660 / 2,720 / ~2,690 mm; distinct bodies → tier 2 (brief lists 'Kona/Niro?'). Kia K4 (c-hatch) is on K3 too – cross-row note.",
+   "twin_note": "Kona (SX2), Niro (SG2) and the new Seltos (SP3, 2026) are all listed on the Hyundai-Kia K3 platform (Wikipedia platform page, fetched 2026-10-22); they share the 1.6 T-GDi / 1.6 GDI hybrid systems; wheelbases 2,660 / 2,720 / ~2,690 mm; distinct bodies → tier 2 (brief lists 'Kona/Niro?'). Kia K4 (c-hatch) is on K3 too – cross-row note. The Kia EV3 (K3 BEV sub-platform) joined the family in the Oct 2026 plausibility check; the K3-based IONIQ 3 and Kia EV4 are relatives in the C-hatchback class.",
    "twin_sources": [
     "https://en.wikipedia.org/wiki/Hyundai-Kia_K3_platform",
     "https://en.wikipedia.org/wiki/Hyundai_Kona",
@@ -9188,6 +9193,10 @@
    "commons_file": null,
    "wikipedia_en": "Hyundai Kona",
    "notes": "Kona Electric 4,355 mm; N Line 4,385 mm.",
+   "cross_row_siblings": [
+    "hyundai-ioniq-3",
+    "kia-ev4"
+   ],
    "id": "hyundai-kona",
    "twin_group": "g-c-suv-3",
    "twin_style": 2,
@@ -9224,7 +9233,7 @@
    "twin_members": [
     "Kia Sportage"
    ],
-   "twin_note": "Tucson NX4 and Sportage NQ5 share the N3 platform (identical 2,680 mm wheelbase in the European short-wheelbase Sportage) and the same 1.6 T-GDi MHEV/HEV/PHEV powertrains; distinct bodies → tier 2 (brief example). Note: en.wikipedia 'Hyundai-Kia N3 platform' URL returned not-found on 2026-10-22; the Staria article (fetched) names N3 as 'Hyundai-Kia's mid-size FWD platform'.",
+   "twin_note": "Tucson NX4 and Sportage NQ5 share the N3 platform (identical 2,680 mm wheelbase in the European short-wheelbase Sportage) and the same 1.6 T-GDi MHEV/HEV/PHEV powertrains; distinct bodies → tier 2 (brief example). Note: en.wikipedia 'Hyundai-Kia N3 platform' URL returned not-found on 2026-10-22; the Staria article (fetched) names N3 as 'Hyundai-Kia's mid-size FWD platform'. The Kia EV5 (N3-derived 400 V EV) joined the family in the Oct 2026 plausibility check.",
    "twin_sources": [
     "https://en.wikipedia.org/wiki/Kia_Sportage",
     "https://en.wikipedia.org/wiki/Hyundai_Tucson",
@@ -9258,7 +9267,7 @@
    "body": "compact electric SUV",
    "generation": "I (2024–)",
    "length_mm": 4300,
-   "platform": "E-GMP 400 V derivative (K3-derived chassis per Wikipedia)",
+   "platform": "Hyundai-Kia K3 BEV (Kia: E-GMP 400 V)",
    "powertrains": [
     "BEV"
    ],
@@ -9270,7 +9279,7 @@
    ],
    "twin_tier": null,
    "twin_members": [],
-   "twin_note": "Wikipedia's E-GMP page (fetched 2026-10-22) says EV3 and EV5 are marketed as 'E-GMP 400 V' but their chassis derive from the FWD K3 and N3 platforms respectively → not grouped with each other or with the 800 V E-GMP cars. Cross-row: Hyundai Ioniq 3 (c-hatch) shares the EV3's 2,680 mm wheelbase and hardware.",
+   "twin_note": "Plausibility check Oct 2026: Kia names E-GMP 400 V, but Wikipedia's K-platform page lists the EV3 on the 'K3 BEV' sub-platform derived from the front-drive K3 of Kona, Niro and Seltos, and the Hyundai IONIQ 3 (same 2,680 mm wheelbase and hardware) is K3 per Hyundai's press kit → framed with Kona/Niro/Seltos (tier 2, distinct bodies), no longer with the 800 V E-GMP cars IONIQ 5, EV6 and GV60.",
    "twin_sources": [
     "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
     "https://en.wikipedia.org/wiki/Hyundai_Ioniq_3"
@@ -9284,10 +9293,11 @@
    "wikipedia_en": "Kia EV3",
    "notes": "",
    "cross_row_siblings": [
-    "hyundai-ioniq-3"
+    "hyundai-ioniq-3",
+    "kia-ev4"
    ],
    "id": "kia-ev3",
-   "twin_group": "g-c-suv-5",
+   "twin_group": "g-c-suv-3",
    "twin_style": 2,
    "key": "kia ev3|c-suv",
    "agents": [
@@ -9306,7 +9316,7 @@
    "body": "compact/mid electric SUV",
    "generation": "I (Europe 2025–)",
    "length_mm": 4610,
-   "platform": "E-GMP 400 V derivative (N3-derived chassis per Wikipedia)",
+   "platform": "Hyundai-Kia N3-based 400 V EV (Kia: E-GMP 400 V)",
    "powertrains": [
     "BEV"
    ],
@@ -9319,7 +9329,7 @@
    ],
    "twin_tier": null,
    "twin_members": [],
-   "twin_note": "See Kia EV3 (not grouped: N3-derived chassis).",
+   "twin_note": "Plausibility check Oct 2026: Kia names E-GMP 400 V, but Wikipedia's E-GMP article says the EV5's chassis derives from the front-drive Hyundai-Kia N3 platform of Tucson and Sportage → framed with them (tier 2, distinct bodies; EV5 wheelbase 2,750 mm vs 2,680 mm of the European Tucson/Sportage), no longer with the 800 V E-GMP cars IONIQ 5, EV6 and GV60.",
    "twin_sources": [
     "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
    ],
@@ -9332,7 +9342,7 @@
    "wikipedia_en": "Kia EV5",
    "notes": "European EV5 is 4,610 mm (Korean/Chinese version 4,615).",
    "id": "kia-ev5",
-   "twin_group": "g-c-suv-5",
+   "twin_group": "g-c-suv-4",
    "twin_style": 2,
    "key": "kia ev5|c-suv",
    "agents": [
@@ -9427,6 +9437,10 @@
    "commons_file": null,
    "wikipedia_en": "Kia Niro",
    "notes": "Facelift 'New Niro' is hybrid-only in CH/DE.",
+   "cross_row_siblings": [
+    "hyundai-ioniq-3",
+    "kia-ev4"
+   ],
    "id": "kia-niro",
    "twin_group": "g-c-suv-3",
    "twin_style": 2,
@@ -9478,6 +9492,10 @@
    "commons_file": null,
    "wikipedia_en": "Kia Seltos",
    "notes": "4,430 mm (MeinAuto). Europe-specific reveal 2026-04-14 (Wikipedia). Positioned between XCeed and Sportage.",
+   "cross_row_siblings": [
+    "hyundai-ioniq-3",
+    "kia-ev4"
+   ],
    "id": "kia-seltos",
    "twin_group": "g-c-suv-3",
    "twin_style": 2,
@@ -25034,38 +25052,38 @@
    ],
    "edges": [
     {
+     "a": "jaecoo-jaecoo-7",
+     "b": "omoda-omoda-5",
+     "tier": 2
+    },
+    {
+     "a": "omoda-omoda-7",
+     "b": "omoda-omoda-5",
+     "tier": 2
+    },
+    {
      "a": "omoda-omoda-5",
+     "b": "chery-tiggo-7",
+     "tier": 2
+    },
+    {
+     "a": "omoda-omoda-7",
      "b": "jaecoo-jaecoo-7",
      "tier": 2
     },
     {
-     "a": "omoda-omoda-5",
-     "b": "omoda-omoda-7",
-     "tier": 2
-    },
-    {
-     "a": "omoda-omoda-5",
+     "a": "omoda-omoda-7",
      "b": "chery-tiggo-7",
      "tier": 2
     },
     {
      "a": "jaecoo-jaecoo-7",
-     "b": "omoda-omoda-7",
-     "tier": 2
-    },
-    {
-     "a": "chery-tiggo-7",
-     "b": "omoda-omoda-7",
-     "tier": 2
-    },
-    {
-     "a": "chery-tiggo-7",
-     "b": "jaecoo-jaecoo-7",
-     "tier": 2
-    },
-    {
-     "a": "ebro-s700",
      "b": "chery-tiggo-7",
+     "tier": 2
+    },
+    {
+     "a": "chery-tiggo-7",
+     "b": "ebro-s700",
      "tier": 1
     },
     {
@@ -25074,8 +25092,8 @@
      "tier": 1
     },
     {
-     "a": "ebro-s700",
-     "b": "dr-dr-6",
+     "a": "dr-dr-6",
+     "b": "ebro-s700",
      "tier": 1
     },
     {
@@ -25162,18 +25180,18 @@
    ],
    "edges": [
     {
-     "a": "ebro-s800",
+     "a": "chery-tiggo-8",
+     "b": "ebro-s800",
+     "tier": 1
+    },
+    {
+     "a": "dr-dr-7",
      "b": "chery-tiggo-8",
      "tier": 1
     },
     {
-     "a": "chery-tiggo-8",
-     "b": "dr-dr-7",
-     "tier": 1
-    },
-    {
-     "a": "ebro-s800",
-     "b": "dr-dr-7",
+     "a": "dr-dr-7",
+     "b": "ebro-s800",
      "tier": 1
     }
    ]
@@ -25190,8 +25208,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "mazda-cx-6e",
-     "b": "deepal-s07",
+     "a": "deepal-s07",
+     "b": "mazda-cx-6e",
      "tier": 2
     }
    ]
@@ -25236,8 +25254,8 @@
      "tier": 2
     },
     {
-     "a": "smart-3",
-     "b": "lynk-co-02",
+     "a": "lynk-co-02",
+     "b": "smart-3",
      "tier": 2
     },
     {
@@ -25246,8 +25264,8 @@
      "tier": 2
     },
     {
-     "a": "zeekr-x",
-     "b": "smart-1",
+     "a": "smart-1",
+     "b": "zeekr-x",
      "tier": 2
     },
     {
@@ -25256,8 +25274,8 @@
      "tier": 2
     },
     {
-     "a": "smart-3",
-     "b": "smart-1",
+     "a": "smart-1",
+     "b": "smart-3",
      "tier": 2
     }
    ]
@@ -25292,8 +25310,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "volvo-ex90",
-     "b": "polestar-3",
+     "a": "polestar-3",
+     "b": "volvo-ex90",
      "tier": 2
     }
    ]
@@ -25316,8 +25334,8 @@
      "tier": 2
     },
     {
-     "a": "polestar-4",
-     "b": "zeekr-7x",
+     "a": "zeekr-7x",
+     "b": "polestar-4",
      "tier": 2
     }
    ]
@@ -25370,8 +25388,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "hyundai-i10",
-     "b": "kia-picanto",
+     "a": "kia-picanto",
+     "b": "hyundai-i10",
      "tier": 2
     }
    ]
@@ -25388,8 +25406,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "hyundai-bayon",
-     "b": "kia-stonic",
+     "a": "kia-stonic",
+     "b": "hyundai-bayon",
      "tier": 2
     }
    ]
@@ -25400,25 +25418,31 @@
    "members": [
     "hyundai-kona",
     "kia-niro",
-    "kia-seltos"
+    "kia-seltos",
+    "kia-ev3"
    ],
    "label": "Hyundai-Kia K3",
    "slot": 2,
    "tier1_members": [],
    "edges": [
     {
-     "a": "kia-niro",
-     "b": "hyundai-kona",
+     "a": "hyundai-kona",
+     "b": "kia-niro",
+     "tier": 2
+    },
+    {
+     "a": "hyundai-kona",
+     "b": "kia-seltos",
      "tier": 2
     },
     {
      "a": "kia-seltos",
-     "b": "hyundai-kona",
+     "b": "kia-niro",
      "tier": 2
     },
     {
-     "a": "kia-niro",
-     "b": "kia-seltos",
+     "a": "kia-ev3",
+     "b": "hyundai-kona",
      "tier": 2
     }
    ]
@@ -25428,7 +25452,8 @@
    "row": "c-suv",
    "members": [
     "hyundai-tucson",
-    "kia-sportage"
+    "kia-sportage",
+    "kia-ev5"
    ],
    "label": "Hyundai-Kia N3",
    "slot": 3,
@@ -25437,6 +25462,11 @@
     {
      "a": "kia-sportage",
      "b": "hyundai-tucson",
+     "tier": 2
+    },
+    {
+     "a": "hyundai-tucson",
+     "b": "kia-ev5",
      "tier": 2
     }
    ]
@@ -25453,8 +25483,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "hyundai-santa-fe",
-     "b": "kia-sorento",
+     "a": "kia-sorento",
+     "b": "hyundai-santa-fe",
      "tier": 2
     }
    ]
@@ -25466,7 +25496,7 @@
     "hyundai-ioniq-3",
     "kia-ev4"
    ],
-   "label": "E-GMP",
+   "label": "K3 (400 V EV)",
    "slot": 0,
    "tier1_members": [],
    "edges": [
@@ -25482,8 +25512,6 @@
    "row": "c-suv",
    "members": [
     "hyundai-ioniq-5",
-    "kia-ev3",
-    "kia-ev5",
     "kia-ev6",
     "genesis-gv60"
    ],
@@ -25492,8 +25520,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "hyundai-ioniq-5",
-     "b": "kia-ev6",
+     "a": "kia-ev6",
+     "b": "hyundai-ioniq-5",
      "tier": 2
     },
     {
@@ -25504,16 +25532,6 @@
     {
      "a": "kia-ev6",
      "b": "genesis-gv60",
-     "tier": 2
-    },
-    {
-     "a": "hyundai-ioniq-5",
-     "b": "kia-ev3",
-     "tier": 2
-    },
-    {
-     "a": "hyundai-ioniq-5",
-     "b": "kia-ev5",
      "tier": 2
     }
    ]
@@ -25530,8 +25548,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "kia-ev9",
-     "b": "hyundai-ioniq-9",
+     "a": "hyundai-ioniq-9",
+     "b": "kia-ev9",
      "tier": 2
     }
    ]
@@ -25605,8 +25623,8 @@
      "tier": 2
     },
     {
-     "a": "ford-capri",
-     "b": "cupra-tavascan",
+     "a": "cupra-tavascan",
+     "b": "ford-capri",
      "tier": 2
     },
     {
@@ -25640,8 +25658,8 @@
      "tier": 2
     },
     {
-     "a": "volkswagen-id-5",
-     "b": "volkswagen-id-tiguan",
+     "a": "volkswagen-id-tiguan",
+     "b": "volkswagen-id-5",
      "tier": 2
     },
     {
@@ -25660,8 +25678,8 @@
      "tier": 2
     },
     {
-     "a": "volkswagen-id-5",
-     "b": "cupra-tavascan",
+     "a": "cupra-tavascan",
+     "b": "volkswagen-id-5",
      "tier": 2
     },
     {
@@ -25670,8 +25688,8 @@
      "tier": 2
     },
     {
-     "a": "skoda-elroq",
-     "b": "volkswagen-id-tiguan",
+     "a": "volkswagen-id-tiguan",
+     "b": "skoda-elroq",
      "tier": 2
     },
     {
@@ -25685,8 +25703,8 @@
      "tier": 2
     },
     {
-     "a": "ford-explorer",
-     "b": "volkswagen-id-tiguan",
+     "a": "volkswagen-id-tiguan",
+     "b": "ford-explorer",
      "tier": 2
     },
     {
@@ -25695,43 +25713,43 @@
      "tier": 2
     },
     {
+     "a": "skoda-enyaq",
+     "b": "audi-q4-e-tron",
+     "tier": 2
+    },
+    {
      "a": "audi-q4-e-tron",
+     "b": "skoda-elroq",
+     "tier": 2
+    },
+    {
+     "a": "cupra-tavascan",
+     "b": "audi-q4-e-tron",
+     "tier": 2
+    },
+    {
+     "a": "skoda-enyaq",
+     "b": "skoda-elroq",
+     "tier": 2
+    },
+    {
+     "a": "cupra-tavascan",
+     "b": "skoda-elroq",
+     "tier": 2
+    },
+    {
+     "a": "ford-explorer",
+     "b": "skoda-elroq",
+     "tier": 2
+    },
+    {
+     "a": "ford-capri",
+     "b": "skoda-elroq",
+     "tier": 2
+    },
+    {
+     "a": "cupra-tavascan",
      "b": "skoda-enyaq",
-     "tier": 2
-    },
-    {
-     "a": "audi-q4-e-tron",
-     "b": "skoda-elroq",
-     "tier": 2
-    },
-    {
-     "a": "audi-q4-e-tron",
-     "b": "cupra-tavascan",
-     "tier": 2
-    },
-    {
-     "a": "skoda-enyaq",
-     "b": "skoda-elroq",
-     "tier": 2
-    },
-    {
-     "a": "cupra-tavascan",
-     "b": "skoda-elroq",
-     "tier": 2
-    },
-    {
-     "a": "ford-explorer",
-     "b": "skoda-elroq",
-     "tier": 2
-    },
-    {
-     "a": "ford-capri",
-     "b": "skoda-elroq",
-     "tier": 2
-    },
-    {
-     "a": "skoda-enyaq",
-     "b": "cupra-tavascan",
      "tier": 2
     }
    ]
@@ -25772,8 +25790,8 @@
    ],
    "edges": [
     {
-     "a": "ford-transit-connect",
-     "b": "volkswagen-caddy-cargo",
+     "a": "volkswagen-caddy-cargo",
+     "b": "ford-transit-connect",
      "tier": 1
     }
    ]
@@ -25793,8 +25811,8 @@
    ],
    "edges": [
     {
-     "a": "ford-tourneo-custom",
-     "b": "volkswagen-caravelle",
+     "a": "volkswagen-caravelle",
+     "b": "ford-tourneo-custom",
      "tier": 1
     }
    ]
@@ -25814,8 +25832,8 @@
    ],
    "edges": [
     {
-     "a": "ford-transit-custom",
-     "b": "volkswagen-transporter",
+     "a": "volkswagen-transporter",
+     "b": "ford-transit-custom",
      "tier": 1
     }
    ]
@@ -25835,8 +25853,8 @@
    ],
    "edges": [
     {
-     "a": "volkswagen-amarok",
-     "b": "ford-ranger",
+     "a": "ford-ranger",
+     "b": "volkswagen-amarok",
      "tier": 1
     }
    ]
@@ -25856,8 +25874,8 @@
    ],
    "edges": [
     {
-     "a": "toyota-yaris",
-     "b": "mazda-mazda2-hybrid",
+     "a": "mazda-mazda2-hybrid",
+     "b": "toyota-yaris",
      "tier": 1
     }
    ]
@@ -25874,8 +25892,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "lexus-lbx",
-     "b": "toyota-yaris-cross",
+     "a": "toyota-yaris-cross",
+     "b": "lexus-lbx",
      "tier": 2
     }
    ]
@@ -25895,8 +25913,8 @@
    ],
    "edges": [
     {
-     "a": "suzuki-e-vitara",
-     "b": "toyota-urban-cruiser",
+     "a": "toyota-urban-cruiser",
+     "b": "suzuki-e-vitara",
      "tier": 1
     }
    ]
@@ -25967,8 +25985,8 @@
    ],
    "edges": [
     {
-     "a": "subaru-solterra",
-     "b": "toyota-bz4x",
+     "a": "toyota-bz4x",
+     "b": "subaru-solterra",
      "tier": 1
     },
     {
@@ -25977,8 +25995,8 @@
      "tier": 2
     },
     {
-     "a": "subaru-solterra",
-     "b": "lexus-rz",
+     "a": "lexus-rz",
+     "b": "subaru-solterra",
      "tier": 2
     }
    ]
@@ -25998,8 +26016,8 @@
    ],
    "edges": [
     {
-     "a": "subaru-e-outback",
-     "b": "toyota-bz4x-touring",
+     "a": "toyota-bz4x-touring",
+     "b": "subaru-e-outback",
      "tier": 1
     }
    ]
@@ -26020,18 +26038,18 @@
    ],
    "edges": [
     {
-     "a": "suzuki-across",
-     "b": "toyota-rav4",
+     "a": "toyota-rav4",
+     "b": "suzuki-across",
      "tier": 1
     },
     {
-     "a": "toyota-rav4",
-     "b": "lexus-nx",
+     "a": "lexus-nx",
+     "b": "toyota-rav4",
      "tier": 2
     },
     {
-     "a": "suzuki-across",
-     "b": "lexus-nx",
+     "a": "lexus-nx",
+     "b": "suzuki-across",
      "tier": 2
     }
    ]
@@ -26062,8 +26080,8 @@
      "tier": 1
     },
     {
-     "a": "citroen-berlingo-van",
-     "b": "toyota-proace-city",
+     "a": "toyota-proace-city",
+     "b": "citroen-berlingo-van",
      "tier": 1
     },
     {
@@ -26072,8 +26090,8 @@
      "tier": 1
     },
     {
-     "a": "toyota-proace-city",
-     "b": "fiat-doblo",
+     "a": "fiat-doblo",
+     "b": "toyota-proace-city",
      "tier": 1
     },
     {
@@ -26087,8 +26105,8 @@
      "tier": 1
     },
     {
-     "a": "peugeot-partner",
-     "b": "fiat-doblo",
+     "a": "fiat-doblo",
+     "b": "peugeot-partner",
      "tier": 1
     },
     {
@@ -26097,8 +26115,8 @@
      "tier": 1
     },
     {
-     "a": "citroen-berlingo-van",
-     "b": "fiat-doblo",
+     "a": "fiat-doblo",
+     "b": "citroen-berlingo-van",
      "tier": 1
     },
     {
@@ -26134,8 +26152,8 @@
      "tier": 1
     },
     {
-     "a": "toyota-proace-city-verso",
-     "b": "citroen-berlingo",
+     "a": "citroen-berlingo",
+     "b": "toyota-proace-city-verso",
      "tier": 1
     },
     {
@@ -26149,13 +26167,13 @@
      "tier": 1
     },
     {
-     "a": "peugeot-rifter",
-     "b": "citroen-berlingo",
+     "a": "citroen-berlingo",
+     "b": "peugeot-rifter",
      "tier": 1
     },
     {
-     "a": "peugeot-rifter",
-     "b": "opel-combo",
+     "a": "opel-combo",
+     "b": "peugeot-rifter",
      "tier": 1
     },
     {
@@ -26169,13 +26187,13 @@
      "tier": 1
     },
     {
-     "a": "fiat-qubo-l",
-     "b": "citroen-berlingo",
+     "a": "citroen-berlingo",
+     "b": "fiat-qubo-l",
      "tier": 1
     },
     {
-     "a": "fiat-qubo-l",
-     "b": "opel-combo",
+     "a": "opel-combo",
+     "b": "fiat-qubo-l",
      "tier": 1
     }
    ]
@@ -26233,8 +26251,8 @@
      "tier": 1
     },
     {
-     "a": "opel-vivaro",
-     "b": "peugeot-expert",
+     "a": "peugeot-expert",
+     "b": "opel-vivaro",
      "tier": 1
     },
     {
@@ -26243,13 +26261,13 @@
      "tier": 1
     },
     {
-     "a": "iveco-ejolly",
-     "b": "peugeot-expert",
+     "a": "peugeot-expert",
+     "b": "iveco-ejolly",
      "tier": 1
     },
     {
-     "a": "opel-vivaro",
-     "b": "citroen-jumpy",
+     "a": "citroen-jumpy",
+     "b": "opel-vivaro",
      "tier": 1
     },
     {
@@ -26258,8 +26276,8 @@
      "tier": 1
     },
     {
-     "a": "iveco-ejolly",
-     "b": "citroen-jumpy",
+     "a": "citroen-jumpy",
+     "b": "iveco-ejolly",
      "tier": 1
     },
     {
@@ -26305,8 +26323,8 @@
      "tier": 1
     },
     {
-     "a": "toyota-proace-verso",
-     "b": "citroen-spacetourer",
+     "a": "citroen-spacetourer",
+     "b": "toyota-proace-verso",
      "tier": 1
     },
     {
@@ -26340,13 +26358,13 @@
      "tier": 1
     },
     {
-     "a": "fiat-ulysse",
-     "b": "citroen-spacetourer",
+     "a": "citroen-spacetourer",
+     "b": "fiat-ulysse",
      "tier": 1
     },
     {
-     "a": "fiat-ulysse",
-     "b": "opel-zafira",
+     "a": "opel-zafira",
+     "b": "fiat-ulysse",
      "tier": 1
     }
    ]
@@ -26374,8 +26392,8 @@
    ],
    "edges": [
     {
-     "a": "peugeot-boxer",
-     "b": "toyota-proace-max",
+     "a": "toyota-proace-max",
+     "b": "peugeot-boxer",
      "tier": 1
     },
     {
@@ -26399,23 +26417,23 @@
      "tier": 1
     },
     {
-     "a": "peugeot-boxer",
-     "b": "citroen-jumper",
+     "a": "citroen-jumper",
+     "b": "peugeot-boxer",
      "tier": 1
     },
     {
-     "a": "peugeot-boxer",
-     "b": "opel-movano",
+     "a": "opel-movano",
+     "b": "peugeot-boxer",
      "tier": 1
     },
     {
-     "a": "peugeot-boxer",
-     "b": "fiat-ducato",
+     "a": "fiat-ducato",
+     "b": "peugeot-boxer",
      "tier": 1
     },
     {
-     "a": "peugeot-boxer",
-     "b": "iveco-esuperjolly",
+     "a": "iveco-esuperjolly",
+     "b": "peugeot-boxer",
      "tier": 1
     },
     {
@@ -26424,8 +26442,8 @@
      "tier": 1
     },
     {
-     "a": "fiat-ducato",
-     "b": "citroen-jumper",
+     "a": "citroen-jumper",
+     "b": "fiat-ducato",
      "tier": 1
     },
     {
@@ -26472,13 +26490,13 @@
      "tier": 1
     },
     {
-     "a": "nissan-interstar",
-     "b": "renault-trucks-master",
+     "a": "renault-trucks-master",
+     "b": "nissan-interstar",
      "tier": 1
     },
     {
-     "a": "nissan-interstar",
-     "b": "renault-master",
+     "a": "renault-master",
+     "b": "nissan-interstar",
      "tier": 1
     }
    ]
@@ -26500,13 +26518,13 @@
    ],
    "edges": [
     {
-     "a": "renault-trucks-trafic",
-     "b": "renault-trafic-van-mid",
+     "a": "renault-trafic-van-mid",
+     "b": "renault-trucks-trafic",
      "tier": 1
     },
     {
-     "a": "renault-trucks-trafic",
-     "b": "nissan-primastar-van-mid",
+     "a": "nissan-primastar-van-mid",
+     "b": "renault-trucks-trafic",
      "tier": 1
     },
     {
@@ -26613,8 +26631,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "bmw-x2",
-     "b": "bmw-x1",
+     "a": "bmw-x1",
+     "b": "bmw-x2",
      "tier": 2
     },
     {
@@ -26623,8 +26641,8 @@
      "tier": 2
     },
     {
-     "a": "bmw-x2",
-     "b": "mini-countryman",
+     "a": "mini-countryman",
+     "b": "bmw-x2",
      "tier": 2
     }
    ]
@@ -26664,13 +26682,13 @@
    ],
    "edges": [
     {
-     "a": "renault-renault-5",
-     "b": "alpine-a290",
+     "a": "alpine-a290",
+     "b": "renault-renault-5",
      "tier": 1
     },
     {
-     "a": "renault-renault-5",
-     "b": "nissan-micra",
+     "a": "nissan-micra",
+     "b": "renault-renault-5",
      "tier": 1
     },
     {
@@ -26725,8 +26743,8 @@
    ],
    "edges": [
     {
-     "a": "renault-captur",
-     "b": "mitsubishi-asx",
+     "a": "mitsubishi-asx",
+     "b": "renault-captur",
      "tier": 1
     },
     {
@@ -26759,8 +26777,8 @@
    ],
    "edges": [
     {
-     "a": "renault-symbioz",
-     "b": "mitsubishi-grandis",
+     "a": "mitsubishi-grandis",
+     "b": "renault-symbioz",
      "tier": 1
     },
     {
@@ -26769,8 +26787,8 @@
      "tier": 2
     },
     {
-     "a": "dacia-duster",
-     "b": "dacia-striker",
+     "a": "dacia-striker",
+     "b": "dacia-duster",
      "tier": 2
     },
     {
@@ -26779,8 +26797,8 @@
      "tier": 2
     },
     {
-     "a": "dacia-duster",
-     "b": "renault-symbioz",
+     "a": "renault-symbioz",
+     "b": "dacia-duster",
      "tier": 2
     },
     {
@@ -26789,8 +26807,8 @@
      "tier": 2
     },
     {
-     "a": "renault-symbioz",
-     "b": "dacia-striker",
+     "a": "dacia-striker",
+     "b": "renault-symbioz",
      "tier": 2
     }
    ]
@@ -26837,8 +26855,8 @@
      "tier": 2
     },
     {
-     "a": "mitsubishi-outlander",
-     "b": "renault-espace",
+     "a": "renault-espace",
+     "b": "mitsubishi-outlander",
      "tier": 2
     },
     {
@@ -26870,8 +26888,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "nissan-leaf",
-     "b": "renault-megane-e-tech",
+     "a": "renault-megane-e-tech",
+     "b": "nissan-leaf",
      "tier": 2
     }
    ]
@@ -26908,13 +26926,13 @@
      "tier": 2
     },
     {
-     "a": "alpine-a390",
-     "b": "nissan-ariya",
+     "a": "nissan-ariya",
+     "b": "alpine-a390",
      "tier": 2
     },
     {
-     "a": "renault-scenic-e-tech",
-     "b": "nissan-ariya",
+     "a": "nissan-ariya",
+     "b": "renault-scenic-e-tech",
      "tier": 2
     },
     {
@@ -26937,13 +26955,13 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "peugeot-208",
-     "b": "opel-corsa",
+     "a": "opel-corsa",
+     "b": "peugeot-208",
      "tier": 2
     },
     {
-     "a": "peugeot-208",
-     "b": "lancia-ypsilon",
+     "a": "lancia-ypsilon",
+     "b": "peugeot-208",
      "tier": 2
     },
     {
@@ -26973,58 +26991,58 @@
    ],
    "edges": [
     {
-     "a": "peugeot-2008",
-     "b": "opel-mokka",
+     "a": "opel-mokka",
+     "b": "peugeot-2008",
      "tier": 2
     },
     {
-     "a": "peugeot-2008",
+     "a": "ds-ds-3",
+     "b": "peugeot-2008",
+     "tier": 2
+    },
+    {
+     "a": "jeep-avenger",
+     "b": "peugeot-2008",
+     "tier": 2
+    },
+    {
+     "a": "fiat-600",
+     "b": "peugeot-2008",
+     "tier": 2
+    },
+    {
+     "a": "alfa-romeo-junior",
+     "b": "peugeot-2008",
+     "tier": 2
+    },
+    {
+     "a": "abarth-600e",
+     "b": "peugeot-2008",
+     "tier": 2
+    },
+    {
+     "a": "opel-mokka",
      "b": "ds-ds-3",
      "tier": 2
     },
     {
-     "a": "peugeot-2008",
-     "b": "jeep-avenger",
+     "a": "jeep-avenger",
+     "b": "ds-ds-3",
      "tier": 2
     },
     {
-     "a": "peugeot-2008",
-     "b": "fiat-600",
+     "a": "fiat-600",
+     "b": "ds-ds-3",
      "tier": 2
     },
     {
-     "a": "peugeot-2008",
-     "b": "alfa-romeo-junior",
+     "a": "alfa-romeo-junior",
+     "b": "ds-ds-3",
      "tier": 2
     },
     {
-     "a": "peugeot-2008",
-     "b": "abarth-600e",
-     "tier": 2
-    },
-    {
-     "a": "ds-ds-3",
-     "b": "opel-mokka",
-     "tier": 2
-    },
-    {
-     "a": "ds-ds-3",
-     "b": "jeep-avenger",
-     "tier": 2
-    },
-    {
-     "a": "ds-ds-3",
-     "b": "fiat-600",
-     "tier": 2
-    },
-    {
-     "a": "ds-ds-3",
-     "b": "alfa-romeo-junior",
-     "tier": 2
-    },
-    {
-     "a": "ds-ds-3",
-     "b": "abarth-600e",
+     "a": "abarth-600e",
+     "b": "ds-ds-3",
      "tier": 2
     },
     {
@@ -27033,13 +27051,13 @@
      "tier": 2
     },
     {
-     "a": "opel-mokka",
-     "b": "fiat-600",
+     "a": "fiat-600",
+     "b": "opel-mokka",
      "tier": 2
     },
     {
-     "a": "alfa-romeo-junior",
-     "b": "opel-mokka",
+     "a": "opel-mokka",
+     "b": "alfa-romeo-junior",
      "tier": 2
     },
     {
@@ -27058,23 +27076,23 @@
      "tier": 2
     },
     {
-     "a": "alfa-romeo-junior",
-     "b": "fiat-600",
+     "a": "fiat-600",
+     "b": "alfa-romeo-junior",
      "tier": 2
     },
     {
-     "a": "abarth-600e",
-     "b": "jeep-avenger",
-     "tier": 2
-    },
-    {
-     "a": "alfa-romeo-junior",
+     "a": "jeep-avenger",
      "b": "abarth-600e",
      "tier": 2
     },
     {
-     "a": "alfa-romeo-junior",
-     "b": "jeep-avenger",
+     "a": "abarth-600e",
+     "b": "alfa-romeo-junior",
+     "tier": 2
+    },
+    {
+     "a": "jeep-avenger",
+     "b": "alfa-romeo-junior",
      "tier": 2
     }
    ]
@@ -27098,23 +27116,23 @@
      "tier": 2
     },
     {
-     "a": "peugeot-308",
-     "b": "ds-n-4",
-     "tier": 2
-    },
-    {
-     "a": "peugeot-408",
+     "a": "ds-n-4",
      "b": "peugeot-308",
      "tier": 2
     },
     {
-     "a": "peugeot-408",
-     "b": "opel-astra",
+     "a": "peugeot-308",
+     "b": "peugeot-408",
      "tier": 2
     },
     {
-     "a": "peugeot-408",
-     "b": "ds-n-4",
+     "a": "opel-astra",
+     "b": "peugeot-408",
+     "tier": 2
+    },
+    {
+     "a": "ds-n-4",
+     "b": "peugeot-408",
      "tier": 2
     },
     {
@@ -27140,13 +27158,13 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "opel-grandland",
-     "b": "peugeot-3008",
+     "a": "peugeot-3008",
+     "b": "opel-grandland",
      "tier": 2
     },
     {
-     "a": "citroen-c5-aircross",
-     "b": "peugeot-3008",
+     "a": "peugeot-3008",
+     "b": "citroen-c5-aircross",
      "tier": 2
     },
     {
@@ -27155,13 +27173,13 @@
      "tier": 2
     },
     {
-     "a": "ds-n-7",
-     "b": "peugeot-3008",
+     "a": "peugeot-3008",
+     "b": "ds-n-7",
      "tier": 2
     },
     {
-     "a": "citroen-c5-aircross",
-     "b": "opel-grandland",
+     "a": "opel-grandland",
+     "b": "citroen-c5-aircross",
      "tier": 2
     },
     {
@@ -27190,13 +27208,13 @@
      "tier": 2
     },
     {
-     "a": "lancia-gamma",
-     "b": "peugeot-3008",
+     "a": "peugeot-3008",
+     "b": "lancia-gamma",
      "tier": 2
     },
     {
-     "a": "lancia-gamma",
-     "b": "opel-grandland",
+     "a": "opel-grandland",
+     "b": "lancia-gamma",
      "tier": 2
     },
     {
@@ -27210,8 +27228,8 @@
      "tier": 2
     },
     {
-     "a": "lancia-gamma",
-     "b": "ds-n-7",
+     "a": "ds-n-7",
+     "b": "lancia-gamma",
      "tier": 2
     }
    ]
@@ -27228,8 +27246,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "peugeot-5008",
-     "b": "ds-n-8",
+     "a": "ds-n-8",
+     "b": "peugeot-5008",
      "tier": 2
     }
    ]
@@ -27251,18 +27269,18 @@
    ],
    "edges": [
     {
-     "a": "opel-rocks",
-     "b": "citroen-ami",
-     "tier": 1
-    },
-    {
-     "a": "fiat-topolino",
-     "b": "citroen-ami",
-     "tier": 1
-    },
-    {
-     "a": "fiat-topolino",
+     "a": "citroen-ami",
      "b": "opel-rocks",
+     "tier": 1
+    },
+    {
+     "a": "citroen-ami",
+     "b": "fiat-topolino",
+     "tier": 1
+    },
+    {
+     "a": "opel-rocks",
+     "b": "fiat-topolino",
      "tier": 1
     }
    ]
@@ -27300,8 +27318,8 @@
    ],
    "edges": [
     {
-     "a": "citroen-c3-aircross",
-     "b": "opel-frontera",
+     "a": "opel-frontera",
+     "b": "citroen-c3-aircross",
      "tier": 1
     }
    ]
@@ -27340,13 +27358,13 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "maserati-grecale",
-     "b": "alfa-romeo-stelvio",
+     "a": "alfa-romeo-stelvio",
+     "b": "maserati-grecale",
      "tier": 2
     },
     {
-     "a": "jeep-grand-cherokee",
-     "b": "alfa-romeo-stelvio",
+     "a": "alfa-romeo-stelvio",
+     "b": "jeep-grand-cherokee",
      "tier": 2
     },
     {
@@ -27385,13 +27403,13 @@
      "tier": 2
     },
     {
-     "a": "audi-a1",
-     "b": "seat-ibiza",
+     "a": "seat-ibiza",
+     "b": "audi-a1",
      "tier": 2
     },
     {
-     "a": "audi-a1",
-     "b": "skoda-fabia",
+     "a": "skoda-fabia",
+     "b": "audi-a1",
      "tier": 2
     },
     {
@@ -27413,8 +27431,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "cupra-raval",
-     "b": "volkswagen-id-polo",
+     "a": "volkswagen-id-polo",
+     "b": "cupra-raval",
      "tier": 2
     }
    ]
@@ -27434,28 +27452,28 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "volkswagen-t-cross",
-     "b": "volkswagen-taigo",
+     "a": "volkswagen-taigo",
+     "b": "volkswagen-t-cross",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-taigo",
+     "b": "seat-arona",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-taigo",
+     "b": "skoda-kamiq",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-taigo",
+     "b": "audi-q2",
      "tier": 2
     },
     {
      "a": "seat-arona",
-     "b": "volkswagen-taigo",
-     "tier": 2
-    },
-    {
-     "a": "skoda-kamiq",
-     "b": "volkswagen-taigo",
-     "tier": 2
-    },
-    {
-     "a": "audi-q2",
-     "b": "volkswagen-taigo",
-     "tier": 2
-    },
-    {
-     "a": "volkswagen-t-cross",
-     "b": "seat-arona",
+     "b": "volkswagen-t-cross",
      "tier": 2
     },
     {
@@ -27464,8 +27482,8 @@
      "tier": 2
     },
     {
-     "a": "volkswagen-t-cross",
-     "b": "audi-q2",
+     "a": "audi-q2",
+     "b": "volkswagen-t-cross",
      "tier": 2
     },
     {
@@ -27474,8 +27492,8 @@
      "tier": 2
     },
     {
-     "a": "skoda-kamiq",
-     "b": "audi-q2",
+     "a": "audi-q2",
+     "b": "skoda-kamiq",
      "tier": 2
     },
     {
@@ -27497,8 +27515,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "volkswagen-id-cross",
-     "b": "skoda-epiq",
+     "a": "skoda-epiq",
+     "b": "volkswagen-id-cross",
      "tier": 2
     }
    ]
@@ -27518,38 +27536,38 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "volkswagen-tiguan",
-     "b": "volkswagen-t-roc",
-     "tier": 2
-    },
-    {
      "a": "volkswagen-t-roc",
-     "b": "audi-q3",
-     "tier": 2
-    },
-    {
-     "a": "volkswagen-t-roc",
-     "b": "cupra-formentor",
-     "tier": 2
-    },
-    {
-     "a": "cupra-terramar",
-     "b": "volkswagen-t-roc",
-     "tier": 2
-    },
-    {
-     "a": "volkswagen-tiguan",
-     "b": "audi-q3",
-     "tier": 2
-    },
-    {
-     "a": "volkswagen-tiguan",
-     "b": "cupra-formentor",
-     "tier": 2
-    },
-    {
-     "a": "cupra-terramar",
      "b": "volkswagen-tiguan",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-t-roc",
+     "b": "audi-q3",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-t-roc",
+     "b": "cupra-formentor",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-t-roc",
+     "b": "cupra-terramar",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-tiguan",
+     "b": "audi-q3",
+     "tier": 2
+    },
+    {
+     "a": "cupra-formentor",
+     "b": "volkswagen-tiguan",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-tiguan",
+     "b": "cupra-terramar",
      "tier": 2
     },
     {
@@ -27563,8 +27581,8 @@
      "tier": 2
     },
     {
-     "a": "cupra-terramar",
-     "b": "cupra-formentor",
+     "a": "cupra-formentor",
+     "b": "cupra-terramar",
      "tier": 2
     }
    ]
@@ -27587,18 +27605,18 @@
    ],
    "edges": [
     {
-     "a": "volkswagen-golf",
-     "b": "seat-leon",
-     "tier": 2
-    },
-    {
-     "a": "volkswagen-golf",
-     "b": "cupra-leon",
-     "tier": 2
-    },
-    {
-     "a": "skoda-octavia",
+     "a": "seat-leon",
      "b": "volkswagen-golf",
+     "tier": 2
+    },
+    {
+     "a": "cupra-leon",
+     "b": "volkswagen-golf",
+     "tier": 2
+    },
+    {
+     "a": "volkswagen-golf",
+     "b": "skoda-octavia",
      "tier": 2
     },
     {
@@ -27622,13 +27640,13 @@
      "tier": 2
     },
     {
-     "a": "skoda-octavia",
-     "b": "seat-leon",
+     "a": "seat-leon",
+     "b": "skoda-octavia",
      "tier": 2
     },
     {
-     "a": "skoda-octavia",
-     "b": "cupra-leon",
+     "a": "cupra-leon",
+     "b": "skoda-octavia",
      "tier": 2
     },
     {
@@ -27654,8 +27672,8 @@
    ],
    "edges": [
     {
-     "a": "volkswagen-id-3",
-     "b": "cupra-born",
+     "a": "cupra-born",
+     "b": "volkswagen-id-3",
      "tier": 1
     },
     {
@@ -27682,8 +27700,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "volkswagen-tayron",
-     "b": "skoda-kodiaq",
+     "a": "skoda-kodiaq",
+     "b": "volkswagen-tayron",
      "tier": 2
     }
    ]
@@ -27726,48 +27744,48 @@
      "tier": 2
     },
     {
-     "a": "audi-q8",
+     "a": "volkswagen-touareg",
+     "b": "audi-q8",
+     "tier": 2
+    },
+    {
+     "a": "lamborghini-urus",
      "b": "volkswagen-touareg",
      "tier": 2
     },
     {
      "a": "volkswagen-touareg",
-     "b": "lamborghini-urus",
-     "tier": 2
-    },
-    {
-     "a": "volkswagen-touareg",
-     "b": "bentley-bentayga",
-     "tier": 2
-    },
-    {
-     "a": "audi-q8",
-     "b": "porsche-cayenne",
-     "tier": 2
-    },
-    {
-     "a": "audi-q8",
-     "b": "lamborghini-urus",
-     "tier": 2
-    },
-    {
-     "a": "audi-q8",
      "b": "bentley-bentayga",
      "tier": 2
     },
     {
      "a": "porsche-cayenne",
-     "b": "lamborghini-urus",
+     "b": "audi-q8",
+     "tier": 2
+    },
+    {
+     "a": "lamborghini-urus",
+     "b": "audi-q8",
      "tier": 2
     },
     {
      "a": "bentley-bentayga",
+     "b": "audi-q8",
+     "tier": 2
+    },
+    {
+     "a": "lamborghini-urus",
      "b": "porsche-cayenne",
      "tier": 2
     },
     {
-     "a": "bentley-bentayga",
-     "b": "lamborghini-urus",
+     "a": "porsche-cayenne",
+     "b": "bentley-bentayga",
+     "tier": 2
+    },
+    {
+     "a": "lamborghini-urus",
+     "b": "bentley-bentayga",
      "tier": 2
     }
    ]
@@ -27784,8 +27802,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "audi-q6-e-tron",
-     "b": "porsche-macan",
+     "a": "porsche-macan",
+     "b": "audi-q6-e-tron",
      "tier": 2
     }
    ]
@@ -27802,8 +27820,8 @@
    "tier1_members": [],
    "edges": [
     {
-     "a": "porsche-taycan",
-     "b": "audi-e-tron-gt",
+     "a": "audi-e-tron-gt",
+     "b": "porsche-taycan",
      "tier": 2
     }
    ]
@@ -27829,8 +27847,8 @@
      "tier": 2
     },
     {
-     "a": "skoda-karoq",
-     "b": "cupra-ateca",
+     "a": "cupra-ateca",
+     "b": "skoda-karoq",
      "tier": 2
     },
     {
@@ -29573,13 +29591,13 @@
   {
    "brand": "Mercedes-Benz",
    "model": "Citan / eCitan / T-Class / EQT",
-   "note": "Discontinuation in 2026 announced April 2025; kept as runout tiles (production ends 2026).",
+   "note": "Renault-built W420 family (Kangoo / Townstar twins): discontinuation announced April 2025, production ended Q2 2026 and the models are no longer listed on the DE/CH/FR sites, so they are not in the chart.",
    "source": "https://en.wikipedia.org/wiki/Mercedes-Benz_T-Class"
   },
   {
    "brand": "Mercedes-Benz",
    "model": "EQV",
-   "note": "Replaced by the VAN.EA VLE (production since June 2026); kept as runout tile.",
+   "note": "No longer listed on the DE/CH/FR passenger-car or van pages (Oct 2026); succeeded by the VLE on VAN.EA (production since June 2026); not in the chart.",
    "source": "https://en.wikipedia.org/wiki/Mercedes-Benz_VLE"
   },
   {
@@ -29687,20 +29705,8 @@
   {
    "brand": "Mercedes-Benz",
    "model": "EQV",
-   "note": "No longer listed on the DE/CH/FR passenger-car or van pages (2026-10-21/22); the VLE is its successor (electrive 2026-04-15).",
+   "note": "No longer listed on the DE/CH/FR passenger-car or van pages (Oct 2026); succeeded by the VLE on VAN.EA (production since June 2026); not in the chart.",
    "source": "https://www.electrive.com/2026/04/15/mercedes-vle-now-available-from-e82260/"
-  },
-  {
-   "brand": "Mercedes-Benz",
-   "model": "Citan",
-   "note": "Production of the Renault-built Citan/eCitan (W420, 2021–2026) ended Q2 2026 (newmobility 2025-04-14; t-online: 'Citan und T-Klasse werden 2026 eingestellt'); not in the model listings of mercedes-benz.de/vans, mercedes-benz.ch/vans or mercedes-benz.fr/vans (only a footer link 'Gamme Citan' remains in FR). Tier-1 twin of Renault Kangoo Van / Nissan Townstar Van (built by Renault in Maubeuge) - name it in those groups only if the verifier decides to show runout stock.",
-   "source": "https://www.t-online.de/mobilitaet/aktuelles/id_100677466/mercedes-citan-und-t-klasse-baureihen-werden-2026-eingestellt.html"
-  },
-  {
-   "brand": "Mercedes-Benz",
-   "model": "T-Class",
-   "note": "Production of the T-Class/EQT (tier-1 twin of Renault Kangoo / Nissan Townstar Combi) ended Q2 2026; not listed on DE/CH/FR sites (2026-10-21/22).",
-   "source": "https://newmobility.news/en/2025/04/14/mercedes-to-end-citan-t-class-production-in-2026/"
   },
   {
    "brand": "Mercedes-Benz",

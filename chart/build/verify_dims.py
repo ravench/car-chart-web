@@ -7,6 +7,7 @@ import sys, json, os, csv, re
 data = json.load(open(sys.argv[1])); dims = json.load(open(sys.argv[2])); out = sys.argv[4]
 notes = json.load(open(sys.argv[5])) if len(sys.argv) > 5 and os.path.exists(sys.argv[5]) else {'pairs': {}, 'img_notes': {}}
 PREV = set(notes.get('prev_model', []))   # carsized entry is a previous model: pictured (badge with its model year), but not used to check pairings
+for _i in [k for k, v in dims.items() if v.get('prev_model') and k not in PREV]: dims.pop(_i)   # previous-model entry whose picture was replaced (external picture / name tile): its measurements are not the current car's
 def prev_year(i):
     """Badge year of a previous-model entry: the last year of carsized's own range ('present' or 2025+ -> 2025),
     capped at the start year of the current generation (chart `generation` field), i.e. the last year the pictured model was on sale."""

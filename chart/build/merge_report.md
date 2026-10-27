@@ -1,4 +1,9 @@
 Loaded 12 files, 629 model records, 45 announced, 168 discontinued notes.
+discontinued: note replaced for Mercedes-Benz|Citan / eCitan / T-Class / EQT
+discontinued: note replaced for Mercedes-Benz|EQV
+discontinued: note replaced for Mercedes-Benz|EQV
+discontinued: dropped duplicate record Mercedes-Benz|Citan
+discontinued: dropped duplicate record Mercedes-Benz|T-Class
 PROMOTED smart #2 -> on_sale
 DUP kgm musso: status: 'runout' (kept, lcv) vs 'on_sale' (jlr-independents)
 OVERRIDE target not found: smart #3|c-suv
@@ -49,27 +54,27 @@ edges_add target missing: {'a': 'smart #3|c-suv', 'b': 'volvo ex30|b-suv', 'tier
 edges_add target missing: {'a': 'smart 3|c-suv', 'b': 'Volvo EX30|b-suv', 'tier': 2, 'source': 'https://ch.smart.com/de/models/hashtag-three/', 'note': 'smart #3 moves to b-suv and joins the SEA group g-b-suv-1 (EX30, smart #1, Zeekr X, Lynk & Co 02), tier 2 as already recorded by the Geely scope; sources for the SEA platform sharing are in the existing records (InsideEVs, electrive).'}
 TIER CONFLICT lynk and co 01|c-suv ~ volvo xc40|c-suv: claims [(1, 'volvo xc40|c-suv'), (2, 'lynk and co 01|c-suv')]; using tier 2 (conservative)
 TIER CONFLICT bmw x1|c-suv ~ mini countryman|c-suv: claims [(1, 'bmw x1|c-suv'), (2, 'mini countryman|c-suv')]; using tier 2 (conservative)
-TIER CONFLICT bmw x2|c-suv ~ mini countryman|c-suv: claims [(1, 'bmw x2|c-suv'), (2, 'mini countryman|c-suv')]; using tier 2 (conservative)
-TIER CONFLICT peugeot 2008|b-suv ~ fiat 600|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT peugeot 2008|b-suv ~ abarth 600e|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT ds ds 3|b-suv ~ fiat 600|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT ds ds 3|b-suv ~ abarth 600e|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT opel mokka|b-suv ~ fiat 600|b-suv: claims [(2, 'opel mokka|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT mini countryman|c-suv ~ bmw x2|c-suv: claims [(1, 'bmw x2|c-suv'), (2, 'mini countryman|c-suv')]; using tier 2 (conservative)
+TIER CONFLICT fiat 600|b-suv ~ peugeot 2008|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT abarth 600e|b-suv ~ peugeot 2008|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT fiat 600|b-suv ~ ds ds 3|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT abarth 600e|b-suv ~ ds ds 3|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT fiat 600|b-suv ~ opel mokka|b-suv: claims [(2, 'opel mokka|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT abarth 600e|b-suv ~ opel mokka|b-suv: claims [(2, 'opel mokka|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT jeep avenger|b-suv ~ fiat 600|b-suv: claims [(1, 'fiat 600|b-suv'), (2, 'jeep avenger|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT alfa romeo junior|b-suv ~ fiat 600|b-suv: claims [(1, 'fiat 600|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT abarth 600e|b-suv ~ jeep avenger|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'jeep avenger|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT alfa romeo junior|b-suv ~ abarth 600e|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT volkswagen golf|c-hatch ~ seat leon|c-hatch: claims [(2, 'volkswagen golf|c-hatch'), (1, 'seat leon|c-hatch')]; using tier 2 (conservative)
-TIER CONFLICT volkswagen golf|c-hatch ~ cupra leon|c-hatch: claims [(2, 'volkswagen golf|c-hatch'), (1, 'cupra leon|c-hatch')]; using tier 2 (conservative)
+TIER CONFLICT fiat 600|b-suv ~ alfa romeo junior|b-suv: claims [(1, 'fiat 600|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT jeep avenger|b-suv ~ abarth 600e|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'jeep avenger|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT abarth 600e|b-suv ~ alfa romeo junior|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT seat leon|c-hatch ~ volkswagen golf|c-hatch: claims [(2, 'volkswagen golf|c-hatch'), (1, 'seat leon|c-hatch')]; using tier 2 (conservative)
+TIER CONFLICT cupra leon|c-hatch ~ volkswagen golf|c-hatch: claims [(2, 'volkswagen golf|c-hatch'), (1, 'cupra leon|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT audi a2 e tron|c-hatch ~ volkswagen id 3|c-hatch: claims [(1, 'volkswagen id 3|c-hatch'), (2, 'audi a2 e tron|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT audi a2 e tron|c-hatch ~ cupra born|c-hatch: claims [(2, 'audi a2 e tron|c-hatch'), (1, 'cupra born|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT seat leon|c-hatch ~ audi a3|c-hatch: claims [(2, 'audi a3|c-hatch'), (1, 'seat leon|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT cupra leon|c-hatch ~ audi a3|c-hatch: claims [(2, 'audi a3|c-hatch'), (1, 'cupra leon|c-hatch')]; using tier 2 (conservative)
-TIER CONFLICT skoda octavia|c-hatch ~ seat leon|c-hatch: claims [(2, 'skoda octavia|c-hatch'), (1, 'seat leon|c-hatch')]; using tier 2 (conservative)
-TIER CONFLICT skoda octavia|c-hatch ~ cupra leon|c-hatch: claims [(2, 'skoda octavia|c-hatch'), (1, 'cupra leon|c-hatch')]; using tier 2 (conservative)
+TIER CONFLICT seat leon|c-hatch ~ skoda octavia|c-hatch: claims [(2, 'skoda octavia|c-hatch'), (1, 'seat leon|c-hatch')]; using tier 2 (conservative)
+TIER CONFLICT cupra leon|c-hatch ~ skoda octavia|c-hatch: claims [(2, 'skoda octavia|c-hatch'), (1, 'cupra leon|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT seat ateca|c-suv ~ skoda karoq|c-suv: claims [(2, 'skoda karoq|c-suv'), (1, 'seat ateca|c-suv')]; using tier 2 (conservative)
-TIER CONFLICT skoda karoq|c-suv ~ cupra ateca|c-suv: claims [(2, 'skoda karoq|c-suv'), (1, 'cupra ateca|c-suv')]; using tier 2 (conservative)
+TIER CONFLICT cupra ateca|c-suv ~ skoda karoq|c-suv: claims [(2, 'skoda karoq|c-suv'), (1, 'cupra ateca|c-suv')]; using tier 2 (conservative)
 SAME-BRAND group not shown: maxus t90 ev|pickup | maxus t60 max|pickup
 SAME-BRAND group not shown: cadillac lyriq|e-suv | cadillac vistiq|e-suv
 SAME-BRAND group not shown: land rover range rover|e-suv | land rover range rover sport|e-suv
@@ -97,11 +102,11 @@ Twin groups: 78
   g-e-suv-2 [SEA-S] zeekr-9x | lotus-eletre
   g-a-city-1 [i10] hyundai-i10 | kia-picanto
   g-b-suv-3 [Hyundai-Kia K2] hyundai-bayon | kia-stonic
-  g-c-suv-3 [Hyundai-Kia K3] hyundai-kona | kia-niro | kia-seltos
-  g-c-suv-4 [Hyundai-Kia N3] hyundai-tucson | kia-sportage
+  g-c-suv-3 [Hyundai-Kia K3] hyundai-kona | kia-niro | kia-seltos | kia-ev3
+  g-c-suv-4 [Hyundai-Kia N3] hyundai-tucson | kia-sportage | kia-ev5
   g-d-suv-5 [Hyundai-Kia N3] hyundai-santa-fe | kia-sorento
-  g-c-hatch-1 [E-GMP] hyundai-ioniq-3 | kia-ev4
-  g-c-suv-5 [E-GMP] hyundai-ioniq-5 | kia-ev3 | kia-ev5 | kia-ev6 | genesis-gv60
+  g-c-hatch-1 [K3 (400 V EV)] hyundai-ioniq-3 | kia-ev4
+  g-c-suv-5 [E-GMP] hyundai-ioniq-5 | kia-ev6 | genesis-gv60
   g-e-suv-3 [E-GMP] hyundai-ioniq-9 | kia-ev9
   g-c-suv-6 [MEB] volkswagen-id-4 | volkswagen-id-5 | volkswagen-id-tiguan | audi-q4-e-tron | skoda-elroq | skoda-enyaq | cupra-tavascan | ford-explorer | ford-capri
   g-mpv-small-1 [MQB] volkswagen-caddy | ford-tourneo-connect

@@ -21,7 +21,8 @@ def trim(im):
     """Crop to the non-white (or non-transparent) bounding box with a small margin."""
     if im.mode in ('RGBA', 'LA'):
         alpha = im.getchannel('A')
-        bbox = alpha.getbbox()
+        # ignore faint alpha (shadow halos left by background removal) so the car, not the halo, sets the crop
+        bbox = alpha.point(lambda p: 255 if p > 24 else 0).getbbox()
     else:
         im = im.convert('RGB')
         bg = Image.new('RGB', im.size, (255, 255, 255))

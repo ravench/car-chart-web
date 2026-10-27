@@ -310,14 +310,14 @@
  "ds-n-7": {
   "side": {
    "url": null,
-   "page": "https://www.media.stellantis.com/fr-fr/ds/press/ds-n07-le-suv-premiere-classe",
+   "page": "https://www.media.stellantis.com/em-en/ds/media-library/press-images/655422",
    "source": "manufacturer press site (media.stellantis.com)",
    "licence": "manufacturer copyright; press/editorial use",
-   "notes": "press photo, background removed, mirrored",
+   "notes": "press photo (media test drive), near-side view seen slightly from the rear, background removed",
    "angle": "side",
-   "src": "ds2/dsn7-3112476",
+   "src": "dsn7td/dsn7td-0200-whr",
    "treatment": "rembg",
-   "mirrored": true,
+   "mirrored": false,
    "harvested": true
   }
  },
@@ -1783,6 +1783,58 @@
    "angle": "front",
    "src": "skoda/peaq-g1",
    "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "dacia-spring": {
+  "side": {
+   "url": null,
+   "page": "https://media.dacia.com/new-dacia-spring-100-per-cent-electric-100-per-cent-dacia/?lang=eng",
+   "source": "manufacturer press site (media.dacia.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "studio press photo of the 2026 Spring, background removed",
+   "angle": "side",
+   "src": "spring2026/spring-057-l",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://media.dacia.com/new-dacia-spring-100-per-cent-electric-100-per-cent-dacia/?lang=eng",
+   "source": "manufacturer press site (media.dacia.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "studio press photo, background removed",
+   "angle": "front",
+   "src": "spring2026/spring-058-l",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "fiat-doblo": {
+  "side": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/uk-en/fiat-professional/media-library/press-images/506266",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo of the 2022 Doblo van (K9 before the 2024 facelift, same body), background removed, mirrored",
+   "angle": "side",
+   "src": "doblo2022/doblo-08-whr",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/uk-en/fiat-professional/media-library/press-images/506266",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo of the 2022 Doblo van, background removed (haze above the roof cleaned)",
+   "angle": "front",
+   "src": "doblo2022/doblo-09-whr",
+   "treatment": "rembg+clean",
    "mirrored": false,
    "harvested": true
   }

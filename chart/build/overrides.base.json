@@ -91,7 +91,8 @@
   "maserati grancabrio|sports"
  ],
  "group_labels": {
-  "g-d-suv-1": "Chery T1X/M3X"
+  "g-d-suv-1": "Chery T1X/M3X",
+  "g-c-hatch-1": "K3 (400 V EV)"
  },
  "edges_add": [
   {
@@ -140,22 +141,8 @@
    "a": "hyundai ioniq 3|c-hatch",
    "b": "kia ev4|c-hatch",
    "tier": 2,
-   "source": "https://www.just-auto.com/news/hyundai-unveils-european-made-ioniq-3-bev/",
-   "note": "Platform check Oct 2026: both on E-GMP (400 V)"
-  },
-  {
-   "a": "kia ev3|c-suv",
-   "b": "hyundai ioniq 5|c-suv",
-   "tier": 2,
-   "source": "https://www.motor1.com/news/745773/kia-ev3-e-gmp-platform-details/",
-   "note": "Platform check Oct 2026: Kia names E-GMP (400 V derivative)"
-  },
-  {
-   "a": "kia ev5|c-suv",
-   "b": "hyundai ioniq 5|c-suv",
-   "tier": 2,
-   "source": "https://www.kia.com/ie/about-kia/news-and-events/the-kia-ev5-tailors-electric-mobility-for-european-drivers/",
-   "note": "Platform check Oct 2026: Kia names E-GMP (400 V)"
+   "source": "https://www.hyundai.news/eu/models/electrified/ioniq-3/press-kit/all-new-hyundai-ioniq-3.html",
+   "note": "Plausibility check Oct 2026: K3-based 400 V front-drive EVs (the IONIQ 3 is K3 per the Hyundai press kit; Kia calls the same hardware E-GMP 400 V)"
   },
   {
    "a": "zeekr 001|e-car",
@@ -170,6 +157,20 @@
    "tier": 2,
    "source": "https://www.motoringresearch.com/car-news/lotus-eletre-x-plug-in-hybrid-suv/",
    "note": "Platform check Oct 2026: Eletre X shares its underpinnings with the Zeekr 9X (SEA-S)"
+  },
+  {
+   "a": "kia ev3|c-suv",
+   "b": "hyundai kona|c-suv",
+   "tier": 2,
+   "source": "https://en.wikipedia.org/wiki/Hyundai-Kia_K_platforms",
+   "note": "Plausibility check Oct 2026: the EV3 is on the K3 BEV sub-platform derived from the K3 of Kona/Niro/Seltos (Wikipedia K platforms); its IONIQ 3 twin is K3 per Hyundai"
+  },
+  {
+   "a": "kia ev5|c-suv",
+   "b": "hyundai tucson|c-suv",
+   "tier": 2,
+   "source": "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
+   "note": "Plausibility check Oct 2026: the EV5 chassis derives from the front-drive N3 of Tucson/Sportage (Wikipedia E-GMP article); Kia calls it E-GMP 400 V"
   }
  ],
  "edges_remove": [
@@ -422,9 +423,13 @@
    ]
   },
   "hyundai ioniq 3|c-hatch": {
+   "platform": "Hyundai-Kia K3 (400 V)",
+   "twin_note": "Plausibility check Oct 2026: Hyundai's European press kit puts the IONIQ 3 on the Hyundai-Kia K3 platform (400 V, front-wheel drive, 2,680 mm wheelbase, the same as the Kia EV3); Wikipedia's infobox calls it 'E-GMP (400 V architecture)', which is Kia's name for the same hardware. Framed with the Kia EV4 (same 400 V front-drive hardware family, distinct body, 2,820 mm wheelbase) → tier 2. The EV3 and the K3 combustion/hybrid cars Kona, Niro and Seltos are relatives in the C-SUV class.",
    "cross_row_siblings": [
     "kia-ev3",
-    "kia-ev5",
+    "hyundai-kona",
+    "kia-niro",
+    "kia-seltos",
     "kia-ev2"
    ]
   },
@@ -447,8 +452,11 @@
    ]
   },
   "kia ev3|c-suv": {
+   "platform": "Hyundai-Kia K3 BEV (Kia: E-GMP 400 V)",
+   "twin_note": "Plausibility check Oct 2026: Kia names E-GMP 400 V, but Wikipedia's K-platform page lists the EV3 on the 'K3 BEV' sub-platform derived from the front-drive K3 of Kona, Niro and Seltos, and the Hyundai IONIQ 3 (same 2,680 mm wheelbase and hardware) is K3 per Hyundai's press kit → framed with Kona/Niro/Seltos (tier 2, distinct bodies), no longer with the 800 V E-GMP cars IONIQ 5, EV6 and GV60.",
    "cross_row_siblings": [
-    "hyundai-ioniq-3"
+    "hyundai-ioniq-3",
+    "kia-ev4"
    ]
   },
   "kia xceed|c-suv": {
@@ -663,6 +671,47 @@
     "alfa-romeo-stelvio",
     "jeep-grand-cherokee"
    ]
+  },
+  "kia ev4|c-hatch": {
+   "platform": "E-GMP 400 V (Kia name; K3-based 400 V hardware of the EV3 / Hyundai IONIQ 3)",
+   "twin_note": "Plausibility check Oct 2026: Kia names E-GMP 400 V (Wikipedia infobox, related model: EV3). The EV4 shares the EV3's front-drive 400 V hardware, whose chassis derives from the Hyundai-Kia K3 platform, and the Hyundai IONIQ 3 is K3 per Hyundai's press kit → framed with the IONIQ 3 (tier 2, distinct bodies, 2,820 vs 2,680 mm wheelbase). Not framed with the 800 V E-GMP cars (IONIQ 5, EV6, GV60).",
+   "cross_row_siblings": [
+    "kia-ev3"
+   ]
+  },
+  "kia ev5|c-suv": {
+   "platform": "Hyundai-Kia N3-based 400 V EV (Kia: E-GMP 400 V)",
+   "twin_note": "Plausibility check Oct 2026: Kia names E-GMP 400 V, but Wikipedia's E-GMP article says the EV5's chassis derives from the front-drive Hyundai-Kia N3 platform of Tucson and Sportage → framed with them (tier 2, distinct bodies; EV5 wheelbase 2,750 mm vs 2,680 mm of the European Tucson/Sportage), no longer with the 800 V E-GMP cars IONIQ 5, EV6 and GV60."
+  },
+  "hyundai kona|c-suv": {
+   "cross_row_siblings": [
+    "hyundai-ioniq-3",
+    "kia-ev4"
+   ],
+   "twin_note": "Kona (SX2), Niro (SG2) and the new Seltos (SP3, 2026) are all listed on the Hyundai-Kia K3 platform (Wikipedia platform page, fetched 2026-10-22); they share the 1.6 T-GDi / 1.6 GDI hybrid systems; wheelbases 2,660 / 2,720 / ~2,690 mm; distinct bodies → tier 2 (brief lists 'Kona/Niro?'). Kia K4 (c-hatch) is on K3 too – cross-row note. The Kia EV3 (K3 BEV sub-platform) joined the family in the Oct 2026 plausibility check; the K3-based IONIQ 3 and Kia EV4 are relatives in the C-hatchback class."
+  },
+  "kia niro|c-suv": {
+   "cross_row_siblings": [
+    "hyundai-ioniq-3",
+    "kia-ev4"
+   ]
+  },
+  "kia seltos|c-suv": {
+   "cross_row_siblings": [
+    "hyundai-ioniq-3",
+    "kia-ev4"
+   ]
+  },
+  "hyundai tucson|c-suv": {
+   "twin_note": "Tucson NX4 and Sportage NQ5 share the N3 platform (identical 2,680 mm wheelbase in the European short-wheelbase Sportage) and the same 1.6 T-GDi MHEV/HEV/PHEV powertrains; distinct bodies → tier 2 (brief example). Note: en.wikipedia 'Hyundai-Kia N3 platform' URL returned not-found on 2026-10-22; the Staria article (fetched) names N3 as 'Hyundai-Kia's mid-size FWD platform'. The Kia EV5 (N3-derived 400 V EV) joined the family in the Oct 2026 plausibility check."
   }
- }
+ },
+ "discontinued_notes": {
+  "Mercedes-Benz|Citan / eCitan / T-Class / EQT": "Renault-built W420 family (Kangoo / Townstar twins): discontinuation announced April 2025, production ended Q2 2026 and the models are no longer listed on the DE/CH/FR sites, so they are not in the chart.",
+  "Mercedes-Benz|EQV": "No longer listed on the DE/CH/FR passenger-car or van pages (Oct 2026); succeeded by the VLE on VAN.EA (production since June 2026); not in the chart."
+ },
+ "discontinued_drop": [
+  "Mercedes-Benz|Citan",
+  "Mercedes-Benz|T-Class"
+ ]
 }

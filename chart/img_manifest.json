@@ -10,7 +10,7 @@
 "alfa-romeo-giulia": {
 "front": "img/alfa-romeo-giulia-front.webp",
 "fw": 319,
-"fh": 267,
+"fh": 266,
 "side": "img/alfa-romeo-giulia-side.webp",
 "sw": 713,
 "sh": 248
@@ -18,7 +18,7 @@
 "alfa-romeo-junior": {
 "front": "img/alfa-romeo-junior-front.webp",
 "fw": 310,
-"fh": 285,
+"fh": 284,
 "side": "img/alfa-romeo-junior-side.webp",
 "sw": 647,
 "sh": 273
@@ -26,7 +26,7 @@
 "alfa-romeo-stelvio": {
 "front": "img/alfa-romeo-stelvio-front.webp",
 "fw": 326,
-"fh": 291,
+"fh": 289,
 "side": "img/alfa-romeo-stelvio-side.webp",
 "sw": 718,
 "sh": 281
@@ -34,7 +34,7 @@
 "alfa-romeo-tonale": {
 "front": "img/alfa-romeo-tonale-front.webp",
 "fw": 317,
-"fh": 288,
+"fh": 286,
 "side": "img/alfa-romeo-tonale-side.webp",
 "sw": 685,
 "sh": 279
@@ -42,7 +42,7 @@
 "alpine-a110": {
 "front": "img/alpine-a110-front.webp",
 "fw": 304,
-"fh": 235,
+"fh": 233,
 "side": "img/alpine-a110-side.webp",
 "sw": 637,
 "sh": 222
@@ -50,7 +50,7 @@
 "alpine-a290": {
 "front": "img/alpine-a290-front.webp",
 "fw": 316,
-"fh": 278,
+"fh": 277,
 "side": "img/alpine-a290-side.webp",
 "sw": 617,
 "sh": 268
@@ -58,31 +58,31 @@
 "alpine-a390": {
 "front": "img/alpine-a390-front.webp",
 "fw": 321,
-"fh": 277,
+"fh": 274,
 "side": "img/alpine-a390-side.webp",
 "sw": 705,
 "sh": 264
 },
 "aston-martin-db12": {
 "front": "img/aston-martin-db12-front.webp",
-"fw": 725,
-"fh": 459,
+"fw": 719,
+"fh": 454,
 "side": "img/aston-martin-db12-side.webp",
 "sw": 800,
-"sh": 209
+"sh": 232
 },
 "aston-martin-dbx": {
 "front": "img/aston-martin-dbx-front.webp",
 "fw": 342,
-"fh": 286,
+"fh": 283,
 "side": "img/aston-martin-dbx-side.webp",
 "sw": 759,
 "sh": 281
 },
 "aston-martin-valhalla": {
 "front": "img/aston-martin-valhalla-front.webp",
-"fw": 750,
-"fh": 513,
+"fw": 744,
+"fh": 402,
 "side": "img/aston-martin-valhalla-side.webp",
 "sw": 800,
 "sh": 203
@@ -90,7 +90,7 @@
 "aston-martin-vanquish": {
 "front": "img/aston-martin-vanquish-front.webp",
 "fw": 337,
-"fh": 245,
+"fh": 242,
 "side": "img/aston-martin-vanquish-side.webp",
 "sw": 731,
 "sh": 229
@@ -98,7 +98,7 @@
 "aston-martin-vantage": {
 "front": "img/aston-martin-vantage-front.webp",
 "fw": 333,
-"fh": 239,
+"fh": 236,
 "side": "img/aston-martin-vantage-side.webp",
 "sw": 675,
 "sh": 225
@@ -106,7 +106,7 @@
 "audi-a1": {
 "front": "img/audi-a1-front.webp",
 "fw": 302,
-"fh": 261,
+"fh": 258,
 "side": "img/audi-a1-side.webp",
 "sw": 624,
 "sh": 247
@@ -119,15 +119,15 @@
 "audi-a3": {
 "front": "img/audi-a3-front.webp",
 "fw": 306,
-"fh": 265,
+"fh": 260,
 "side": "img/audi-a3-side.webp",
 "sw": 672,
-"sh": 251
+"sh": 250
 },
 "audi-a5": {
 "front": "img/audi-a5-front.webp",
 "fw": 321,
-"fh": 265,
+"fh": 261,
 "side": "img/audi-a5-side.webp",
 "sw": 740,
 "sh": 249
@@ -135,15 +135,15 @@
 "audi-a6-e-tron": {
 "front": "img/audi-a6-e-tron-front.webp",
 "fw": 329,
-"fh": 269,
+"fh": 267,
 "side": "img/audi-a6-e-tron-side.webp",
 "sw": 757,
-"sh": 257
+"sh": 256
 },
 "audi-a6": {
 "front": "img/audi-a6-front.webp",
 "fw": 320,
-"fh": 267,
+"fh": 265,
 "side": "img/audi-a6-side.webp",
 "sw": 764,
 "sh": 252
@@ -151,7 +151,7 @@
 "audi-a8": {
 "front": "img/audi-a8-front.webp",
 "fw": 324,
-"fh": 270,
+"fh": 267,
 "side": "img/audi-a8-side.webp",
 "sw": 798,
 "sh": 255
@@ -159,7 +159,7 @@
 "audi-e-tron-gt": {
 "front": "img/audi-e-tron-gt-front.webp",
 "fw": 336,
-"fh": 253,
+"fh": 250,
 "side": "img/audi-e-tron-gt-side.webp",
 "sw": 755,
 "sh": 238
@@ -167,7 +167,7 @@
 "audi-q2": {
 "front": "img/audi-q2-front.webp",
 "fw": 307,
-"fh": 275,
+"fh": 273,
 "side": "img/audi-q2-side.webp",
 "sw": 650,
 "sh": 268
@@ -175,7 +175,7 @@
 "audi-q3": {
 "front": "img/audi-q3-front.webp",
 "fw": 316,
-"fh": 285,
+"fh": 282,
 "side": "img/audi-q3-side.webp",
 "sw": 695,
 "sh": 277
@@ -183,15 +183,15 @@
 "audi-q4-e-tron": {
 "front": "img/audi-q4-e-tron-front.webp",
 "fw": 321,
-"fh": 288,
+"fh": 287,
 "side": "img/audi-q4-e-tron-side.webp",
 "sw": 707,
-"sh": 279
+"sh": 278
 },
 "audi-q5": {
 "front": "img/audi-q5-front.webp",
 "fw": 324,
-"fh": 293,
+"fh": 291,
 "side": "img/audi-q5-side.webp",
 "sw": 723,
 "sh": 283
@@ -199,7 +199,7 @@
 "audi-q6-e-tron": {
 "front": "img/audi-q6-e-tron-front.webp",
 "fw": 337,
-"fh": 291,
+"fh": 289,
 "side": "img/audi-q6-e-tron-side.webp",
 "sw": 734,
 "sh": 279
@@ -207,7 +207,7 @@
 "audi-q7": {
 "front": "img/audi-q7-front.webp",
 "fw": 335,
-"fh": 299,
+"fh": 297,
 "side": "img/audi-q7-side.webp",
 "sw": 784,
 "sh": 291
@@ -215,23 +215,23 @@
 "audi-q8": {
 "front": "img/audi-q8-front.webp",
 "fw": 339,
-"fh": 291,
+"fh": 288,
 "side": "img/audi-q8-side.webp",
 "sw": 765,
 "sh": 283
 },
 "audi-q9": {
 "front": "img/audi-q9-front.webp",
-"fw": 601,
-"fh": 493,
+"fw": 591,
+"fh": 486,
 "side": "img/audi-q9-side.webp",
 "sw": 800,
-"sh": 429
+"sh": 285
 },
 "bentley-bentayga": {
 "front": "img/bentley-bentayga-front.webp",
 "fw": 344,
-"fh": 300,
+"fh": 298,
 "side": "img/bentley-bentayga-side.webp",
 "sw": 780,
 "sh": 294
@@ -239,23 +239,23 @@
 "bentley-continental-gt": {
 "front": "img/bentley-continental-gt-front.webp",
 "fw": 344,
-"fh": 262,
+"fh": 259,
 "side": "img/bentley-continental-gt-side.webp",
 "sw": 742,
-"sh": 245
+"sh": 244
 },
 "bentley-flying-spur": {
 "front": "img/bentley-flying-spur-front.webp",
 "fw": 343,
-"fh": 269,
+"fh": 268,
 "side": "img/bentley-flying-spur-side.webp",
 "sw": 800,
-"sh": 255
+"sh": 254
 },
 "bmw-1-series": {
 "front": "img/bmw-1-series-front.webp",
 "fw": 309,
-"fh": 266,
+"fh": 264,
 "side": "img/bmw-1-series-side.webp",
 "sw": 674,
 "sh": 249
@@ -263,7 +263,7 @@
 "bmw-2-series-active-tourer": {
 "front": "img/bmw-2-series-active-tourer-front.webp",
 "fw": 313,
-"fh": 282,
+"fh": 280,
 "side": "img/bmw-2-series-active-tourer-side.webp",
 "sw": 675,
 "sh": 273
@@ -271,15 +271,15 @@
 "bmw-2-series-coupe": {
 "front": "img/bmw-2-series-coupe-front.webp",
 "fw": 318,
-"fh": 262,
+"fh": 259,
 "side": "img/bmw-2-series-coupe-side.webp",
 "sw": 702,
-"sh": 244
+"sh": 243
 },
 "bmw-2-series-gran-coupe": {
 "front": "img/bmw-2-series-gran-coupe-front.webp",
 "fw": 310,
-"fh": 261,
+"fh": 257,
 "side": "img/bmw-2-series-gran-coupe-side.webp",
 "sw": 698,
 "sh": 246
@@ -287,7 +287,7 @@
 "bmw-3-series": {
 "front": "img/bmw-3-series-front.webp",
 "fw": 318,
-"fh": 263,
+"fh": 260,
 "side": "img/bmw-3-series-side.webp",
 "sw": 731,
 "sh": 247
@@ -295,7 +295,7 @@
 "bmw-4-series": {
 "front": "img/bmw-4-series-front.webp",
 "fw": 315,
-"fh": 256,
+"fh": 253,
 "side": "img/bmw-4-series-side.webp",
 "sw": 731,
 "sh": 242
@@ -303,15 +303,15 @@
 "bmw-4-series-gran-coupe": {
 "front": "img/bmw-4-series-gran-coupe-front.webp",
 "fw": 321,
-"fh": 266,
+"fh": 264,
 "side": "img/bmw-4-series-gran-coupe-side.webp",
 "sw": 733,
-"sh": 249
+"sh": 248
 },
 "bmw-5-series": {
 "front": "img/bmw-5-series-front.webp",
 "fw": 328,
-"fh": 272,
+"fh": 269,
 "side": "img/bmw-5-series-side.webp",
 "sw": 785,
 "sh": 261
@@ -319,7 +319,7 @@
 "bmw-7-series": {
 "front": "img/bmw-7-series-front.webp",
 "fw": 333,
-"fh": 275,
+"fh": 272,
 "side": "img/bmw-7-series-side.webp",
 "sw": 800,
 "sh": 255
@@ -327,15 +327,15 @@
 "bmw-i3": {
 "front": "img/bmw-i3-front.webp",
 "fw": 800,
-"fh": 834,
+"fh": 552,
 "side": "img/bmw-i3-side.webp",
 "sw": 800,
-"sh": 253
+"sh": 251
 },
 "bmw-ix": {
 "front": "img/bmw-ix-front.webp",
 "fw": 338,
-"fh": 295,
+"fh": 293,
 "side": "img/bmw-ix-side.webp",
 "sw": 761,
 "sh": 288
@@ -343,15 +343,15 @@
 "bmw-ix3": {
 "front": "img/bmw-ix3-front.webp",
 "fw": 327,
-"fh": 289,
+"fh": 287,
 "side": "img/bmw-ix3-side.webp",
 "sw": 735,
-"sh": 280
+"sh": 279
 },
 "bmw-ix4": {
 "front": "img/bmw-ix4-front.webp",
-"fw": 800,
-"fh": 522,
+"fw": 646,
+"fh": 495,
 "side": "img/bmw-ix4-side.webp",
 "sw": 800,
 "sh": 276
@@ -359,7 +359,7 @@
 "bmw-x1": {
 "front": "img/bmw-x1-front.webp",
 "fw": 318,
-"fh": 292,
+"fh": 290,
 "side": "img/bmw-x1-side.webp",
 "sw": 694,
 "sh": 283
@@ -367,7 +367,7 @@
 "bmw-x2": {
 "front": "img/bmw-x2-front.webp",
 "fw": 315,
-"fh": 284,
+"fh": 283,
 "side": "img/bmw-x2-side.webp",
 "sw": 708,
 "sh": 273
@@ -375,7 +375,7 @@
 "bmw-x3": {
 "front": "img/bmw-x3-front.webp",
 "fw": 328,
-"fh": 293,
+"fh": 291,
 "side": "img/bmw-x3-side.webp",
 "sw": 733,
 "sh": 286
@@ -383,7 +383,7 @@
 "bmw-x5": {
 "front": "img/bmw-x5-front.webp",
 "fw": 343,
-"fh": 308,
+"fh": 306,
 "side": "img/bmw-x5-side.webp",
 "sw": 759,
 "sh": 303
@@ -391,7 +391,7 @@
 "bmw-x6": {
 "front": "img/bmw-x6-front.webp",
 "fw": 341,
-"fh": 299,
+"fh": 298,
 "side": "img/bmw-x6-side.webp",
 "sw": 761,
 "sh": 289
@@ -399,7 +399,7 @@
 "bmw-x7": {
 "front": "img/bmw-x7-front.webp",
 "fw": 341,
-"fh": 313,
+"fh": 309,
 "side": "img/bmw-x7-side.webp",
 "sw": 796,
 "sh": 315
@@ -407,23 +407,23 @@
 "bmw-xm": {
 "front": "img/bmw-xm-front.webp",
 "fw": 348,
-"fh": 304,
+"fh": 303,
 "side": "img/bmw-xm-side.webp",
 "sw": 782,
-"sh": 298
+"sh": 297
 },
 "bugatti-tourbillon": {
 "front": "img/bugatti-tourbillon-front.webp",
-"fw": 800,
-"fh": 533,
+"fw": 554,
+"fh": 392,
 "side": "img/bugatti-tourbillon-side.webp",
-"sw": 778,
-"sh": 422
+"sw": 615,
+"sh": 200
 },
 "byd-atto-2": {
 "front": "img/byd-atto-2-front.webp",
 "fw": 316,
-"fh": 293,
+"fh": 291,
 "side": "img/byd-atto-2-side.webp",
 "sw": 661,
 "sh": 285
@@ -431,7 +431,7 @@
 "byd-atto-3": {
 "front": "img/byd-atto-3-front.webp",
 "fw": 318,
-"fh": 288,
+"fh": 285,
 "side": "img/byd-atto-3-side.webp",
 "sw": 682,
 "sh": 281
@@ -439,7 +439,7 @@
 "byd-dolphin": {
 "front": "img/byd-dolphin-front.webp",
 "fw": 303,
-"fh": 279,
+"fh": 277,
 "side": "img/byd-dolphin-side.webp",
 "sw": 658,
 "sh": 269
@@ -447,12 +447,12 @@
 "byd-dolphin-g": {
 "side": "img/byd-dolphin-g-side.webp",
 "sw": 635,
-"sh": 272
+"sh": 271
 },
 "byd-dolphin-surf": {
 "front": "img/byd-dolphin-surf-front.webp",
 "fw": 302,
-"fh": 282,
+"fh": 281,
 "side": "img/byd-dolphin-surf-side.webp",
 "sw": 613,
 "sh": 271
@@ -460,7 +460,7 @@
 "byd-seal-6": {
 "front": "img/byd-seal-6-front.webp",
 "fw": 318,
-"fh": 272,
+"fh": 269,
 "side": "img/byd-seal-6-side.webp",
 "sw": 736,
 "sh": 265
@@ -468,7 +468,7 @@
 "byd-seal": {
 "front": "img/byd-seal-front.webp",
 "fw": 323,
-"fh": 261,
+"fh": 258,
 "side": "img/byd-seal-side.webp",
 "sw": 721,
 "sh": 250
@@ -476,7 +476,7 @@
 "byd-seal-u": {
 "front": "img/byd-seal-u-front.webp",
 "fw": 321,
-"fh": 295,
+"fh": 293,
 "side": "img/byd-seal-u-side.webp",
 "sw": 736,
 "sh": 292
@@ -489,20 +489,20 @@
 "byd-sealion-7": {
 "front": "img/byd-sealion-7-front.webp",
 "fw": 329,
-"fh": 285,
+"fh": 284,
 "side": "img/byd-sealion-7-side.webp",
 "sw": 736,
 "sh": 279
 },
 "byd-shark": {
 "front": "img/byd-shark-front.webp",
-"fw": 763,
-"fh": 558
+"fw": 588,
+"fh": 485
 },
 "byd-tang": {
 "front": "img/byd-tang-front.webp",
 "fw": 330,
-"fh": 299,
+"fh": 296,
 "side": "img/byd-tang-side.webp",
 "sw": 746,
 "sh": 291
@@ -510,7 +510,7 @@
 "cadillac-lyriq": {
 "front": "img/cadillac-lyriq-front.webp",
 "fw": 342,
-"fh": 289,
+"fh": 288,
 "side": "img/cadillac-lyriq-side.webp",
 "sw": 760,
 "sh": 275
@@ -518,7 +518,7 @@
 "cadillac-optiq": {
 "front": "img/cadillac-optiq-front.webp",
 "fw": 326,
-"fh": 290,
+"fh": 288,
 "side": "img/cadillac-optiq-side.webp",
 "sw": 732,
 "sh": 281
@@ -526,10 +526,10 @@
 "cadillac-vistiq": {
 "front": "img/cadillac-vistiq-front.webp",
 "fw": 341,
-"fh": 308,
+"fh": 306,
 "side": "img/cadillac-vistiq-side.webp",
 "sw": 794,
-"sh": 310
+"sh": 308
 },
 "caterham-seven": {
 "front": "img/caterham-seven-front.webp",
@@ -542,12 +542,12 @@
 "chery-tiggo-4": {
 "side": "img/chery-tiggo-4-side.webp",
 "sw": 800,
-"sh": 309
+"sh": 317
 },
 "chery-tiggo-7": {
 "front": "img/chery-tiggo-7-front.webp",
 "fw": 309,
-"fh": 299,
+"fh": 297,
 "side": "img/chery-tiggo-7-side.webp",
 "sw": 693,
 "sh": 295
@@ -555,20 +555,20 @@
 "chery-tiggo-8": {
 "front": "img/chery-tiggo-8-front.webp",
 "fw": 315,
-"fh": 299,
+"fh": 297,
 "side": "img/chery-tiggo-8-side.webp",
 "sw": 730,
-"sh": 300
+"sh": 299
 },
 "chery-tiggo-9": {
 "side": "img/chery-tiggo-9-side.webp",
-"sw": 640,
+"sw": 628,
 "sh": 230
 },
 "chevrolet-corvette": {
 "front": "img/chevrolet-corvette-front.webp",
 "fw": 327,
-"fh": 235,
+"fh": 230,
 "side": "img/chevrolet-corvette-side.webp",
 "sw": 704,
 "sh": 217
@@ -579,12 +579,12 @@
 "fh": 283,
 "side": "img/citroen-ami-side.webp",
 "sw": 397,
-"sh": 263
+"sh": 262
 },
 "citroen-berlingo": {
 "front": "img/citroen-berlingo-front.webp",
 "fw": 308,
-"fh": 334,
+"fh": 333,
 "side": "img/citroen-berlingo-side.webp",
 "sw": 748,
 "sh": 316
@@ -592,7 +592,7 @@
 "citroen-berlingo-van": {
 "front": "img/citroen-berlingo-van-front.webp",
 "fw": 314,
-"fh": 331,
+"fh": 330,
 "side": "img/citroen-berlingo-van-side.webp",
 "sw": 690,
 "sh": 317
@@ -605,7 +605,7 @@
 "citroen-c3": {
 "front": "img/citroen-c3-front.webp",
 "fw": 308,
-"fh": 281,
+"fh": 280,
 "side": "img/citroen-c3-side.webp",
 "sw": 626,
 "sh": 273
@@ -613,7 +613,7 @@
 "citroen-c4": {
 "front": "img/citroen-c4-front.webp",
 "fw": 307,
-"fh": 277,
+"fh": 275,
 "side": "img/citroen-c4-side.webp",
 "sw": 668,
 "sh": 263
@@ -621,7 +621,7 @@
 "citroen-c5-aircross": {
 "front": "img/citroen-c5-aircross-front.webp",
 "fw": 324,
-"fh": 299,
+"fh": 295,
 "side": "img/citroen-c5-aircross-side.webp",
 "sw": 718,
 "sh": 286
@@ -637,7 +637,7 @@
 "citroen-jumpy": {
 "front": "img/citroen-jumpy-front.webp",
 "fw": 338,
-"fh": 331,
+"fh": 330,
 "side": "img/citroen-jumpy-side.webp",
 "sw": 800,
 "sh": 310
@@ -645,7 +645,7 @@
 "citroen-spacetourer": {
 "front": "img/citroen-spacetourer-front.webp",
 "fw": 338,
-"fh": 331,
+"fh": 330,
 "side": "img/citroen-spacetourer-side.webp",
 "sw": 800,
 "sh": 310
@@ -653,7 +653,7 @@
 "cupra-ateca": {
 "front": "img/cupra-ateca-front.webp",
 "fw": 314,
-"fh": 287,
+"fh": 286,
 "side": "img/cupra-ateca-side.webp",
 "sw": 678,
 "sh": 277
@@ -661,7 +661,7 @@
 "cupra-born": {
 "front": "img/cupra-born-front.webp",
 "fw": 315,
-"fh": 281,
+"fh": 279,
 "side": "img/cupra-born-side.webp",
 "sw": 668,
 "sh": 268
@@ -669,7 +669,7 @@
 "cupra-formentor": {
 "front": "img/cupra-formentor-front.webp",
 "fw": 316,
-"fh": 277,
+"fh": 274,
 "side": "img/cupra-formentor-side.webp",
 "sw": 685,
 "sh": 265
@@ -677,7 +677,7 @@
 "cupra-leon": {
 "front": "img/cupra-leon-front.webp",
 "fw": 302,
-"fh": 264,
+"fh": 260,
 "side": "img/cupra-leon-side.webp",
 "sw": 721,
 "sh": 252
@@ -685,7 +685,7 @@
 "cupra-raval": {
 "front": "img/cupra-raval-front.webp",
 "fw": 311,
-"fh": 275,
+"fh": 274,
 "side": "img/cupra-raval-side.webp",
 "sw": 631,
 "sh": 265
@@ -693,15 +693,15 @@
 "cupra-tavascan": {
 "front": "img/cupra-tavascan-front.webp",
 "fw": 323,
-"fh": 286,
+"fh": 284,
 "side": "img/cupra-tavascan-side.webp",
 "sw": 708,
-"sh": 273
+"sh": 272
 },
 "cupra-terramar": {
 "front": "img/cupra-terramar-front.webp",
 "fw": 317,
-"fh": 285,
+"fh": 283,
 "side": "img/cupra-terramar-side.webp",
 "sw": 695,
 "sh": 276
@@ -709,7 +709,7 @@
 "dacia-bigster": {
 "front": "img/dacia-bigster-front.webp",
 "fw": 309,
-"fh": 301,
+"fh": 299,
 "side": "img/dacia-bigster-side.webp",
 "sw": 713,
 "sh": 296
@@ -717,7 +717,7 @@
 "dacia-duster": {
 "front": "img/dacia-duster-front.webp",
 "fw": 311,
-"fh": 295,
+"fh": 293,
 "side": "img/dacia-duster-side.webp",
 "sw": 675,
 "sh": 283
@@ -725,7 +725,7 @@
 "dacia-jogger": {
 "front": "img/dacia-jogger-front.webp",
 "fw": 306,
-"fh": 290,
+"fh": 288,
 "side": "img/dacia-jogger-side.webp",
 "sw": 706,
 "sh": 288
@@ -733,36 +733,36 @@
 "dacia-sandero": {
 "front": "img/dacia-sandero-front.webp",
 "fw": 304,
-"fh": 305,
+"fh": 304,
 "side": "img/dacia-sandero-side.webp",
 "sw": 633,
 "sh": 300
 },
 "dacia-spring": {
 "front": "img/dacia-spring-front.webp",
-"fw": 279,
-"fh": 307,
+"fw": 800,
+"fh": 864,
 "side": "img/dacia-spring-side.webp",
-"sw": 580,
-"sh": 304
+"sw": 800,
+"sh": 387
 },
 "dacia-striker": {
 "front": "img/dacia-striker-front.webp",
 "fw": 242,
 "fh": 182,
 "side": "img/dacia-striker-side.webp",
-"sw": 757,
+"sw": 755,
 "sh": 308
 },
 "deepal-s05": {
 "side": "img/deepal-s05-side.webp",
-"sw": 643,
-"sh": 336
+"sw": 596,
+"sh": 224
 },
 "deepal-s07": {
 "side": "img/deepal-s07-side.webp",
-"sw": 606,
-"sh": 222
+"sw": 602,
+"sh": 219
 },
 "dongfeng-box": {
 "side": "img/dongfeng-box-side.webp",
@@ -772,7 +772,7 @@
 "dr-dr-1-0-ev": {
 "front": "img/dr-dr-1-0-ev-front.webp",
 "fw": 800,
-"fh": 533
+"fh": 644
 },
 "dr-dr-3": {
 "side": "img/dr-dr-3-side.webp",
@@ -797,7 +797,7 @@
 "ds-ds-3": {
 "front": "img/ds-ds-3-front.webp",
 "fw": 308,
-"fh": 279,
+"fh": 277,
 "side": "img/ds-ds-3-side.webp",
 "sw": 636,
 "sh": 271
@@ -805,7 +805,7 @@
 "ds-ds-7": {
 "front": "img/ds-ds-7-front.webp",
 "fw": 321,
-"fh": 288,
+"fh": 286,
 "side": "img/ds-ds-7-side.webp",
 "sw": 709,
 "sh": 280
@@ -813,20 +813,20 @@
 "ds-n-4": {
 "front": "img/ds-n-4-front.webp",
 "fw": 314,
-"fh": 270,
+"fh": 269,
 "side": "img/ds-n-4-side.webp",
 "sw": 679,
 "sh": 255
 },
 "ds-n-7": {
 "side": "img/ds-n-7-side.webp",
-"sw": 800,
-"sh": 265
+"sw": 797,
+"sh": 332
 },
 "ds-n-8": {
 "front": "img/ds-n-8-front.webp",
 "fw": 325,
-"fh": 285,
+"fh": 283,
 "side": "img/ds-n-8-side.webp",
 "sw": 750,
 "sh": 271
@@ -834,12 +834,12 @@
 "ebro-s800": {
 "side": "img/ebro-s800-side.webp",
 "sw": 800,
-"sh": 300
+"sh": 299
 },
 "ferrari-12cilindri": {
 "front": "img/ferrari-12cilindri-front.webp",
 "fw": 338,
-"fh": 243,
+"fh": 241,
 "side": "img/ferrari-12cilindri-side.webp",
 "sw": 723,
 "sh": 226
@@ -852,7 +852,7 @@
 "ferrari-849-testarossa": {
 "front": "img/ferrari-849-testarossa-front.webp",
 "fw": 329,
-"fh": 235,
+"fh": 232,
 "side": "img/ferrari-849-testarossa-side.webp",
 "sw": 730,
 "sh": 217
@@ -863,20 +863,20 @@
 "fh": 502,
 "side": "img/ferrari-amalfi-side.webp",
 "sw": 800,
-"sh": 450
+"sh": 255
 },
 "ferrari-f80": {
 "front": "img/ferrari-f80-front.webp",
-"fw": 757,
-"fh": 563,
+"fw": 495,
+"fh": 306,
 "side": "img/ferrari-f80-side.webp",
-"sw": 799,
-"sh": 239
+"sw": 794,
+"sh": 234
 },
 "ferrari-purosangue": {
 "front": "img/ferrari-purosangue-front.webp",
 "fw": 346,
-"fh": 275,
+"fh": 273,
 "side": "img/ferrari-purosangue-side.webp",
 "sw": 741,
 "sh": 272
@@ -884,7 +884,7 @@
 "fiat-500": {
 "front": "img/fiat-500-front.webp",
 "fw": 290,
-"fh": 275,
+"fh": 274,
 "side": "img/fiat-500-side.webp",
 "sw": 560,
 "sh": 261
@@ -892,28 +892,28 @@
 "fiat-600": {
 "front": "img/fiat-600-front.webp",
 "fw": 307,
-"fh": 284,
+"fh": 282,
 "side": "img/fiat-600-side.webp",
 "sw": 642,
 "sh": 272
 },
 "fiat-doblo": {
 "front": "img/fiat-doblo-front.webp",
-"fw": 322,
-"fh": 361,
+"fw": 585,
+"fh": 517,
 "side": "img/fiat-doblo-side.webp",
-"sw": 741,
-"sh": 347
+"sw": 800,
+"sh": 352
 },
 "fiat-ducato": {
 "side": "img/fiat-ducato-side.webp",
 "sw": 800,
-"sh": 444
+"sh": 337
 },
 "fiat-grande-panda": {
 "front": "img/fiat-grande-panda-front.webp",
 "fw": 307,
-"fh": 307,
+"fh": 305,
 "side": "img/fiat-grande-panda-side.webp",
 "sw": 620,
 "sh": 306
@@ -921,7 +921,7 @@
 "fiat-panda": {
 "front": "img/fiat-panda-front.webp",
 "fw": 293,
-"fh": 299,
+"fh": 297,
 "side": "img/fiat-panda-side.webp",
 "sw": 568,
 "sh": 292
@@ -934,7 +934,7 @@
 "fiat-scudo": {
 "side": "img/fiat-scudo-side.webp",
 "sw": 800,
-"sh": 349
+"sh": 331
 },
 "fiat-topolino": {
 "front": "img/fiat-topolino-front.webp",
@@ -946,24 +946,24 @@
 },
 "firefly-firefly": {
 "front": "img/firefly-firefly-front.webp",
-"fw": 644,
-"fh": 497,
+"fw": 635,
+"fh": 492,
 "side": "img/firefly-firefly-side.webp",
 "sw": 800,
-"sh": 449
+"sh": 326
 },
 "ford-bronco": {
 "front": "img/ford-bronco-front.webp",
 "fw": 353,
-"fh": 370,
+"fh": 369,
 "side": "img/ford-bronco-side.webp",
 "sw": 674,
-"sh": 315
+"sh": 314
 },
 "ford-capri": {
 "front": "img/ford-capri-front.webp",
 "fw": 320,
-"fh": 284,
+"fh": 282,
 "side": "img/ford-capri-side.webp",
 "sw": 712,
 "sh": 276
@@ -971,7 +971,7 @@
 "ford-explorer": {
 "front": "img/ford-explorer-front.webp",
 "fw": 323,
-"fh": 289,
+"fh": 287,
 "side": "img/ford-explorer-side.webp",
 "sw": 686,
 "sh": 279
@@ -979,7 +979,7 @@
 "ford-kuga": {
 "front": "img/ford-kuga-front.webp",
 "fw": 316,
-"fh": 293,
+"fh": 291,
 "side": "img/ford-kuga-side.webp",
 "sw": 719,
 "sh": 284
@@ -987,7 +987,7 @@
 "ford-mustang": {
 "front": "img/ford-mustang-front.webp",
 "fw": 313,
-"fh": 254,
+"fh": 251,
 "side": "img/ford-mustang-side.webp",
 "sw": 727,
 "sh": 240
@@ -995,7 +995,7 @@
 "ford-mustang-mach-e": {
 "front": "img/ford-mustang-mach-e-front.webp",
 "fw": 323,
-"fh": 282,
+"fh": 281,
 "side": "img/ford-mustang-mach-e-side.webp",
 "sw": 735,
 "sh": 276
@@ -1003,7 +1003,7 @@
 "ford-puma": {
 "front": "img/ford-puma-front.webp",
 "fw": 310,
-"fh": 277,
+"fh": 276,
 "side": "img/ford-puma-side.webp",
 "sw": 650,
 "sh": 265
@@ -1011,18 +1011,18 @@
 "ford-ranger": {
 "front": "img/ford-ranger-front.webp",
 "fw": 332,
-"fh": 332,
+"fh": 331,
 "side": "img/ford-ranger-side.webp",
 "sw": 800,
-"sh": 318
+"sh": 317
 },
 "ford-tourneo-connect": {
 "front": "img/ford-tourneo-connect-front.webp",
 "fw": 310,
-"fh": 310,
+"fh": 307,
 "side": "img/ford-tourneo-connect-side.webp",
 "sw": 753,
-"sh": 308
+"sh": 307
 },
 "ford-tourneo-courier": {
 "front": "img/ford-tourneo-courier-front.webp",
@@ -1035,7 +1035,7 @@
 "ford-tourneo-custom": {
 "front": "img/ford-tourneo-custom-front.webp",
 "fw": 352,
-"fh": 341,
+"fh": 340,
 "side": "img/ford-tourneo-custom-side.webp",
 "sw": 800,
 "sh": 311
@@ -1051,10 +1051,10 @@
 "ford-transit-connect": {
 "front": "img/ford-transit-connect-front.webp",
 "fw": 310,
-"fh": 310,
+"fh": 307,
 "side": "img/ford-transit-connect-side.webp",
 "sw": 753,
-"sh": 308
+"sh": 307
 },
 "ford-transit-courier": {
 "front": "img/ford-transit-courier-front.webp",
@@ -1067,15 +1067,15 @@
 "ford-transit-custom": {
 "front": "img/ford-transit-custom-front.webp",
 "fw": 353,
-"fh": 343,
+"fh": 341,
 "side": "img/ford-transit-custom-side.webp",
 "sw": 796,
-"sh": 340
+"sh": 339
 },
 "ford-transit": {
 "front": "img/ford-transit-front.webp",
-"fw": 399,
-"fh": 463,
+"fw": 398,
+"fh": 461,
 "side": "img/ford-transit-side.webp",
 "sw": 800,
 "sh": 352
@@ -1091,20 +1091,20 @@
 "geely-e5": {
 "front": "img/geely-e5-front.webp",
 "fw": 321,
-"fh": 295,
+"fh": 293,
 "side": "img/geely-e5-side.webp",
 "sw": 713,
 "sh": 291
 },
 "geely-starray-em-i": {
 "front": "img/geely-starray-em-i-front.webp",
-"fw": 787,
-"fh": 566
+"fw": 615,
+"fh": 519
 },
 "genesis-g80": {
 "front": "img/genesis-g80-front.webp",
 "fw": 333,
-"fh": 268,
+"fh": 266,
 "side": "img/genesis-g80-side.webp",
 "sw": 768,
 "sh": 253
@@ -1112,10 +1112,10 @@
 "genesis-g90": {
 "front": "img/genesis-g90-front.webp",
 "fw": 337,
-"fh": 270,
+"fh": 268,
 "side": "img/genesis-g90-side.webp",
 "sw": 800,
-"sh": 253
+"sh": 252
 },
 "genesis-gv60": {
 "front": "img/genesis-gv60-front.webp",
@@ -1136,7 +1136,7 @@
 "haval-h6": {
 "front": "img/haval-h6-front.webp",
 "fw": 321,
-"fh": 299,
+"fh": 296,
 "side": "img/haval-h6-side.webp",
 "sw": 719,
 "sh": 292
@@ -1144,7 +1144,7 @@
 "haval-jolion-pro": {
 "front": "img/haval-jolion-pro-front.webp",
 "fw": 317,
-"fh": 291,
+"fh": 289,
 "side": "img/haval-jolion-pro-side.webp",
 "sw": 687,
 "sh": 280
@@ -1152,7 +1152,7 @@
 "honda-civic": {
 "front": "img/honda-civic-front.webp",
 "fw": 306,
-"fh": 262,
+"fh": 257,
 "side": "img/honda-civic-side.webp",
 "sw": 702,
 "sh": 245
@@ -1160,7 +1160,7 @@
 "honda-cr-v": {
 "front": "img/honda-cr-v-front.webp",
 "fw": 321,
-"fh": 295,
+"fh": 292,
 "side": "img/honda-cr-v-side.webp",
 "sw": 727,
 "sh": 286
@@ -1168,7 +1168,7 @@
 "honda-hr-v": {
 "front": "img/honda-hr-v-front.webp",
 "fw": 308,
-"fh": 285,
+"fh": 283,
 "side": "img/honda-hr-v-side.webp",
 "sw": 674,
 "sh": 272
@@ -1176,7 +1176,7 @@
 "honda-jazz": {
 "front": "img/honda-jazz-front.webp",
 "fw": 293,
-"fh": 276,
+"fh": 274,
 "side": "img/honda-jazz-side.webp",
 "sw": 621,
 "sh": 261
@@ -1184,7 +1184,7 @@
 "honda-prelude": {
 "front": "img/honda-prelude-front.webp",
 "fw": 315,
-"fh": 251,
+"fh": 247,
 "side": "img/honda-prelude-side.webp",
 "sw": 684,
 "sh": 236
@@ -1192,7 +1192,7 @@
 "honda-super-n": {
 "front": "img/honda-super-n-front.webp",
 "fw": 800,
-"fh": 375,
+"fh": 464,
 "side": "img/honda-super-n-side.webp",
 "sw": 800,
 "sh": 350
@@ -1200,7 +1200,7 @@
 "honda-zr-v": {
 "front": "img/honda-zr-v-front.webp",
 "fw": 316,
-"fh": 289,
+"fh": 286,
 "side": "img/honda-zr-v-side.webp",
 "sw": 704,
 "sh": 277
@@ -1217,24 +1217,24 @@
 },
 "hongqi-ehs5": {
 "front": "img/hongqi-ehs5-front.webp",
-"fw": 569,
-"fh": 422,
+"fw": 553,
+"fh": 416,
 "side": "img/hongqi-ehs5-side.webp",
 "sw": 669,
 "sh": 233
 },
 "hongqi-ehs7": {
 "front": "img/hongqi-ehs7-front.webp",
-"fw": 621,
-"fh": 394,
+"fw": 498,
+"fh": 389,
 "side": "img/hongqi-ehs7-side.webp",
 "sw": 800,
-"sh": 283
+"sh": 281
 },
 "hyundai-bayon": {
 "front": "img/hyundai-bayon-front.webp",
 "fw": 305,
-"fh": 275,
+"fh": 274,
 "side": "img/hyundai-bayon-side.webp",
 "sw": 648,
 "sh": 264
@@ -1242,7 +1242,7 @@
 "hyundai-i10": {
 "front": "img/hyundai-i10-front.webp",
 "fw": 308,
-"fh": 288,
+"fh": 286,
 "side": "img/hyundai-i10-side.webp",
 "sw": 575,
 "sh": 281
@@ -1250,15 +1250,15 @@
 "hyundai-i20": {
 "front": "img/hyundai-i20-front.webp",
 "fw": 315,
-"fh": 267,
+"fh": 265,
 "side": "img/hyundai-i20-side.webp",
 "sw": 628,
-"sh": 257
+"sh": 256
 },
 "hyundai-i30": {
 "front": "img/hyundai-i30-front.webp",
 "fw": 306,
-"fh": 268,
+"fh": 266,
 "side": "img/hyundai-i30-side.webp",
 "sw": 665,
 "sh": 254
@@ -1273,16 +1273,16 @@
 },
 "hyundai-ioniq-3": {
 "front": "img/hyundai-ioniq-3-front.webp",
-"fw": 800,
-"fh": 534,
+"fw": 768,
+"fh": 578,
 "side": "img/hyundai-ioniq-3-side.webp",
 "sw": 800,
-"sh": 307
+"sh": 306
 },
 "hyundai-ioniq-5": {
 "front": "img/hyundai-ioniq-5-front.webp",
 "fw": 330,
-"fh": 286,
+"fh": 285,
 "side": "img/hyundai-ioniq-5-side.webp",
 "sw": 712,
 "sh": 276
@@ -1290,7 +1290,7 @@
 "hyundai-ioniq-6": {
 "front": "img/hyundai-ioniq-6-front.webp",
 "fw": 330,
-"fh": 275,
+"fh": 273,
 "side": "img/hyundai-ioniq-6-side.webp",
 "sw": 750,
 "sh": 259
@@ -1298,7 +1298,7 @@
 "hyundai-ioniq-9": {
 "front": "img/hyundai-ioniq-9-front.webp",
 "fw": 343,
-"fh": 308,
+"fh": 306,
 "side": "img/hyundai-ioniq-9-side.webp",
 "sw": 784,
 "sh": 305
@@ -1306,15 +1306,15 @@
 "hyundai-kona": {
 "front": "img/hyundai-kona-front.webp",
 "fw": 319,
-"fh": 288,
+"fh": 286,
 "side": "img/hyundai-kona-side.webp",
 "sw": 675,
-"sh": 280
+"sh": 279
 },
 "hyundai-nexo": {
 "front": "img/hyundai-nexo-front.webp",
 "fw": 322,
-"fh": 291,
+"fh": 287,
 "side": "img/hyundai-nexo-side.webp",
 "sw": 718,
 "sh": 282
@@ -1322,7 +1322,7 @@
 "hyundai-santa-fe": {
 "front": "img/hyundai-santa-fe-front.webp",
 "fw": 329,
-"fh": 311,
+"fh": 307,
 "side": "img/hyundai-santa-fe-side.webp",
 "sw": 747,
 "sh": 304
@@ -1330,7 +1330,7 @@
 "hyundai-staria-cargo": {
 "front": "img/hyundai-staria-cargo-front.webp",
 "fw": 343,
-"fh": 332,
+"fh": 331,
 "side": "img/hyundai-staria-cargo-side.webp",
 "sw": 800,
 "sh": 344
@@ -1338,7 +1338,7 @@
 "hyundai-staria": {
 "front": "img/hyundai-staria-front.webp",
 "fw": 343,
-"fh": 332,
+"fh": 331,
 "side": "img/hyundai-staria-side.webp",
 "sw": 800,
 "sh": 344
@@ -1346,7 +1346,7 @@
 "hyundai-tucson": {
 "front": "img/hyundai-tucson-front.webp",
 "fw": 323,
-"fh": 290,
+"fh": 288,
 "side": "img/hyundai-tucson-side.webp",
 "sw": 689,
 "sh": 282
@@ -1362,12 +1362,12 @@
 "ineos-quartermaster": {
 "side": "img/ineos-quartermaster-side.webp",
 "sw": 800,
-"sh": 341
+"sh": 340
 },
 "isuzu-d-max": {
 "front": "img/isuzu-d-max-front.webp",
 "fw": 326,
-"fh": 329,
+"fh": 326,
 "side": "img/isuzu-d-max-side.webp",
 "sw": 800,
 "sh": 303
@@ -1393,7 +1393,7 @@
 "jeep-avenger": {
 "front": "img/jeep-avenger-front.webp",
 "fw": 306,
-"fh": 282,
+"fh": 281,
 "side": "img/jeep-avenger-side.webp",
 "sw": 629,
 "sh": 270
@@ -1401,18 +1401,18 @@
 "jeep-compass": {
 "front": "img/jeep-compass-front.webp",
 "fw": 307,
-"fh": 306,
+"fh": 304,
 "side": "img/jeep-compass-side.webp",
 "sw": 680,
-"sh": 302
+"sh": 301
 },
 "jeep-grand-cherokee": {
 "front": "img/jeep-grand-cherokee-front.webp",
 "fw": 334,
-"fh": 307,
+"fh": 306,
 "side": "img/jeep-grand-cherokee-side.webp",
 "sw": 751,
-"sh": 308
+"sh": 307
 },
 "jeep-wrangler": {
 "front": "img/jeep-wrangler-front.webp",
@@ -1425,20 +1425,20 @@
 "kgm-actyon": {
 "side": "img/kgm-actyon-side.webp",
 "sw": 800,
-"sh": 322
+"sh": 307
 },
 "kgm-korando": {
 "front": "img/kgm-korando-front.webp",
 "fw": 322,
-"fh": 306,
+"fh": 304,
 "side": "img/kgm-korando-side.webp",
 "sw": 684,
-"sh": 302
+"sh": 301
 },
 "kgm-musso-ev": {
 "front": "img/kgm-musso-ev-front.webp",
 "fw": 329,
-"fh": 308,
+"fh": 306,
 "side": "img/kgm-musso-ev-side.webp",
 "sw": 800,
 "sh": 304
@@ -1446,12 +1446,12 @@
 "kgm-musso-rhino": {
 "side": "img/kgm-musso-rhino-side.webp",
 "sw": 800,
-"sh": 294
+"sh": 300
 },
 "kgm-musso": {
 "side": "img/kgm-musso-side.webp",
 "sw": 800,
-"sh": 297
+"sh": 299
 },
 "kgm-rexton": {
 "side": "img/kgm-rexton-side.webp",
@@ -1461,7 +1461,7 @@
 "kgm-tivoli": {
 "front": "img/kgm-tivoli-front.webp",
 "fw": 310,
-"fh": 295,
+"fh": 294,
 "side": "img/kgm-tivoli-side.webp",
 "sw": 649,
 "sh": 290
@@ -1469,7 +1469,7 @@
 "kgm-torres": {
 "front": "img/kgm-torres-front.webp",
 "fw": 326,
-"fh": 302,
+"fh": 299,
 "side": "img/kgm-torres-side.webp",
 "sw": 726,
 "sh": 298
@@ -1477,7 +1477,7 @@
 "kia-ev2": {
 "front": "img/kia-ev2-front.webp",
 "fw": 310,
-"fh": 285,
+"fh": 283,
 "side": "img/kia-ev2-side.webp",
 "sw": 622,
 "sh": 276
@@ -1485,15 +1485,15 @@
 "kia-ev3": {
 "front": "img/kia-ev3-front.webp",
 "fw": 321,
-"fh": 285,
+"fh": 283,
 "side": "img/kia-ev3-side.webp",
 "sw": 667,
-"sh": 274
+"sh": 273
 },
 "kia-ev4": {
 "front": "img/kia-ev4-front.webp",
 "fw": 324,
-"fh": 274,
+"fh": 272,
 "side": "img/kia-ev4-side.webp",
 "sw": 694,
 "sh": 263
@@ -1501,7 +1501,7 @@
 "kia-ev5": {
 "front": "img/kia-ev5-front.webp",
 "fw": 322,
-"fh": 299,
+"fh": 297,
 "side": "img/kia-ev5-side.webp",
 "sw": 710,
 "sh": 290
@@ -1509,7 +1509,7 @@
 "kia-ev6": {
 "front": "img/kia-ev6-front.webp",
 "fw": 330,
-"fh": 278,
+"fh": 276,
 "side": "img/kia-ev6-side.webp",
 "sw": 723,
 "sh": 267
@@ -1517,7 +1517,7 @@
 "kia-ev9": {
 "front": "img/kia-ev9-front.webp",
 "fw": 344,
-"fh": 310,
+"fh": 307,
 "side": "img/kia-ev9-side.webp",
 "sw": 775,
 "sh": 304
@@ -1525,7 +1525,7 @@
 "kia-k4": {
 "front": "img/kia-k4-front.webp",
 "fw": 311,
-"fh": 264,
+"fh": 260,
 "side": "img/kia-k4-side.webp",
 "sw": 689,
 "sh": 250
@@ -1533,7 +1533,7 @@
 "kia-niro": {
 "front": "img/kia-niro-front.webp",
 "fw": 313,
-"fh": 280,
+"fh": 279,
 "side": "img/kia-niro-side.webp",
 "sw": 683,
 "sh": 268
@@ -1565,7 +1565,7 @@
 "kia-seltos": {
 "front": "img/kia-seltos-front.webp",
 "fw": 308,
-"fh": 287,
+"fh": 286,
 "side": "img/kia-seltos-side.webp",
 "sw": 675,
 "sh": 283
@@ -1573,7 +1573,7 @@
 "kia-sorento": {
 "front": "img/kia-sorento-front.webp",
 "fw": 325,
-"fh": 300,
+"fh": 298,
 "side": "img/kia-sorento-side.webp",
 "sw": 740,
 "sh": 293
@@ -1581,7 +1581,7 @@
 "kia-sportage": {
 "front": "img/kia-sportage-front.webp",
 "fw": 320,
-"fh": 290,
+"fh": 288,
 "side": "img/kia-sportage-side.webp",
 "sw": 697,
 "sh": 282
@@ -1589,7 +1589,7 @@
 "kia-stonic": {
 "front": "img/kia-stonic-front.webp",
 "fw": 306,
-"fh": 277,
+"fh": 276,
 "side": "img/kia-stonic-side.webp",
 "sw": 634,
 "sh": 260
@@ -1597,18 +1597,18 @@
 "kia-xceed": {
 "front": "img/kia-xceed-front.webp",
 "fw": 310,
-"fh": 271,
+"fh": 270,
 "side": "img/kia-xceed-side.webp",
 "sw": 673,
 "sh": 260
 },
 "koenigsegg-cc850": {
 "front": "img/koenigsegg-cc850-front.webp",
-"fw": 800,
-"fh": 407,
+"fw": 613,
+"fh": 318,
 "side": "img/koenigsegg-cc850-side.webp",
-"sw": 634,
-"sh": 171
+"sw": 621,
+"sh": 166
 },
 "koenigsegg-gemera": {
 "side": "img/koenigsegg-gemera-side.webp",
@@ -1620,13 +1620,13 @@
 "fw": 384,
 "fh": 486,
 "side": "img/koenigsegg-jesko-side.webp",
-"sw": 504,
-"sh": 179
+"sw": 503,
+"sh": 178
 },
 "lamborghini-revuelto": {
 "side": "img/lamborghini-revuelto-side.webp",
 "sw": 736,
-"sh": 208
+"sh": 206
 },
 "lamborghini-temerario": {
 "side": "img/lamborghini-temerario-side.webp",
@@ -1636,10 +1636,10 @@
 "lamborghini-urus": {
 "front": "img/lamborghini-urus-front.webp",
 "fw": 334,
-"fh": 285,
+"fh": 282,
 "side": "img/lamborghini-urus-side.webp",
 "sw": 759,
-"sh": 282
+"sh": 281
 },
 "lancia-gamma": {
 "side": "img/lancia-gamma-side.webp",
@@ -1665,7 +1665,7 @@
 "land-rover-discovery": {
 "front": "img/land-rover-discovery-front.webp",
 "fw": 342,
-"fh": 313,
+"fh": 312,
 "side": "img/land-rover-discovery-side.webp",
 "sw": 757,
 "sh": 312
@@ -1673,7 +1673,7 @@
 "land-rover-discovery-sport": {
 "front": "img/land-rover-discovery-sport-front.webp",
 "fw": 324,
-"fh": 298,
+"fh": 296,
 "side": "img/land-rover-discovery-sport-side.webp",
 "sw": 707,
 "sh": 293
@@ -1681,7 +1681,7 @@
 "land-rover-range-rover-evoque": {
 "front": "img/land-rover-range-rover-evoque-front.webp",
 "fw": 323,
-"fh": 289,
+"fh": 288,
 "side": "img/land-rover-range-rover-evoque-side.webp",
 "sw": 667,
 "sh": 280
@@ -1689,7 +1689,7 @@
 "land-rover-range-rover": {
 "front": "img/land-rover-range-rover-front.webp",
 "fw": 346,
-"fh": 311,
+"fh": 309,
 "side": "img/land-rover-range-rover-side.webp",
 "sw": 765,
 "sh": 305
@@ -1700,12 +1700,12 @@
 "fh": 316,
 "side": "img/land-rover-range-rover-sport-side.webp",
 "sw": 752,
-"sh": 308
+"sh": 307
 },
 "land-rover-range-rover-velar": {
 "front": "img/land-rover-range-rover-velar-front.webp",
 "fw": 332,
-"fh": 295,
+"fh": 294,
 "side": "img/land-rover-range-rover-velar-side.webp",
 "sw": 737,
 "sh": 288
@@ -1713,12 +1713,12 @@
 "leapmotor-b03x": {
 "side": "img/leapmotor-b03x-side.webp",
 "sw": 800,
-"sh": 418
+"sh": 311
 },
 "leapmotor-b05": {
 "front": "img/leapmotor-b05-front.webp",
 "fw": 326,
-"fh": 276,
+"fh": 274,
 "side": "img/leapmotor-b05-side.webp",
 "sw": 681,
 "sh": 264
@@ -1726,7 +1726,7 @@
 "leapmotor-b10": {
 "front": "img/leapmotor-b10-front.webp",
 "fw": 323,
-"fh": 292,
+"fh": 290,
 "side": "img/leapmotor-b10-side.webp",
 "sw": 695,
 "sh": 284
@@ -1734,7 +1734,7 @@
 "leapmotor-c10": {
 "front": "img/leapmotor-c10-front.webp",
 "fw": 326,
-"fh": 298,
+"fh": 296,
 "side": "img/leapmotor-c10-side.webp",
 "sw": 730,
 "sh": 292
@@ -1755,7 +1755,7 @@
 "lexus-es": {
 "front": "img/lexus-es-front.webp",
 "fw": 318,
-"fh": 265,
+"fh": 261,
 "side": "img/lexus-es-side.webp",
 "sw": 769,
 "sh": 250
@@ -1763,7 +1763,7 @@
 "lexus-lbx": {
 "front": "img/lexus-lbx-front.webp",
 "fw": 311,
-"fh": 279,
+"fh": 277,
 "side": "img/lexus-lbx-side.webp",
 "sw": 641,
 "sh": 268
@@ -1771,15 +1771,15 @@
 "lexus-lm": {
 "front": "img/lexus-lm-front.webp",
 "fw": 800,
-"fh": 698,
+"fh": 623,
 "side": "img/lexus-lm-side.webp",
 "sw": 800,
-"sh": 310
+"sh": 306
 },
 "lexus-nx": {
 "front": "img/lexus-nx-front.webp",
 "fw": 321,
-"fh": 291,
+"fh": 289,
 "side": "img/lexus-nx-side.webp",
 "sw": 715,
 "sh": 283
@@ -1787,7 +1787,7 @@
 "lexus-rx": {
 "front": "img/lexus-rx-front.webp",
 "fw": 326,
-"fh": 298,
+"fh": 296,
 "side": "img/lexus-rx-side.webp",
 "sw": 754,
 "sh": 291
@@ -1795,15 +1795,15 @@
 "lexus-rz": {
 "front": "img/lexus-rz-front.webp",
 "fw": 321,
-"fh": 283,
+"fh": 281,
 "side": "img/lexus-rz-side.webp",
 "sw": 732,
-"sh": 279
+"sh": 278
 },
 "lexus-ux": {
 "front": "img/lexus-ux-front.webp",
 "fw": 308,
-"fh": 274,
+"fh": 272,
 "side": "img/lexus-ux-side.webp",
 "sw": 689,
 "sh": 265
@@ -1811,7 +1811,7 @@
 "lotus-eletre": {
 "front": "img/lotus-eletre-front.webp",
 "fw": 342,
-"fh": 292,
+"fh": 290,
 "side": "img/lotus-eletre-side.webp",
 "sw": 779,
 "sh": 280
@@ -1824,15 +1824,15 @@
 "lotus-emira": {
 "front": "img/lotus-emira-front.webp",
 "fw": 323,
-"fh": 236,
+"fh": 233,
 "side": "img/lotus-emira-side.webp",
 "sw": 668,
 "sh": 219
 },
 "lotus-evija": {
 "front": "img/lotus-evija-front.webp",
-"fw": 762,
-"fh": 481,
+"fw": 582,
+"fh": 318,
 "side": "img/lotus-evija-side.webp",
 "sw": 747,
 "sh": 206
@@ -1840,15 +1840,15 @@
 "lucid-air": {
 "front": "img/lucid-air-front.webp",
 "fw": 332,
-"fh": 258,
+"fh": 255,
 "side": "img/lucid-air-side.webp",
 "sw": 758,
-"sh": 246
+"sh": 245
 },
 "lucid-gravity": {
 "front": "img/lucid-gravity-front.webp",
 "fw": 349,
-"fh": 289,
+"fh": 287,
 "side": "img/lucid-gravity-side.webp",
 "sw": 771,
 "sh": 280
@@ -1856,7 +1856,7 @@
 "lynk-co-01": {
 "front": "img/lynk-co-01-front.webp",
 "fw": 318,
-"fh": 294,
+"fh": 293,
 "side": "img/lynk-co-01-side.webp",
 "sw": 693,
 "sh": 288
@@ -1869,10 +1869,10 @@
 "lynk-co-08": {
 "front": "img/lynk-co-08-front.webp",
 "fw": 324,
-"fh": 294,
+"fh": 292,
 "side": "img/lynk-co-08-side.webp",
 "sw": 739,
-"sh": 288
+"sh": 287
 },
 "man-tge": {
 "side": "img/man-tge-side.webp",
@@ -1882,7 +1882,7 @@
 "maserati-granturismo": {
 "front": "img/maserati-granturismo-front.webp",
 "fw": 333,
-"fh": 261,
+"fh": 256,
 "side": "img/maserati-granturismo-side.webp",
 "sw": 754,
 "sh": 246
@@ -1890,7 +1890,7 @@
 "maserati-grecale": {
 "front": "img/maserati-grecale-front.webp",
 "fw": 324,
-"fh": 292,
+"fh": 289,
 "side": "img/maserati-grecale-side.webp",
 "sw": 743,
 "sh": 283
@@ -1911,7 +1911,7 @@
 "maxus-eterron-9": {
 "front": "img/maxus-eterron-9-front.webp",
 "fw": 349,
-"fh": 321,
+"fh": 318,
 "side": "img/maxus-eterron-9-side.webp",
 "sw": 800,
 "sh": 291
@@ -1919,7 +1919,7 @@
 "maxus-mifa-9": {
 "front": "img/maxus-mifa-9-front.webp",
 "fw": 337,
-"fh": 318,
+"fh": 317,
 "side": "img/maxus-mifa-9-side.webp",
 "sw": 800,
 "sh": 306
@@ -1927,7 +1927,7 @@
 "maxus-t60-max": {
 "front": "img/maxus-t60-max-front.webp",
 "fw": 329,
-"fh": 320,
+"fh": 319,
 "side": "img/maxus-t60-max-side.webp",
 "sw": 800,
 "sh": 301
@@ -1935,7 +1935,7 @@
 "mazda-cx-30": {
 "front": "img/mazda-cx-30-front.webp",
 "fw": 311,
-"fh": 276,
+"fh": 274,
 "side": "img/mazda-cx-30-side.webp",
 "sw": 678,
 "sh": 265
@@ -1943,15 +1943,15 @@
 "mazda-cx-5": {
 "front": "img/mazda-cx-5-front.webp",
 "fw": 321,
-"fh": 297,
+"fh": 295,
 "side": "img/mazda-cx-5-side.webp",
 "sw": 721,
-"sh": 292
+"sh": 291
 },
 "mazda-cx-60": {
 "front": "img/mazda-cx-60-front.webp",
 "fw": 332,
-"fh": 297,
+"fh": 295,
 "side": "img/mazda-cx-60-side.webp",
 "sw": 736,
 "sh": 288
@@ -1959,7 +1959,7 @@
 "mazda-cx-6e": {
 "front": "img/mazda-cx-6e-front.webp",
 "fw": 329,
-"fh": 288,
+"fh": 286,
 "side": "img/mazda-cx-6e-side.webp",
 "sw": 743,
 "sh": 279
@@ -1967,7 +1967,7 @@
 "mazda-cx-80": {
 "front": "img/mazda-cx-80-front.webp",
 "fw": 332,
-"fh": 299,
+"fh": 298,
 "side": "img/mazda-cx-80-side.webp",
 "sw": 771,
 "sh": 295
@@ -1975,15 +1975,15 @@
 "mazda-mazda-6e": {
 "front": "img/mazda-mazda-6e-front.webp",
 "fw": 325,
-"fh": 269,
+"fh": 267,
 "side": "img/mazda-mazda-6e-side.webp",
 "sw": 749,
-"sh": 257
+"sh": 256
 },
 "mazda-mazda2": {
 "front": "img/mazda-mazda2-front.webp",
 "fw": 295,
-"fh": 275,
+"fh": 273,
 "side": "img/mazda-mazda2-side.webp",
 "sw": 624,
 "sh": 263
@@ -1994,12 +1994,12 @@
 "fh": 639,
 "side": "img/mazda-mazda2-hybrid-side.webp",
 "sw": 800,
-"sh": 393
+"sh": 309
 },
 "mazda-mazda3": {
 "front": "img/mazda-mazda3-front.webp",
 "fw": 308,
-"fh": 262,
+"fh": 258,
 "side": "img/mazda-mazda3-side.webp",
 "sw": 682,
 "sh": 247
@@ -2007,15 +2007,15 @@
 "mazda-mx-5": {
 "front": "img/mazda-mx-5-front.webp",
 "fw": 299,
-"fh": 257,
+"fh": 256,
 "side": "img/mazda-mx-5-side.webp",
 "sw": 596,
 "sh": 243
 },
 "mclaren-750s": {
 "front": "img/mclaren-750s-front.webp",
-"fw": 609,
-"fh": 362,
+"fw": 593,
+"fh": 353,
 "side": "img/mclaren-750s-side.webp",
 "sw": 619,
 "sh": 170
@@ -2030,18 +2030,18 @@
 "fw": 547,
 "fh": 384,
 "side": "img/mclaren-gts-side.webp",
-"sw": 768,
-"sh": 406
+"sw": 596,
+"sh": 188
 },
 "mclaren-w1": {
 "side": "img/mclaren-w1-side.webp",
 "sw": 615,
-"sh": 148
+"sh": 146
 },
 "mercedes-benz-a-class": {
 "front": "img/mercedes-benz-a-class-front.webp",
 "fw": 307,
-"fh": 258,
+"fh": 255,
 "side": "img/mercedes-benz-a-class-side.webp",
 "sw": 678,
 "sh": 244
@@ -2049,7 +2049,7 @@
 "mercedes-benz-amg-gt-4-door-coupe": {
 "front": "img/mercedes-benz-amg-gt-4-door-coupe-front.webp",
 "fw": 331,
-"fh": 265,
+"fh": 261,
 "side": "img/mercedes-benz-amg-gt-4-door-coupe-side.webp",
 "sw": 762,
 "sh": 252
@@ -2057,15 +2057,15 @@
 "mercedes-benz-amg-gt": {
 "front": "img/mercedes-benz-amg-gt-front.webp",
 "fw": 340,
-"fh": 250,
+"fh": 247,
 "side": "img/mercedes-benz-amg-gt-side.webp",
 "sw": 705,
 "sh": 234
 },
 "mercedes-benz-amg-gt-suv": {
 "front": "img/mercedes-benz-amg-gt-suv-front.webp",
-"fw": 624,
-"fh": 519,
+"fw": 622,
+"fh": 517,
 "side": "img/mercedes-benz-amg-gt-suv-side.webp",
 "sw": 800,
 "sh": 281
@@ -2081,7 +2081,7 @@
 "mercedes-benz-c-class": {
 "front": "img/mercedes-benz-c-class-front.webp",
 "fw": 322,
-"fh": 266,
+"fh": 265,
 "side": "img/mercedes-benz-c-class-side.webp",
 "sw": 735,
 "sh": 247
@@ -2089,7 +2089,7 @@
 "mercedes-benz-cla": {
 "front": "img/mercedes-benz-cla-front.webp",
 "fw": 311,
-"fh": 265,
+"fh": 261,
 "side": "img/mercedes-benz-cla-side.webp",
 "sw": 727,
 "sh": 252
@@ -2097,7 +2097,7 @@
 "mercedes-benz-cle": {
 "front": "img/mercedes-benz-cle-front.webp",
 "fw": 321,
-"fh": 262,
+"fh": 259,
 "side": "img/mercedes-benz-cle-side.webp",
 "sw": 738,
 "sh": 247
@@ -2105,7 +2105,7 @@
 "mercedes-benz-e-class": {
 "front": "img/mercedes-benz-e-class-front.webp",
 "fw": 327,
-"fh": 269,
+"fh": 268,
 "side": "img/mercedes-benz-e-class-side.webp",
 "sw": 764,
 "sh": 252
@@ -2113,15 +2113,15 @@
 "mercedes-benz-eqe": {
 "front": "img/mercedes-benz-eqe-front.webp",
 "fw": 328,
-"fh": 269,
+"fh": 266,
 "side": "img/mercedes-benz-eqe-side.webp",
 "sw": 760,
-"sh": 258
+"sh": 257
 },
 "mercedes-benz-eqe-suv": {
 "front": "img/mercedes-benz-eqe-suv-front.webp",
 "fw": 335,
-"fh": 296,
+"fh": 293,
 "side": "img/mercedes-benz-eqe-suv-side.webp",
 "sw": 750,
 "sh": 287
@@ -2129,15 +2129,15 @@
 "mercedes-benz-eqs": {
 "front": "img/mercedes-benz-eqs-front.webp",
 "fw": 332,
-"fh": 270,
+"fh": 268,
 "side": "img/mercedes-benz-eqs-side.webp",
 "sw": 799,
-"sh": 260
+"sh": 259
 },
 "mercedes-benz-eqs-suv": {
 "front": "img/mercedes-benz-eqs-suv-front.webp",
 "fw": 340,
-"fh": 300,
+"fh": 297,
 "side": "img/mercedes-benz-eqs-suv-side.webp",
 "sw": 795,
 "sh": 293
@@ -2145,7 +2145,7 @@
 "mercedes-benz-g-class": {
 "front": "img/mercedes-benz-g-class-front.webp",
 "fw": 335,
-"fh": 336,
+"fh": 335,
 "side": "img/mercedes-benz-g-class-side.webp",
 "sw": 730,
 "sh": 333
@@ -2153,7 +2153,7 @@
 "mercedes-benz-gla": {
 "front": "img/mercedes-benz-gla-front.webp",
 "fw": 313,
-"fh": 283,
+"fh": 282,
 "side": "img/mercedes-benz-gla-side.webp",
 "sw": 681,
 "sh": 277
@@ -2161,7 +2161,7 @@
 "mercedes-benz-glb": {
 "front": "img/mercedes-benz-glb-front.webp",
 "fw": 314,
-"fh": 295,
+"fh": 292,
 "side": "img/mercedes-benz-glb-side.webp",
 "sw": 716,
 "sh": 291
@@ -2169,7 +2169,7 @@
 "mercedes-benz-glc": {
 "front": "img/mercedes-benz-glc-front.webp",
 "fw": 332,
-"fh": 289,
+"fh": 288,
 "side": "img/mercedes-benz-glc-side.webp",
 "sw": 724,
 "sh": 284
@@ -2177,7 +2177,7 @@
 "mercedes-benz-gle": {
 "front": "img/mercedes-benz-gle-front.webp",
 "fw": 342,
-"fh": 311,
+"fh": 307,
 "side": "img/mercedes-benz-gle-side.webp",
 "sw": 752,
 "sh": 306
@@ -2185,7 +2185,7 @@
 "mercedes-benz-gls": {
 "front": "img/mercedes-benz-gls-front.webp",
 "fw": 343,
-"fh": 314,
+"fh": 311,
 "side": "img/mercedes-benz-gls-side.webp",
 "sw": 800,
 "sh": 320
@@ -2193,7 +2193,7 @@
 "mercedes-benz-s-class": {
 "front": "img/mercedes-benz-s-class-front.webp",
 "fw": 330,
-"fh": 273,
+"fh": 272,
 "side": "img/mercedes-benz-s-class-side.webp",
 "sw": 800,
 "sh": 259
@@ -2201,7 +2201,7 @@
 "mercedes-benz-sl": {
 "front": "img/mercedes-benz-sl-front.webp",
 "fw": 335,
-"fh": 254,
+"fh": 251,
 "side": "img/mercedes-benz-sl-side.webp",
 "sw": 705,
 "sh": 236
@@ -2225,7 +2225,7 @@
 "mercedes-benz-vito": {
 "front": "img/mercedes-benz-vito-front.webp",
 "fw": 337,
-"fh": 324,
+"fh": 323,
 "side": "img/mercedes-benz-vito-side.webp",
 "sw": 800,
 "sh": 320
@@ -2241,15 +2241,15 @@
 "mg-cyberster": {
 "front": "img/mg-cyberster-front.webp",
 "fw": 320,
-"fh": 248,
+"fh": 246,
 "side": "img/mg-cyberster-side.webp",
 "sw": 685,
-"sh": 235
+"sh": 234
 },
 "mg-hs": {
 "front": "img/mg-hs-front.webp",
 "fw": 317,
-"fh": 294,
+"fh": 291,
 "side": "img/mg-hs-side.webp",
 "sw": 714,
 "sh": 289
@@ -2257,12 +2257,12 @@
 "mg-im5": {
 "side": "img/mg-im5-side.webp",
 "sw": 745,
-"sh": 249
+"sh": 248
 },
 "mg-im6": {
 "front": "img/mg-im6-front.webp",
 "fw": 346,
-"fh": 291,
+"fh": 289,
 "side": "img/mg-im6-side.webp",
 "sw": 756,
 "sh": 282
@@ -2270,7 +2270,7 @@
 "mg-mg3": {
 "front": "img/mg-mg3-front.webp",
 "fw": 305,
-"fh": 275,
+"fh": 273,
 "side": "img/mg-mg3-side.webp",
 "sw": 636,
 "sh": 261
@@ -2286,7 +2286,7 @@
 "mg-mg4-urban": {
 "front": "img/mg-mg4-urban-front.webp",
 "fw": 313,
-"fh": 279,
+"fh": 277,
 "side": "img/mg-mg4-urban-side.webp",
 "sw": 679,
 "sh": 271
@@ -2294,7 +2294,7 @@
 "mg-mgs5-ev": {
 "front": "img/mg-mgs5-ev-front.webp",
 "fw": 318,
-"fh": 289,
+"fh": 287,
 "side": "img/mg-mgs5-ev-side.webp",
 "sw": 685,
 "sh": 282
@@ -2302,7 +2302,7 @@
 "mg-mgs6-ev": {
 "front": "img/mg-mgs6-ev-front.webp",
 "fw": 332,
-"fh": 296,
+"fh": 294,
 "side": "img/mg-mgs6-ev-side.webp",
 "sw": 728,
 "sh": 287
@@ -2315,7 +2315,7 @@
 "mg-zs": {
 "front": "img/mg-zs-front.webp",
 "fw": 307,
-"fh": 292,
+"fh": 289,
 "side": "img/mg-zs-side.webp",
 "sw": 680,
 "sh": 284
@@ -2331,7 +2331,7 @@
 "mini-aceman": {
 "front": "img/mini-aceman-front.webp",
 "fw": 309,
-"fh": 277,
+"fh": 275,
 "side": "img/mini-aceman-side.webp",
 "sw": 636,
 "sh": 264
@@ -2339,7 +2339,7 @@
 "mini-cooper-cabrio": {
 "front": "img/mini-cooper-cabrio-front.webp",
 "fw": 297,
-"fh": 262,
+"fh": 259,
 "side": "img/mini-cooper-cabrio-side.webp",
 "sw": 602,
 "sh": 247
@@ -2347,7 +2347,7 @@
 "mini-cooper": {
 "front": "img/mini-cooper-front.webp",
 "fw": 305,
-"fh": 268,
+"fh": 267,
 "side": "img/mini-cooper-side.webp",
 "sw": 602,
 "sh": 253
@@ -2355,7 +2355,7 @@
 "mini-countryman": {
 "front": "img/mini-countryman-front.webp",
 "fw": 316,
-"fh": 296,
+"fh": 294,
 "side": "img/mini-countryman-side.webp",
 "sw": 686,
 "sh": 286
@@ -2363,7 +2363,7 @@
 "mitsubishi-asx": {
 "front": "img/mitsubishi-asx-front.webp",
 "fw": 310,
-"fh": 285,
+"fh": 284,
 "side": "img/mitsubishi-asx-side.webp",
 "sw": 653,
 "sh": 273
@@ -2371,18 +2371,10 @@
 "mitsubishi-colt": {
 "front": "img/mitsubishi-colt-front.webp",
 "fw": 300,
-"fh": 267,
+"fh": 266,
 "side": "img/mitsubishi-colt-side.webp",
 "sw": 628,
-"sh": 253
-},
-"mitsubishi-eclipse-cross": {
-"front": "img/mitsubishi-eclipse-cross-front.webp",
-"fw": 318,
-"fh": 295,
-"side": "img/mitsubishi-eclipse-cross-side.webp",
-"sw": 711,
-"sh": 287
+"sh": 252
 },
 "mitsubishi-grandis": {
 "side": "img/mitsubishi-grandis-side.webp",
@@ -2392,15 +2384,15 @@
 "mitsubishi-l200": {
 "front": "img/mitsubishi-l200-front.webp",
 "fw": 319,
-"fh": 319,
+"fh": 318,
 "side": "img/mitsubishi-l200-side.webp",
 "sw": 800,
-"sh": 293
+"sh": 291
 },
 "mitsubishi-outlander": {
 "front": "img/mitsubishi-outlander-front.webp",
 "fw": 321,
-"fh": 298,
+"fh": 294,
 "side": "img/mitsubishi-outlander-side.webp",
 "sw": 727,
 "sh": 292
@@ -2416,20 +2408,20 @@
 "morgan-plus-four": {
 "front": "img/morgan-plus-four-front.webp",
 "fw": 800,
-"fh": 453
+"fh": 567
 },
 "morgan-supersport": {
 "front": "img/morgan-supersport-front.webp",
-"fw": 800,
-"fh": 600,
+"fw": 535,
+"fh": 453,
 "side": "img/morgan-supersport-side.webp",
 "sw": 800,
-"sh": 260
+"sh": 258
 },
 "nio-el6": {
 "front": "img/nio-el6-front.webp",
 "fw": 343,
-"fh": 299,
+"fh": 297,
 "side": "img/nio-el6-side.webp",
 "sw": 743,
 "sh": 292
@@ -2437,7 +2429,7 @@
 "nio-el7": {
 "front": "img/nio-el7-front.webp",
 "fw": 335,
-"fh": 296,
+"fh": 294,
 "side": "img/nio-el7-side.webp",
 "sw": 753,
 "sh": 289
@@ -2445,7 +2437,7 @@
 "nio-el8": {
 "front": "img/nio-el8-front.webp",
 "fw": 341,
-"fh": 297,
+"fh": 295,
 "side": "img/nio-el8-side.webp",
 "sw": 782,
 "sh": 293
@@ -2453,15 +2445,15 @@
 "nio-et5": {
 "front": "img/nio-et5-front.webp",
 "fw": 341,
-"fh": 271,
+"fh": 269,
 "side": "img/nio-et5-side.webp",
 "sw": 738,
-"sh": 258
+"sh": 256
 },
 "nio-et7": {
 "front": "img/nio-et7-front.webp",
 "fw": 336,
-"fh": 275,
+"fh": 273,
 "side": "img/nio-et7-side.webp",
 "sw": 781,
 "sh": 260
@@ -2469,15 +2461,15 @@
 "nissan-ariya": {
 "front": "img/nissan-ariya-front.webp",
 "fw": 318,
-"fh": 289,
+"fh": 288,
 "side": "img/nissan-ariya-side.webp",
 "sw": 711,
 "sh": 281
 },
 "nissan-interstar": {
 "front": "img/nissan-interstar-front.webp",
-"fw": 689,
-"fh": 619,
+"fw": 430,
+"fh": 448,
 "side": "img/nissan-interstar-side.webp",
 "sw": 800,
 "sh": 355
@@ -2485,7 +2477,7 @@
 "nissan-juke": {
 "front": "img/nissan-juke-front.webp",
 "fw": 312,
-"fh": 285,
+"fh": 284,
 "side": "img/nissan-juke-side.webp",
 "sw": 650,
 "sh": 271
@@ -2493,7 +2485,7 @@
 "nissan-leaf": {
 "front": "img/nissan-leaf-front.webp",
 "fw": 321,
-"fh": 282,
+"fh": 280,
 "side": "img/nissan-leaf-side.webp",
 "sw": 682,
 "sh": 268
@@ -2501,7 +2493,7 @@
 "nissan-micra": {
 "front": "img/nissan-micra-front.webp",
 "fw": 308,
-"fh": 274,
+"fh": 272,
 "side": "img/nissan-micra-side.webp",
 "sw": 614,
 "sh": 263
@@ -2522,10 +2514,10 @@
 "nissan-qashqai": {
 "front": "img/nissan-qashqai-front.webp",
 "fw": 316,
-"fh": 287,
+"fh": 285,
 "side": "img/nissan-qashqai-side.webp",
 "sw": 689,
-"sh": 280
+"sh": 279
 },
 "nissan-townstar-kombi": {
 "front": "img/nissan-townstar-kombi-front.webp",
@@ -2546,7 +2538,7 @@
 "nissan-x-trail": {
 "front": "img/nissan-x-trail-front.webp",
 "fw": 318,
-"fh": 299,
+"fh": 297,
 "side": "img/nissan-x-trail-side.webp",
 "sw": 722,
 "sh": 292
@@ -2554,7 +2546,7 @@
 "omoda-omoda-5": {
 "front": "img/omoda-omoda-5-front.webp",
 "fw": 318,
-"fh": 280,
+"fh": 278,
 "side": "img/omoda-omoda-5-side.webp",
 "sw": 670,
 "sh": 273
@@ -2562,7 +2554,7 @@
 "omoda-omoda-7": {
 "side": "img/omoda-omoda-7-side.webp",
 "sw": 800,
-"sh": 314
+"sh": 313
 },
 "omoda-omoda-9": {
 "side": "img/omoda-omoda-9-side.webp",
@@ -2572,7 +2564,7 @@
 "opel-astra": {
 "front": "img/opel-astra-front.webp",
 "fw": 307,
-"fh": 263,
+"fh": 259,
 "side": "img/opel-astra-side.webp",
 "sw": 670,
 "sh": 252
@@ -2580,7 +2572,7 @@
 "opel-combo-cargo": {
 "front": "img/opel-combo-cargo-front.webp",
 "fw": 307,
-"fh": 334,
+"fh": 332,
 "side": "img/opel-combo-cargo-side.webp",
 "sw": 751,
 "sh": 315
@@ -2588,7 +2580,7 @@
 "opel-combo": {
 "front": "img/opel-combo-front.webp",
 "fw": 307,
-"fh": 334,
+"fh": 332,
 "side": "img/opel-combo-side.webp",
 "sw": 751,
 "sh": 315
@@ -2596,7 +2588,7 @@
 "opel-corsa": {
 "front": "img/opel-corsa-front.webp",
 "fw": 298,
-"fh": 282,
+"fh": 280,
 "side": "img/opel-corsa-side.webp",
 "sw": 623,
 "sh": 271
@@ -2604,15 +2596,15 @@
 "opel-frontera": {
 "front": "img/opel-frontera-front.webp",
 "fw": 309,
-"fh": 311,
+"fh": 308,
 "side": "img/opel-frontera-side.webp",
 "sw": 670,
-"sh": 310
+"sh": 308
 },
 "opel-grandland": {
 "front": "img/opel-grandland-front.webp",
 "fw": 322,
-"fh": 290,
+"fh": 288,
 "side": "img/opel-grandland-side.webp",
 "sw": 722,
 "sh": 282
@@ -2620,7 +2612,7 @@
 "opel-mokka": {
 "front": "img/opel-mokka-front.webp",
 "fw": 308,
-"fh": 303,
+"fh": 300,
 "side": "img/opel-mokka-side.webp",
 "sw": 636,
 "sh": 296
@@ -2633,7 +2625,7 @@
 "opel-vivaro": {
 "front": "img/opel-vivaro-front.webp",
 "fw": 338,
-"fh": 348,
+"fh": 347,
 "side": "img/opel-vivaro-side.webp",
 "sw": 800,
 "sh": 316
@@ -2641,7 +2633,7 @@
 "opel-zafira": {
 "front": "img/opel-zafira-front.webp",
 "fw": 325,
-"fh": 330,
+"fh": 329,
 "side": "img/opel-zafira-side.webp",
 "sw": 800,
 "sh": 308
@@ -2653,16 +2645,16 @@
 },
 "ora-ora-5": {
 "front": "img/ora-ora-5-front.webp",
-"fw": 800,
-"fh": 504,
+"fw": 683,
+"fh": 569,
 "side": "img/ora-ora-5-side.webp",
 "sw": 800,
-"sh": 534
+"sh": 311
 },
 "pagani-utopia": {
 "front": "img/pagani-utopia-front.webp",
 "fw": 800,
-"fh": 531,
+"fh": 409,
 "side": "img/pagani-utopia-side.webp",
 "sw": 800,
 "sh": 205
@@ -2670,7 +2662,7 @@
 "peugeot-2008": {
 "front": "img/peugeot-2008-front.webp",
 "fw": 305,
-"fh": 279,
+"fh": 276,
 "side": "img/peugeot-2008-side.webp",
 "sw": 663,
 "sh": 268
@@ -2678,15 +2670,15 @@
 "peugeot-208": {
 "front": "img/peugeot-208-front.webp",
 "fw": 298,
-"fh": 268,
+"fh": 266,
 "side": "img/peugeot-208-side.webp",
 "sw": 624,
-"sh": 254
+"sh": 253
 },
 "peugeot-3008": {
 "front": "img/peugeot-3008-front.webp",
 "fw": 321,
-"fh": 294,
+"fh": 291,
 "side": "img/peugeot-3008-side.webp",
 "sw": 706,
 "sh": 285
@@ -2694,7 +2686,7 @@
 "peugeot-308": {
 "front": "img/peugeot-308-front.webp",
 "fw": 308,
-"fh": 264,
+"fh": 260,
 "side": "img/peugeot-308-side.webp",
 "sw": 675,
 "sh": 252
@@ -2702,15 +2694,15 @@
 "peugeot-408": {
 "front": "img/peugeot-408-front.webp",
 "fw": 317,
-"fh": 273,
+"fh": 271,
 "side": "img/peugeot-408-side.webp",
 "sw": 723,
-"sh": 257
+"sh": 255
 },
 "peugeot-5008": {
 "front": "img/peugeot-5008-front.webp",
-"fw": 336,
-"fh": 299,
+"fw": 333,
+"fh": 296,
 "side": "img/peugeot-5008-side.webp",
 "sw": 747,
 "sh": 297
@@ -2731,7 +2723,7 @@
 "peugeot-partner": {
 "front": "img/peugeot-partner-front.webp",
 "fw": 310,
-"fh": 319,
+"fh": 318,
 "side": "img/peugeot-partner-side.webp",
 "sw": 749,
 "sh": 321
@@ -2739,7 +2731,7 @@
 "peugeot-rifter": {
 "front": "img/peugeot-rifter-front.webp",
 "fw": 310,
-"fh": 319,
+"fh": 318,
 "side": "img/peugeot-rifter-side.webp",
 "sw": 749,
 "sh": 321
@@ -2747,7 +2739,7 @@
 "peugeot-traveller": {
 "front": "img/peugeot-traveller-front.webp",
 "fw": 327,
-"fh": 348,
+"fh": 347,
 "side": "img/peugeot-traveller-side.webp",
 "sw": 772,
 "sh": 330
@@ -2755,7 +2747,7 @@
 "piaggio-porter-np6": {
 "front": "img/piaggio-porter-np6-front.webp",
 "fw": 597,
-"fh": 650
+"fh": 621
 },
 "polestar-2": {
 "front": "img/polestar-2-front.webp",
@@ -2776,7 +2768,7 @@
 "polestar-4": {
 "front": "img/polestar-4-front.webp",
 "fw": 339,
-"fh": 272,
+"fh": 271,
 "side": "img/polestar-4-side.webp",
 "sw": 729,
 "sh": 265
@@ -2789,7 +2781,7 @@
 "porsche-911": {
 "front": "img/porsche-911-front.webp",
 "fw": 314,
-"fh": 243,
+"fh": 241,
 "side": "img/porsche-911-side.webp",
 "sw": 685,
 "sh": 227
@@ -2797,7 +2789,7 @@
 "porsche-cayenne": {
 "front": "img/porsche-cayenne-front.webp",
 "fw": 333,
-"fh": 294,
+"fh": 292,
 "side": "img/porsche-cayenne-side.webp",
 "sw": 749,
 "sh": 285
@@ -2805,7 +2797,7 @@
 "porsche-macan": {
 "front": "img/porsche-macan-front.webp",
 "fw": 333,
-"fh": 290,
+"fh": 288,
 "side": "img/porsche-macan-side.webp",
 "sw": 729,
 "sh": 282
@@ -2813,7 +2805,7 @@
 "porsche-panamera": {
 "front": "img/porsche-panamera-front.webp",
 "fw": 332,
-"fh": 259,
+"fh": 255,
 "side": "img/porsche-panamera-side.webp",
 "sw": 763,
 "sh": 245
@@ -2821,7 +2813,7 @@
 "porsche-taycan": {
 "front": "img/porsche-taycan-front.webp",
 "fw": 337,
-"fh": 252,
+"fh": 250,
 "side": "img/porsche-taycan-side.webp",
 "sw": 748,
 "sh": 236
@@ -2829,7 +2821,7 @@
 "renault-austral": {
 "front": "img/renault-austral-front.webp",
 "fw": 314,
-"fh": 290,
+"fh": 288,
 "side": "img/renault-austral-side.webp",
 "sw": 704,
 "sh": 282
@@ -2837,7 +2829,7 @@
 "renault-captur": {
 "front": "img/renault-captur-front.webp",
 "fw": 310,
-"fh": 285,
+"fh": 283,
 "side": "img/renault-captur-side.webp",
 "sw": 654,
 "sh": 272
@@ -2845,7 +2837,7 @@
 "renault-clio": {
 "front": "img/renault-clio-front.webp",
 "fw": 308,
-"fh": 268,
+"fh": 266,
 "side": "img/renault-clio-side.webp",
 "sw": 635,
 "sh": 253
@@ -2853,7 +2845,7 @@
 "renault-espace": {
 "front": "img/renault-espace-front.webp",
 "fw": 314,
-"fh": 291,
+"fh": 289,
 "side": "img/renault-espace-side.webp",
 "sw": 730,
 "sh": 285
@@ -2861,7 +2853,7 @@
 "renault-kangoo": {
 "front": "img/renault-kangoo-front.webp",
 "fw": 310,
-"fh": 319,
+"fh": 316,
 "side": "img/renault-kangoo-side.webp",
 "sw": 703,
 "sh": 319
@@ -2869,7 +2861,7 @@
 "renault-kangoo-van": {
 "front": "img/renault-kangoo-van-front.webp",
 "fw": 310,
-"fh": 319,
+"fh": 316,
 "side": "img/renault-kangoo-van-side.webp",
 "sw": 703,
 "sh": 319
@@ -2882,7 +2874,7 @@
 "renault-megane-e-tech": {
 "front": "img/renault-megane-e-tech-front.webp",
 "fw": 311,
-"fh": 274,
+"fh": 273,
 "side": "img/renault-megane-e-tech-side.webp",
 "sw": 651,
 "sh": 260
@@ -2890,7 +2882,7 @@
 "renault-rafale": {
 "front": "img/renault-rafale-front.webp",
 "fw": 317,
-"fh": 287,
+"fh": 285,
 "side": "img/renault-rafale-side.webp",
 "sw": 727,
 "sh": 276
@@ -2898,7 +2890,7 @@
 "renault-renault-4": {
 "front": "img/renault-renault-4-front.webp",
 "fw": 312,
-"fh": 282,
+"fh": 281,
 "side": "img/renault-renault-4-side.webp",
 "sw": 647,
 "sh": 273
@@ -2906,7 +2898,7 @@
 "renault-renault-5": {
 "front": "img/renault-renault-5-front.webp",
 "fw": 312,
-"fh": 274,
+"fh": 272,
 "side": "img/renault-renault-5-side.webp",
 "sw": 607,
 "sh": 266
@@ -2914,7 +2906,7 @@
 "renault-scenic-e-tech": {
 "front": "img/renault-scenic-e-tech-front.webp",
 "fw": 327,
-"fh": 284,
+"fh": 282,
 "side": "img/renault-scenic-e-tech-side.webp",
 "sw": 695,
 "sh": 273
@@ -2922,7 +2914,7 @@
 "renault-symbioz": {
 "front": "img/renault-symbioz-front.webp",
 "fw": 310,
-"fh": 284,
+"fh": 281,
 "side": "img/renault-symbioz-side.webp",
 "sw": 678,
 "sh": 270
@@ -2930,7 +2922,7 @@
 "renault-trafic-passenger": {
 "front": "img/renault-trafic-passenger-front.webp",
 "fw": 331,
-"fh": 358,
+"fh": 357,
 "side": "img/renault-trafic-passenger-side.webp",
 "sw": 800,
 "sh": 355
@@ -2938,20 +2930,20 @@
 "renault-trafic-van-mid": {
 "front": "img/renault-trafic-van-mid-front.webp",
 "fw": 331,
-"fh": 358,
+"fh": 357,
 "side": "img/renault-trafic-van-mid-side.webp",
 "sw": 800,
 "sh": 355
 },
 "renault-trucks-master": {
 "front": "img/renault-trucks-master-front.webp",
-"fw": 680,
-"fh": 987
+"fw": 579,
+"fh": 639
 },
 "renault-trucks-trafic": {
 "front": "img/renault-trucks-trafic-front.webp",
 "fw": 331,
-"fh": 358,
+"fh": 357,
 "side": "img/renault-trucks-trafic-side.webp",
 "sw": 800,
 "sh": 355
@@ -2959,7 +2951,7 @@
 "renault-twingo": {
 "front": "img/renault-twingo-front.webp",
 "fw": 301,
-"fh": 270,
+"fh": 269,
 "side": "img/renault-twingo-side.webp",
 "sw": 589,
 "sh": 261
@@ -2967,20 +2959,20 @@
 "rimac-nevera": {
 "side": "img/rimac-nevera-side.webp",
 "sw": 800,
-"sh": 333
+"sh": 228
 },
 "rolls-royce-cullinan": {
 "front": "img/rolls-royce-cullinan-front.webp",
 "fw": 345,
-"fh": 312,
+"fh": 310,
 "side": "img/rolls-royce-cullinan-side.webp",
 "sw": 800,
-"sh": 304
+"sh": 303
 },
 "rolls-royce-ghost": {
 "front": "img/rolls-royce-ghost-front.webp",
 "fw": 337,
-"fh": 280,
+"fh": 278,
 "side": "img/rolls-royce-ghost-side.webp",
 "sw": 800,
 "sh": 254
@@ -2996,7 +2988,7 @@
 "rolls-royce-spectre": {
 "front": "img/rolls-royce-spectre-front.webp",
 "fw": 343,
-"fh": 282,
+"fh": 281,
 "side": "img/rolls-royce-spectre-side.webp",
 "sw": 800,
 "sh": 259
@@ -3004,7 +2996,7 @@
 "seat-arona": {
 "front": "img/seat-arona-front.webp",
 "fw": 303,
-"fh": 298,
+"fh": 297,
 "side": "img/seat-arona-side.webp",
 "sw": 645,
 "sh": 290
@@ -3012,7 +3004,7 @@
 "seat-ateca": {
 "front": "img/seat-ateca-front.webp",
 "fw": 315,
-"fh": 289,
+"fh": 288,
 "side": "img/seat-ateca-side.webp",
 "sw": 682,
 "sh": 280
@@ -3020,7 +3012,7 @@
 "seat-ibiza": {
 "front": "img/seat-ibiza-front.webp",
 "fw": 302,
-"fh": 283,
+"fh": 281,
 "side": "img/seat-ibiza-side.webp",
 "sw": 628,
 "sh": 272
@@ -3028,7 +3020,7 @@
 "seat-leon": {
 "front": "img/seat-leon-front.webp",
 "fw": 304,
-"fh": 264,
+"fh": 261,
 "side": "img/seat-leon-side.webp",
 "sw": 676,
 "sh": 250
@@ -3036,7 +3028,7 @@
 "skoda-elroq": {
 "front": "img/skoda-elroq-front.webp",
 "fw": 323,
-"fh": 287,
+"fh": 285,
 "side": "img/skoda-elroq-side.webp",
 "sw": 695,
 "sh": 278
@@ -3044,7 +3036,7 @@
 "skoda-enyaq": {
 "front": "img/skoda-enyaq-front.webp",
 "fw": 324,
-"fh": 287,
+"fh": 285,
 "side": "img/skoda-enyaq-side.webp",
 "sw": 719,
 "sh": 277
@@ -3052,7 +3044,7 @@
 "skoda-epiq": {
 "front": "img/skoda-epiq-front.webp",
 "fw": 312,
-"fh": 284,
+"fh": 282,
 "side": "img/skoda-epiq-side.webp",
 "sw": 647,
 "sh": 276
@@ -3060,7 +3052,7 @@
 "skoda-fabia": {
 "front": "img/skoda-fabia-front.webp",
 "fw": 300,
-"fh": 284,
+"fh": 282,
 "side": "img/skoda-fabia-side.webp",
 "sw": 630,
 "sh": 273
@@ -3068,7 +3060,7 @@
 "skoda-kamiq": {
 "front": "img/skoda-kamiq-front.webp",
 "fw": 301,
-"fh": 278,
+"fh": 276,
 "side": "img/skoda-kamiq-side.webp",
 "sw": 658,
 "sh": 268
@@ -3076,7 +3068,7 @@
 "skoda-karoq": {
 "front": "img/skoda-karoq-front.webp",
 "fw": 312,
-"fh": 287,
+"fh": 285,
 "side": "img/skoda-karoq-side.webp",
 "sw": 673,
 "sh": 281
@@ -3084,7 +3076,7 @@
 "skoda-kodiaq": {
 "front": "img/skoda-kodiaq-front.webp",
 "fw": 320,
-"fh": 296,
+"fh": 294,
 "side": "img/skoda-kodiaq-side.webp",
 "sw": 736,
 "sh": 285
@@ -3092,7 +3084,7 @@
 "skoda-octavia": {
 "front": "img/skoda-octavia-front.webp",
 "fw": 304,
-"fh": 269,
+"fh": 267,
 "side": "img/skoda-octavia-side.webp",
 "sw": 722,
 "sh": 259
@@ -3100,23 +3092,23 @@
 "skoda-peaq": {
 "front": "img/skoda-peaq-front.webp",
 "fw": 800,
-"fh": 412,
+"fh": 408,
 "side": "img/skoda-peaq-side.webp",
 "sw": 800,
-"sh": 302
+"sh": 300
 },
 "skoda-scala": {
 "front": "img/skoda-scala-front.webp",
 "fw": 303,
-"fh": 270,
+"fh": 269,
 "side": "img/skoda-scala-side.webp",
 "sw": 676,
-"sh": 254
+"sh": 253
 },
 "skoda-superb": {
 "front": "img/skoda-superb-front.webp",
 "fw": 314,
-"fh": 271,
+"fh": 268,
 "side": "img/skoda-superb-side.webp",
 "sw": 759,
 "sh": 260
@@ -3140,7 +3132,7 @@
 "smart-5": {
 "front": "img/smart-5-front.webp",
 "fw": 332,
-"fh": 299,
+"fh": 298,
 "side": "img/smart-5-side.webp",
 "sw": 713,
 "sh": 292
@@ -3148,7 +3140,7 @@
 "subaru-crosstrek": {
 "front": "img/subaru-crosstrek-front.webp",
 "fw": 308,
-"fh": 283,
+"fh": 280,
 "side": "img/subaru-crosstrek-side.webp",
 "sw": 696,
 "sh": 275
@@ -3164,7 +3156,7 @@
 "subaru-forester": {
 "front": "img/subaru-forester-front.webp",
 "fw": 317,
-"fh": 303,
+"fh": 300,
 "side": "img/subaru-forester-side.webp",
 "sw": 732,
 "sh": 298
@@ -3172,7 +3164,7 @@
 "subaru-impreza": {
 "front": "img/subaru-impreza-front.webp",
 "fw": 306,
-"fh": 265,
+"fh": 260,
 "side": "img/subaru-impreza-side.webp",
 "sw": 693,
 "sh": 254
@@ -3180,7 +3172,7 @@
 "subaru-outback": {
 "front": "img/subaru-outback-front.webp",
 "fw": 310,
-"fh": 291,
+"fh": 289,
 "side": "img/subaru-outback-side.webp",
 "sw": 759,
 "sh": 287
@@ -3204,7 +3196,7 @@
 "suzuki-across": {
 "front": "img/suzuki-across-front.webp",
 "fw": 322,
-"fh": 296,
+"fh": 294,
 "side": "img/suzuki-across-side.webp",
 "sw": 725,
 "sh": 288
@@ -3212,7 +3204,7 @@
 "suzuki-e-vitara": {
 "front": "img/suzuki-e-vitara-front.webp",
 "fw": 800,
-"fh": 441,
+"fh": 708,
 "side": "img/suzuki-e-vitara-side.webp",
 "sw": 800,
 "sh": 314
@@ -3220,7 +3212,7 @@
 "suzuki-s-cross": {
 "front": "img/suzuki-s-cross-front.webp",
 "fw": 310,
-"fh": 305,
+"fh": 304,
 "side": "img/suzuki-s-cross-side.webp",
 "sw": 676,
 "sh": 304
@@ -3228,7 +3220,7 @@
 "suzuki-swift": {
 "front": "img/suzuki-swift-front.webp",
 "fw": 302,
-"fh": 302,
+"fh": 301,
 "side": "img/suzuki-swift-side.webp",
 "sw": 604,
 "sh": 296
@@ -3236,15 +3228,15 @@
 "suzuki-vitara": {
 "front": "img/suzuki-vitara-front.webp",
 "fw": 307,
-"fh": 312,
+"fh": 309,
 "side": "img/suzuki-vitara-side.webp",
 "sw": 647,
-"sh": 306
+"sh": 305
 },
 "tesla-model-3": {
 "front": "img/tesla-model-3-front.webp",
 "fw": 317,
-"fh": 262,
+"fh": 260,
 "side": "img/tesla-model-3-side.webp",
 "sw": 715,
 "sh": 249
@@ -3252,7 +3244,7 @@
 "tesla-model-y": {
 "front": "img/tesla-model-y-front.webp",
 "fw": 335,
-"fh": 289,
+"fh": 286,
 "side": "img/tesla-model-y-side.webp",
 "sw": 729,
 "sh": 276
@@ -3260,7 +3252,7 @@
 "toyota-aygo-x": {
 "front": "img/toyota-aygo-x-front.webp",
 "fw": 310,
-"fh": 302,
+"fh": 301,
 "side": "img/toyota-aygo-x-side.webp",
 "sw": 582,
 "sh": 298
@@ -3268,7 +3260,7 @@
 "toyota-bz4x": {
 "front": "img/toyota-bz4x-front.webp",
 "fw": 325,
-"fh": 286,
+"fh": 284,
 "side": "img/toyota-bz4x-side.webp",
 "sw": 727,
 "sh": 278
@@ -3284,23 +3276,23 @@
 "toyota-c-hr": {
 "front": "img/toyota-c-hr-front.webp",
 "fw": 317,
-"fh": 279,
+"fh": 278,
 "side": "img/toyota-c-hr-side.webp",
 "sw": 674,
 "sh": 266
 },
 "toyota-c-hr-plus": {
 "front": "img/toyota-c-hr-plus-front.webp",
-"fw": 693,
-"fh": 552,
+"fw": 683,
+"fh": 543,
 "side": "img/toyota-c-hr-plus-side.webp",
 "sw": 800,
-"sh": 386
+"sh": 293
 },
 "toyota-corolla-cross": {
 "front": "img/toyota-corolla-cross-front.webp",
 "fw": 313,
-"fh": 289,
+"fh": 288,
 "side": "img/toyota-corolla-cross-side.webp",
 "sw": 695,
 "sh": 280
@@ -3308,7 +3300,7 @@
 "toyota-corolla": {
 "front": "img/toyota-corolla-front.webp",
 "fw": 305,
-"fh": 263,
+"fh": 259,
 "side": "img/toyota-corolla-side.webp",
 "sw": 671,
 "sh": 253
@@ -3316,7 +3308,7 @@
 "toyota-gr-supra": {
 "front": "img/toyota-gr-supra-front.webp",
 "fw": 318,
-"fh": 245,
+"fh": 242,
 "side": "img/toyota-gr-supra-side.webp",
 "sw": 658,
 "sh": 229
@@ -3324,7 +3316,7 @@
 "toyota-hilux": {
 "front": "img/toyota-hilux-front.webp",
 "fw": 316,
-"fh": 316,
+"fh": 312,
 "side": "img/toyota-hilux-side.webp",
 "sw": 800,
 "sh": 301
@@ -3332,7 +3324,7 @@
 "toyota-land-cruiser": {
 "front": "img/toyota-land-cruiser-front.webp",
 "fw": 338,
-"fh": 326,
+"fh": 325,
 "side": "img/toyota-land-cruiser-side.webp",
 "sw": 766,
 "sh": 332
@@ -3340,12 +3332,12 @@
 "toyota-mirai": {
 "side": "img/toyota-mirai-side.webp",
 "sw": 761,
-"sh": 257
+"sh": 256
 },
 "toyota-prius": {
 "front": "img/toyota-prius-front.webp",
 "fw": 308,
-"fh": 262,
+"fh": 259,
 "side": "img/toyota-prius-side.webp",
 "sw": 706,
 "sh": 245
@@ -3353,7 +3345,7 @@
 "toyota-proace-city": {
 "front": "img/toyota-proace-city-front.webp",
 "fw": 306,
-"fh": 336,
+"fh": 335,
 "side": "img/toyota-proace-city-side.webp",
 "sw": 750,
 "sh": 318
@@ -3361,7 +3353,7 @@
 "toyota-proace-city-verso": {
 "front": "img/toyota-proace-city-verso-front.webp",
 "fw": 306,
-"fh": 336,
+"fh": 335,
 "side": "img/toyota-proace-city-verso-side.webp",
 "sw": 750,
 "sh": 318
@@ -3369,7 +3361,7 @@
 "toyota-proace": {
 "front": "img/toyota-proace-front.webp",
 "fw": 327,
-"fh": 348,
+"fh": 347,
 "side": "img/toyota-proace-side.webp",
 "sw": 800,
 "sh": 314
@@ -3385,7 +3377,7 @@
 "toyota-proace-verso": {
 "front": "img/toyota-proace-verso-front.webp",
 "fw": 327,
-"fh": 348,
+"fh": 347,
 "side": "img/toyota-proace-verso-side.webp",
 "sw": 800,
 "sh": 314
@@ -3393,7 +3385,7 @@
 "toyota-rav4": {
 "front": "img/toyota-rav4-front.webp",
 "fw": 321,
-"fh": 294,
+"fh": 291,
 "side": "img/toyota-rav4-side.webp",
 "sw": 714,
 "sh": 293
@@ -3401,15 +3393,15 @@
 "toyota-urban-cruiser": {
 "front": "img/toyota-urban-cruiser-front.webp",
 "fw": 315,
-"fh": 290,
+"fh": 287,
 "side": "img/toyota-urban-cruiser-side.webp",
 "sw": 667,
-"sh": 280
+"sh": 279
 },
 "toyota-yaris-cross": {
 "front": "img/toyota-yaris-cross-front.webp",
 "fw": 309,
-"fh": 283,
+"fh": 281,
 "side": "img/toyota-yaris-cross-side.webp",
 "sw": 644,
 "sh": 270
@@ -3417,10 +3409,10 @@
 "toyota-yaris": {
 "front": "img/toyota-yaris-front.webp",
 "fw": 306,
-"fh": 271,
+"fh": 270,
 "side": "img/toyota-yaris-side.webp",
 "sw": 614,
-"sh": 258
+"sh": 257
 },
 "vinfast-vf-6": {
 "front": "img/vinfast-vf-6-front.webp",
@@ -3433,15 +3425,15 @@
 "vinfast-vf-8": {
 "front": "img/vinfast-vf-8-front.webp",
 "fw": 334,
-"fh": 294,
+"fh": 293,
 "side": "img/vinfast-vf-8-side.webp",
 "sw": 732,
-"sh": 283
+"sh": 282
 },
 "volkswagen-amarok": {
 "front": "img/volkswagen-amarok-front.webp",
 "fw": 335,
-"fh": 315,
+"fh": 312,
 "side": "img/volkswagen-amarok-side.webp",
 "sw": 800,
 "sh": 299
@@ -3449,7 +3441,7 @@
 "volkswagen-caddy-cargo": {
 "front": "img/volkswagen-caddy-cargo-front.webp",
 "fw": 310,
-"fh": 317,
+"fh": 316,
 "side": "img/volkswagen-caddy-cargo-side.webp",
 "sw": 701,
 "sh": 318
@@ -3457,7 +3449,7 @@
 "volkswagen-caddy": {
 "front": "img/volkswagen-caddy-front.webp",
 "fw": 310,
-"fh": 317,
+"fh": 316,
 "side": "img/volkswagen-caddy-side.webp",
 "sw": 701,
 "sh": 318
@@ -3465,7 +3457,7 @@
 "volkswagen-caravelle": {
 "front": "img/volkswagen-caravelle-front.webp",
 "fw": 352,
-"fh": 342,
+"fh": 341,
 "side": "img/volkswagen-caravelle-side.webp",
 "sw": 796,
 "sh": 340
@@ -3473,7 +3465,7 @@
 "volkswagen-golf": {
 "front": "img/volkswagen-golf-front.webp",
 "fw": 305,
-"fh": 266,
+"fh": 264,
 "side": "img/volkswagen-golf-side.webp",
 "sw": 664,
 "sh": 252
@@ -3489,7 +3481,7 @@
 "volkswagen-id-4": {
 "front": "img/volkswagen-id-4-front.webp",
 "fw": 325,
-"fh": 288,
+"fh": 287,
 "side": "img/volkswagen-id-4-side.webp",
 "sw": 705,
 "sh": 279
@@ -3497,7 +3489,7 @@
 "volkswagen-id-5": {
 "front": "img/volkswagen-id-5-front.webp",
 "fw": 325,
-"fh": 285,
+"fh": 283,
 "side": "img/volkswagen-id-5-side.webp",
 "sw": 709,
 "sh": 276
@@ -3505,7 +3497,7 @@
 "volkswagen-id-7": {
 "front": "img/volkswagen-id-7-front.webp",
 "fw": 321,
-"fh": 278,
+"fh": 277,
 "side": "img/volkswagen-id-7-side.webp",
 "sw": 768,
 "sh": 265
@@ -3534,7 +3526,7 @@
 "volkswagen-id-polo": {
 "front": "img/volkswagen-id-polo-front.webp",
 "fw": 311,
-"fh": 276,
+"fh": 275,
 "side": "img/volkswagen-id-polo-side.webp",
 "sw": 626,
 "sh": 265
@@ -3547,7 +3539,7 @@
 "volkswagen-multivan": {
 "front": "img/volkswagen-multivan-front.webp",
 "fw": 326,
-"fh": 333,
+"fh": 332,
 "side": "img/volkswagen-multivan-side.webp",
 "sw": 769,
 "sh": 323
@@ -3555,15 +3547,15 @@
 "volkswagen-passat": {
 "front": "img/volkswagen-passat-front.webp",
 "fw": 314,
-"fh": 270,
+"fh": 268,
 "side": "img/volkswagen-passat-side.webp",
 "sw": 759,
-"sh": 258
+"sh": 257
 },
 "volkswagen-polo": {
 "front": "img/volkswagen-polo-front.webp",
 "fw": 301,
-"fh": 281,
+"fh": 278,
 "side": "img/volkswagen-polo-side.webp",
 "sw": 630,
 "sh": 272
@@ -3571,15 +3563,15 @@
 "volkswagen-t-cross": {
 "front": "img/volkswagen-t-cross-front.webp",
 "fw": 303,
-"fh": 296,
+"fh": 294,
 "side": "img/volkswagen-t-cross-side.webp",
 "sw": 636,
-"sh": 289
+"sh": 288
 },
 "volkswagen-t-roc": {
 "front": "img/volkswagen-t-roc-front.webp",
 "fw": 311,
-"fh": 281,
+"fh": 279,
 "side": "img/volkswagen-t-roc-side.webp",
 "sw": 676,
 "sh": 270
@@ -3587,7 +3579,7 @@
 "volkswagen-taigo": {
 "front": "img/volkswagen-taigo-front.webp",
 "fw": 300,
-"fh": 288,
+"fh": 287,
 "side": "img/volkswagen-taigo-side.webp",
 "sw": 653,
 "sh": 280
@@ -3595,7 +3587,7 @@
 "volkswagen-tayron": {
 "front": "img/volkswagen-tayron-front.webp",
 "fw": 314,
-"fh": 294,
+"fh": 292,
 "side": "img/volkswagen-tayron-side.webp",
 "sw": 738,
 "sh": 284
@@ -3603,7 +3595,7 @@
 "volkswagen-tiguan": {
 "front": "img/volkswagen-tiguan-front.webp",
 "fw": 319,
-"fh": 294,
+"fh": 292,
 "side": "img/volkswagen-tiguan-side.webp",
 "sw": 700,
 "sh": 285
@@ -3611,7 +3603,7 @@
 "volkswagen-touareg": {
 "front": "img/volkswagen-touareg-front.webp",
 "fw": 335,
-"fh": 297,
+"fh": 295,
 "side": "img/volkswagen-touareg-side.webp",
 "sw": 754,
 "sh": 292
@@ -3619,7 +3611,7 @@
 "volkswagen-transporter": {
 "front": "img/volkswagen-transporter-front.webp",
 "fw": 352,
-"fh": 342,
+"fh": 341,
 "side": "img/volkswagen-transporter-side.webp",
 "sw": 796,
 "sh": 340
@@ -3627,10 +3619,10 @@
 "volvo-es90": {
 "front": "img/volvo-es90-front.webp",
 "fw": 332,
-"fh": 364,
+"fh": 275,
 "side": "img/volvo-es90-side.webp",
 "sw": 763,
-"sh": 267
+"sh": 266
 },
 "volvo-ex30": {
 "front": "img/volvo-ex30-front.webp",
@@ -3643,15 +3635,15 @@
 "volvo-ex60": {
 "front": "img/volvo-ex60-front.webp",
 "fw": 330,
-"fh": 289,
+"fh": 287,
 "side": "img/volvo-ex60-side.webp",
 "sw": 730,
-"sh": 279
+"sh": 278
 },
 "volvo-ex90": {
 "front": "img/volvo-ex90-front.webp",
 "fw": 335,
-"fh": 302,
+"fh": 300,
 "side": "img/volvo-ex90-side.webp",
 "sw": 763,
 "sh": 298
@@ -3659,7 +3651,7 @@
 "volvo-v60": {
 "front": "img/volvo-v60-front.webp",
 "fw": 320,
-"fh": 261,
+"fh": 259,
 "side": "img/volvo-v60-side.webp",
 "sw": 738,
 "sh": 250
@@ -3667,7 +3659,7 @@
 "volvo-xc40": {
 "front": "img/volvo-xc40-front.webp",
 "fw": 318,
-"fh": 291,
+"fh": 290,
 "side": "img/volvo-xc40-side.webp",
 "sw": 673,
 "sh": 282
@@ -3675,7 +3667,7 @@
 "volvo-xc60": {
 "front": "img/volvo-xc60-front.webp",
 "fw": 332,
-"fh": 293,
+"fh": 292,
 "side": "img/volvo-xc60-side.webp",
 "sw": 723,
 "sh": 284
@@ -3683,7 +3675,7 @@
 "volvo-xc90": {
 "front": "img/volvo-xc90-front.webp",
 "fw": 337,
-"fh": 304,
+"fh": 302,
 "side": "img/volvo-xc90-side.webp",
 "sw": 758,
 "sh": 299
@@ -3691,12 +3683,12 @@
 "voyah-courage": {
 "side": "img/voyah-courage-side.webp",
 "sw": 800,
-"sh": 298
+"sh": 297
 },
 "voyah-free": {
 "front": "img/voyah-free-front.webp",
 "fw": 331,
-"fh": 290,
+"fh": 288,
 "side": "img/voyah-free-side.webp",
 "sw": 751,
 "sh": 285
@@ -3704,7 +3696,7 @@
 "xpeng-g6": {
 "front": "img/xpeng-g6-front.webp",
 "fw": 332,
-"fh": 292,
+"fh": 289,
 "side": "img/xpeng-g6-side.webp",
 "sw": 731,
 "sh": 283
@@ -3712,7 +3704,7 @@
 "xpeng-g9": {
 "front": "img/xpeng-g9-front.webp",
 "fw": 334,
-"fh": 292,
+"fh": 289,
 "side": "img/xpeng-g9-side.webp",
 "sw": 753,
 "sh": 284
@@ -3720,7 +3712,7 @@
 "xpeng-p7-plus": {
 "front": "img/xpeng-p7-plus-front.webp",
 "fw": 328,
-"fh": 271,
+"fh": 269,
 "side": "img/xpeng-p7-plus-side.webp",
 "sw": 780,
 "sh": 261
@@ -3728,12 +3720,12 @@
 "xpeng-x9": {
 "side": "img/xpeng-x9-side.webp",
 "sw": 800,
-"sh": 255
+"sh": 297
 },
 "zeekr-001": {
 "front": "img/zeekr-001-front.webp",
 "fw": 342,
-"fh": 275,
+"fh": 273,
 "side": "img/zeekr-001-side.webp",
 "sw": 754,
 "sh": 267
@@ -3741,7 +3733,7 @@
 "zeekr-7-gt": {
 "front": "img/zeekr-7-gt-front.webp",
 "fw": 329,
-"fh": 264,
+"fh": 258,
 "side": "img/zeekr-7-gt-side.webp",
 "sw": 735,
 "sh": 250
@@ -3749,22 +3741,22 @@
 "zeekr-7x": {
 "front": "img/zeekr-7x-front.webp",
 "fw": 332,
-"fh": 290,
+"fh": 289,
 "side": "img/zeekr-7x-side.webp",
 "sw": 728,
 "sh": 282
 },
 "zeekr-9x": {
 "front": "img/zeekr-9x-front.webp",
-"fw": 800,
-"fh": 533
+"fw": 516,
+"fh": 388
 },
 "zeekr-x": {
 "front": "img/zeekr-x-front.webp",
 "fw": 321,
-"fh": 281,
+"fh": 279,
 "side": "img/zeekr-x-side.webp",
 "sw": 677,
-"sh": 269
+"sh": 268
 }
 }

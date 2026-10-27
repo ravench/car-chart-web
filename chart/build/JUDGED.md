@@ -217,3 +217,10 @@ ora-ora-5 | front (update) | ora5full/ora5full-005 (white, straight front, show 
 ora-ora-5 | side (update) | ora5full/ora5full-044 (white, true side faces left) alt ora5full-007 (faces right), ora5full-051 (black) | full-size re-fetch (960 px) | carbase.my | © CarBase.my - third-party
 aston-martin-db12 | front | zig5/db12-0-FullFrontViewofDB12 | city scene photo, straight front (green DB12) -> rembg | zigwheels.ae (third-party catalogue) | © Aston Martin / zigwheels - third-party
 aston-martin-db12 | side-alt | zig5/db12-1-DB12Sideview | city scene, true side faces right -> rembg + mirror (primary stays misc2/aston-martin-db12-side) | zigwheels.ae | third-party
+
+## v1.10 (2026-10-27) plausibility-check picture replacements
+- dacia-spring: old carsized picture showed the Spring I (2021-2024). New: Dacia media studio photos of the 2026 Spring II (media.dacia.com, "New Dacia Spring: 100% electric, 100% Dacia", wp-content/uploads/2026/09 hashes 057 = side facing left, 058 = front), rembg. Year badge removed (no longer prev_model).
+- fiat-doblo: old carsized picture was the 2015 Tofaş Doblò. New: Stellantis UK Fiat Professional media library album 506266 (2022 Doblò van, K9 body, pre-facelift but same shell): doblo-08 side (faces right -> mirrored), doblo-09 front with treatment R (haze above the roof cleaned). Year badge removed.
+- ds-n-7: old side was a 3/4 press photo (ds2/dsn7-3112476 cropped). New: Stellantis DS media library album 655422 (media test drive), image 0200: near-side view facing left, seen slightly from the rear (rear lights visible). Still not a true side view: flagged to Raven.
+- mitsubishi-eclipse-cross: old carsized picture was the 2021 ICE car; the current Eclipse Cross (2025, Renault Scenic E-Tech based) has no side view in the Mitsubishi global/DE press kits, the DE product pages or the configurator (3D viewer), so it becomes a name tile (no_image).
+- toyota-c-hr-plus: the check claimed the side faces right; it faces left. Unchanged.

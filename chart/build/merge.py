@@ -155,6 +155,17 @@ if os.path.exists(OVERRIDES):
 for k, v in ov.get('aliases', {}).items():
     pass
 
+# discontinued-list overrides (keyed "Brand|Model"): drop duplicate records, replace stale notes
+_dn = ov.get('discontinued_notes', {}); _dd = set(ov.get('discontinued_drop', []))
+if _dn or _dd:
+    _kept = []
+    for x in discontinued:
+        _key = f"{x.get('brand', '')}|{x.get('model', '')}"
+        if _key in _dd: report.append(f'discontinued: dropped duplicate record {_key}'); continue
+        if _key in _dn: x['note'] = _dn[_key]; report.append(f'discontinued: note replaced for {_key}')
+        _kept.append(x)
+    discontinued = _kept
+
 # promote announced entries to on-sale models when the override says so
 for spec in ov.get('promote', []):
     pn = norm_key(spec['brand'], spec['model'])

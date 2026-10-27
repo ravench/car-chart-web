@@ -1,0 +1,1126 @@
+[
+{
+"id": "mg-mg3",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "MG3",
+"display": "MG3",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "II (2024–)",
+"powertrains": [
+"petrol",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC SIGMA",
+"twin_members": []
+},
+{
+"id": "mg-zs",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "ZS",
+"display": "ZS",
+"other_names": [],
+"row": "b-suv",
+"body": "SUV",
+"generation": "II (2024–)",
+"powertrains": [
+"petrol",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC SIGMA",
+"twin_members": []
+},
+{
+"id": "mg-mg4",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "MG4",
+"display": "MG4 EV",
+"other_names": [
+"MG4 EV",
+"MG4 Electric (DE)"
+],
+"row": "c-hatch",
+"body": "5-door hatchback",
+"generation": "I (2022–), updated 2026 MY",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC MSP (Modular Scalable Platform)",
+"twin_members": []
+},
+{
+"id": "mg-mg4-urban",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "MG4 Urban",
+"display": "MG4 EV Urban",
+"other_names": [
+"MG4 EV Urban",
+"MG4 (China)"
+],
+"row": "c-hatch",
+"body": "5-door hatchback",
+"generation": "II (China 2025–; Europe 2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "new SAIC FWD platform (cell-to-body, solid-state ready)",
+"twin_members": []
+},
+{
+"id": "mg-hs",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "HS",
+"display": "HS",
+"other_names": [],
+"row": "c-suv",
+"body": "SUV",
+"generation": "II (2024–)",
+"powertrains": [
+"petrol",
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC SIGMA",
+"twin_members": []
+},
+{
+"id": "mg-mgs5-ev",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "MGS5 EV",
+"display": "MGS5 EV",
+"other_names": [],
+"row": "c-suv",
+"body": "SUV",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC MSP",
+"twin_members": []
+},
+{
+"id": "mg-im5",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "IM5",
+"display": "IM5",
+"other_names": [
+"MG IM5"
+],
+"row": "d-car",
+"body": "4-door saloon (fastback)",
+"generation": "I (Europe 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "IM Motors 800 V platform",
+"twin_members": []
+},
+{
+"id": "mg-im6",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "IM6",
+"display": "IM6",
+"other_names": [
+"MG IM6"
+],
+"row": "d-suv",
+"body": "SUV",
+"generation": "I (Europe 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "IM Motors 800 V platform",
+"twin_members": []
+},
+{
+"id": "mg-mgs6-ev",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "MGS6 EV",
+"display": "MGS6 EV",
+"other_names": [],
+"row": "d-suv",
+"body": "SUV (fastback)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC MSP",
+"twin_members": []
+},
+{
+"id": "mg-mgs9-phev",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "MGS9 PHEV",
+"display": "MGS9 PHEV",
+"other_names": [
+"MGS9 Plug-in Hybrid (CH/EU name)"
+],
+"row": "e-suv",
+"body": "SUV, 7 seats",
+"generation": "I (Europe 2026–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC (Roewe RX9 / MG QS)",
+"twin_members": []
+},
+{
+"id": "mg-cyberster",
+"brand": "MG",
+"group": "SAIC Motor",
+"model": "Cyberster",
+"display": "Cyberster",
+"other_names": [],
+"row": "sports",
+"body": "2-door roadster",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SAIC MSP",
+"twin_members": []
+},
+{
+"id": "maxus-mifa-7",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "Mifa 7",
+"display": "Mifa 7",
+"other_names": [
+"LDV Mifa 7 (AU)",
+"Maxus Dana 7 (China)"
+],
+"row": "mpv-large",
+"body": "7-seat electric MPV",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus Mifa (electric)",
+"twin_members": []
+},
+{
+"id": "maxus-mifa-9",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "Mifa 9",
+"display": "Mifa 9",
+"other_names": [
+"LDV Mifa 9 (AU)"
+],
+"row": "mpv-large",
+"body": "7-seat electric luxury MPV",
+"generation": "I (2022–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus Mifa",
+"twin_members": []
+},
+{
+"id": "maxus-edeliver-3",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "eDeliver 3",
+"display": "eDeliver 3",
+"other_names": [
+"LDV eDeliver 3 (AU/NZ)"
+],
+"row": "van-small",
+"body": "electric panel van (SWB / LWB), chassis cab",
+"generation": "I (2020–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus EV30",
+"twin_members": []
+},
+{
+"id": "maxus-edeliver-5-van-mid",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "eDeliver 5",
+"display": "eDeliver 5",
+"other_names": [],
+"row": "van-mid",
+"body": "electric panel van (L1 / L2), crew van",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus",
+"twin_members": []
+},
+{
+"id": "maxus-edeliver-7",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "eDeliver 7",
+"display": "eDeliver 7 / Deliver 7",
+"other_names": [
+"eDeliver 7 (BEV)",
+"LDV Deliver 7 (AU)"
+],
+"row": "van-mid",
+"body": "panel van (L1 / L2, H1 / H2): electric eDeliver 7 and diesel Deliver 7",
+"generation": "I (2023–; diesel Deliver 7 2025–)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus",
+"twin_members": []
+},
+{
+"id": "maxus-edeliver-9",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "eDeliver 9",
+"display": "eDeliver 9 / Deliver 9",
+"other_names": [
+"eDeliver 9 (BEV)",
+"LDV Deliver 9 (AU)"
+],
+"row": "van-large",
+"body": "panel van (L2 / L3, H2 / H3), chassis cab (3.5 t class): electric eDeliver 9 and diesel Deliver 9",
+"generation": "I (2020–)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus V90",
+"twin_members": []
+},
+{
+"id": "maxus-t60-max",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "T60 Max",
+"display": "T60 Max",
+"other_names": [
+"LDV T60 Max (AU)",
+"Maxus T60 (other markets)"
+],
+"row": "pickup",
+"body": "double-cab diesel pickup (2.0 turbo diesel, 4x4, 1,050 kg payload, 3,500 kg towing)",
+"generation": "I (T60 facelift, UK 2025–)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus T60 (body-on-frame)",
+"twin_members": [
+"Maxus T90 EV"
+]
+},
+{
+"id": "maxus-t90-ev",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "T90 EV",
+"display": "T90 EV",
+"other_names": [
+"LDV eT60 (AU/NZ)"
+],
+"row": "pickup",
+"body": "double-cab pickup",
+"generation": "I (Europe 2022–)",
+"powertrains": [
+"BEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "SAIC Maxus T90",
+"twin_members": [
+"Maxus T60 Max"
+]
+},
+{
+"id": "maxus-eterron-9",
+"brand": "Maxus",
+"group": "SAIC Motor",
+"model": "eTerron 9",
+"display": "eTerron 9",
+"other_names": [
+"LDV eTerron 9 (AU)",
+"Maxus Interstellar X (China)"
+],
+"row": "pickup",
+"body": "electric double-cab pickup (dual motor)",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SAIC Maxus Interstellar X (electric)",
+"twin_members": []
+},
+{
+"id": "ford-puma",
+"brand": "Ford",
+"group": "Ford",
+"model": "Puma",
+"display": "Puma",
+"other_names": [],
+"row": "b-suv",
+"body": "small crossover (incl. Puma Gen-E)",
+"generation": "I (2019–; facelift 2024; Gen-E 2025)",
+"powertrains": [
+"MHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford B2E (Fiesta-derived)",
+"twin_members": []
+},
+{
+"id": "ford-capri",
+"brand": "Ford",
+"group": "Ford",
+"model": "Capri",
+"display": "Capri",
+"other_names": [],
+"row": "c-suv",
+"body": "electric coupé-SUV",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Volkswagen MEB",
+"twin_members": [
+"Ford Explorer",
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Škoda Enyaq",
+"Audi Q4 e-tron",
+"Cupra Tavascan"
+]
+},
+{
+"id": "ford-explorer",
+"brand": "Ford",
+"group": "Ford",
+"model": "Explorer",
+"display": "Explorer",
+"other_names": [],
+"row": "c-suv",
+"body": "electric compact SUV",
+"generation": "I (EV, 2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Volkswagen MEB",
+"twin_members": [
+"Ford Capri",
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Škoda Enyaq",
+"Audi Q4 e-tron",
+"Cupra Tavascan"
+]
+},
+{
+"id": "ford-kuga",
+"brand": "Ford",
+"group": "Ford",
+"model": "Kuga",
+"display": "Kuga",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "III (CX482, 2019–; facelift 2024)",
+"powertrains": [
+"petrol",
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford C2",
+"twin_members": []
+},
+{
+"id": "ford-mustang-mach-e",
+"brand": "Ford",
+"group": "Ford",
+"model": "Mustang Mach-E",
+"display": "Mustang Mach-E",
+"other_names": [],
+"row": "d-suv",
+"body": "electric mid-size SUV",
+"generation": "I (2020–; MY2025 update)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford GE1",
+"twin_members": []
+},
+{
+"id": "ford-bronco",
+"brand": "Ford",
+"group": "Ford",
+"model": "Bronco",
+"display": "Bronco",
+"other_names": [],
+"row": "offroad",
+"body": "4-door off-road SUV",
+"generation": "VI (U725, 2021–; Europe since 2023)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Ford T6 (shared with Ranger)",
+"twin_members": []
+},
+{
+"id": "ford-mustang",
+"brand": "Ford",
+"group": "Ford",
+"model": "Mustang",
+"display": "Mustang",
+"other_names": [],
+"row": "sports",
+"body": "2-door coupé / convertible (incl. Dark Horse, GTD)",
+"generation": "VII (S650, 2023–)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Ford D2C (S650)",
+"twin_members": []
+},
+{
+"id": "ford-tourneo-connect",
+"brand": "Ford",
+"group": "Ford",
+"model": "Tourneo Connect",
+"display": "Tourneo Connect",
+"other_names": [
+"Grand Tourneo Connect (LWB, 7 seats)",
+"Tourneo Connect PHEV"
+],
+"row": "mpv-small",
+"body": "5/7-seat leisure activity vehicle",
+"generation": "III (2022–; VW Caddy based)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "MQB (VW Group), built in Poznań",
+"twin_members": [
+"Volkswagen Caddy"
+]
+},
+{
+"id": "ford-tourneo-courier",
+"brand": "Ford",
+"group": "Ford",
+"model": "Tourneo Courier",
+"display": "Tourneo Courier",
+"other_names": [
+"E-Tourneo Courier (electric)"
+],
+"row": "mpv-small",
+"body": "5-seat compact leisure activity vehicle",
+"generation": "II (2023/24–)",
+"powertrains": [
+"petrol",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "Ford B2E (Puma-derived)",
+"twin_members": []
+},
+{
+"id": "ford-tourneo-custom",
+"brand": "Ford",
+"group": "Ford",
+"model": "Tourneo Custom",
+"display": "Tourneo Custom",
+"other_names": [
+"E-Tourneo Custom (electric)",
+"Tourneo Custom PHEV"
+],
+"row": "mpv-large",
+"body": "8/9-seat people carrier (L1/L2)",
+"generation": "II (2023–)",
+"powertrains": [
+"diesel",
+"PHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "Ford Transit Custom (2023) platform",
+"twin_members": [
+"Volkswagen Caravelle"
+]
+},
+{
+"id": "ford-transit-connect",
+"brand": "Ford",
+"group": "Ford",
+"model": "Transit Connect",
+"display": "Transit Connect",
+"other_names": [
+"Transit Connect L2 (LWB)",
+"Transit Connect PHEV"
+],
+"row": "van-small",
+"body": "panel van (SWB / LWB)",
+"generation": "III (2024–; VW Caddy based)",
+"powertrains": [
+"diesel",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "MQB (VW Group), built by VW in Poznań",
+"twin_members": [
+"Volkswagen Caddy Cargo"
+]
+},
+{
+"id": "ford-transit-courier",
+"brand": "Ford",
+"group": "Ford",
+"model": "Transit Courier",
+"display": "Transit Courier",
+"other_names": [
+"E-Transit Courier (electric)"
+],
+"row": "van-small",
+"body": "compact panel van",
+"generation": "II (2023/24–)",
+"powertrains": [
+"petrol",
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "Ford B2E (Puma-derived)",
+"twin_members": []
+},
+{
+"id": "ford-transit-city",
+"brand": "Ford",
+"group": "Ford",
+"model": "Transit City",
+"display": "Transit City",
+"other_names": [],
+"row": "van-mid",
+"body": "electric compact van (L1H1, L2H2, Chassis Cab L2)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "JMC (Jiangling) dedicated EV van platform",
+"twin_members": []
+},
+{
+"id": "ford-transit-custom",
+"brand": "Ford",
+"group": "Ford",
+"model": "Transit Custom",
+"display": "Transit Custom",
+"other_names": [
+"E-Transit Custom (electric)",
+"Transit Custom PHEV",
+"Transit Custom Nugget (camper)"
+],
+"row": "van-mid",
+"body": "panel van (L1/L2, H1/H2), double-cab-in-van, kombi, chassis (Trail/Sport/MS-RT trims)",
+"generation": "II (2023–)",
+"powertrains": [
+"diesel",
+"MHEV",
+"PHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford Transit Custom (2023) platform",
+"twin_members": [
+"Volkswagen Transporter"
+]
+},
+{
+"id": "ford-transit",
+"brand": "Ford",
+"group": "Ford",
+"model": "Transit",
+"display": "Transit / E-Transit",
+"other_names": [
+"E-Transit (electric)",
+"Transit Van / Kombi / Chassis Cab / Minibus"
+],
+"row": "van-large",
+"body": "panel van, chassis cab, double cab, minibus (2.9–4.7 t; 3.5 t class)",
+"generation": "IV (V363, 2014–; facelift 2019; E-Transit 2022; updates 2024/25)",
+"powertrains": [
+"diesel",
+"MHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford Transit V363 (FWD/RWD/AWD)",
+"twin_members": []
+},
+{
+"id": "ford-ranger",
+"brand": "Ford",
+"group": "Ford",
+"model": "Ranger",
+"display": "Ranger",
+"other_names": [
+"Ranger Raptor",
+"Ranger PHEV",
+"Ranger Wildtrak / Platinum / Tremor / MS-RT"
+],
+"row": "pickup",
+"body": "double-cab (also super/regular cab) pickup",
+"generation": "T6.2 (2022/23–)",
+"powertrains": [
+"diesel",
+"petrol",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford T6.2 (body-on-frame)",
+"twin_members": [
+"Volkswagen Amarok"
+]
+},
+{
+"id": "subaru-impreza",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "Impreza",
+"display": "Impreza",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback",
+"generation": "VI / GU (2023–; Europe 2024)",
+"powertrains": [
+"MHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Subaru Global Platform",
+"twin_members": []
+},
+{
+"id": "subaru-crosstrek",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "Crosstrek",
+"display": "Crosstrek",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door crossover SUV",
+"generation": "III / GU (2023–)",
+"powertrains": [
+"MHEV",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Subaru Global Platform",
+"twin_members": []
+},
+{
+"id": "subaru-forester",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "Forester",
+"display": "Forester",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door SUV",
+"generation": "VI / SL (2024–; Europe 2025)",
+"powertrains": [
+"MHEV",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Subaru Global Platform",
+"twin_members": []
+},
+{
+"id": "subaru-uncharted",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "Uncharted",
+"display": "Uncharted",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door electric SUV",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA (e-Subaru Global Platform)",
+"twin_members": [
+"Toyota C-HR+"
+]
+},
+{
+"id": "subaru-e-outback",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "E-Outback",
+"display": "E-Outback",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door electric estate-SUV",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA (e-Subaru Global Platform)",
+"twin_members": [
+"Toyota bZ4X Touring"
+]
+},
+{
+"id": "subaru-outback",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "Outback",
+"display": "Outback",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door raised estate",
+"generation": "VI / BT (2019–; Europe 2021–)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": true,
+"platform": "Subaru Global Platform",
+"twin_members": []
+},
+{
+"id": "subaru-solterra",
+"brand": "Subaru",
+"group": "Subaru",
+"model": "Solterra",
+"display": "Solterra",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door electric SUV",
+"generation": "I (2022–; facelift 2025/26)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA (e-Subaru Global Platform)",
+"twin_members": [
+"Toyota bZ4X"
+]
+},
+{
+"id": "dr-dr-1-0-ev",
+"brand": "DR",
+"group": "DR Automobiles",
+"model": "DR 1.0 EV",
+"display": "DR 1.0 EV",
+"other_names": [],
+"row": "a-city",
+"body": "city car (3-door)",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery eQ1",
+"twin_members": []
+},
+{
+"id": "dr-dr-3",
+"brand": "DR",
+"group": "DR Automobiles",
+"model": "DR 3",
+"display": "DR 3",
+"other_names": [
+"DR 3.0 (previous name)"
+],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (2016–; ex DR 3.0)",
+"powertrains": [
+"petrol",
+"LPG"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X (Tiggo 3x)",
+"twin_members": []
+},
+{
+"id": "dr-dr-5",
+"brand": "DR",
+"group": "DR Automobiles",
+"model": "DR 5",
+"display": "DR 5",
+"other_names": [
+"DR 5.0 (previous name)"
+],
+"row": "b-suv",
+"body": "small SUV / compact crossover",
+"generation": "II (2026–; ex DR 5.0)",
+"powertrains": [
+"petrol",
+"LPG",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Changan CS35 Plus (per Wikipedia) - disputed",
+"twin_members": []
+},
+{
+"id": "dr-dr-6",
+"brand": "DR",
+"group": "DR Automobiles",
+"model": "DR 6",
+"display": "DR 6",
+"other_names": [
+"DR 6.0 (previous name)"
+],
+"row": "c-suv",
+"body": "SUV",
+"generation": "II (2026–; ex DR 6.0)",
+"powertrains": [
+"petrol",
+"LPG",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X",
+"twin_members": [
+"Chery Tiggo 7",
+"Ebro S700"
+]
+},
+{
+"id": "dr-dr-7",
+"brand": "DR",
+"group": "DR Automobiles",
+"model": "DR 7",
+"display": "DR 7",
+"other_names": [
+"DR 7.0 (previous name)"
+],
+"row": "d-suv",
+"body": "7-seat SUV",
+"generation": "II (2026–; ex DR 7.0)",
+"powertrains": [
+"petrol",
+"LPG"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X",
+"twin_members": [
+"Chery Tiggo 8",
+"Ebro S800"
+]
+},
+{
+"id": "dr-dr-pk8",
+"brand": "DR",
+"group": "DR Automobiles",
+"model": "DR PK8",
+"display": "DR PK8",
+"other_names": [],
+"row": "pickup",
+"body": "double-cab 4x4 pickup",
+"generation": "I (2023–)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "JAC Shuailing T8",
+"twin_members": []
+},
+{
+"id": "ebro-s400",
+"brand": "Ebro",
+"group": "Ebro (EV Motors)",
+"model": "S400",
+"display": "S400",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (2025–)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X",
+"twin_members": [
+"Chery Tiggo 4",
+"DR 5"
+]
+},
+{
+"id": "ebro-s700",
+"brand": "Ebro",
+"group": "Ebro (EV Motors)",
+"model": "S700",
+"display": "S700",
+"other_names": [],
+"row": "c-suv",
+"body": "SUV",
+"generation": "I (2024–)",
+"powertrains": [
+"petrol",
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X",
+"twin_members": [
+"Chery Tiggo 7",
+"DR 6"
+]
+},
+{
+"id": "ebro-s800",
+"brand": "Ebro",
+"group": "Ebro (EV Motors)",
+"model": "S800",
+"display": "S800",
+"other_names": [],
+"row": "d-suv",
+"body": "7-seat SUV",
+"generation": "I (2024–)",
+"powertrains": [
+"petrol",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X",
+"twin_members": [
+"Chery Tiggo 8",
+"DR 7"
+]
+},
+{
+"id": "ebro-s900",
+"brand": "Ebro",
+"group": "Ebro (EV Motors)",
+"model": "S900",
+"display": "S900",
+"other_names": [],
+"row": "d-suv",
+"body": "large 5/7-seat SUV",
+"generation": "I (2025–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Chery T1X",
+"twin_members": [
+"Chery Tiggo 9",
+"Jaecoo 8"
+]
+},
+{
+"id": "pagani-utopia",
+"brand": "Pagani",
+"group": "Pagani",
+"model": "Utopia",
+"display": "Utopia",
+"other_names": [],
+"row": "sports",
+"body": "mid-engined V12 coupé (99) / Roadster (130)",
+"generation": "I (2022–; Roadster 2024–)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "Pagani carbo-titanium monocoque",
+"twin_members": []
+}
+]

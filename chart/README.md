@@ -1,26 +1,31 @@
-# Identical Car Chart v1.9 — self-contained copy (2026-10-26)
+# Identical Car Chart v1.10 — self-contained copy (2026-10-27)
 
 Open `index.html` in a browser (serve the folder over http for the front views, e.g. `python3 -m http.server`;
 the side views work from a plain file:// open as well).
 
-- `index.html` — the chart (also published at https://claude.ai/artifact/SQLziPkb5ir5kasuaUEHrc, Version 16)
-- `img/`, `img_manifest.json` — pictures as in v1.7/v1.8
+- `index.html` — the chart (also published at https://claude.ai/artifact/SQLziPkb5ir5kasuaUEHrc, Version 17)
+- `img/`, `img_manifest.json` — pictures (carsized.com tiles plus the external pictures listed in `build/ext_manifest.json`)
 - `build/` — generator (`gen.py`), merge pipeline (`apply_corrections.py` → `merge.py` → data.json), the manual
-  overrides (`overrides.base.json`: aliases, exclusions, `edges_add`/`edges_remove` keyed "brand model|row",
-  `group_labels` keyed by family id, `final` per-model field fixes), the drive data (`drive.json`, `drive/`),
-  the external-picture tooling and `merge_report.md`.
+  overrides (`overrides.base.json`), picture tooling (`process_images.py`, `pack_fronts.py`, `build_ext.py`,
+  `match_overrides.json`, `dims_notes.json`), the measurement check (`verify_dims.py`), the drive data and `merge_report.md`.
 
-v1.9 (2026-10-26): results of the platform check of all 296 unframed tiles (../platform-check/) applied.
-- 3 new families: E-GMP (Ioniq 3 + EV4, compact cars), SEA (Zeekr 001 + Lotus Emeya), SEA-S (Zeekr 9X + Lotus Eletre).
-- 8 models added to existing families: Dacia Duster, Bigster, Striker (CMF-B), Kia EV3 and EV5 (E-GMP; the
-  measurement check flags EV3's 320 mm longer wheelbase against the Ioniq 5 as "to be reviewed"), Polestar 4 (SEA;
-  width flag), Jaecoo 5 (Chery T1X), Omoda 9 (Tiggo 9 family, now labelled Chery T1X/M3X).
-- DR 5 (2026) removed from the Chery T1X family: it is based on the Changan CS35 Plus (the earlier DR 5.0 was Chery-based).
-- 25 platform descriptions corrected (Velar, Q7, Peaq, Ora 03/5, Lepas L8, Denza, BYD Ti 7, Staria, Musso EV, M-Hero, Bugatti …).
-- New detail-panel line "Platform relatives in other classes" for 52 models whose platform siblings sit in other rows
-  (Aygo X → Mazda2 Hybrid/LBX, Scala → MQB A0 cars, DS 7 → 308/408/Astra …); the links open the relative's panel.
-- Not framed (noted in the panels): Wey 05/Haval H6 and Wey 03/Jolion Pro (L.E.M.O.N. link only in secondary
-  sources), GR Supra (its Z4 twin is gone; not a CLAR sibling of the 2 Series/4 Series).
-- Status questions from the check: GR Supra and petrol Mazda2 were already marked run-out; the AMG GT SUV has had an
-  open order book since 20 Oct 2026, so it stays.
-Earlier versions: `../chart-v1.8/` (AWD badge and filters), `../chart-v1.7/` (pictures from other sources), `../chart-v1.5/`.
+v1.10 (2026-10-27): fixes from the plausibility check of v1.9.
+- Hyundai-Kia: Hyundai's European IONIQ 3 press kit puts the car on the K3 platform (400 V, front-wheel drive, 2,680 mm
+  wheelbase, the same as the Kia EV3). The Kia EV3 therefore moved to the K3 family (Kona, Niro, Seltos) and the EV5 to
+  the N3 family (Tucson, Sportage); IONIQ 3 + EV4 are now the "K3 (400 V EV)" family of the compact-car row;
+  IONIQ 5 / EV6 / GV60 and IONIQ 9 / EV9 stay E-GMP. The EV3/EV4/EV5 twin notes were rewritten and the
+  "platform relatives in other classes" lines link the families. The measurement check's EV3 ↔ IONIQ 5 flag is gone.
+- Pictures that showed a different car replaced: Dacia Spring (Spring I → studio press photos of the 2026 Spring II,
+  media.dacia.com), Fiat Doblò (2015 Tofaş Doblò → Stellantis press photos of the 2022 K9 van, side mirrored),
+  DS N°7 (3/4 view → near-side press photo from the media test-drive set; still seen slightly from the rear).
+  Mitsubishi Eclipse Cross (2021 ICE picture): Mitsubishi publishes no side view of the Scenic-based 2025 car, so the
+  tile shows the name only. The three "previous model" year badges and the old carsized measurements were removed
+  (verify_dims.py / gen.py now drop a previous-model carsized entry as soon as the tile no longer shows it).
+- Toyota C-HR+: the check said the side view faces right; it faces left, so it is unchanged.
+- `process_images.py` now ignores alpha ≤ 24 when trimming, so the shadow halos of cut-out pictures no longer leave
+  white margins (DB12, Q9, Tourbillon, Ducato, Scudo … corrected; about 100 side tiles shifted by a few pixels).
+- `merge.py`: new `discontinued_notes` / `discontinued_drop` overrides; the Citan / T-Class and EQV notes no longer
+  claim "kept as runout tiles" (both lines are out of the chart).
+- Open for Raven: Aixam / Ligier quadricycles, the Bayon / Stonic frame, old-generation pictures for new bodies
+  (e.g. AMG GT 4-Door).
+Earlier versions: `../chart-v1.9/` (platform check applied), `../chart-v1.8/` (AWD badge and filters), `../chart-v1.7/`, `../chart-v1.5/`.

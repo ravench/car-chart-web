@@ -1,0 +1,1147 @@
+[
+{
+"id": "toyota-aygo-x",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Aygo X",
+"display": "Aygo X",
+"other_names": [],
+"row": "a-city",
+"body": "5-door crossover hatchback",
+"generation": "I (2022–; facelift 2025 with hybrid)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-B",
+"twin_members": []
+},
+{
+"id": "toyota-yaris",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Yaris",
+"display": "Yaris",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback (GR Yaris: 3-door)",
+"generation": "IV / XP210 (2020–; facelift 2024)",
+"powertrains": [
+"HEV",
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-B",
+"twin_members": [
+"Mazda Mazda2 Hybrid"
+]
+},
+{
+"id": "toyota-urban-cruiser",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Urban Cruiser",
+"display": "Urban Cruiser",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door electric SUV",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Heartect-e (Suzuki/Toyota BEV platform)",
+"twin_members": [
+"Suzuki e Vitara"
+]
+},
+{
+"id": "toyota-yaris-cross",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Yaris Cross",
+"display": "Yaris Cross",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door crossover SUV",
+"generation": "I / XP210 (2021–; facelift 2024)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-B",
+"twin_members": [
+"Lexus LBX"
+]
+},
+{
+"id": "lexus-lbx",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "LBX",
+"display": "LBX",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door crossover SUV",
+"generation": "I (2023–)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-B",
+"twin_members": [
+"Toyota Yaris Cross"
+]
+},
+{
+"id": "toyota-corolla",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Corolla",
+"display": "Corolla",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback + Touring Sports estate (saloon in some markets; Corolla Commercial van in UK)",
+"generation": "XII / E210 (2019–; facelift 2023)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-C",
+"twin_members": []
+},
+{
+"id": "toyota-prius",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Prius",
+"display": "Prius",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door liftback",
+"generation": "V / XW60 (2023–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-C",
+"twin_members": []
+},
+{
+"id": "toyota-c-hr",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "C-HR",
+"display": "C-HR",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door coupé-SUV",
+"generation": "II / AX50 (2023–)",
+"powertrains": [
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-C",
+"twin_members": [
+"Toyota Corolla Cross",
+"Lexus UX"
+]
+},
+{
+"id": "toyota-c-hr-plus",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "C-HR+",
+"display": "C-HR+",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door electric SUV",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA",
+"twin_members": [
+"Subaru Uncharted"
+]
+},
+{
+"id": "toyota-corolla-cross",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Corolla Cross",
+"display": "Corolla Cross",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door SUV",
+"generation": "I / XG10 (2020–; Europe 2022–; facelift 2024)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-C",
+"twin_members": [
+"Toyota C-HR",
+"Lexus UX"
+]
+},
+{
+"id": "toyota-rav4",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "RAV4",
+"display": "RAV4",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door SUV",
+"generation": "VI / XA60 (2025–; Europe 2026)",
+"powertrains": [
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-K",
+"twin_members": [
+"Suzuki Across"
+]
+},
+{
+"id": "lexus-nx",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "NX",
+"display": "NX",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door SUV",
+"generation": "II / AZ20 (2021–)",
+"powertrains": [
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-K",
+"twin_members": [
+"Toyota RAV4",
+"Suzuki Across"
+]
+},
+{
+"id": "lexus-ux",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "UX",
+"display": "UX",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door crossover SUV",
+"generation": "I / ZA10 (2018–; facelift 2024, UX 300h)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-C",
+"twin_members": [
+"Toyota C-HR",
+"Toyota Corolla Cross"
+]
+},
+{
+"id": "toyota-bz4x",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "bZ4X",
+"display": "bZ4X",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door electric SUV",
+"generation": "I / XEAM10 (2022–; facelift 2025)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA",
+"twin_members": [
+"Subaru Solterra"
+]
+},
+{
+"id": "toyota-bz4x-touring",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "bZ4X Touring",
+"display": "bZ4X Touring",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door electric estate-SUV",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA",
+"twin_members": [
+"Subaru E-Outback"
+]
+},
+{
+"id": "lexus-rz",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "RZ",
+"display": "RZ",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door electric SUV",
+"generation": "I (2023–; facelift 2025)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "e-TNGA",
+"twin_members": [
+"Toyota bZ4X",
+"Subaru Solterra"
+]
+},
+{
+"id": "toyota-mirai",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Mirai",
+"display": "Mirai",
+"other_names": [],
+"row": "e-car",
+"body": "4-door saloon",
+"generation": "II / JPD20 (2020–)",
+"powertrains": [
+"FCEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-L",
+"twin_members": []
+},
+{
+"id": "lexus-es",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "ES",
+"display": "ES",
+"other_names": [],
+"row": "e-car",
+"body": "4-door saloon",
+"generation": "VIII (2025–; Europe 2026)",
+"powertrains": [
+"HEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-K",
+"twin_members": []
+},
+{
+"id": "lexus-rx",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "RX",
+"display": "RX",
+"other_names": [],
+"row": "e-suv",
+"body": "5-door SUV",
+"generation": "V / AL30 (2022–)",
+"powertrains": [
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-K",
+"twin_members": []
+},
+{
+"id": "toyota-land-cruiser",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Land Cruiser",
+"display": "Land Cruiser",
+"other_names": [],
+"row": "offroad",
+"body": "5-door 4x4 (Land Cruiser Commercial van in UK)",
+"generation": "J250 (2024–)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-F (ladder frame)",
+"twin_members": []
+},
+{
+"id": "toyota-gr-supra",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "GR Supra",
+"display": "GR Supra",
+"other_names": [],
+"row": "sports",
+"body": "2-door coupé",
+"generation": "V / J29/A90 (2019–2026)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": false,
+"platform": "BMW CLAR (built by Magna Steyr, Graz)",
+"twin_members": [
+"BMW Z4"
+]
+},
+{
+"id": "toyota-proace-city-verso",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Proace City Verso",
+"display": "Proace City Verso",
+"other_names": [],
+"row": "mpv-small",
+"body": "5/7-seat leisure activity vehicle",
+"generation": "I (K9, 2019/20–; facelift 2024)",
+"powertrains": [
+"petrol",
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "EMP2 (Stellantis)",
+"twin_members": [
+"Peugeot Rifter",
+"Citroën Berlingo",
+"Opel/Vauxhall Combo",
+"Fiat Qubo L"
+]
+},
+{
+"id": "toyota-proace-verso",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Proace Verso",
+"display": "Proace Verso",
+"other_names": [],
+"row": "mpv-large",
+"body": "5–9-seat people carrier (Medium / Long)",
+"generation": "II (K0, 2016–; facelift 2024)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "EMP2 (Stellantis)",
+"twin_members": [
+"Peugeot Traveller",
+"Citroën SpaceTourer",
+"Opel/Vauxhall Zafira",
+"Fiat Ulysse"
+]
+},
+{
+"id": "lexus-lm",
+"brand": "Lexus",
+"group": "Toyota Motor",
+"model": "LM",
+"display": "LM",
+"other_names": [],
+"row": "mpv-large",
+"body": "luxury MPV (4/7 seats)",
+"generation": "II / TAH40 (2023–)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "TNGA GA-K",
+"twin_members": []
+},
+{
+"id": "toyota-proace-city",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Proace City",
+"display": "Proace City",
+"other_names": [],
+"row": "van-small",
+"body": "panel van (Short / Long), crew van",
+"generation": "I (K9, 2019/20–; facelift 2024)",
+"powertrains": [
+"petrol",
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "EMP2 (Stellantis)",
+"twin_members": [
+"Peugeot Partner",
+"Citroën Berlingo Van",
+"Opel/Vauxhall Combo Cargo",
+"Fiat Doblò"
+]
+},
+{
+"id": "toyota-proace",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Proace",
+"display": "Proace",
+"other_names": [],
+"row": "van-mid",
+"body": "panel van (Compact / Medium / Long), crew van, platform cab",
+"generation": "II (K0, 2016–; facelift 2024)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "EMP2 (Stellantis)",
+"twin_members": [
+"Peugeot Expert",
+"Citroën Jumpy",
+"Opel/Vauxhall Vivaro",
+"Fiat Scudo",
+"Iveco eJolly"
+]
+},
+{
+"id": "toyota-proace-max",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Proace Max",
+"display": "Proace Max",
+"other_names": [],
+"row": "van-large",
+"body": "panel van (L2–L4), chassis cab, platform cab (3.5 t class)",
+"generation": "I (X290, 2024–)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Sevel X290 (Stellantis)",
+"twin_members": [
+"Peugeot Boxer",
+"Citroën Jumper",
+"Opel/Vauxhall Movano",
+"Fiat Ducato",
+"Iveco eSuperJolly"
+]
+},
+{
+"id": "toyota-hilux",
+"brand": "Toyota",
+"group": "Toyota Motor",
+"model": "Hilux",
+"display": "Hilux",
+"other_names": [],
+"row": "pickup",
+"body": "double-cab (also single/extra cab) pickup",
+"generation": "IX (2026–; replaces the 2015–2025 eighth generation)",
+"powertrains": [
+"MHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Toyota IMV (body-on-frame, updated)",
+"twin_members": []
+},
+{
+"id": "nissan-micra",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Micra",
+"display": "Micra",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "VI / K15 (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "AmpR Small / RGEV Small (Alliance)",
+"twin_members": [
+"Renault 5",
+"Alpine A290"
+]
+},
+{
+"id": "nissan-juke",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Juke",
+"display": "Juke",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "II / F16 (2019–, facelift 2024)",
+"powertrains": [
+"petrol",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-B (Alliance)",
+"twin_members": [
+"Renault Captur",
+"Mitsubishi ASX"
+]
+},
+{
+"id": "nissan-leaf",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Leaf",
+"display": "Leaf",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door crossover hatchback",
+"generation": "III / ZE2 (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-EV / AmpR Medium (Alliance)",
+"twin_members": [
+"Renault Mégane E-Tech"
+]
+},
+{
+"id": "nissan-ariya",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Ariya",
+"display": "Ariya",
+"other_names": [],
+"row": "c-suv",
+"body": "coupé-style SUV",
+"generation": "I (2022–, MY26 update)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-EV / AmpR Medium (Alliance)",
+"twin_members": [
+"Renault Scenic E-Tech",
+"Mitsubishi Eclipse Cross",
+"Alpine A390"
+]
+},
+{
+"id": "nissan-qashqai",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Qashqai",
+"display": "Qashqai",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "III / J12 (2021–, facelift 2024)",
+"powertrains": [
+"MHEV",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-CD (Alliance)",
+"twin_members": [
+"Renault Austral"
+]
+},
+{
+"id": "nissan-x-trail",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "X-Trail",
+"display": "X-Trail",
+"other_names": [],
+"row": "d-suv",
+"body": "5/7-seat SUV",
+"generation": "IV / T33 (2022–)",
+"powertrains": [
+"HEV",
+"MHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-CD (Alliance)",
+"twin_members": [
+"Renault Espace",
+"Renault Rafale",
+"Mitsubishi Outlander"
+]
+},
+{
+"id": "nissan-townstar-kombi",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Townstar Kombi",
+"display": "Townstar Kombi",
+"other_names": [
+"Townstar Combi (UK/FR)",
+"Townstar EV Kombi"
+],
+"row": "mpv-small",
+"body": "5-seat leisure activity vehicle",
+"generation": "I (2022–)",
+"powertrains": [
+"petrol",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-C/D (Alliance)",
+"twin_members": [
+"Renault Kangoo",
+"Mercedes-Benz T-Class",
+"Mercedes-Benz EQT"
+]
+},
+{
+"id": "nissan-primastar-kombi",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Primastar Kombi",
+"display": "Primastar Kombi",
+"other_names": [
+"Primastar Combi (UK)"
+],
+"row": "mpv-large",
+"body": "8/9-seat people carrier",
+"generation": "I (2022–)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Renault X82",
+"twin_members": [
+"Renault Trafic Passenger"
+]
+},
+{
+"id": "nissan-townstar-van-small",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Townstar",
+"display": "Townstar",
+"other_names": [
+"Townstar Van",
+"Townstar EV / Townstar Elektro"
+],
+"row": "van-small",
+"body": "panel van (L1/L2)",
+"generation": "I (2022–)",
+"powertrains": [
+"petrol",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMF-C/D (Alliance)",
+"twin_members": [
+"Renault Kangoo Van",
+"Mercedes-Benz Citan"
+]
+},
+{
+"id": "nissan-primastar-van-mid",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Primastar",
+"display": "Primastar",
+"other_names": [
+"Primastar Van"
+],
+"row": "van-mid",
+"body": "panel van (L1/L2, H1/H2), crew van, platform cab",
+"generation": "I (2022–; Trafic III based)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Renault X82",
+"twin_members": [
+"Renault Trafic",
+"Renault Trucks Trafic"
+]
+},
+{
+"id": "nissan-interstar",
+"brand": "Nissan",
+"group": "Nissan",
+"model": "Interstar",
+"display": "Interstar",
+"other_names": [
+"Interstar-e (electric)"
+],
+"row": "van-large",
+"body": "panel van, chassis cab, platform cab (3.5 t class)",
+"generation": "I (2024–; Master IV based)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Renault Master IV",
+"twin_members": [
+"Renault Master",
+"Renault Trucks Master"
+]
+},
+{
+"id": "firefly-firefly",
+"brand": "Firefly",
+"group": "NIO",
+"model": "Firefly",
+"display": "Firefly",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "NIO (Firefly platform)",
+"twin_members": []
+},
+{
+"id": "nio-et5",
+"brand": "NIO",
+"group": "NIO",
+"model": "ET5",
+"display": "ET5 / ET5 Touring",
+"other_names": [],
+"row": "d-car",
+"body": "4-door saloon and Touring estate",
+"generation": "I (2022–; Touring 2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "NIO NT2.0",
+"twin_members": []
+},
+{
+"id": "nio-el6",
+"brand": "NIO",
+"group": "NIO",
+"model": "EL6",
+"display": "EL6",
+"other_names": [
+"NIO ES6 (China)"
+],
+"row": "d-suv",
+"body": "SUV",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "NIO NT2.0",
+"twin_members": []
+},
+{
+"id": "nio-et7",
+"brand": "NIO",
+"group": "NIO",
+"model": "ET7",
+"display": "ET7",
+"other_names": [],
+"row": "e-car",
+"body": "4-door saloon",
+"generation": "I (2022–; 2025 update)",
+"powertrains": [
+"BEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "NIO NT2.0",
+"twin_members": []
+},
+{
+"id": "nio-el7",
+"brand": "NIO",
+"group": "NIO",
+"model": "EL7",
+"display": "EL7",
+"other_names": [
+"NIO ES7 (China)"
+],
+"row": "e-suv",
+"body": "SUV",
+"generation": "I (2022–)",
+"powertrains": [
+"BEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "NIO NT2.0",
+"twin_members": []
+},
+{
+"id": "nio-el8",
+"brand": "NIO",
+"group": "NIO",
+"model": "EL8",
+"display": "EL8",
+"other_names": [
+"NIO ES8 (China, 2nd gen)"
+],
+"row": "e-suv",
+"body": "SUV, 6/7 seats",
+"generation": "II (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "NIO NT2.0",
+"twin_members": []
+},
+{
+"id": "dongfeng-box",
+"brand": "Dongfeng",
+"group": "Dongfeng",
+"model": "Box",
+"display": "Box",
+"other_names": [
+"Dongfeng Nammi 01 (China)"
+],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "I (2023–; NL 2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Dongfeng (Nammi 01)",
+"twin_members": []
+},
+{
+"id": "voyah-courage",
+"brand": "Voyah",
+"group": "Dongfeng",
+"model": "Courage",
+"display": "Courage",
+"other_names": [
+"Voyah Zhiyin (China)"
+],
+"row": "d-suv",
+"body": "SUV",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "Dongfeng ESSA",
+"twin_members": []
+},
+{
+"id": "voyah-free",
+"brand": "Voyah",
+"group": "Dongfeng",
+"model": "Free",
+"display": "Free",
+"other_names": [],
+"row": "e-suv",
+"body": "SUV",
+"generation": "I (2021–; facelift 2024)",
+"powertrains": [
+"BEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Dongfeng ESSA",
+"twin_members": []
+},
+{
+"id": "mhero-mhero-i",
+"brand": "Mhero",
+"group": "Dongfeng",
+"model": "Mhero I",
+"display": "Mhero I",
+"other_names": [
+"M-Hero 917 (China)"
+],
+"row": "offroad",
+"body": "ladder-frame luxury off-roader",
+"generation": "I (2022–; NL 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Dongfeng M-Hero (MORA)",
+"twin_members": []
+},
+{
+"id": "voyah-dream",
+"brand": "Voyah",
+"group": "Dongfeng",
+"model": "Dream",
+"display": "Dream",
+"other_names": [],
+"row": "mpv-large",
+"body": "MPV, 7 seats",
+"generation": "I (2022–)",
+"powertrains": [
+"BEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "Dongfeng ESSA",
+"twin_members": []
+},
+{
+"id": "renault-trucks-trafic",
+"brand": "Renault Trucks",
+"group": "Volvo Group",
+"model": "Trafic",
+"display": "Trafic",
+"other_names": [
+"Trafic Red Edition"
+],
+"row": "van-mid",
+"body": "panel van, crew van, platform cab, combi",
+"generation": "III (X82, 2014–)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Renault X82",
+"twin_members": [
+"Renault Trafic",
+"Nissan Primastar"
+]
+},
+{
+"id": "renault-trucks-master",
+"brand": "Renault Trucks",
+"group": "Volvo Group",
+"model": "Master",
+"display": "Master",
+"other_names": [
+"Master Red Edition",
+"Master E-Tech"
+],
+"row": "van-large",
+"body": "panel van, chassis cab, platform cab (3.5 t class)",
+"generation": "IV (2024–)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Renault Master IV",
+"twin_members": [
+"Renault Master",
+"Nissan Interstar"
+]
+},
+{
+"id": "lucid-air",
+"brand": "Lucid",
+"group": "Lucid",
+"model": "Air",
+"display": "Air",
+"other_names": [],
+"row": "e-car",
+"body": "luxury saloon",
+"generation": "I (2021–; EU 2022; 2025 update)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "LEAP (Lucid Electric Advanced Platform)",
+"twin_members": []
+},
+{
+"id": "lucid-gravity",
+"brand": "Lucid",
+"group": "Lucid",
+"model": "Gravity",
+"display": "Gravity",
+"other_names": [],
+"row": "e-suv",
+"body": "large 7-seat electric SUV",
+"generation": "I (2024–; EU orders Sep 2025, deliveries early 2026)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "LEAP (Lucid)",
+"twin_members": []
+},
+{
+"id": "isuzu-d-max",
+"brand": "Isuzu",
+"group": "Isuzu",
+"model": "D-Max",
+"display": "D-Max",
+"other_names": [
+"D-Max EV (electric, 2025)",
+"D-Max V-Cross / Arctic Trucks AT35"
+],
+"row": "pickup",
+"body": "single/extended/double-cab pickup",
+"generation": "III (RG, 2020/21– in Europe; facelift 2023/24)",
+"powertrains": [
+"diesel",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Isuzu Dynamic Drive (body-on-frame)",
+"twin_members": []
+}
+]
