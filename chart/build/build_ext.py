@@ -15,6 +15,10 @@ MB = 'https://www.mercedes-benz.ch/'
 MORG_SS = 'https://media.morgan-motor.com/images/supersport-studio/'
 # id -> view -> (src, treat, mirror, notes, page[, licence])   treat: a=auto w=white-flood r=rembg d=drawing(flood, keep lines)  'c:x0,y0,x1,y1|<treat>' crops first
 SEL = {
+ 'fiat-ulysse': {'side': ('v114/ulysse-cfg-a4-clean', 'a', False, "Fiat's own configurator render (lb.assets.fiat.com vl-picker-service, angle 4 = true side view, 3840 px) of the 2024-facelift Ulysse Combi M in white; white background flood-filled and the ground shadow removed", 'https://www.fiat.it/omni/configuratore.pro')},
+ 'dr-dr-7': {'side': ('v114/dr7-modellino', 'a', False, "DR's own 'modellino' cut-out (dr7-modellino-dealer.png, 1200 px, uploaded February 2026) of the DR 7 Collection, which drautomobiles.com lists as DR 8 Collection since October 2026; true side view, the render's own transparency used", 'https://drautomobiles.com/dr-8-collection/')},
+ 'mitsubishi-eclipse-cross': {'side': ('v114/eclipse-cross-press-004', 'R', True, 'Mitsubishi Motors Europe press photo Eclipse-Cross_004 (premiere press kit, 17 September 2025; static, seaside terrace), true side view, background removed, mirrored to face left', 'https://media.mitsubishi-motors-europe.com/mitsubishi-motors-europe-electrifies-its-line-up-with-the-premiereof-the-advanced-all-electric-eclipse-cross-compact-suv/')},
+ 'iveco-ejolly': {'side': ('v114/ejolly-schouten-side', 'a', False, "Iveco studio side view of the eJolly (silver, charging flap open) as published by the Dutch Iveco dealer Schouten (768 px copy; the Iveco press original could not be reached) - true side view facing left, own transparency used; placeholder (dealer copy) until a larger brand-own file is found", 'https://www.iveco-schouten.nl/')},
  # ---- v1.13 (2026-11-01): poster name tiles ----
  'abarth-600e': {'side': ('v113/abarth-600e-2-whr', 'c:0.03,0.33,0.98,0.92|R', False, 'press photo of the 2025 Abarth 600e Competizione (static, graffiti wall), true side view, background removed', 'https://www.media.stellantis.com/de-de/abarth/media-library/press-images/636714'),
                  'front': ('v113/abarth-600e-3-whr', 'R', False, 'press photo (static), straight front, background removed', 'https://www.media.stellantis.com/de-de/abarth/media-library/press-images/636714')},
@@ -120,8 +124,9 @@ SEL = {
  'volkswagen-id-tiguan': {'side': ('vw2/idt-side-b64', 'r', False, 'scene photo, background removed', 'https://www.volkswagen-newsroom.com/')},
  'voyah-courage': {'side': ('china/voyah-courage-side', 'r', False, 'studio photo, background removed', None)},
  'xpeng-x9': {'side': ('china/xpeng-x9-alt1-side', 'a', False, 'near-side view (slight angle)', None)},
- 'zeekr-9x': {'front': ('zig4/zeekr9x-0-FullFrontViewof9X', 'r', False, 'scene photo, background removed', ZW + 'zeekr/9x/images')},
- 'skoda-peaq': {'side': ('skoda/peaq-d1', 'a', True, 'mirrored', 'https://www.skoda-auto.com/'), 'front': ('skoda/peaq-g1', 'r', False, 'scene photo, background removed', 'https://www.skoda-auto.com/')},
+ 'zeekr-9x': {'side': ('v114/zeekr9x-eu-side-galaxy', 'R', False, "Zeekr's own studio side view from the zeekr.eu 9X page (exterior colour section: Onyx Black, Galaxy wheels, 2880 px), light-grey studio background removed", 'https://www.zeekr.eu/models/9x'),
+              'front': ('zig4/zeekr9x-0-FullFrontViewof9X', 'r', False, 'scene photo, background removed', ZW + 'zeekr/9x/images')},
+ 'skoda-peaq': {'side': ('skoda/peaq-d1', 'a', False, 'brand render, faces left as published (v1.14a: the earlier mirroring made it face right)', 'https://www.skoda-auto.com/'), 'front': ('skoda/peaq-g1', 'r', False, 'scene photo, background removed', 'https://www.skoda-auto.com/')},
 
 }
 

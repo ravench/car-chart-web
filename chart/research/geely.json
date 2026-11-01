@@ -1,0 +1,1747 @@
+{
+ "agent": "geely-holding-research",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "EX30",
+   "display": "EX30",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/ex30/2027/",
+   "row": "b-suv",
+   "body": "5-door compact SUV (incl. EX30 Cross Country variant)",
+   "generation": "I (2023–)",
+   "length_mm": 4233,
+   "platform": "SEA (Geely SEA2 variant)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY27 press kit live (EX30 and EX30 Cross Country); built in Zhangjiakou and Ghent (Ghent since 2025). Cross Country = raised off-road-look variant of the same nameplate (one tile).",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/ex30/2027/",
+    "https://www.volvocars.com/intl/media/models/ex30cc/2027/",
+    "https://www.volvocars.com/intl/media/press-releases/44CDFC8814BA3CE7"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "smart #1",
+    "smart #3",
+    "Zeekr X",
+    "Lynk & Co 02"
+   ],
+   "twin_note": "Geely SEA platform family: EX30 (wb 2,650 mm) vs smart #1/#3, Zeekr X and Lynk & Co 02 (wb ~2,750 mm); all distinct bodies -> tier 2. Row alignment: brief puts EX30 and smart #1 in b-suv; Zeekr X (4,432 mm) and Lynk & Co 02 (4,460 mm) are kept in b-suv to stay in the group (lengths would suggest c-suv) - verifier to align with the smart agent's row for #1/#3.",
+   "twin_sources": [
+    "https://www.volvocars.com/intl/media/models/ex30/2027/",
+    "https://en.wikipedia.org/wiki/Volvo_EX30",
+    "https://en.wikipedia.org/wiki/Zeekr_X"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo EX30",
+   "commons_file": null,
+   "wikipedia_en": "Volvo EX30",
+   "notes": "EX30 Cross Country (launched 2025) folded into this tile per rule 4 (same nameplate). Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "XC40",
+   "display": "XC40",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/xc40/2027/",
+   "row": "c-suv",
+   "body": "5-door compact SUV (mild-hybrid petrol)",
+   "generation": "I (2017–, facelift 2022)",
+   "length_mm": 4440,
+   "platform": "CMA",
+   "powertrains": [
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY27 press kit live on Volvo media site (XC40 2027); XC40 name = mild-hybrid B3/B4 only since 2024 renaming (BEV = EX40, PHEV dropped 2023).",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/xc40/2027/",
+    "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volvo EX40",
+    "Volvo EC40",
+    "Lynk & Co 01"
+   ],
+   "twin_note": "XC40 and EX40 are the same body shell (combustion vs electric versions of one car; renamed 2024) -> tier 1; EC40 = coupe-roof derivative on the same doors/wheelbase/interior (tier 1 borderline). Lynk & Co 01 is a CMA platform sibling (tier 2) in the same row; Polestar 2 is also CMA but sits in d-car (cross-row, no group).",
+   "twin_sources": [
+    "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/",
+    "https://en.wikipedia.org/wiki/Lynk_%26_Co_01",
+    "https://en.wikipedia.org/wiki/Volvo_XC40"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo XC40",
+   "commons_file": null,
+   "wikipedia_en": "Volvo XC40",
+   "notes": "Petrol-only powertrain today is the B3/B4 mild hybrid, hence MHEV per brief rule. Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "EX40",
+   "display": "EX40",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/ex40/2027/",
+   "row": "c-suv",
+   "body": "5-door compact SUV (electric)",
+   "generation": "I (2020– as XC40 Recharge; renamed EX40 2024)",
+   "length_mm": 4440,
+   "platform": "CMA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY27 press kit live (EX40 2027). Reports of EX40 ending in the US for 2027 do not concern Europe (Ghent-built).",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/ex40/2027/",
+    "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/",
+    "https://www.autoevolution.com/cars/volvo-ec40-2026.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volvo XC40",
+    "Volvo EC40",
+    "Lynk & Co 01"
+   ],
+   "twin_note": "Same body shell as XC40 (tier 1); EC40 coupe derivative; Lynk & Co 01 = CMA sibling (tier 2). Polestar 2 (CMA) is cross-row (d-car).",
+   "twin_sources": [
+    "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/",
+    "https://en.wikipedia.org/wiki/Volvo_XC40"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo EX40",
+   "commons_file": null,
+   "wikipedia_en": "Volvo EX40",
+   "notes": "Other name: 'XC40 Recharge' until 2024. Commons may still file photos under Category:Volvo XC40 Recharge - verify. Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "EC40",
+   "display": "EC40",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/ec40/2027/",
+   "row": "c-suv",
+   "body": "5-door coupe-SUV (electric)",
+   "generation": "I (2021– as C40 Recharge; renamed EC40 2024)",
+   "length_mm": 4440,
+   "platform": "CMA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY27 press kit live (EC40 2027); autoevolution lists a 2027 EC40 (page updated 2026-09-14), Ghent-built.",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/ec40/2027/",
+    "https://www.autoevolution.com/cars/volvo-ec40-2026.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volvo XC40",
+    "Volvo EX40",
+    "Lynk & Co 01"
+   ],
+   "twin_note": "Coupe-roof version of the XC40/EX40 (same doors, wheelbase, interior) -> grouped tier 1 with them; Lynk & Co 01 CMA sibling tier 2.",
+   "twin_sources": [
+    "https://www.autoevolution.com/cars/volvo-ec40-2026.html",
+    "https://en.wikipedia.org/wiki/Volvo_XC40"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo EC40",
+   "commons_file": null,
+   "wikipedia_en": "Volvo EC40",
+   "notes": "Other name: 'C40 Recharge' until 2024. Commons category may be 'Category:Volvo C40' - verify. Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "XC60",
+   "display": "XC60",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/xc60/2027/",
+   "row": "d-suv",
+   "body": "5-door mid-size SUV",
+   "generation": "II (2017–, facelift 2025)",
+   "length_mm": 4709,
+   "platform": "SPA",
+   "powertrains": [
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY27 press kit live (XC60 2027); Volvo's best-seller, used as EX60 price reference in the Feb/Mar 2026 EX60 release.",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/xc60/2027/",
+    "https://www.volvocars.com/intl/media/press-releases/44CDFC8814BA3CE7"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SPA platform shared with XC90/V60/V90 (different rows, no group). EX60 is its electric SPA3 counterpart (different body/platform generation, not a twin).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo XC60 (2017)",
+   "commons_file": null,
+   "wikipedia_en": "Volvo XC60",
+   "notes": "Powertrains: B5 mild-hybrid petrol and T6/T8 PHEV (no non-hybrid petrol) -> MHEV + PHEV. Commons category name for 2nd gen to verify (may be 'Category:Volvo XC60 II'). Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "EX60",
+   "display": "EX60",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/ex60/2027/",
+   "row": "d-suv",
+   "body": "5-door mid-size electric SUV",
+   "generation": "I (2026–)",
+   "length_mm": 4803,
+   "platform": "SPA3",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Revealed 2026-01-21; order books open in nearly all major European markets (press release ~2026-03, >3,000 orders in Sweden alone); customer production at Torslanda started spring 2026, output being increased.",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/press-releases/44CDFC8814BA3CE7",
+    "https://insideevs.com/news/788904/volvo-ex60-demand-strong-production-increase/",
+    "https://newmobility.news/en/2026/03/05/volvos-ex60-off-to-a-flying-start-as-orders-outpace-expectations/",
+    "https://www.volvocars.com/intl/media/models/ex60/2027/",
+    "https://en.wikipedia.org/wiki/Volvo_EX60"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "First SPA3 car; Polestar 7 (2028) is planned on the same architecture but is not on sale.",
+   "twin_sources": [
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new",
+    "https://en.wikipedia.org/wiki/Volvo_EX60"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo EX60",
+   "commons_file": null,
+   "wikipedia_en": "Volvo EX60",
+   "notes": "4,803 x 1,899 x 1,635 mm, wb 2,970 mm (Wikipedia); revealed 2026-01-21, Torslanda production from 2026-04-22; 80/91/112 kWh. The Swiss media site also lists an 'EX60 Cross Country' MY28 page (ex60cc/2028) = coming raised variant of the same nameplate (not a separate tile). Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "XC90",
+   "display": "XC90",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/xc90/2027/",
+   "row": "e-suv",
+   "body": "5-door large SUV (7 seats)",
+   "generation": "II (2015–, facelift 2024)",
+   "length_mm": 4953,
+   "platform": "SPA",
+   "powertrains": [
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY27 press kit live (XC90 2027); Volvo has said the XC90 stays alongside the EX90 as long as demand exists.",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/xc90/2027/",
+    "https://www.motor1.com/news/750151/volvo-v90-production-ending/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SPA platform; EX90 is the SPA2 electric counterpart (distinct body, different generation -> no tier).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo XC90 (2015)",
+   "commons_file": null,
+   "wikipedia_en": "Volvo XC90",
+   "notes": "B5/B6 mild hybrid + T8 PHEV. Commons category name to verify (may be 'Category:Volvo XC90 II'). Swiss status: Volvo Car Switzerland media site (de-ch) carries a MY27 model page for this nameplate (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "EX90",
+   "display": "EX90",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/ex90/2025/",
+   "row": "e-suv",
+   "body": "5-door large electric SUV (7 seats)",
+   "generation": "I (2024–)",
+   "length_mm": 5037,
+   "platform": "SPA2",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current press kit live on Volvo media site (EX90, MY27 nav); built in Charleston (US) and, for 2026, also planned in China/Europe for EU supply.",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/ex90/2025/",
+    "https://www.volvocars.com/intl/media/press-releases/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Polestar 3"
+   ],
+   "twin_note": "EX90 and Polestar 3 share SPA2 (same platform/wheelbase, distinct bodies) -> tier 2. ES90 is also SPA2 but in e-car (cross-row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Polestar_3",
+    "https://en.wikipedia.org/wiki/Volvo_EX90"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo EX90",
+   "commons_file": null,
+   "wikipedia_en": "Volvo EX90",
+   "notes": "Swiss status: Volvo Car Switzerland media site lists the EX90 (labelled MY27) (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "ES90",
+   "display": "ES90",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/es90/2026/",
+   "row": "e-car",
+   "body": "5-door liftback executive saloon (electric)",
+   "generation": "I (2025–)",
+   "length_mm": 5000,
+   "platform": "SPA2 (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Revealed 2025-03; European deliveries from late 2025/2026; Volvo CH media site carries an ES90 2026 model page.",
+   "status_sources": [
+    "https://www.volvocars.com/intl/media/models/es90/2026/",
+    "https://www.volvocars.com/de-ch/media/models/es90/2026/",
+    "https://www.fleetnews.co.uk/news/volvo-v90-discontinued"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SPA2 like EX90/Polestar 3 (cross-row, e-suv). No same-row twin.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo ES90",
+   "commons_file": null,
+   "wikipedia_en": "Volvo ES90",
+   "notes": "Length 5,000 mm (reveal data, from memory; verify). UK orders open from GBP 69,990 with first deliveries early 2026 (Fleet News). Swiss media site lists ES90 (labelled MY27)."
+  },
+  {
+   "brand": "Volvo",
+   "group": "Geely Holding",
+   "model": "V60",
+   "display": "V60",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volvocars.com/de-ch/media/models/v60/2025/",
+   "row": "d-car",
+   "body": "5-door mid-size estate (incl. V60 Cross Country variant)",
+   "generation": "II (2018–, facelift 2020)",
+   "length_mm": 4778,
+   "platform": "SPA",
+   "powertrains": [
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Volvo Car UK (Fleet News, 2025): V60 'is not discontinued', global production continues and UK customers can still order mild-hybrid petrol and PHEV versions; Motor1 (Sept 2025): 'the V60 is sticking around'. Not shown on the intl media model navigation (no recent press kit) - verify MY27 availability in DE/CH.",
+   "status_sources": [
+    "https://www.fleetnews.co.uk/news/volvo-v90-discontinued",
+    "https://www.motor1.com/news/750151/volvo-v90-production-ending/",
+    "https://en.wikipedia.org/wiki/Volvo_V60"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SPA; the S60 saloon twin was withdrawn from Europe in 2024, so no same-row twin remains.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volvo_S60",
+    "https://en.wikipedia.org/wiki/Volvo_V60"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volvo V60 (2018)",
+   "commons_file": null,
+   "wikipedia_en": "Volvo V60",
+   "notes": "V60 Cross Country folded into this tile. Powertrains B3/B4/B5 mild hybrid + T6/T8 PHEV (D3/D4 diesel listed by Wikipedia but dropped in most markets). Swiss media site lists V60 (labelled MY27; V60 Cross Country page labelled MY2025). Commons category name unverified."
+  },
+  {
+   "brand": "Polestar",
+   "group": "Geely Holding",
+   "model": "2",
+   "display": "Polestar 2",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.autosprint.ch/en/?p=97148",
+   "row": "d-car",
+   "body": "5-door liftback saloon (electric)",
+   "generation": "I (2020–, MY24 update)",
+   "length_mm": 4606,
+   "platform": "CMA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in Polestar's current line-up (2, 3, 4, 5) in the Feb 2026 model-offensive release; all-new successor planned early 2027. 405 CH registrations in 2025.",
+   "status_sources": [
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new",
+    "https://www.autosprint.ch/en/?p=97148"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "CMA platform sibling of Volvo XC40/EX40/EC40 and Lynk & Co 01, which sit in c-suv (cross-row -> no group).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Polestar_2"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Polestar 2",
+   "commons_file": null,
+   "wikipedia_en": "Polestar 2",
+   "notes": ""
+  },
+  {
+   "brand": "Polestar",
+   "group": "Geely Holding",
+   "model": "3",
+   "display": "Polestar 3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.autosprint.ch/en/?p=97148",
+   "row": "e-suv",
+   "body": "5-door large electric SUV",
+   "generation": "I (2023–)",
+   "length_mm": 4900,
+   "platform": "SPA2",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "In current line-up (Feb 2026 release); 125 CH registrations in 2025.",
+   "status_sources": [
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new",
+    "https://www.autosprint.ch/en/?p=97148"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volvo EX90"
+   ],
+   "twin_note": "SPA2 sibling of the Volvo EX90 (distinct body) -> tier 2.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Polestar_3"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Polestar 3",
+   "commons_file": null,
+   "wikipedia_en": "Polestar 3",
+   "notes": ""
+  },
+  {
+   "brand": "Polestar",
+   "group": "Geely Holding",
+   "model": "4",
+   "display": "Polestar 4",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.autosprint.ch/en/?p=97148",
+   "row": "d-suv",
+   "body": "5-door SUV-coupe (electric; high-riding estate variant with rear window due Q4 2026)",
+   "generation": "I (2023–)",
+   "length_mm": 4839,
+   "platform": "SEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current best-seller per Feb 2026 release; new estate/high-riding version of the Polestar 4 (same nameplate) launching later in 2026 with deliveries Q4 2026. 543 CH registrations in 2025.",
+   "status_sources": [
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new",
+    "https://www.topgear.com/car-news/business/a-new-high-riding-polestar-4-estate-coming-finally-gives-it-a-rear-window",
+    "https://www.autosprint.ch/en/?p=97148"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SEA platform; its body twin Lynk & Co Z10 is not sold in Europe. Zeekr 7X (d-suv) is also SEA but a loose 'same architecture' case -> no tier.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Polestar_4"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Polestar 4",
+   "commons_file": null,
+   "wikipedia_en": "Polestar 4",
+   "notes": "Built in Hangzhou Bay and, for Europe/US, in Busan (Renault Korea) since 2025."
+  },
+  {
+   "brand": "Polestar",
+   "group": "Geely Holding",
+   "model": "5",
+   "display": "Polestar 5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.autosprint.ch/en/?p=97148",
+   "row": "e-car",
+   "body": "4-door grand tourer (electric)",
+   "generation": "I (2025–)",
+   "length_mm": 5090,
+   "platform": "PPA (bonded aluminium)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders open (e.g. Ireland from EUR 130,700, Dec 2025); first European deliveries 2026 (summer 2026 for CH).",
+   "status_sources": [
+    "https://www.rev.ie/polestar-5-performance-grand-tourer-irish-pricing/",
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new",
+    "https://www.autosprint.ch/en/?p=97148"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Bespoke bonded-aluminium platform; no sibling.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Polestar 5",
+   "commons_file": null,
+   "wikipedia_en": "Polestar 5",
+   "notes": "Length ~5,090 mm (from memory; verify)."
+  },
+  {
+   "brand": "Lynk & Co",
+   "group": "Geely Holding",
+   "model": "01",
+   "display": "01",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/",
+   "row": "c-suv",
+   "body": "5-door compact SUV (PHEV)",
+   "generation": "I (2017–, 'New 01' facelift 2024)",
+   "length_mm": 4541,
+   "platform": "CMA",
+   "powertrains": [
+    "PHEV",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current European line-up 01/02/08 (Nov 2025 and Jul 2026 releases); offered in Switzerland from Q1 2026 with retail partners.",
+   "status_sources": [
+    "https://press.lynkco.com/en-WW/258208-lynk-co-strengthens-its-retail-foundation-and-sets-the-stage-for-a-new-era-of-growth/",
+    "https://press.lynkco.com/en-WW/268531-lynk-co-to-make-its-first-ever-appearance-at-the-paris-motor-show/",
+    "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volvo XC40",
+    "Volvo EX40",
+    "Volvo EC40"
+   ],
+   "twin_note": "CMA platform sibling of the Volvo XC40 family (distinct body) -> tier 2; Polestar 2 is CMA too but in d-car (cross-row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Lynk_%26_Co_01",
+    "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lynk & Co 01",
+   "commons_file": null,
+   "wikipedia_en": "Lynk & Co 01",
+   "notes": "Wikipedia: CMA shared with Volvo XC40 (same electrical architecture, engines, safety systems); length 4,512-4,530 mm (we use 4,541 for the 2024 'New 01'), wb 2,734 mm. Europe: HEV (EM-F) and PHEV (EM-P) only - powertrains set to PHEV + HEV."
+  },
+  {
+   "brand": "Lynk & Co",
+   "group": "Geely Holding",
+   "model": "02",
+   "display": "02",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/",
+   "row": "b-suv",
+   "body": "5-door compact crossover (electric)",
+   "generation": "I (2024–, MY27 shown at Turin 2026)",
+   "length_mm": 4460,
+   "platform": "SEA (SEA2)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Fully electric model launched 2024, in current line-up; 02 MY27 presented Sept 2026 (Turin); sold in CH from Q1 2026.",
+   "status_sources": [
+    "https://press.lynkco.com/en-WW/258208-lynk-co-strengthens-its-retail-foundation-and-sets-the-stage-for-a-new-era-of-growth/",
+    "https://press.lynkco.com/en-WW/268531-lynk-co-to-make-its-first-ever-appearance-at-the-paris-motor-show/",
+    "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volvo EX30",
+    "smart #1",
+    "smart #3",
+    "Zeekr X"
+   ],
+   "twin_note": "SEA/SEA2 family (Lynk & Co Z20 in China); same ~2,755 mm wheelbase as Zeekr X and smart #1 but its own body -> tier 2. Kept in b-suv to stay in the EX30/smart #1 group although 4,460 mm would suggest c-suv.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Lynk_%26_Co_Z20",
+    "https://en.wikipedia.org/wiki/Zeekr_X"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lynk & Co Z20",
+   "commons_file": null,
+   "wikipedia_en": "Lynk & Co Z20",
+   "notes": "Wikipedia (Lynk & Co Z20 article): SEA2, wb 2,755 mm, length 4,460 mm (4,495 mm after the 2026 update); related Zeekr X, smart #1, Volvo EX30. Commons category name unverified."
+  },
+  {
+   "brand": "Lynk & Co",
+   "group": "Geely Holding",
+   "model": "08",
+   "display": "08",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/",
+   "row": "d-suv",
+   "body": "5-door mid-size SUV (PHEV, up to 200 km EV range)",
+   "generation": "I (2023–; Europe 2025–)",
+   "length_mm": 4820,
+   "platform": "CMA Evo",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Flagship PHEV SUV launched in Europe 2025; in current line-up; CH from Q1 2026.",
+   "status_sources": [
+    "https://press.lynkco.com/en-WW/258208-lynk-co-strengthens-its-retail-foundation-and-sets-the-stage-for-a-new-era-of-growth/",
+    "https://press.lynkco.com/en-WW/268531-lynk-co-to-make-its-first-ever-appearance-at-the-paris-motor-show/",
+    "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "CMA Evo; the Geely Monjaro EM-i (Xingyue L, CMA-based) is a possible platform cousin but no source confirmed in-session -> no tier.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lynk & Co 08",
+   "commons_file": null,
+   "wikipedia_en": "Lynk & Co 08",
+   "notes": ""
+  },
+  {
+   "brand": "Zeekr",
+   "group": "Geely Holding",
+   "model": "X",
+   "display": "X",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "b-suv",
+   "body": "5-door compact SUV (electric)",
+   "generation": "I (2023–)",
+   "length_mm": 4450,
+   "platform": "SEA (SEA2)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On zeekr.eu line-up (Oct 2026); French orders opened 2026-04-02 at EUR 37,990, deliveries May 2026; sold in NL/SE/NO/DE/IT/ES/PT/FR etc.",
+   "status_sources": [
+    "https://www.zeekr.eu/",
+    "https://www.go-electra.com/ca/newsroom/zeekr-in-france-2026/",
+    "https://cnevpost.com/2026/03/07/zeekr-1st-deliveries-germany-france-next/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volvo EX30",
+    "smart #1",
+    "smart #3",
+    "Lynk & Co 02"
+   ],
+   "twin_note": "SEA2 sibling of smart #1 (same 2,750 mm wheelbase, distinct body), smart #3, Lynk & Co 02 and Volvo EX30 -> tier 2 (not a rebadge). Kept in b-suv per the brief's example grouping; length 4,432 mm would otherwise suggest c-suv.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Zeekr_X",
+    "https://en.wikipedia.org/wiki/Lynk_%26_Co_Z20"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Zeekr X",
+   "commons_file": null,
+   "wikipedia_en": "Zeekr X",
+   "notes": "Wikipedia: SEA2, length 4,450 mm, wb 2,750 mm; related smart #1, Volvo EX30, Lynk & Co Z20. zeekr.eu test-drive page (2026-10-22): X 'test drive available now'. Swiss availability of the X not confirmed (Zeekr sells in CH - 7 GT 16-country list, 7X CHF press test - but no model-level CH source for X/001; zeekr.ch and zeekr.eu/ch-de unreachable) -> ch_on_sale null."
+  },
+  {
+   "brand": "Zeekr",
+   "group": "Geely Holding",
+   "model": "7X",
+   "display": "7X",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bluewin.ch/de/lifestyle/mobilitaet/zeekr-7x-chinas-premium-angriff-auf-audi-bmw-und-mercedes-li.3520778",
+   "row": "d-suv",
+   "body": "5-door mid-size SUV (electric)",
+   "generation": "I (2024–; all-new 7X shown Paris 2026, deliveries Q1 2027)",
+   "length_mm": 4787,
+   "platform": "SEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "First German deliveries March 2026; sales in IT/ES/PT launched 2026; France from EUR 52,990 (orders Apr 2026); CH press test at CHF 68,890 (Jul 2026). All-new 7X displayed at Paris 2026 with first deliveries Q1 2027 (same nameplate).",
+   "status_sources": [
+    "https://cnevpost.com/2026/03/07/zeekr-1st-deliveries-germany-france-next/",
+    "https://www.go-electra.com/ca/newsroom/zeekr-in-france-2026/",
+    "https://www.bluewin.ch/de/lifestyle/mobilitaet/zeekr-7x-chinas-premium-angriff-auf-audi-bmw-und-mercedes-li.3520778",
+    "https://capital.com/en-gb/news/geely-auto-group-makes-its-paris-motor-show-debut-with",
+    "https://www.zeekr.eu/models/7x"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "smart #5"
+   ],
+   "twin_note": "Shares its SEA basis with the smart #5 (bluewin.ch: '7X shares its basis with the Smart #5'); distinct bodies -> tier 2.",
+   "twin_sources": [
+    "https://www.bluewin.ch/de/lifestyle/mobilitaet/zeekr-7x-chinas-premium-angriff-auf-audi-bmw-und-mercedes-li.3520778",
+    "https://en.wikipedia.org/wiki/Zeekr_7X"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Zeekr 7X",
+   "commons_file": null,
+   "wikipedia_en": "Zeekr 7X",
+   "notes": "Wikipedia: SEA (800 V), related smart #5 and Zeekr 007; wb 2,925 mm; length 4,787 mm for the 2024 European car (4,825 mm quoted for the Oct-2025 China facelift). European orders opened NL/SE/NO Dec 2024."
+  },
+  {
+   "brand": "Zeekr",
+   "group": "Geely Holding",
+   "model": "7 GT",
+   "display": "7 GT",
+   "other_names": [
+    "Zeekr 007 GT (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://cnevpost.com/2026/07/14/zeekr-widens-european-reach-007-gt/",
+   "row": "d-car",
+   "body": "5-door shooting brake (electric)",
+   "generation": "I (2025–; Europe 2026–)",
+   "length_mm": 4864,
+   "platform": "SEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Zeekr 007 GT sold as '7 GT' in Europe: launched Jan 2026 in DE/NL/BE/DK/NO/SE, extended July 2026 to 16 countries incl. Switzerland, from EUR 45,990.",
+   "status_sources": [
+    "https://cnevpost.com/2026/07/14/zeekr-widens-european-reach-007-gt/",
+    "https://www.zeekr.eu/models/7gt",
+    "https://www.go-electra.com/ca/newsroom/zeekr-in-france-2026/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SEA; the 001 (e-car) and Polestar 4 (d-suv) are architecture cousins in other rows -> no group.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Zeekr 007 GT",
+   "commons_file": null,
+   "wikipedia_en": "Zeekr 007 GT",
+   "notes": "Length 4,864 mm (China 007 GT spec, from memory; verify). Wikipedia article may be 'Zeekr 007'. zeekr.eu test-drive page: 7GT 'test drive available now'."
+  },
+  {
+   "brand": "Zeekr",
+   "group": "Geely Holding",
+   "model": "001",
+   "display": "001",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "5-door shooting brake / liftback (electric)",
+   "generation": "I (2021–, 2024 update)",
+   "length_mm": 4977,
+   "platform": "SEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On zeekr.eu line-up (Oct 2026); France from EUR 59,990 (orders Apr 2026, deliveries Jul 2026); Zeekr's first European model (2023).",
+   "status_sources": [
+    "https://www.zeekr.eu/models/001",
+    "https://www.go-electra.com/ca/newsroom/zeekr-in-france-2026/",
+    "https://cnevpost.com/2026/07/14/zeekr-widens-european-reach-007-gt/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SEA; no same-row sibling in Europe.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Zeekr 001",
+   "commons_file": null,
+   "wikipedia_en": "Zeekr 001",
+   "notes": "4,977 mm (2024 facelift; 4,970 pre-facelift). zeekr.eu test-drive page (2026-10-22): 001 'test drive available now'. Swiss availability unconfirmed (see Zeekr X note) -> ch null."
+  },
+  {
+   "brand": "Zeekr",
+   "group": "Geely Holding",
+   "model": "9X",
+   "display": "9X",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "5-door full-size luxury SUV (PHEV, 6 seats)",
+   "generation": "I (2025–; Europe orders Oct 2026)",
+   "length_mm": 5239,
+   "platform": "SEA-S",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "European motor-show debut at Paris 2026-10-12; Geely says it is 'available to order' with deliveries from January 2027; shown on zeekr.eu with a 'Configure' button. Marked on_sale because order books are open - verifier may prefer 'announced'.",
+   "status_sources": [
+    "https://capital.com/en-gb/news/geely-auto-group-makes-its-paris-motor-show-debut-with",
+    "https://www.zeekr.eu/models/9x",
+    "https://www.zeekr.eu/",
+    "https://www.zeekr.eu/test-drive?c=x"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "SEA-S; no sibling in Europe.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Zeekr 9X",
+   "commons_file": null,
+   "wikipedia_en": "Zeekr 9X",
+   "notes": "zeekr.eu 9X page (2026-10-22): PHEV, 2.0 T + dual motors (660 kW), 55 kWh, 179 km EV / 737 km combined, 5,239 mm, 6 seats; 'Configure' button, no price; test-drive page says 'Arriving soon'. Geely's Paris release says orders are open with deliveries from Jan 2027 -> on_sale by the brief's order-book rule, but a verifier may prefer 'announced'. Swiss availability unknown."
+  },
+  {
+   "brand": "Lotus",
+   "group": "Geely Holding",
+   "model": "Emira",
+   "display": "Emira",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.lotuscars.com/de-CH/",
+   "row": "sports",
+   "body": "2-door mid-engined sports coupe",
+   "generation": "I (2022–)",
+   "length_mm": 4412,
+   "platform": "Lotus bonded aluminium (Evora-derived)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Emira 420 Sport launched 2026-05-26 as range-topper, 'available to order now', deliveries from Aug 2026 (EUR 129,900); Turbo/V6 versions continue.",
+   "status_sources": [
+    "https://www.automotiveworld.com/news/lotus-launches-emira-420-sport-as-range-topper/",
+    "https://www.lotuscars.com/en-GB/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lotus Emira",
+   "commons_file": null,
+   "wikipedia_en": "Lotus Emira",
+   "notes": "Built in Hethel (UK). lotuscars.com/de-CH offers 'Emira konfigurieren'."
+  },
+  {
+   "brand": "Lotus",
+   "group": "Geely Holding",
+   "model": "Eletre",
+   "display": "Eletre",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.lotuscars.com/de-CH/",
+   "row": "e-suv",
+   "body": "5-door large SUV (electric; Eletre X range-extender hybrid from 2026)",
+   "generation": "I (2023–; Eletre X 2026)",
+   "length_mm": 5103,
+   "platform": "EPA (Electric Premium Architecture) / X-Hybrid",
+   "powertrains": [
+    "BEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "BEV Eletre on sale; mainland-European orders for the Eletre X 'Next-Generation Performance Hybrid' (2.0 T range extender + 70 kWh) opened June 2026 from EUR 96,990, deliveries Q4 2026, UK from summer 2027.",
+   "status_sources": [
+    "https://theevreport.com/lotus-eletre-x-hybrid-europe-orders",
+    "https://www.lotuscars.com/en-GB/",
+    "https://www.lotuscars.com/de-CH/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "EPA shared with Emeya (e-car, cross-row) -> no group.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lotus Eletre",
+   "commons_file": null,
+   "wikipedia_en": "Lotus Eletre",
+   "notes": "Eletre X is a range-extender (EREV) - recorded as PHEV per the brief's powertrain list. Built in Wuhan. lotuscars.com/de-CH offers both 'Eletre konfigurieren' and 'Eletre X konfigurieren'."
+  },
+  {
+   "brand": "Lotus",
+   "group": "Geely Holding",
+   "model": "Emeya",
+   "display": "Emeya",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.lotuscars.com/de-CH/",
+   "row": "e-car",
+   "body": "4-door GT saloon (electric)",
+   "generation": "I (2024–)",
+   "length_mm": 5139,
+   "platform": "EPA (Electric Premium Architecture)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in Lotus's current model navigation (Emeya, Eletre, Emira, Evija) Oct 2026; no 2026 change found.",
+   "status_sources": [
+    "https://www.lotuscars.com/en-GB/",
+    "https://www.lotuscars.com/de-CH/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "EPA shared with Eletre (e-suv) -> cross-row note only.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lotus Emeya",
+   "commons_file": null,
+   "wikipedia_en": "Lotus Emeya",
+   "notes": "Status based on official UK and CH site listings ('Emeya konfigurieren'); no 2026 press item fetched (budget)."
+  },
+  {
+   "brand": "Lotus",
+   "group": "Geely Holding",
+   "model": "Evija",
+   "display": "Evija",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door electric hypercar",
+   "generation": "I (2022–)",
+   "length_mm": 4459,
+   "platform": "bespoke carbon monocoque",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Still listed on lotuscars.com (Oct 2026): 'Production is limited to just 130 examples'. Whether build slots remain is unknown - could be runout.",
+   "status_sources": [
+    "https://www.lotuscars.com/en-GB/",
+    "https://www.lotuscars.com/de-CH/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lotus Evija",
+   "commons_file": null,
+   "wikipedia_en": "Lotus Evija",
+   "notes": "Ultra-limited; on the CH site it has only an 'Entdecken' link (no configurator) -> ch_on_sale null; verifier may drop it or mark runout."
+  },
+  {
+   "brand": "Farizon",
+   "group": "Geely Holding",
+   "model": "SV",
+   "display": "SV",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-mid",
+   "body": "electric panel van (L1H1/L2H2/L3H3, 6.95–13 m3; 3.5 t GVW; conversions via AMF-Bruns)",
+   "generation": "I (2024–; UK 2025–; MY27 AWD previewed IAA 2026)",
+   "length_mm": 4990,
+   "platform": "GXA-M (Farizon)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On sale in UK since Feb 2025 (from ~GBP 45k) and in AT/BE/BG/CZ/GR/HU/NL/PT/ES/DK (Nov 2025); Germany and France launched April/May 2026 (from EUR 44,900 net); 28 European countries covered per IAA 2026.",
+   "status_sources": [
+    "https://vanreviewer.co.uk/news/farizon-sv-new-launches-in-europe-the-gulf-and-asia-pacific/",
+    "https://theevreport.com/geely-farizon-electric-commercial-vehicles-iaa-2026",
+    "https://www.electrive.com/2026/09/21/geely-farizon-expands-partner-network-across-europe/",
+    "https://www.am-online.com/news/farizon-launches-45k-sv-electric-van-in-uk"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling (the WeRide GXR robotaxi is SV-based but not a retail model).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Farizon SV",
+   "commons_file": null,
+   "wikipedia_en": "Farizon SV",
+   "notes": "UK launch data (AM-online): 8 panel-van variants in 5 sizes, L1H1 4,990 mm x 1,980 mm high up to L3H3 5,995 mm x 2,500 mm, 6.95-13 m3, 67/83/106 kWh, payload up to ~1,390 kg, from GBP 45,000. Row: brief lists Farizon SV under van-mid (L1 = 4.99 m); the L3H3 overlaps van-large. Swiss distribution agreement with Emil Frey signed 2026-05-15; a farizon.ch domain exists but is robots-blocked and no Swiss launch date/price was found -> ch_on_sale null."
+  },
+  {
+   "brand": "Farizon",
+   "group": "Geely Holding",
+   "model": "V7E",
+   "display": "V7E",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-mid",
+   "body": "electric medium panel van (2-seat, 6.95 m3, up to 1,338 kg payload)",
+   "generation": "I (2026–)",
+   "length_mm": 4990,
+   "platform": null,
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Launched in UK April 2026 from GBP 28,000 ex-VAT (first customer handover 2026) and in Germany/France (from EUR 32,600 net); shown at IAA 2026.",
+   "status_sources": [
+    "https://vanreviewer.co.uk/news/farizon-reveals-smaller-new-v7e-with-matching-load-capacity/",
+    "https://theevreport.com/geely-farizon-electric-commercial-vehicles-iaa-2026",
+    "https://www.electrive.com/2026/09/21/geely-farizon-expands-partner-network-across-europe/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Farizon V7E",
+   "notes": "Length 'just under 5.0 m' per vanreviewer (4,990 mm placeholder). No Commons category known - use parent 'Category:Farizon' / 'Category:Farizon vehicles'. Swiss launch unconfirmed (Emil Frey agreement May 2026; farizon.ch robots-blocked) -> ch null."
+  },
+  {
+   "brand": "LEVC",
+   "group": "Geely Holding",
+   "model": "TX",
+   "display": "TX",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.levc.com/",
+   "row": "mpv-large",
+   "body": "purpose-built 6-passenger taxi (range-extender electric); TX Access/TX Shuttle variants",
+   "generation": "I (2018–; successor 'Next Generation Taxi' due H2 2027)",
+   "length_mm": 4855,
+   "platform": "LEVC aluminium 'eCity' platform",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model on levc.com with UK and 11 European country sites (DE, ES, NL, FR, SE, PL, HU, GR, AT, BE, MT); Greece added 2025. Next Generation Taxi announced for UK launch H2 2027 (will take over from TX).",
+   "status_sources": [
+    "https://www.levc.com/",
+    "https://www.levc.com/new-models/tx-taxi-overview/",
+    "https://www.levc.com/new-models/nextgenerationtaxi/",
+    "https://www.automotiveworld.com/news/greece-welcomes-levc-as-tx-and-vn5-launch-in-new-european-market/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Shares front end, cabin and range-extender powertrain with the VN5 van (van-mid) - cross-row, no group.",
+   "twin_sources": [
+    "https://www.automotiveworld.com/news/levc-launches-new-vn5-electric-van-in-europe/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:LEVC TX",
+   "commons_file": null,
+   "wikipedia_en": "LEVC TX",
+   "notes": "Range-extender (1.5 petrol generator) recorded as PHEV per brief list. Row choice: taxi/people carrier -> mpv-large. Not sold in Switzerland as far as known (no CH country site) -> ch_on_sale false (source: levc.com country list)."
+  },
+  {
+   "brand": "LEVC",
+   "group": "Geely Holding",
+   "model": "VN5",
+   "display": "VN5",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.levc.com/",
+   "row": "van-mid",
+   "body": "electric range-extender panel van (5.5 m3, ~830 kg payload)",
+   "generation": "I (2020–)",
+   "length_mm": 5217,
+   "platform": "LEVC aluminium 'eCity' platform",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On levc.com (VN5 Electric Van) with UK and European country sites; launched in Europe 2021 (Germany first), Greece 2025.",
+   "status_sources": [
+    "https://www.levc.com/",
+    "https://www.levc.com/new-models/vn5/",
+    "https://www.automotiveworld.com/news/levc-launches-new-vn5-electric-van-in-europe/",
+    "https://www.automotiveworld.com/news/greece-welcomes-levc-as-tx-and-vn5-launch-in-new-european-market/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "TX-derived (same cab/front/powertrain, 401 mm longer wheelbase) - cross-row note only.",
+   "twin_sources": [
+    "https://www.automotiveworld.com/news/levc-launches-new-vn5-electric-van-in-europe/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:LEVC VN5",
+   "commons_file": null,
+   "wikipedia_en": "LEVC VN5",
+   "notes": "Length ~5,217 mm (from memory; verify)."
+  },
+  {
+   "brand": "Geely",
+   "group": "Geely Holding",
+   "model": "E5",
+   "display": "E5",
+   "other_names": [
+    "Geely EX5 (UK)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+   "row": "c-suv",
+   "body": "5-door compact SUV (electric)",
+   "generation": "I (2024–; Europe 2025–)",
+   "length_mm": 4615,
+   "platform": "GEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Sold as EX5 in the UK (since summer 2025), Greece/Balkans, Italy (end 2025), Hungary (Mar 2026); brand launch as 'E5' in ES/DE/NL/BE/LU 2026-03-25/26, German sales from May 2026 at EUR 37,990; Austria (Apr 2026 distributor deal); Swiss launch event Zurich 2026-09-16 with E5/E2/Starray EM-i (Emil Frey importer).",
+   "status_sources": [
+    "https://global.geely.com/en/news/2026/geely-e5-starray-em-i-debut-five-european-countries",
+    "https://www.electrive.com/2026/03/27/geely-rolls-out-e5-electric-suv-across-five-european-markets/",
+    "https://www.geely.de/",
+    "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+    "https://global.geely.com/en/news/2026/geely-auto-emil-frey-official-importer-switzerland",
+    "https://cnevpost.com/2026/04/28/geely-signs-distribution-deal-austrian-market/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "GEA architecture (shared with E2 and Starray EM-i, other rows) - no same-row twin.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Geely Galaxy E5",
+   "commons_file": null,
+   "wikipedia_en": "Geely Galaxy E5",
+   "notes": "Swiss name 'E5' (Geely used E5/E2 at the Zurich launch; UK uses EX5/EX2). Wikipedia: first GEA car, European launch June 2025, UK deliveries Oct 2025; Commons category confirmed via Wikipedia link. Swiss prices/order date not published in fetched sources."
+  },
+  {
+   "brand": "Geely",
+   "group": "Geely Holding",
+   "model": "E2",
+   "display": "E2",
+   "other_names": [
+    "Geely EX2 (UK)",
+    "Geely Xingyuan (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+   "row": "b-hatch",
+   "body": "5-door small electric hatchback/crossover",
+   "generation": "I (2024–; Europe 2026–)",
+   "length_mm": 4135,
+   "platform": "GEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK: EX2 priced from GBP 20,990 (July 2026 launch, 'Renault 5 rival'); Germany: geely.de lists the E2 (E2 Pro list price EUR 19,990, 'ab 90 EUR mtl.') alongside E5 and Starray EM-i (Oct 2026); introduced in Switzerland as 'E2' at the Zurich launch 2026-09-16.",
+   "status_sources": [
+    "https://electrive.com/2026/07/16/geely-prices-new-ex2-electric-crossover-from-20990-in-the-uk",
+    "https://www.geely.de/",
+    "https://cnevpost.com/2026/09/21/geely-enters-switzerland/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "GEA; no twin in Europe.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Geely Xingyuan",
+   "commons_file": null,
+   "wikipedia_en": "Geely Xingyuan",
+   "notes": "Row: 4,135 mm hatchback-style crossover -> b-hatch (alternative b-suv). Wikipedia/Commons titles to verify ('Geely Xingyuan' / 'Geely EX2')."
+  },
+  {
+   "brand": "Geely",
+   "group": "Geely Holding",
+   "model": "Starray EM-i",
+   "display": "Starray EM-i",
+   "other_names": [
+    "Geely Galaxy Starship 7 EM-i (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+   "row": "d-suv",
+   "body": "5-door mid-size SUV (PHEV, 30 kWh, 136 km EV range)",
+   "generation": "I (2025–; Europe 2026–)",
+   "length_mm": 4740,
+   "platform": "GEA (EM-i hybrid)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Launched with the E5 in ES/DE/NL/BE/LU March 2026 (Germany from May 2026 at EUR 32,990), Austria, and Switzerland (Zurich launch Sept 2026).",
+   "status_sources": [
+    "https://global.geely.com/en/news/2026/geely-e5-starray-em-i-debut-five-european-countries",
+    "https://www.electrive.com/2026/03/27/geely-rolls-out-e5-electric-suv-across-five-european-markets/",
+    "https://www.geely.de/",
+    "https://cnevpost.com/2026/09/21/geely-enters-switzerland/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "GEA; PHEV sister model of the E5 (Galaxy Starship 7 = E5 EM-i in other markets) but a longer, distinct body in another row -> no group. Monjaro EM-i is a different, CMA-based model.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Geely_Galaxy_E5"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Geely Galaxy Starship 7",
+   "commons_file": null,
+   "wikipedia_en": "Geely Galaxy Starship 7",
+   "notes": "Wikipedia/Commons titles to verify."
+  }
+ ],
+ "announced": [
+  {
+   "brand": "Geely",
+   "group": "Geely Holding",
+   "model": "Monjaro EM-i",
+   "display": "Monjaro EM-i",
+   "other_names": [
+    "Geely Xingyue L (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "5-door mid-size SUV (PHEV)",
+   "generation": "I (2021– as Xingyue L; EM-i Europe 2026)",
+   "length_mm": 4770,
+   "platform": "CMA (EM-i hybrid)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "Geely says the Monjaro EM-i was 'launched in Europe' at the Paris Motor Show 2026-10-12, but no market, price or order-opening date was found -> announced; expected on sale late 2026/2027.",
+   "status_sources": [
+    "https://capital.com/en-gb/news/geely-auto-group-makes-its-paris-motor-show-debut-with"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "CMA-based (Xingyue L); possible cousin of Lynk & Co 08 (CMA Evo) - unverified.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Geely Xingyue L",
+   "commons_file": null,
+   "wikipedia_en": "Geely Monjaro",
+   "notes": "Verifier: check geely.de / geely.co.uk for Monjaro EM-i orders."
+  },
+  {
+   "brand": "Lynk & Co",
+   "group": "Geely Holding",
+   "model": "07 GT",
+   "display": "07 GT",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-car",
+   "body": "plug-in hybrid sport touring / GT model",
+   "generation": "I (2026–)",
+   "length_mm": null,
+   "platform": "CMA Evo (assumed)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "European premiere at Paris Motor Show Oct 2026 (Lynk & Co's first Paris appearance); no European sales date or price announced.",
+   "status_sources": [
+    "https://capital.com/en-gb/news/geely-auto-group-makes-its-paris-motor-show-debut-with",
+    "https://press.lynkco.com/en-WW/268531-lynk-co-to-make-its-first-ever-appearance-at-the-paris-motor-show/",
+    "https://www.automotiveworld.com/news/lynk-co-debuts-at-paris-motor-show-with-07-gt-reveal/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Lynk & Co 07",
+   "notes": "Automotive World (2026-09-21): shown in Paris in Chinese specification; a market-specific European 07 GT is 'planned but not yet confirmed', no timeline/price. Length unknown (07 saloon is ~4,827 mm)."
+  },
+  {
+   "brand": "Polestar",
+   "group": "Geely Holding",
+   "model": "7",
+   "display": "Polestar 7",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "compact premium SUV (electric)",
+   "generation": "I (2028)",
+   "length_mm": null,
+   "platform": "SPA3 (Volvo, to be built in Europe)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Planned for 2028 launch per Polestar's Feb 2026 model-offensive release; not revealed, not orderable.",
+   "status_sources": [
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Planned SPA3 sibling of Volvo EX60 (d-suv) - future.",
+   "twin_sources": [
+    "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Polestar 7",
+   "notes": ""
+  },
+  {
+   "brand": "LEVC",
+   "group": "Geely Holding",
+   "model": "L380",
+   "display": "L380",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "large electric MPV (6/8 seats)",
+   "generation": "I (2024– China; RHD/Europe 2026?)",
+   "length_mm": 5316,
+   "platform": "SOA (Space Oriented Architecture, SEA-derived)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Shown on levc.com as 'The all New L380 MPV'; UK launch was promised for 2026 but no order opening, price or deliveries in UK/Europe could be confirmed in fetched sources (L380 page fetch failed on budget).",
+   "status_sources": [
+    "https://www.levc.com/",
+    "https://www.levc.com/news/",
+    "https://www.topgear.com/car-news/first-look/eight-seater-levc-luxury-mpv-coming-uk"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:LEVC L380",
+   "commons_file": null,
+   "wikipedia_en": "LEVC L380",
+   "notes": "levc.com/new-models/l380/ redirects to the New Models index, which lists only TX, Next Generation Taxi, TX Access, TX Shuttle and VN5 (Oct 2026); LEVC's news page has L380 items only for China (on sale in China, prototypes). No UK/EU order opening found -> announced/uncertain."
+  },
+  {
+   "brand": "LEVC",
+   "group": "Geely Holding",
+   "model": "Next Generation Taxi",
+   "display": "Next Generation Taxi",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "all-new electric black cab (260 mi WLTP)",
+   "generation": "I (2027)",
+   "length_mm": null,
+   "platform": "Geely-derived (not named)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Due to launch in the UK in H2 2027, 'will take over from the TX'; registration of interest only.",
+   "status_sources": [
+    "https://www.levc.com/new-models/nextgenerationtaxi/",
+    "https://www.levc.com/news/levc-confirms-next-generation-black-cab/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": ""
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "Volvo",
+   "model": "S60",
+   "note": "Production and sales for Europe/North America ended 2024 (Wikipedia; UK withdrawal 2023 per Fleet News). Volvo Car Switzerland's media site still shows an S60 page labelled MY2025 (last) - no MY26/27 kit -> discontinued.",
+   "source": "https://en.wikipedia.org/wiki/Volvo_S60"
+  },
+  {
+   "brand": "Volvo",
+   "model": "S90",
+   "note": "Discontinued in Europe (and US/CA/AU) 2024, last MY2024; replaced by the ES90.",
+   "source": "https://en.wikipedia.org/wiki/Volvo_S90"
+  },
+  {
+   "brand": "Volvo",
+   "model": "V90 / V90 Cross Country",
+   "note": "Volvo Car UK: 'Volvo Cars will end global production of the V90 and V90 Cross Country during September 2025'; UK order books closed (stock only); intl media site lists V90 only up to MY2025. Motor1 reported a later Volvo clarification limiting the Sept-2025 end to the Netherlands, but no 2026 configurator evidence was found; the Swiss media site's V90 / V90 Cross Country pages are labelled MY2026 (last, no MY27 kit) -> treated as discontinued (verifier: check volvocars.com/de /ch-de for remaining V90 stock).",
+   "source": "https://www.fleetnews.co.uk/news/volvo-v90-discontinued"
+  },
+  {
+   "brand": "Volvo",
+   "model": "XC40 Recharge / C40 Recharge",
+   "note": "Names retired 2024 (now EX40 / EC40); XC40 PHEV built last in 2023.",
+   "source": "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/"
+  },
+  {
+   "brand": "Zeekr",
+   "model": "009",
+   "note": "Not in Zeekr's European line-up (zeekr.eu lists 9X, 7X, 7GT, X, 001 in Oct 2026); the 009 MPV was shipped to other export markets but never launched for sale in Europe as far as sources show.",
+   "source": "https://www.zeekr.eu/"
+  },
+  {
+   "brand": "Polestar",
+   "model": "1",
+   "note": "Limited-run PHEV coupe ended 2021 (long gone; listed for completeness).",
+   "source": "https://en.wikipedia.org/wiki/Polestar_1"
+  },
+  {
+   "brand": "Lynk & Co",
+   "model": "03 / 05 / 07 / 09 (China range)",
+   "note": "Never sold in Europe; only 01, 02, 08 are offered (07 GT announced Paris 2026).",
+   "source": "https://press.lynkco.com/en-WW/258208-lynk-co-strengthens-its-retail-foundation-and-sets-the-stage-for-a-new-era-of-growth/"
+  },
+  {
+   "brand": "Lotus",
+   "model": "Elise / Exige / Evora",
+   "note": "Production ended 2021; replaced by the Emira.",
+   "source": "https://en.wikipedia.org/wiki/Lotus_Emira"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.volvocars.com/intl/media/press-releases/",
+   "what": "Volvo Cars international media site - model navigation shows current press kits: EX60/EX30/EX30 CC/XC60/XC90/XC40/EX40/EC40 at MY27, ES90 2026, EX90 2025, V90 2025 (last), S90 2024 (last); no S60/V60 listed (fetched 2026-10-21)"
+  },
+  {
+   "url": "https://www.volvocars.com/intl/media/press-releases/44CDFC8814BA3CE7",
+   "what": "Volvo press release (~Mar 2026): EX60 order books open in nearly all major European markets; production increase"
+  },
+  {
+   "url": "https://www.volvocars.com/uk/media/press-releases/C0CCF6D1B143FE7B/",
+   "what": "Volvo UK press release 2024-10-09: one-millionth XC40/EX40 at Ghent; 2024 renaming XC40 (MHEV) / EX40 (BEV); EX30 Ghent production from 2025"
+  },
+  {
+   "url": "https://www.autoevolution.com/cars/volvo-ec40-2026.html",
+   "what": "autoevolution 2027 Volvo EC40 page (updated 2026-09-14): 4,440 mm, Ghent-built"
+  },
+  {
+   "url": "https://www.motor1.com/news/750151/volvo-v90-production-ending/",
+   "what": "Motor1 (Sept 2025): V90 production end (Sept 2025; later clarified as NL-only by Volvo), V60 'sticking around', XC90 stays"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volvo_S90",
+   "what": "Wikipedia Volvo S90: discontinued in Europe/US/CA/AU, production ended late 2024, last MY2025; ES90 successor"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volvo_S60",
+   "what": "Wikipedia Volvo S60: production/sales for Europe and North America ended 2024"
+  },
+  {
+   "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-starts-largest-model-offensive-its-history-four-new",
+   "what": "Polestar press release 2026-02-18: current line-up 2/3/4/5; Polestar 5 deliveries summer 2026; Polestar 4 estate variant Q4 2026; new Polestar 2 early 2027; Polestar 7 in 2028 (SPA3, Europe-built)"
+  },
+  {
+   "url": "https://www.autosprint.ch/en/?p=97148",
+   "what": "autosprint.ch 2026-01-21: Polestar Switzerland 2025 registrations by model (2/3/4), Polestar 5 Swiss deliveries summer 2026, retail network"
+  },
+  {
+   "url": "https://www.rev.ie/polestar-5-performance-grand-tourer-irish-pricing/",
+   "what": "rev.ie 2025-12-22: Polestar 5 orderable (Ireland pricing), deliveries early 2026"
+  },
+  {
+   "url": "https://www.topgear.com/car-news/business/a-new-high-riding-polestar-4-estate-coming-finally-gives-it-a-rear-window",
+   "what": "Top Gear 2026-02-18: high-riding Polestar 4 estate variant with rear window = new version of the Polestar 4"
+  },
+  {
+   "url": "https://press.lynkco.com/en-WW/254057-lynk-co-accelerates-european-growth-with-expansion-into-czech-republic-austria-and-switzerlan/",
+   "what": "Lynk & Co press 2025-09-08: expansion to CZ (Oct 2025), AT and CH (Q1 2026) with 01, 02, 08; 25 European markets"
+  },
+  {
+   "url": "https://press.lynkco.com/en-WW/258208-lynk-co-strengthens-its-retail-foundation-and-sets-the-stage-for-a-new-era-of-growth/",
+   "what": "Lynk & Co press 2025-11-26: line-up 01 (PHEV), 02 (BEV), 08 (PHEV); entered AT/CH/CZ 2025; subscription phased out 2026"
+  },
+  {
+   "url": "https://press.lynkco.com/en-WW/268531-lynk-co-to-make-its-first-ever-appearance-at-the-paris-motor-show/",
+   "what": "Lynk & Co press 2026-07-23: Paris Motor Show debut with 01/02/08 and a European premiere of a new product"
+  },
+  {
+   "url": "https://capital.com/en-gb/news/geely-auto-group-makes-its-paris-motor-show-debut-with",
+   "what": "Geely Auto Group release via capital.com 2026-10-12: Paris show - Geely Monjaro EM-i 'launched in Europe', Lynk & Co 07GT European premiere, Zeekr 9X orderable (deliveries Jan 2027), all-new Zeekr 7X deliveries Q1 2027"
+  },
+  {
+   "url": "https://www.zeekr.eu/",
+   "what": "zeekr.eu home (fetched 2026-10-21): line-up 9X, 7X, 7GT (from EUR 45,990), X, 001; 'Special stock offers'; no 009"
+  },
+  {
+   "url": "https://cnevpost.com/2026/07/14/zeekr-widens-european-reach-007-gt/",
+   "what": "CnEVPost 2026-07-14: Zeekr 7 GT (007 GT) in 16 European countries incl. Switzerland from EUR 45,990; European line-up 001, X, 7X, 7 GT"
+  },
+  {
+   "url": "https://cnevpost.com/2026/03/07/zeekr-1st-deliveries-germany-france-next/",
+   "what": "CnEVPost 2026-03-07: first 7X deliveries in Germany; sales launched in IT/ES/PT; France next"
+  },
+  {
+   "url": "https://www.go-electra.com/ca/newsroom/zeekr-in-france-2026/",
+   "what": "Electra newsroom 2026-05-19: Zeekr France orders open 2026-04-02 - X EUR 37,990, 7GT 45,990, 7X 52,990, 001 59,990"
+  },
+  {
+   "url": "https://www.bluewin.ch/de/lifestyle/mobilitaet/zeekr-7x-chinas-premium-angriff-auf-audi-bmw-und-mercedes-li.3520778",
+   "what": "bluewin.ch 2026-07-10: Zeekr 7X tested in Switzerland at CHF 68,890; shares basis with smart #5"
+  },
+  {
+   "url": "https://www.lotuscars.com/en-GB/",
+   "what": "lotuscars.com en-GB (fetched 2026-10-21): models Emeya, Eletre (Eletre X hybrid), Emira (420 Sport, Emira GT4), Evija (130 units)"
+  },
+  {
+   "url": "https://theevreport.com/lotus-eletre-x-hybrid-europe-orders",
+   "what": "The EV Report 2026-06-03: Lotus Eletre X range-extender orders open in mainland Europe from EUR 96,990; deliveries Q4 2026; UK summer 2027"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/lotus-launches-emira-420-sport-as-range-topper/",
+   "what": "Automotive World 2026-05-26: Emira 420 Sport available to order, deliveries Aug 2026, EUR 129,900"
+  },
+  {
+   "url": "https://vanreviewer.co.uk/news/farizon-sv-new-launches-in-europe-the-gulf-and-asia-pacific/",
+   "what": "Van Reviewer 2025-11-25: Farizon SV on sale in AT/BE/BG/CZ/GR/HU/NL/PT/ES/UK, DK; DE/FR/IT/PL/NO/SE/CH/TR coming; GXA-M platform"
+  },
+  {
+   "url": "https://theevreport.com/geely-farizon-electric-commercial-vehicles-iaa-2026",
+   "what": "The EV Report 2026-09-18: IAA 2026 - SV and V7E launched in Germany/France April 2026; SV MY27 AWD previewed; 28 European countries"
+  },
+  {
+   "url": "https://www.electrive.com/2026/09/21/geely-farizon-expands-partner-network-across-europe/",
+   "what": "electrive 2026-09-21: Farizon SV from EUR 44,900 net (DE), V7E from EUR 32,600 net; partner network"
+  },
+  {
+   "url": "https://vanreviewer.co.uk/news/farizon-reveals-smaller-new-v7e-with-matching-load-capacity/",
+   "what": "Van Reviewer 2026-04-21: Farizon V7E specs - just under 5.0 m, 6.95 m3, 1,338 kg payload, 50/67 kWh, from GBP 28,000"
+  },
+  {
+   "url": "https://autonews.gasgoo.com/articles/ev/farizon-enters-swiss-market-through-partnership-with-emil-frey-group-2056577213166710785",
+   "what": "Gasgoo 2026-05-19: Emil Frey Group to distribute Farizon in Switzerland (agreement 2026-05-15)"
+  },
+  {
+   "url": "https://www.levc.com/",
+   "what": "levc.com (fetched 2026-10-21): TX Taxi, TX Access, TX Shuttle, VN5, L380, Next Generation Taxi; country sites DE/ES/NL/FR/SE/PL/HU/GR/AT/BE/MT"
+  },
+  {
+   "url": "https://www.levc.com/new-models/nextgenerationtaxi/",
+   "what": "levc.com Next Generation Taxi page: UK launch H2 2027, takes over from TX, 260 mi WLTP"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/levc-launches-new-vn5-electric-van-in-europe/",
+   "what": "Automotive World 2021-07-06: VN5 European launch; TX-derived range-extender van, 5.5 m3"
+  },
+  {
+   "url": "https://global.geely.com/en/news/2026/geely-e5-starray-em-i-debut-five-european-countries",
+   "what": "Geely press 2026-03-27: E5 and Starray EM-i brand rollout in ES/DE/NL/BE/LU; already in HU/UK/IT"
+  },
+  {
+   "url": "https://www.electrive.com/2026/03/27/geely-rolls-out-e5-electric-suv-across-five-european-markets/",
+   "what": "electrive 2026-03-27: E5 (=EX5 in UK) 4.62 m, EUR 37,990; Starray EM-i 4.74 m, EUR 32,990; German sales from May 2026; GEA platform"
+  },
+  {
+   "url": "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+   "what": "CnEVPost 2026-09-21: Geely enters Switzerland - Zurich launch 2026-09-16 with E5, E2 and Starray EM-i"
+  },
+  {
+   "url": "https://global.geely.com/en/news/2026/geely-auto-emil-frey-official-importer-switzerland",
+   "what": "Geely press 2026-06-21: Emil Frey appointed official Geely importer for Switzerland (URL from search; not fetched)"
+  },
+  {
+   "url": "https://electrive.com/2026/07/16/geely-prices-new-ex2-electric-crossover-from-20990-in-the-uk",
+   "what": "electrive 2026-07-16: Geely EX2 UK pricing from GBP 20,990; GEA, RWD, 35/47 kWh"
+  },
+  {
+   "url": "https://cnevpost.com/2026/04/28/geely-signs-distribution-deal-austrian-market/",
+   "what": "CnEVPost 2026-04-28: Geely distribution deal for Austria (URL from search; not fetched)"
+  },
+  {
+   "url": "https://www.fleetnews.co.uk/news/volvo-v90-discontinued",
+   "what": "Fleet News (2025): Volvo Car UK ends global V90/V90 CC production Sept 2025, UK orders closed; S90 ended 2024; S60 off UK sale 2023; V60 continues and is orderable; ES90 UK from GBP 69,990 (deliveries early 2026)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volvo_V60",
+   "what": "Wikipedia Volvo V60: SPA, B3/B4/B5 + T6/T8 PHEV, no end of production noted"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volvo_EX60",
+   "what": "Wikipedia Volvo EX60: 4,803 mm, wb 2,970, SPA3, revealed 2026-01-21, Torslanda production from 2026-04-22, related Polestar 7"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Polestar_3",
+   "what": "Wikipedia Polestar 3: SPA2, based on the Volvo EX90, 4,900 mm; production moved to Ridgeville (US) March 2026"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Zeekr_X",
+   "what": "Wikipedia Zeekr X: SEA2, 4,450 mm, wb 2,750; related smart #1, Volvo EX30, Lynk & Co Z20"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Zeekr_7X",
+   "what": "Wikipedia Zeekr 7X: SEA 800V, related smart #5 and Zeekr 007; wb 2,925; EU orders Dec 2024; China facelift Oct 2025"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Lynk_%26_Co_Z20",
+   "what": "Wikipedia Lynk & Co Z20 (= Lynk & Co 02 in Europe): SEA2, 4,460 mm (4,495 after 2026 update), wb 2,755; related Zeekr X, smart #1, Volvo EX30"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Lynk_%26_Co_01",
+   "what": "Wikipedia Lynk & Co 01: CMA shared with Volvo XC40; Europe HEV/PHEV only; wb 2,734"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Geely_Galaxy_E5",
+   "what": "Wikipedia Geely Galaxy E5: export name EX5 / E5; GEA; Starship 7 = PHEV sister; European launch June 2025; Commons Category:Geely Galaxy E5"
+  },
+  {
+   "url": "https://www.lotuscars.com/de-CH/",
+   "what": "lotuscars.com/de-CH (fetched 2026-10-22): Eletre X, Eletre, Emira, Emeya configurable in Switzerland; Evija 'Entdecken' only"
+  },
+  {
+   "url": "https://www.geely.de/",
+   "what": "geely.de (fetched 2026-10-22): models E2 (list EUR 19,990 Pro), E5, Starray EM-i; no Monjaro EM-i"
+  },
+  {
+   "url": "https://www.am-online.com/news/farizon-launches-45k-sv-electric-van-in-uk",
+   "what": "AM-online: Farizon SV UK launch - 8 variants, L1H1 4,990 mm to L3H3 5,995 mm, 6.95-13 m3, from GBP 45,000, importer Jameel Motors"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/lynk-co-debuts-at-paris-motor-show-with-07-gt-reveal/",
+   "what": "Automotive World 2026-09-21: Lynk & Co 07 GT shown in Paris in Chinese spec; European version planned but not confirmed"
+  },
+  {
+   "url": "https://www.levc.com/news/",
+   "what": "levc.com/news (fetched 2026-10-22): no UK/EU L380 launch news; 'LEVC confirms next generation London black cab to launch in 2027'"
+  },
+  {
+   "url": "https://www.volvocars.com/de-ch/media/press-releases/",
+   "what": "Volvo Car Switzerland media site (fetched 2026-10-22): Swiss model pages EC40/EX40/EX60/XC90/XC60/XC40 (2027), EX30 (2027), ES90 (2026, label MY27), EX90 (2025, label MY27), V60 (label MY27), V60 CC (MY2025), EX60 Cross Country (2028), V90 (label MY26), V90 CC (MY2026), S60 (MY2025), S90 (2024)"
+  },
+  {
+   "url": "https://www.zeekr.eu/test-drive?c=x",
+   "what": "zeekr.eu test-drive page (2026-10-22): 001, X, 7X, 7GT 'test drive available now'; 9X 'arriving soon'; no country list rendered"
+  },
+  {
+   "url": "https://www.farizon.ch/",
+   "what": "farizon.ch exists but is robots-disallowed to the fetcher (Swiss Farizon site, Emil Frey) - no content retrieved"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/cars/compare/opel-corsa-2006-3-door-hatchback-vs-ford-f/",
+   "what": "carsized recipe calibration: valid slugs render real /resources/ URLs (Kangoo, Corsa); Volvo slug guesses (xc40-2017/2018-5-door-suv, xc60-2017-5-door-suv, ex30-2023/2024-5-door-suv, xc40-2017-5-door-crossover) rendered placeholders only"
+  }
+ ]
+}

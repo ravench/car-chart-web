@@ -1,0 +1,2803 @@
+{
+ "agent": "hyundai-ford-gm-tesla",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "i10",
+   "display": "i10",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/i10.html",
+   "row": "a-city",
+   "body": "5-door city car",
+   "generation": "III (AC3, 2019–; facelift 2023)",
+   "length_mm": 3670,
+   "platform": "Hyundai-Kia A-segment platform shared with Kia Picanto JA (Wikipedia's K1 platform page does not list AC3/JA)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "European production at Hyundai Assan (İzmit) ended January 2026 and the i10 is reported discontinued in Europe/UK (Wikipedia 'Hyundai i10', fetched 2026-10-22). Still listed with its own page on hyundai.ch (Oct 2026) and on hyundai.com/uk ('only available for purchase in Great Britain', configurator link) → treated as RUNOUT (remaining stock). Not in the hyundai.com/de leasing list.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_i10",
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/ch/de/modelle/i10.html",
+    "https://www.hyundai.com/uk/en/models/i10.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia Picanto"
+   ],
+   "twin_note": "i10 III (AC3) was developed from the Picanto III (JA) platform (same 1.0 MPi/T-GDi and 1.2 MPi engines, wheelbase 2,425 vs 2,400 mm), distinct bodies → tier 2. Wikipedia lists the Picanto as 'related' but does not name the platform.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_i10",
+    "https://en.wikipedia.org/wiki/Kia_Picanto"
+   ],
+   "carsized_slug": "hyundai-i10-2019-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/hyundai/i10/h5/2019/sl_251098072_hyundai-i10-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2023",
+   "commons_category": "Category:Hyundai i10 (AC3)",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai i10",
+   "notes": "Length 3,670 mm (facelift; Wikipedia implies ~3,680). carsized entry is the pre-facelift (2019-2023) i10; a 2023 facelift slug was not found. Commons category name from memory – verify. Runout: verify whether CH/UK stock is still orderable in late 2026."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "i20",
+   "display": "i20",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/i20.html",
+   "row": "b-hatch",
+   "body": "5-door supermini",
+   "generation": "III (BC3, 2020–; facelift 2024)",
+   "length_mm": 4065,
+   "platform": "Hyundai-Kia K2",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "hyundai.ch i20 page: 'Ab CHF 19 600', MY26 price list, 'Jetzt reservieren' (fetched 2026-10-22); i20 Select 1.0 66 kW in the hyundai.com/de list. A fourth-generation i20 was unveiled in Brazil (June 2026) only; Europe keeps the BC3 facelift (Wikipedia).",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle/i20.html",
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html",
+    "https://en.wikipedia.org/wiki/Hyundai_i20"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Cross-row platform siblings: Hyundai Bayon (b-suv) is i20-based; Kia Stonic (b-suv) on the same K2 platform. No sibling in the b-hatch row (Kia Rio discontinued in Europe 2023).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K2_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai i20 (BC3)",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai i20",
+   "notes": "1.0 T-GDi with/without 48V; 1.2 MPi. i20 N discontinued Feb 2024. Platform K2 confirmed by Wikipedia (K1/K2-P2)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Bayon",
+   "display": "Bayon",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/bayon.html",
+   "row": "b-suv",
+   "body": "small crossover",
+   "generation": "I (BC3 CUV, 2021–; facelift 2024)",
+   "length_mm": 4180,
+   "platform": "Hyundai-Kia K2 (i20-based)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on hyundai.ch and hyundai.com/de (Bayon Select 1.0 T-GDI) Oct 2026.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia Stonic"
+   ],
+   "twin_note": "Bayon (i20-derived) and Stonic (Rio-derived) are both B-SUVs on the Hyundai-Kia K2 platform with 2,580 mm wheelbase and the same 1.0 T-GDi 48V powertrain; distinct bodies → tier 2. Wikipedia's Hyundai-Kia platform page (fetched 2026-10-22) lists i20 (BC3), Bayon (BC3 CUV) and Stonic (YB CUV) together under K1/K2-P2.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K2_platform",
+    "https://en.wikipedia.org/wiki/Hyundai_Bayon",
+    "https://en.wikipedia.org/wiki/Kia_Stonic"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Bayon",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Bayon",
+   "notes": "Judgement call: Bayon/Stonic grouped as platform siblings (tier 2); verifier may drop if considered too loose."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Inster",
+   "display": "Inster",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/inster.html",
+   "row": "a-city",
+   "body": "electric city car / mini crossover",
+   "generation": "I (2024–)",
+   "length_mm": 3825,
+   "platform": "Hyundai Casper-based (K1-derived) BEV",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on hyundai.ch and hyundai.com/de (Inster Select 71 kW 42 kWh) Oct 2026. Inster Cross = same tile.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Sold as Casper Electric in Korea; no European twin.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Inster",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Inster",
+   "notes": "3,825 mm (Cross 3,845 mm)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Kona",
+   "display": "Kona",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/kona.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "II (SX2, 2023–)",
+   "length_mm": 4350,
+   "platform": "Hyundai-Kia K3",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Kona, Kona Hybrid and Kona Electric all listed on hyundai.ch and hyundai.com/de Oct 2026 (one tile).",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia Niro",
+    "Kia Seltos"
+   ],
+   "twin_note": "Kona (SX2), Niro (SG2) and the new Seltos (SP3, 2026) are all listed on the Hyundai-Kia K3 platform (Wikipedia platform page, fetched 2026-10-22); they share the 1.6 T-GDi / 1.6 GDI hybrid systems; wheelbases 2,660 / 2,720 / ~2,690 mm; distinct bodies → tier 2 (brief lists 'Kona/Niro?'). Kia K4 (c-hatch) is on K3 too – cross-row note.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K3_platform",
+    "https://en.wikipedia.org/wiki/Hyundai_Kona",
+    "https://en.wikipedia.org/wiki/Kia_Niro"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Kona (SX2)",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Kona",
+   "notes": "Kona Electric 4,355 mm; N Line 4,385 mm."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Tucson",
+   "display": "Tucson",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/tucson.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "IV (NX4, 2020–; facelift 2024)",
+   "length_mm": 4510,
+   "platform": "Hyundai-Kia N3",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Tucson / Tucson Hybrid / Tucson Plug-in listed on hyundai.ch and hyundai.com/de Oct 2026. Diesel (1.6 CRDi 48V) may remain in some markets – not confirmed.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia Sportage"
+   ],
+   "twin_note": "Tucson NX4 and Sportage NQ5 share the N3 platform (identical 2,680 mm wheelbase in the European short-wheelbase Sportage) and the same 1.6 T-GDi MHEV/HEV/PHEV powertrains; distinct bodies → tier 2 (brief example). Note: en.wikipedia 'Hyundai-Kia N3 platform' URL returned not-found on 2026-10-22; the Staria article (fetched) names N3 as 'Hyundai-Kia's mid-size FWD platform'.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Kia_Sportage",
+    "https://en.wikipedia.org/wiki/Hyundai_Tucson",
+    "https://en.wikipedia.org/wiki/Hyundai_Staria"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Tucson (NX4)",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Tucson",
+   "notes": "4,510 mm after 2024 facelift (4,500 before)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Santa Fe",
+   "display": "Santa Fe",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/santa-fe.html",
+   "row": "d-suv",
+   "body": "mid-size 5/7-seat SUV",
+   "generation": "V (MX5, 2024–)",
+   "length_mm": 4830,
+   "platform": "Hyundai-Kia N3",
+   "powertrains": [
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Santa Fe and Santa Fe Plug-in listed on hyundai.ch; Santa Fe Hybrid / Plug-in-Hybrid on hyundai.com/de Oct 2026.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia Sorento"
+   ],
+   "twin_note": "Santa Fe MX5 and Sorento MQ4 share the N3 platform (wheelbase 2,815 mm both) and the 1.6 T-GDi HEV/PHEV systems; distinct bodies → tier 2 (N3 platform; model articles not fetched this session).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe",
+    "https://en.wikipedia.org/wiki/Kia_Sorento"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Santa Fe (MX5)",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Santa Fe",
+   "notes": ""
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Ioniq 3",
+   "display": "IONIQ 3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/ioniq3.html",
+   "row": "c-hatch",
+   "body": "5-door electric compact hatchback",
+   "generation": "I (2026–)",
+   "length_mm": 4160,
+   "platform": "E-GMP (400 V derivative, shared with Kia EV2/EV3/EV4)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders open in Germany since 2026-09-02 from €28,950 (electrive); Netherlands from €27,995 (2026-07-31); listed on hyundai.ch and hyundai.com/de (IONIQ 3 Trend 108 kW 42 kWh). Built in İzmit, Türkiye.",
+   "status_sources": [
+    "https://www.electrive.net/2026/09/02/ioniq-3-startet-bei-28-950-euro/",
+    "https://www.electrive.net/2026/07/31/hyundai-ioniq-3-start-in-den-niederlanden-bei-27-995-euro/",
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No same-row sibling: Wikipedia (fetched 2026-10-22) lists the Kia EV2 (b-suv) as related and the EV3 (c-suv, identical 2,680 mm wheelbase, 400 V E-GMP) as the hardware donor; the Kia EV4 (c-hatch) has a 2,820 mm wheelbase and larger packs, so it is not grouped. Cross-row note only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Ioniq_3",
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
+    "https://www.electrive.net/2026/09/02/ioniq-3-startet-bei-28-950-euro/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Ioniq 3",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Ioniq 3",
+   "notes": "Length 4,155–4,170 mm, wheelbase 2,680 mm (Wikipedia) – borderline between b-hatch and c-hatch; placed in c-hatch by Hyundai's compact positioning (ID.3 / Mégane rival) and its C-segment wheelbase. 42.2 kWh/108 kW FWD or 61 kWh/99 kW (electrive)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Ioniq 5",
+   "display": "IONIQ 5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/new-ioniq5.html",
+   "row": "c-suv",
+   "body": "electric crossover",
+   "generation": "I (NE, 2021–; facelift 2024)",
+   "length_mm": 4655,
+   "platform": "E-GMP (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "IONIQ 5 and IONIQ 5 N listed on hyundai.ch and hyundai.com/de Oct 2026 (one tile).",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia EV6",
+    "Genesis GV60"
+   ],
+   "twin_note": "E-GMP 800 V siblings (brief example): Ioniq 5 (wheelbase 3,000 mm), EV6 (2,900 mm), GV60 (2,900 mm); distinct bodies. Row judgement: all three placed in c-suv (GV60 4,515 mm and Ioniq 5 4,655 mm are clearly C; EV6 at 4,695 mm is the less clear one and is adjusted to c-suv so the group stays in one row). Ioniq 6 is the same platform but in d-car.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Ioniq 5",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Ioniq 5",
+   "notes": "Facelift length 4,655 mm (4,635 before). Wikipedia E-GMP page (fetched 2026-10-22) lists GV60 (JW), Ioniq 5 (NE), EV6 (CV) as E-GMP vehicles (2021–)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Ioniq 6",
+   "display": "IONIQ 6",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/ioniq6.html",
+   "row": "d-car",
+   "body": "electric streamliner saloon",
+   "generation": "I (CE, 2022–; facelift 2025)",
+   "length_mm": 4855,
+   "platform": "E-GMP (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "IONIQ 6 and IONIQ 6 N listed on hyundai.ch and hyundai.com/de Oct 2026 (one tile).",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "E-GMP sibling of Ioniq 5/EV6/GV60 but the only saloon of the family in Europe → no group in d-car; cross-row note only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Ioniq 6",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Ioniq 6",
+   "notes": "Length 4,855 mm pre-facelift; the 2025 facelift/N may be slightly longer (N quoted ~4,935 mm) – verify."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Ioniq 9",
+   "display": "IONIQ 9",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/ioniq9.html",
+   "row": "e-suv",
+   "body": "large electric 6/7-seat SUV",
+   "generation": "I (ME, 2025–)",
+   "length_mm": 5060,
+   "platform": "E-GMP (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on hyundai.ch and hyundai.com/de (IONIQ 9 160 kW 110 kWh) Oct 2026.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Kia EV9"
+   ],
+   "twin_note": "Ioniq 9 and EV9 share the E-GMP platform with a 3,130 mm wheelbase and 800 V hardware; distinct bodies → tier 2. Both listed as E-GMP on Wikipedia's E-GMP page (fetched 2026-10-22).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
+    "https://en.wikipedia.org/wiki/Hyundai_Ioniq_9",
+    "https://en.wikipedia.org/wiki/Kia_EV9"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Ioniq 9",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Ioniq 9",
+   "notes": ""
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "i30",
+   "display": "i30",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/i30.html",
+   "row": "c-hatch",
+   "body": "5-door hatchback / Wagon / Fastback",
+   "generation": "III (PD, 2017–; facelifts 2020 and 2024)",
+   "length_mm": 4340,
+   "platform": "Hyundai-Kia K2 (shared with Kia Ceed CD)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "hyundai.ch i30 page: 'Ab CHF 31 700', configurator and 'Jetzt reservieren' live, presented as 'jetzt im neuen Look' (fetched 2026-10-21); i30 and i30 Kombi in hyundai.com/de leasing list. No runout note found.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle/i30.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Former sibling Kia Ceed (CD) hatch/Sportswagon ended production Jan 2026 (Wikipedia, fetched); XCeed continues but sits in c-suv. No group.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Kia_Ceed"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai i30 (PD)",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai i30",
+   "notes": "Wagon 4,585 mm, Fastback 4,455 mm (same tile). Engines 1.0/1.5 T-GDi (48V on some)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Staria",
+   "display": "Staria",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/new-staria-hybrid.html",
+   "row": "mpv-large",
+   "body": "large MPV (7/9 seats)",
+   "generation": "I (US4, 2021–; facelift + hybrid/electric 2026)",
+   "length_mm": 5255,
+   "platform": "Hyundai-Kia N3 (Wikipedia)",
+   "powertrains": [
+    "HEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "New Staria Hybrid 'Ab CHF 55 000' with configurator/reservation on hyundai.ch (fetched 2026-10-21); Staria Electric listed on hyundai.ch and hyundai.com/de (Staria Elektro 160 kW 84 kWh). Diesel 2.2 CRDi no longer shown in CH/DE lists – may persist in other markets.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle/new-staria-hybrid.html",
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin in Europe (Kia Carnival not sold in Europe). Staria Cargo = separate van-mid tile.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Staria",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Staria",
+   "notes": "Facelift revealed Korea Dec 2025; Staria Electric unveiled 2026-01-09 (84 kWh, 800 V, 163 kW); CH page shows hybrid 1.6 T-GDi + 54 kW motor, 7 (Premium) or 9 seats (Wagon). Length 5,255 mm and N3 platform per Wikipedia (fetched 2026-10-22)."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Staria Cargo",
+   "display": "Staria Cargo",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle/staria-cargo-electric.html",
+   "row": "van-mid",
+   "body": "panel van (3/6 seats)",
+   "generation": "I (2021–; electric 2026)",
+   "length_mm": 5255,
+   "platform": "Hyundai-Kia N3 (as Staria)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Staria Cargo Electric listed on hyundai.ch and hyundai.com/de (160 kW 84 kWh) Oct 2026. Diesel Cargo not shown in CH/DE lists.",
+   "status_sources": [
+    "https://www.hyundai.com/ch/de/modelle.html",
+    "https://www.hyundai.com/de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Van version of the Staria (brief lists 'Staria Van' in van-mid).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Staria",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Staria",
+   "notes": "Same nameplate as Staria MPV; split into two rows per brief's row examples."
+  },
+  {
+   "brand": "Hyundai",
+   "group": "Hyundai Motor Group",
+   "model": "Nexo",
+   "display": "Nexo",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.hyundai.com/ch/de/modelle.html",
+   "row": "d-suv",
+   "body": "hydrogen fuel-cell SUV",
+   "generation": "II (2025–)",
+   "length_mm": 4750,
+   "platform": "Hyundai FCEV-specific (platform not stated on Wikipedia)",
+   "powertrains": [
+    "FCEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On sale in Germany since 2026-01-12 from €69,900 (electrive); listed on hyundai.com/de (NEXO 150 kW Trend). Not on the hyundai.ch model overview → ch_on_sale false.",
+   "status_sources": [
+    "https://www.electrive.net/2026/01/12/neuer-hyundai-nexo-ab-69-900-euro-bestellbar/",
+    "https://www.hyundai.com/de/de/modelle.html",
+    "https://www.hyundai.com/ch/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hyundai Nexo",
+   "commons_file": null,
+   "wikipedia_en": "Hyundai Nexo",
+   "notes": "Length 4,750 mm from memory (Wikipedia article gives no dimensions) – verify. Row d-suv by length (4.65–4.9 m). 190 kW, 700 km range."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "Picanto",
+   "display": "Picanto",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/picanto",
+   "row": "a-city",
+   "body": "5-door city car",
+   "generation": "III (JA, 2017–; facelifts 2020 and 2024)",
+   "length_mm": 3605,
+   "platform": "Hyundai-Kia A-segment platform (Picanto JA; shared with Hyundai i10 AC3)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on kia.ch and kia.com/de model navigation Oct 2026 (Picanto continues after the i10's European production end).",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai i10"
+   ],
+   "twin_note": "See Hyundai i10 (i10 is runout since Jan 2026).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_i10",
+    "https://en.wikipedia.org/wiki/Kia_Picanto"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia Picanto (JA)",
+   "commons_file": null,
+   "wikipedia_en": "Kia Picanto",
+   "notes": ""
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "Stonic",
+   "display": "Stonic",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/stonic",
+   "row": "b-suv",
+   "body": "small crossover",
+   "generation": "I (YB, 2017–; facelifts 2020 and 2025)",
+   "length_mm": 4165,
+   "platform": "Hyundai-Kia K2 (Rio-based)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on kia.ch and kia.com/de Oct 2026; 2025 facelift (new dashboard, also adopted by the 2026 XCeed per L'argus).",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/",
+    "https://www.largus.fr/actualite-automobile/kia-xceed-2026-changement-de-look-pour-le-crossover-restyle-30046574.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Bayon"
+   ],
+   "twin_note": "See Hyundai Bayon (K1/K2-P2 B-SUV siblings per Wikipedia platform page; judgement call).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K2_platform",
+    "https://en.wikipedia.org/wiki/Kia_Stonic"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia Stonic",
+   "commons_file": null,
+   "wikipedia_en": "Kia Stonic",
+   "notes": "1.0 T-GDi (48V MHEV on most versions); a non-hybrid 1.2 MPi existed – powertrain listed as petrol."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "XCeed",
+   "display": "XCeed",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/xceed",
+   "row": "c-suv",
+   "body": "compact crossover",
+   "generation": "I (CD CUV, 2019–; facelifts 2022 and 2026)",
+   "length_mm": 4395,
+   "platform": "Hyundai-Kia K2 (Ceed CD-based)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Second facelift unveiled 2026-05-04, production in Žilina from 2026-05-29 (L'argus 2026-05-05); listed on kia.ch and kia.com/de Oct 2026. Not sold in France (CO2) per L'argus.",
+   "status_sources": [
+    "https://www.largus.fr/actualite-automobile/kia-xceed-2026-changement-de-look-pour-le-crossover-restyle-30046574.html",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Ceed-derived crossover; Hyundai i30 PD and Ceed/XCeed CD are listed together under K1/K2-P3 on Wikipedia's platform page, but the i30 sits in c-hatch → no same-row group. PHEV dropped.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Kia_Ceed",
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K2_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia XCeed",
+   "commons_file": null,
+   "wikipedia_en": "Kia XCeed",
+   "notes": "Row judgement: Kia positions XCeed as an urban crossover (c-suv, like Kona at 4,350 mm); by length (4,395) it could also be c-hatch. 1.0 T-GDi 100 hp, 1.5 T-GDi 140 hp (48V 115 hp expected)."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "K4",
+   "display": "K4",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/k4",
+   "row": "c-hatch",
+   "body": "5-door hatchback / Sportswagon estate",
+   "generation": "I (CL4, Europe 2026–)",
+   "length_mm": 4460,
+   "platform": "Hyundai-Kia K3",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Ceed successor; on sale in Europe 2026 (caroftheyear.org: available from €26,250 e.g. Spain; Sportswagon later in 2026; hybrid to follow). kia.ch lists K4 and K4 Sportswagon; kia.com/de lists K4, K4 Hybrid, K4 Sportswagon (Hybrid). Built in Mexico.",
+   "status_sources": [
+    "https://caroftheyear.org/uncategorized/candidate-2027-kia-k4-the-new-ceed-isnt-electric-nor-is-it-an-suv/",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "K3 platform (Wikipedia platform page lists K4 CL4 with Kona/Niro/Seltos); those siblings are in c-suv → cross-row note only; no European sibling in c-hatch.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K3_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia K4 (CL4)",
+   "commons_file": null,
+   "wikipedia_en": "Kia K4",
+   "notes": "Hatch 4,460 mm; Sportswagon longer (~4.62 m, verify). 1.0 T-GDi MHEV 115 hp, 1.6 T-GDi 150/180 hp, HEV later. Commons category name unverified."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "Niro",
+   "display": "Niro",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/new-niro",
+   "row": "c-suv",
+   "body": "compact crossover",
+   "generation": "II (SG2, 2022–; facelift 2025/26 'New Niro')",
+   "length_mm": 4420,
+   "platform": "Hyundai-Kia K3",
+   "powertrains": [
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "kia.ch 'New Niro' page (fetched 2026-10-22): 'Erhältlich als Hybrid' only, from CHF 32,950, configurator live; kia.com/de navigation lists only 'Niro Hybrid' → Niro EV and Niro PHEV dropped with the 2025/26 facelift (listed under discontinued).",
+   "status_sources": [
+    "https://www.kia.ch/de/modelle/new-niro",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Kona",
+    "Kia Seltos"
+   ],
+   "twin_note": "See Hyundai Kona (K3 siblings per Wikipedia platform page).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K3_platform",
+    "https://en.wikipedia.org/wiki/Kia_Niro"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia Niro (SG2)",
+   "commons_file": null,
+   "wikipedia_en": "Kia Niro",
+   "notes": "Facelift 'New Niro' is hybrid-only in CH/DE."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "Seltos",
+   "display": "Seltos",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/seltos",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "II (SP3, Europe 2026–)",
+   "length_mm": 4430,
+   "platform": "Hyundai-Kia K3",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "New to Europe 2026: Germany first market, from €34,190, first deliveries end of June 2026 (MeinAuto 2026-05-11); hybrid with e-AWD due end 2026. Listed on kia.ch and kia.com/de (Seltos, Seltos Hybrid).",
+   "status_sources": [
+    "https://www.meinauto.de/news/2026/05/kia-seltos-2026-neuer-kompakt-suv-startet-in-europa",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/",
+    "https://en.wikipedia.org/wiki/Kia_Seltos"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Kona",
+    "Kia Niro"
+   ],
+   "twin_note": "Seltos SP3 (2026) is listed on the Hyundai-Kia K3 platform together with Kona SX2 and Niro SG2 (Wikipedia platform page, fetched 2026-10-22); same 1.6 T-GDi / 1.6 hybrid family → tier 2.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai-Kia_K3_platform",
+    "https://en.wikipedia.org/wiki/Kia_Seltos"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia Seltos",
+   "commons_file": null,
+   "wikipedia_en": "Kia Seltos",
+   "notes": "4,430 mm (MeinAuto). Europe-specific reveal 2026-04-14 (Wikipedia). Positioned between XCeed and Sportage."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "Sportage",
+   "display": "Sportage",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/neuer-sportage",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "V (NQ5, 2021–; facelift 2025)",
+   "length_mm": 4540,
+   "platform": "Hyundai-Kia N3",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'New Sportage' (2025 facelift) on kia.ch; Sportage / Hybrid / Plug-in Hybrid on kia.com/de Oct 2026. Diesel 1.6 CRDi 48V still offered in several markets (verify per market).",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Tucson"
+   ],
+   "twin_note": "See Hyundai Tucson (N3 siblings, brief example).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Kia_Sportage",
+    "https://en.wikipedia.org/wiki/Hyundai_Tucson"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia Sportage (NQ5)",
+   "commons_file": null,
+   "wikipedia_en": "Kia Sportage",
+   "notes": "European short-wheelbase version; 4,540 mm after facelift (4,515 before) – verify."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "Sorento",
+   "display": "Sorento",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/sorento",
+   "row": "d-suv",
+   "body": "mid-size 7-seat SUV",
+   "generation": "IV (MQ4, 2020–; facelift 2024)",
+   "length_mm": 4815,
+   "platform": "Hyundai-Kia N3",
+   "powertrains": [
+    "diesel",
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Sorento / Hybrid / Plug-in Hybrid on kia.com/de and kia.ch Oct 2026 (the non-hybrid 'Sorento' is the 2.2 CRDi diesel).",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Santa Fe"
+   ],
+   "twin_note": "See Hyundai Santa Fe (N3 siblings).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Kia_Sorento",
+    "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia Sorento (MQ4)",
+   "commons_file": null,
+   "wikipedia_en": "Kia Sorento",
+   "notes": ""
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "EV2",
+   "display": "EV2",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/ev2",
+   "row": "b-suv",
+   "body": "small electric crossover",
+   "generation": "I (2026–)",
+   "length_mm": 4060,
+   "platform": "E-GMP (400 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders open in Germany since 2026-03-17 from €26,600; deliveries from April 2026 (electrive). Built in Žilina. Listed on kia.ch and kia.com/de.",
+   "status_sources": [
+    "https://www.electrive.net/2026/03/17/kia-ev2-startet-bei-26-600-euro/",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Shares the 400 V E-GMP architecture and 42.2/61 kWh packs with the Hyundai Ioniq 3 (c-hatch; Wikipedia lists EV2 as related) – cross-row note only; no sibling in b-suv.",
+   "twin_sources": [
+    "https://www.electrive.net/2026/03/17/kia-ev2-startet-bei-26-600-euro/",
+    "https://en.wikipedia.org/wiki/Hyundai_Ioniq_3"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia EV2",
+   "commons_file": null,
+   "wikipedia_en": "Kia EV2",
+   "notes": "4,060 mm (electrive)."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "EV3",
+   "display": "EV3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/ev3",
+   "row": "c-suv",
+   "body": "compact electric SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4300,
+   "platform": "E-GMP 400 V derivative (K3-derived chassis per Wikipedia)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "EV3 and EV3 GT listed on kia.ch and kia.com/de Oct 2026.",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Wikipedia's E-GMP page (fetched 2026-10-22) says EV3 and EV5 are marketed as 'E-GMP 400 V' but their chassis derive from the FWD K3 and N3 platforms respectively → not grouped with each other or with the 800 V E-GMP cars. Cross-row: Hyundai Ioniq 3 (c-hatch) shares the EV3's 2,680 mm wheelbase and hardware.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
+    "https://en.wikipedia.org/wiki/Hyundai_Ioniq_3"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia EV3",
+   "commons_file": null,
+   "wikipedia_en": "Kia EV3",
+   "notes": ""
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "EV4",
+   "display": "EV4",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/ev4-hatchback",
+   "row": "c-hatch",
+   "body": "5-door electric hatchback / Fastback saloon",
+   "generation": "I (2025–)",
+   "length_mm": 4430,
+   "platform": "E-GMP (400 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "EV4, EV4 Fastback and EV4 GT listed on kia.ch and kia.com/de Oct 2026 (one tile). Hatchback built in Žilina.",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/",
+    "https://www.electrive.net/2026/03/17/kia-ev2-startet-bei-26-600-euro/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "E-GMP (Wikipedia lists EV4 CT as E-GMP) but no same-row sibling: Hyundai Ioniq 3 (c-hatch) has a 2,680 mm wheelbase vs the EV4's 2,820 mm and different packs → not grouped (cross-row note only).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia EV4",
+   "commons_file": null,
+   "wikipedia_en": "Kia EV4",
+   "notes": "Hatch 4,430 mm; Fastback 4,730 mm (same tile)."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "EV5",
+   "display": "EV5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/ev5",
+   "row": "c-suv",
+   "body": "compact/mid electric SUV",
+   "generation": "I (Europe 2025–)",
+   "length_mm": 4610,
+   "platform": "E-GMP 400 V derivative (N3-derived chassis per Wikipedia)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orderable in Germany since September 2025 from €45,990 (ecomento); EV5 and EV5 GT listed on kia.ch and kia.com/de Oct 2026.",
+   "status_sources": [
+    "https://ecomento.de/2025/09/05/kia-ev5-kostet-ab-45-990-euro-ab-september-bestellbar/",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "See Kia EV3 (not grouped: N3-derived chassis).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia EV5",
+   "commons_file": null,
+   "wikipedia_en": "Kia EV5",
+   "notes": "European EV5 is 4,610 mm (Korean/Chinese version 4,615)."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "EV6",
+   "display": "EV6",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/ev6",
+   "row": "c-suv",
+   "body": "electric crossover",
+   "generation": "I (CV, 2021–; facelift 2024)",
+   "length_mm": 4695,
+   "platform": "E-GMP (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "EV6 and EV6 GT listed on kia.ch and kia.com/de Oct 2026 (one tile).",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Ioniq 5",
+    "Genesis GV60"
+   ],
+   "twin_note": "See Hyundai Ioniq 5. Row adjusted to c-suv to keep the E-GMP group in one row (EV6 is 4,695 mm, borderline d-suv).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia EV6",
+   "commons_file": null,
+   "wikipedia_en": "Kia EV6",
+   "notes": ""
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "EV9",
+   "display": "EV9",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/modelle/ev9",
+   "row": "e-suv",
+   "body": "large electric 6/7-seat SUV",
+   "generation": "I (MV, 2023–)",
+   "length_mm": 5010,
+   "platform": "E-GMP (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "EV9 and EV9 GT listed on kia.ch and kia.com/de Oct 2026 (one tile).",
+   "status_sources": [
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Ioniq 9"
+   ],
+   "twin_note": "See Hyundai Ioniq 9.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
+    "https://en.wikipedia.org/wiki/Kia_EV9"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia EV9",
+   "commons_file": null,
+   "wikipedia_en": "Kia EV9",
+   "notes": "5,010 mm (EU 5,015 reported)."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "PV5 Passenger",
+   "display": "PV5 Passenger",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/kia-pbv/fahrzeuge/pv5-passenger",
+   "row": "mpv-large",
+   "body": "electric MPV (5/7 seats; WAV)",
+   "generation": "I (2025–)",
+   "length_mm": 4695,
+   "platform": "E-GMP.S (E-GMP for Service)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "PV5 Passenger launched in European markets June 2025 (electrive 2025-06-12); European sales began Nov 2025, >10,000 European units by June 2026 (Wikipedia); listed on kia.ch (PV5 Passenger) and kia.com/de (PV5 Passenger, PV5 WAV) Oct 2026.",
+   "status_sources": [
+    "https://www.electrive.com/2025/06/12/kia-launches-pv5-passenger-in-european-markets",
+    "https://en.wikipedia.org/wiki/Kia_PV5",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin (Hyundai has no PBV sibling on sale in Europe).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia PV5",
+   "commons_file": null,
+   "wikipedia_en": "Kia PV5",
+   "notes": "Length 4,695 mm standard / 4,890 mm long, wheelbase 2,995 mm (Wikipedia) – only 4.7 m, but the brief assigns PV5 Passenger to mpv-large. Commons category verified via Wikipedia link."
+  },
+  {
+   "brand": "Kia",
+   "group": "Hyundai Motor Group",
+   "model": "PV5 Cargo",
+   "display": "PV5 Cargo",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kia.ch/de/kia-pbv/fahrzeuge/pv5-cargo",
+   "row": "van-mid",
+   "body": "electric panel van (L1H1, L2H1, L2H2), Crew van, Chassis Cab",
+   "generation": "I (2025–)",
+   "length_mm": 4695,
+   "platform": "E-GMP.S (E-GMP for Service)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "PV5 Cargo on sale in Germany from ~€33,000 net since 2025 (electrive 2025-05-02); L1H1 and L2H2 European debuts at CV Show April 2026 (Automotive World 2026-03-31); kia.ch lists PV5 Cargo, Crew and Chassis Cab; kia.com/de lists PV5 Cargo.",
+   "status_sources": [
+    "https://www.electrive.net/2025/05/02/kia-pv5-startet-in-deutschland-bei-knapp-33-000-euro-netto/",
+    "https://www.automotiveworld.com/news/kia-brings-two-pv5-european-debuts-to-cv-show-2026/",
+    "https://www.kia.ch/",
+    "https://www.kia.com/de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Van version of the PV5 (brief lists 'PV5 Cargo' in van-mid).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Kia PV5",
+   "commons_file": null,
+   "wikipedia_en": "Kia PV5",
+   "notes": "PV5 Crew and PV5 Chassis Cab are kept in this tile (same nameplate). Long version 4,890 mm. Commons category verified via Wikipedia link."
+  },
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "GV60",
+   "display": "GV60",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "c-suv",
+   "body": "electric crossover",
+   "generation": "I (JW, 2022–; facelift 2025)",
+   "length_mm": 4515,
+   "platform": "E-GMP (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "genesis.com/ch: GV60 (leasing from CHF 539/month) and GV60 Magma (CHF 96,900) with configurator, 'Jetzt bestellbar'; genesis.com/de: GV60 and GV60 Magma (from €85,990) with configurator (both fetched 2026-10-21). Genesis Europe status (electrive 2026-06-16): sells in DE, CH, UK since 2021; FR, IT, NL added Feb–Mar 2026 (BEV-only line-up GV60 / Electrified GV70 / Electrified G80 there); ES Q4 2026; AT, DK, PL, PT in 2027; Germany also sells ICE models.",
+   "status_sources": [
+    "https://www.genesis.com/ch",
+    "https://www.genesis.com/de",
+    "https://electrive.com/2026/06/16/genesis-to-expand-into-four-additional-european-countries-in-2027"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Hyundai Ioniq 5",
+    "Kia EV6"
+   ],
+   "twin_note": "See Hyundai Ioniq 5 (E-GMP trio).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis GV60",
+   "commons_file": null,
+   "wikipedia_en": "Genesis GV60",
+   "notes": "GV60 Magma = performance version, same tile."
+  },
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "GV70",
+   "display": "GV70",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "d-suv",
+   "body": "mid-size SUV (incl. Electrified GV70)",
+   "generation": "I (JK, 2021–; facelift 2024/25)",
+   "length_mm": 4715,
+   "platform": "Hyundai-Genesis M3 (RWD)",
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "genesis.com/ch lists Electrified GV70 (MY24, leasing from CHF 399/month, configurator); genesis.com/de lists GV70 (model page https://www.genesis.com/de/de/models/gv70.html, not fetched) and Electrified GV70 (configurator). Petrol GV70 orderability in DE not verified (likely same stock-only situation as GV80).",
+   "status_sources": [
+    "https://www.genesis.com/ch",
+    "https://www.genesis.com/de",
+    "https://electrive.com/2026/06/16/genesis-to-expand-into-four-additional-european-countries-in-2027"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Shares the rear-drive M3 platform with G70/G80/GV80 but those are in other rows; no same-row twin.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis GV70",
+   "commons_file": null,
+   "wikipedia_en": "Genesis GV70",
+   "notes": "Electrified GV70 counted in the same tile (same nameplate)."
+  },
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "GV80",
+   "display": "GV80",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "e-suv",
+   "body": "large SUV (incl. GV80 Coupé)",
+   "generation": "I (JX, 2020–; facelift 2024)",
+   "length_mm": 4945,
+   "platform": "Hyundai-Genesis M3 (RWD)",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "runout",
+   "status_note": "genesis.com/de/de/models/gv80.html (fetched 2026-10-22): no 'Jetzt bestellen', no model-specific configurator, price list only as PDF, stock search ('Autobestand') and the statement that the GV80 'ist als Gebrauchtwagen erhältlich' → judged RUNOUT (stock vehicles only). Engines named: 2.5T petrol 224 kW AWD, 3.0 diesel. Not on genesis.com/ch → ch_on_sale false.",
+   "status_sources": [
+    "https://www.genesis.com/de/de/models/gv80.html",
+    "https://www.genesis.com/de",
+    "https://electrive.com/2026/06/16/genesis-to-expand-into-four-additional-european-countries-in-2027"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis GV80",
+   "commons_file": null,
+   "wikipedia_en": "Genesis GV80",
+   "notes": "Judgement call: GV80 and G70 = runout (DE pages point to stock/used only), petrol G80 and G90 = on sale (model-specific configurator links). electrive (June 2026) confirms Germany still sells ICE Genesis models. Verifier: check the DE configurator."
+  },
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "G70",
+   "display": "G70",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "d-car",
+   "body": "saloon / Shooting Brake",
+   "generation": "I (IK, 2017–; facelift 2020, updates 2024 and Jan 2026)",
+   "length_mm": 4685,
+   "platform": "Hyundai M2 (RWD, shared with Kia Stinger)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "genesis.com/de/de/models/g70.html (fetched 2026-10-22): only the 2.0T RWD 180 kW petrol listed, price list as PDF, generic configurator link, no 'Jetzt bestellen', and the page says the G70 'ist als Gebrauchtwagen erhältlich' → judged RUNOUT in Germany (stock). G70 Shooting Brake has its own DE page. Not on genesis.com/ch. Still built in Korea (Jan 2026 update, Wikipedia).",
+   "status_sources": [
+    "https://www.genesis.com/de/de/models/g70.html",
+    "https://www.genesis.com/de",
+    "https://electrive.com/2026/06/16/genesis-to-expand-into-four-additional-european-countries-in-2027",
+    "https://en.wikipedia.org/wiki/Genesis_G70"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis G70",
+   "commons_file": null,
+   "wikipedia_en": "Genesis G70",
+   "notes": "Length 4,685 mm (Wikipedia). 2.2 diesel no longer listed on the DE page (Oct 2026)."
+  },
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "G80",
+   "display": "G80",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "e-car",
+   "body": "executive saloon (incl. Electrified G80)",
+   "generation": "III (RG3, 2020–; facelift 2024)",
+   "length_mm": 5005,
+   "platform": "Hyundai-Genesis M3 (RWD)",
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Electrified G80 listed with configurator on genesis.com/ch and genesis.com/de; petrol G80 page on genesis.com/de (fetched 2026-10-22) offers a G80-specific configurator link and lists the 2.5T RWD 224 kW (AWD available) → on sale.",
+   "status_sources": [
+    "https://www.genesis.com/de/de/models/g80.html",
+    "https://www.genesis.com/ch",
+    "https://www.genesis.com/de",
+    "https://electrive.com/2026/06/16/genesis-to-expand-into-four-additional-european-countries-in-2027"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis G80 (RG3)",
+   "commons_file": null,
+   "wikipedia_en": "Genesis G80",
+   "notes": ""
+  },
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "G90",
+   "display": "G90",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "e-car",
+   "body": "luxury saloon",
+   "generation": "II (RS4, 2022–)",
+   "length_mm": 5275,
+   "platform": "Hyundai-Genesis M3 (RWD)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "genesis.com/ch lists G90 (consultation only, no configurator); genesis.com/de/de/models/g90.html (fetched 2026-10-22) lists the 3.5T AWD 305 kW with 'Konfigurieren Sie Ihren Genesis', test-drive and consultation buttons → on sale (low-volume, on request).",
+   "status_sources": [
+    "https://www.genesis.com/de/de/models/g90.html",
+    "https://www.genesis.com/ch",
+    "https://www.genesis.com/de"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis G90 (RS4)",
+   "commons_file": null,
+   "wikipedia_en": "Genesis G90",
+   "notes": "ch_on_sale true but 'consultation' sales only."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Puma",
+   "display": "Puma",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/kaufberatung/kaufen/angebote/kuga-puma-shadow-edition",
+   "row": "b-suv",
+   "body": "small crossover (incl. Puma Gen-E)",
+   "generation": "I (2019–; facelift 2024; Gen-E 2025)",
+   "length_mm": 4214,
+   "platform": "Ford B2E (Fiesta-derived)",
+   "powertrains": [
+    "MHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Puma and Puma Gen-E on de.ford.ch, ford.de and ford.co.uk (fetched 2026-10-21). All petrol Pumas are 1.0 EcoBoost 48V mild hybrids since the 2024 facelift (hence MHEV).",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/",
+    "https://www.ford.co.uk/cars/puma-gen-e"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Cross-row: Tourneo/Transit Courier II share the Puma's B2E platform (mpv-small / van-small rows).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Puma_(crossover)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Puma (2019)",
+   "commons_file": null,
+   "wikipedia_en": "Ford Puma (crossover)",
+   "notes": "Facelift length 4,214 mm (4,186 pre-facelift) – verify. Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Kuga",
+   "display": "Kuga",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/kaufberatung/kaufen/angebote/kuga-puma-shadow-edition",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "III (CX482, 2019–; facelift 2024)",
+   "length_mm": 4645,
+   "platform": "Ford C2",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Kuga on de.ford.ch, ford.de (fahrzeuge/ford-kuga) and ford.co.uk (fetched 2026-10-21). Diesel dropped with the 2024 facelift.",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/fahrzeuge/ford-kuga",
+    "https://www.ford.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Escape twin not sold in Europe.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Kuga III",
+   "commons_file": null,
+   "wikipedia_en": "Ford Kuga",
+   "notes": "Commons category name unverified. Next-gen Kuga (multi-energy, Valencia) announced for later this decade (Ford Authority 2026-05-26)."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Explorer",
+   "display": "Explorer",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/",
+   "row": "c-suv",
+   "body": "electric compact SUV",
+   "generation": "I (EV, 2024–)",
+   "length_mm": 4468,
+   "platform": "Volkswagen MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Explorer (EV) on de.ford.ch, ford.de and ford.co.uk (fetched 2026-10-21). Not to be confused with the US Explorer PHEV, dropped in Europe (see discontinued).",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Ford Capri",
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Škoda Enyaq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan"
+   ],
+   "twin_note": "Built on VW's MEB platform in Cologne under the Ford–VW alliance; platform sibling of ID.4/ID.5/Enyaq/Q4 e-tron/Tavascan (brief example, tier 2). Wikipedia's MEB page (fetched 2026-10-22) lists Ford Explorer EV and Capri EV (2024–) with ID.4, ID.5, Enyaq, Elroq, Q4 e-tron, Tavascan (Elroq, ID.3, Born, ID. Buzz are MEB too but in other rows).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Ford_Explorer_EV"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Explorer EV",
+   "commons_file": null,
+   "wikipedia_en": "Ford Explorer EV",
+   "notes": "Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Capri",
+   "display": "Capri",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/",
+   "row": "c-suv",
+   "body": "electric coupé-SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4634,
+   "platform": "Volkswagen MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Capri on de.ford.ch and ford.de (fetched 2026-10-21).",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Ford Explorer",
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Škoda Enyaq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan"
+   ],
+   "twin_note": "MEB platform sibling (closest to the VW ID.5), built in Cologne; listed on Wikipedia's MEB page (fetched 2026-10-22).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Ford_Capri_(2024)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Capri (2024)",
+   "commons_file": null,
+   "wikipedia_en": "Ford Capri (2024)",
+   "notes": "Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Mustang Mach-E",
+   "display": "Mustang Mach-E",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/",
+   "row": "d-suv",
+   "body": "electric mid-size SUV",
+   "generation": "I (2020–; MY2025 update)",
+   "length_mm": 4713,
+   "platform": "Ford GE1",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Mustang Mach-E on de.ford.ch, ford.de and ford.co.uk (fetched 2026-10-21).",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/",
+    "https://www.ford.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Mustang Mach-E",
+   "commons_file": null,
+   "wikipedia_en": "Ford Mustang Mach-E",
+   "notes": "GT 4,743 mm."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Mustang",
+   "display": "Mustang",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door coupé / convertible (incl. Dark Horse, GTD)",
+   "generation": "VII (S650, 2023–)",
+   "length_mm": 4811,
+   "platform": "Ford D2C (S650)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Mustang GTD: European order window 2026-09-14 to 2026-10-16, 500 units, ~€359,900 (AutoGuide 2026-09-16); ford.de/fahrzeuge links 'Mustang GTD', ford.co.uk/cars shows 'Mustang GTD – coming soon'. Regular Mustang: ford.co.uk/cars/mustang (fetched 2026-10-21) lists Mustang GT Fastback Manual at £58,670 OTR with Configure / View Stock links, Dark Horse and Convertible shown (MY25/MY26 imagery) → on sale. de.ford.ch home page does not mention it and the Swiss model page URL returns an error → ch_on_sale unknown.",
+   "status_sources": [
+    "https://www.ford.co.uk/cars/mustang",
+    "https://www.autoguide.com/auto/manufacturers/ford/ford-reopens-mustang-gtd-orders-in-europe-capped-at-500-44638672",
+    "https://www.ford.de/fahrzeuge",
+    "https://www.ford.co.uk/cars"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Mustang (seventh generation)",
+   "commons_file": null,
+   "wikipedia_en": "Ford Mustang (seventh generation)",
+   "notes": "Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Bronco",
+   "display": "Bronco",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "offroad",
+   "body": "4-door off-road SUV",
+   "generation": "VI (U725, 2021–; Europe since 2023)",
+   "length_mm": 4811,
+   "platform": "Ford T6 (shared with Ranger)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "ford.de/fahrzeuge/ford-bronco (fetched 2026-10-22): Outer Banks and Badlands with 2.7 EcoBoost V6 246 kW, leasing 'ab € 569,-/Monat', link to available new vehicles → on sale in Germany. Ford Authority 2026-05-26: sold in Europe 'only in limited quantities and limited configurations'; a Valencia-built multi-energy Bronco follows in 2028. Swiss model pages (de.ford.ch/fahrzeuge/...) return errors → ch unknown.",
+   "status_sources": [
+    "https://www.ford.de/fahrzeuge/ford-bronco",
+    "https://fordauthority.com/2026/05/ford-bronco-brand-will-be-big-part-of-european-product-roadmap/",
+    "https://www.bloomberg.com/news/articles/2026-05-18/ford-bets-on-bronco-suv-to-revive-flagging-european-sales",
+    "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Shares the T6 body-on-frame platform with the Ranger (pickup row) – cross-row note only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Ranger_(T6)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Bronco (sixth generation)",
+   "commons_file": null,
+   "wikipedia_en": "Ford Bronco (sixth generation)",
+   "notes": "Europe gets the 4-door with 2.7 EcoBoost V6 (Outer Banks / Badlands). Length 4,811 mm (4-door) from memory – verify. Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Tourneo Courier",
+   "display": "Tourneo Courier",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-small",
+   "body": "compact leisure activity vehicle (5 seats)",
+   "generation": "II (2023–; E-Tourneo Courier 2024/25)",
+   "length_mm": 4337,
+   "platform": "Ford B2E (Puma-based)",
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ford.co.uk/cars/tourneo-courier (fetched 2026-10-22): from £28,490 OTR (Titanium 1.0 EcoBoost 125 PS manual/auto), 'now available with £1,000 Welcome to Ford Saving', configurator/stock links; E-Tourneo Courier (all-electric) has its own page → on sale. Built in Craiova. Swiss status unknown (Swiss pages unreadable).",
+   "status_sources": [
+    "https://www.ford.co.uk/cars/tourneo-courier",
+    "https://www.ford.co.uk/",
+    "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Puma platform sibling (cross-row). No cross-brand twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Transit_Courier"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Tourneo Courier II",
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit Courier",
+   "notes": "1.0 EcoBoost petrol (48V on some), 100 kW electric. Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Transit Courier",
+   "display": "Transit Courier",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-small",
+   "body": "small panel van",
+   "generation": "II (2023–; E-Transit Courier 2024/25)",
+   "length_mm": 4337,
+   "platform": "Ford B2E (Puma-based)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ford.co.uk/vans-and-pickups/transit-courier (fetched 2026-10-22): from £19,632 excl. VAT (Leader 1.0 EcoBoost 100 PS); petrol 100/125 PS, 1.5 EcoBlue diesel 100 PS, E-Transit Courier 100 kW; configurator/stock/dealer links → on sale.",
+   "status_sources": [
+    "https://www.ford.co.uk/vans-and-pickups/transit-courier",
+    "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)",
+    "https://www.ford.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Transit Courier II",
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit Courier",
+   "notes": "Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Tourneo Connect",
+   "display": "Tourneo Connect",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-small",
+   "body": "compact MPV (5/7 seats; Grand Tourneo Connect)",
+   "generation": "III (2022–)",
+   "length_mm": 4500,
+   "platform": "Volkswagen MQB (Caddy 5)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ford.co.uk/cars/tourneo-connect (fetched 2026-10-22): from £35,330 OTR (Titanium 1.5 EcoBoost), PHEV / 1.5 EcoBoost 115 PS / EcoBlue 102–122 PS, 'now available with £1,000 Welcome to Ford Saving', configurator → on sale. Also named on ford.de home page.",
+   "status_sources": [
+    "https://www.ford.co.uk/cars/tourneo-connect",
+    "https://www.ford.de/",
+    "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Caddy"
+   ],
+   "twin_note": "Wikipedia 'Ford Tourneo Connect' (fetched 2026-10-22): the third generation (Oct 2021–) is 'a rebadged fourth-generation Volkswagen Caddy', assembled by Volkswagen in Poland; Ford-specific fascia/lights/trim (brief example, tier 1).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Tourneo_Connect",
+    "https://en.wikipedia.org/wiki/Volkswagen_Caddy",
+    "https://fordauthority.com/2022/08/ford-transit-connect-will-live-on-in-europe-as-rebadged-volkswagen"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Transit Connect",
+   "commons_file": null,
+   "wikipedia_en": "Ford Tourneo Connect",
+   "notes": "Standard 4,500 mm, Grand/Maxi 4,859 mm, wheelbases 2,755/2,975 mm (Wikipedia). Wikipedia links only the parent 'Category:Ford Transit Connect' – a generation sub-category may exist."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Transit Connect",
+   "display": "Transit Connect",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-small",
+   "body": "compact panel van (L1/L2)",
+   "generation": "III (2022–)",
+   "length_mm": 4500,
+   "platform": "Volkswagen MQB (Caddy 5)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ford.co.uk/vans-and-pickups/transit-connect (fetched 2026-10-21): from £24,600 excl. VAT (Van Trend 2.0 EcoBlue 102 PS), diesel 102/122 PS and 150 PS plug-in hybrid, configurator + stock + fleet dealer links → on sale; no discontinuation note.",
+   "status_sources": [
+    "https://www.ford.co.uk/vans-and-pickups/transit-connect",
+    "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)",
+    "https://fordauthority.com/2022/08/ford-transit-connect-will-live-on-in-europe-as-rebadged-volkswagen"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Caddy Cargo"
+   ],
+   "twin_note": "Rebadged VW Caddy Cargo (Poznań).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Transit_Connect",
+    "https://en.wikipedia.org/wiki/Ford_Tourneo_Connect",
+    "https://en.wikipedia.org/wiki/Volkswagen_Caddy",
+    "https://fordauthority.com/2022/08/ford-transit-connect-will-live-on-in-europe-as-rebadged-volkswagen"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Transit Connect",
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit Connect",
+   "notes": "No electric Transit Connect in the UK line-up (PHEV instead). L2 4,859 mm. Only the parent Commons category is confirmed (via Wikipedia link)."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Tourneo Custom",
+   "display": "Tourneo Custom",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "large MPV (8/9 seats; L1/L2)",
+   "generation": "II (2023–)",
+   "length_mm": 5050,
+   "platform": "Ford (Otosan) – shared with VW T7",
+   "powertrains": [
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ford.de home page links 'Ford Tourneo Custom' (fahrzeuge/ford-tourneo-custom, fetched 2026-10-21); E-Tourneo Custom included.",
+   "status_sources": [
+    "https://www.ford.de/fahrzeuge/ford-tourneo-custom",
+    "https://www.ford.de/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Caravelle"
+   ],
+   "twin_note": "Wikipedia 'Ford Transit Custom' (fetched 2026-10-22): 'The Volkswagen Transporter will be a rebadge of the second generation Transit Custom'; Transit/Tourneo Custom built by Ford Otosan (Kocaeli). Wikipedia 'Volkswagen Transporter (T7)' (fetched 2026-10-22): 'the Transporter and passenger Caravelle are based on the Ford Transit Custom, not on the MQB-based Multivan'; unveiled Aug 2024 → Caravelle = rebadged Tourneo Custom (brief example tier 1). The VW Multivan (MQB) is NOT a twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)",
+    "https://en.wikipedia.org/wiki/Ford_Transit_Custom"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Tourneo Custom II",
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit Custom",
+   "notes": "L2 5,450 mm. Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Transit Custom",
+   "display": "Transit Custom",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/",
+   "row": "van-mid",
+   "body": "1-tonne panel van / Kombi / double cab (L1/L2)",
+   "generation": "II (2023–)",
+   "length_mm": 5050,
+   "platform": "Ford (Otosan) – shared with VW T7",
+   "powertrains": [
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "E-Transit Custom named on de.ford.ch, ford.de and ford.co.uk home pages (fetched 2026-10-21).",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/",
+    "https://www.ford.co.uk/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Transporter"
+   ],
+   "twin_note": "VW Transporter T7 = rebadge of the second-generation Transit Custom (Wikipedia 'Ford Transit Custom', fetched 2026-10-22), both built by Ford Otosan in Kocaeli (brief example tier 1). Diesel, PHEV and electric (74 kWh, 100/160 kW) versions.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Transit_Custom",
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Transit Custom II",
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit Custom",
+   "notes": "Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Transit",
+   "display": "Transit",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/",
+   "row": "van-large",
+   "body": "large van / chassis cab / minibus (incl. E-Transit)",
+   "generation": "IV (V363, 2014–; facelift 2019; MY2024/25 update)",
+   "length_mm": 5531,
+   "platform": "Ford (V363)",
+   "powertrains": [
+    "diesel",
+    "MHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Transit named on de.ford.ch ('Transit und Ranger'), ford.de and ford.co.uk ('Transit Van') home pages (fetched 2026-10-21).",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/",
+    "https://www.ford.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin (VW Crafter/MAN TGE are unrelated).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Transit (2014)",
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit",
+   "notes": "Length 5,531 mm (L2); L3 5,981; L4 6,704. MHEV listed in addition to plain diesel (both exist). Commons category name unverified."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Transit City",
+   "display": "Transit City",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-small",
+   "body": "electric compact van (L1H1, L2H2, Chassis Cab L2)",
+   "generation": "I (2026–)",
+   "length_mm": null,
+   "platform": "JMC (Jiangling) dedicated EV van platform",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "All-new all-electric entry van for Europe, revealed 2026-03-26; order banks open (Ford Authority 2026-05-14: L1H1 €26,400 excl. VAT, L2H2 €27,350, Chassis Cab €27,050; Wikipedia: orderable from August 2026); ford.co.uk/vans-and-pickups/transit-city (fetched 2026-10-22): from £24,000 excl. VAT, 6.4 m³ (L1H1) / 8.5 m³ (L2H2), 56 kWh LFP, 158 miles WLTP, 'Configure' link, finance for contracts 2026-10-01 to 2026-12-31, but still 'pre-launch' imagery. Built by JMC in Nanchang (same platform as the JMC E-Fushun); deliveries from Dec 2026.",
+   "status_sources": [
+    "https://fordauthority.com/2026/05/ford-transit-city-orders-open-van-starts-at-30k/",
+    "https://fordauthority.com/2026/03/2026-ford-transit-city-revealed-as-all-new-electric-van-for-europe/",
+    "https://www.ford.co.uk/vans-and-pickups/transit-city",
+    "https://en.wikipedia.org/wiki/Ford_Transit_City"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Based on the JMC E-Fushun (China) – not sold in Europe under another brand → no European twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Transit_City",
+    "https://fordauthority.com/2026/05/ford-transit-city-orders-open-van-starts-at-30k/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Ford Transit City",
+   "notes": "Length not published in the fetched sources – 6.4/8.5 m³ load volume and 1,085/1,275 kg payload put it between Transit Connect and Transit Custom; row van-small chosen provisionally (verifier may move to van-mid). No Commons category yet. Orders open → on_sale per brief, deliveries only from Dec 2026."
+  },
+  {
+   "brand": "Ford",
+   "group": "Ford",
+   "model": "Ranger",
+   "display": "Ranger",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.de.ford.ch/",
+   "row": "pickup",
+   "body": "pickup (single/super/double cab; Raptor)",
+   "generation": "T6.2 (2022–)",
+   "length_mm": 5370,
+   "platform": "Ford T6",
+   "powertrains": [
+    "diesel",
+    "PHEV",
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Ranger named on de.ford.ch, ford.de and ford.co.uk home pages (fetched 2026-10-21). Ranger PHEV since 2025; Raptor 3.0 V6 petrol.",
+   "status_sources": [
+    "https://www.de.ford.ch/",
+    "https://www.ford.de/",
+    "https://www.ford.co.uk/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Amarok"
+   ],
+   "twin_note": "Wikipedia 'Ford Ranger (T6)' (fetched 2026-10-22): the T6.2 Ranger 'shares its underpinnings with the second-generation Volkswagen Amarok' under the Ford–VW alliance; both built in Silverton, South Africa (brief example tier 1).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Ford_Ranger_(T6)",
+    "https://en.wikipedia.org/wiki/Volkswagen_Amarok"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ford Ranger (T6)",
+   "commons_file": null,
+   "wikipedia_en": "Ford Ranger (T6)",
+   "notes": "Length 5,225–5,370 mm (Raptor 5,381) per Wikipedia. Commons category name unverified."
+  },
+  {
+   "brand": "Cadillac",
+   "group": "General Motors",
+   "model": "Optiq",
+   "display": "Optiq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cadillaceurope.com/ch-de/optiq",
+   "row": "d-suv",
+   "body": "electric mid-size SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4820,
+   "platform": "GM BEV3 (Ultium)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "cadillaceurope.com: CH from CHF 59,900, DE from €57,500 (fetched 2026-10-21); Optiq Studio Edition reservable. Markets: FR, DE, IE, SE, CH + 'rest of Europe'.",
+   "status_sources": [
+    "https://www.cadillaceurope.com/ch-de",
+    "https://www.cadillaceurope.com/de-de"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "BEV3 sibling of Lyriq/Vistiq (e-suv row) – cross-row note only.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cadillac Optiq",
+   "commons_file": null,
+   "wikipedia_en": "Cadillac Optiq",
+   "notes": ""
+  },
+  {
+   "brand": "Cadillac",
+   "group": "General Motors",
+   "model": "Lyriq",
+   "display": "Lyriq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cadillaceurope.com/ch-de/lyriq",
+   "row": "e-suv",
+   "body": "electric large SUV (incl. Lyriq-V)",
+   "generation": "I (2022–; Europe 2024–)",
+   "length_mm": 4996,
+   "platform": "GM BEV3 (Ultium)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "cadillaceurope.com: CH from CHF 90,100 (Lyriq-V CHF 112,771), DE from €83,000 (fetched 2026-10-21).",
+   "status_sources": [
+    "https://www.cadillaceurope.com/ch-de",
+    "https://www.cadillaceurope.com/de-de"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Cadillac Vistiq"
+   ],
+   "twin_note": "Wikipedia (both articles fetched 2026-10-22): Lyriq 4,996 mm / wheelbase 3,094 mm on GM BEV3; Vistiq 5,222 mm / wheelbase 3,094 mm on GM BEV3 with the 102 kWh Ultium pack; distinct bodies → tier 2 (same-brand judgement call; verifier may drop).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Cadillac_Vistiq",
+    "https://en.wikipedia.org/wiki/Cadillac_Lyriq"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cadillac Lyriq",
+   "commons_file": null,
+   "wikipedia_en": "Cadillac Lyriq",
+   "notes": "Lyriq-V = performance version (624 PS), same tile. Europe launch 2024, Switzerland first (Wikipedia)."
+  },
+  {
+   "brand": "Cadillac",
+   "group": "General Motors",
+   "model": "Vistiq",
+   "display": "Vistiq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cadillaceurope.com/ch-de/vistiq",
+   "row": "e-suv",
+   "body": "electric 3-row large SUV",
+   "generation": "I (2025–)",
+   "length_mm": 5222,
+   "platform": "GM BEV3 (Ultium)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "cadillaceurope.com: CH from CHF 108,800, DE from €99,640 (fetched 2026-10-21); Wikipedia: launched in selected European countries in 2025 as a 2026 model, RHD for Ireland 2026.",
+   "status_sources": [
+    "https://www.cadillaceurope.com/ch-de",
+    "https://www.cadillaceurope.com/de-de",
+    "https://en.wikipedia.org/wiki/Cadillac_Vistiq"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Cadillac Lyriq"
+   ],
+   "twin_note": "See Lyriq.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Cadillac_Vistiq",
+    "https://en.wikipedia.org/wiki/Cadillac_Lyriq"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cadillac Vistiq",
+   "commons_file": null,
+   "wikipedia_en": "Cadillac Vistiq",
+   "notes": ""
+  },
+  {
+   "brand": "Chevrolet",
+   "group": "General Motors",
+   "model": "Corvette",
+   "display": "Corvette",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door coupé / convertible (Stingray, E-Ray, Z06; ZR1 shown)",
+   "generation": "C8 (2020–; MY2026 interior update)",
+   "length_mm": 4630,
+   "platform": "GM Y2 (mid-engine)",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "chevroleteurope.com/de-de/corvette (fetched 2026-10-22): Stingray from €106,900, E-Ray from €169,900, Z06 from €209,900, each as Coupé or Cabrio, sold via dealers (no online ordering); ZR1/ZR1X shown but not priced. UK: updated 2026 line-up in RHD from £97,760 since July 2026 (GM Authority 2026-07-14). Site regions are only Germany / Rest of Europe / UK → Swiss status unknown.",
+   "status_sources": [
+    "https://www.chevroleteurope.com/de-de/corvette",
+    "https://www.chevroleteurope.com/eu-en/corvette",
+    "https://gmauthority.com/blog/2026/07/updated-2026-corvette-lineup-officially-on-sale-in-the-uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Chevrolet Corvette (C8)",
+   "commons_file": null,
+   "wikipedia_en": "Chevrolet Corvette (C8)",
+   "notes": "E-Ray is a V8 hybrid (HEV). Escalade IQ is not offered on cadillaceurope.com (CH/DE pages fetched) → not included."
+  },
+  {
+   "brand": "Tesla",
+   "group": "Tesla",
+   "model": "Model 3",
+   "display": "Model 3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.tesla.com/de_ch",
+   "row": "d-car",
+   "body": "electric saloon",
+   "generation": "I (facelift 'Highland' 2023–)",
+   "length_mm": 4720,
+   "platform": "Tesla Model 3/Y platform",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "tesla.com/de_ch home page (fetched 2026-10-21): Model 3 rear-wheel-drive financing offer for orders through 2026-12-31 → orderable in CH.",
+   "status_sources": [
+    "https://www.tesla.com/de_ch"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Model Y shares the platform but sits in d-suv.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Tesla Model 3 (2023)",
+   "commons_file": null,
+   "wikipedia_en": "Tesla Model 3",
+   "notes": "Commons category name for the Highland facelift unverified (may be 'Category:Tesla Model 3 Highland')."
+  },
+  {
+   "brand": "Tesla",
+   "group": "Tesla",
+   "model": "Model Y",
+   "display": "Model Y",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.tesla.com/de_ch/modely",
+   "row": "d-suv",
+   "body": "electric mid-size SUV (Standard / Premium / Performance; Model Y L coming)",
+   "generation": "I (facelift 'Juniper' 2025–)",
+   "length_mm": 4790,
+   "platform": "Tesla Model 3/Y platform",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "tesla.com/de_ch home page: Model Y Maximale Reichweite AWD and Premium offers for orders 2026-10-08 to 2026-12-31 (fetched 2026-10-21); Model Y Standard launched in Europe/CH Oct 2025. Six-seat Model Y L: EU type-approved, tested in Germany (July 2026), present in the DE/FR/IT/ES configurator code but not orderable as of 2026-08-19 (speedme.ru) – treated as a coming variant of the same tile.",
+   "status_sources": [
+    "https://www.tesla.com/de_ch",
+    "https://www.bluewin.ch/en/news/tesla-also-launches-slimmed-down-model-y-in-switzerland-2910849.html",
+    "https://www.notateslaapp.com/news/4419/tesla-model-y-l-spotted-under-wraps-in-germany",
+    "https://speedme.ru/en/posts/id72519-tesla-model-y-l-spotted-in-europes-configurator-code-six-seat-suv-681-km-range-coming"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Tesla Model Y (Juniper)",
+   "commons_file": null,
+   "wikipedia_en": "Tesla Model Y",
+   "notes": "Model Y L 4,976 mm (not yet on sale in Europe). Commons category name unverified."
+  }
+ ],
+ "announced": [
+  {
+   "brand": "Genesis",
+   "group": "Hyundai Motor Group",
+   "model": "GV90",
+   "display": "GV90",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.genesis.com/ch",
+   "row": "e-suv",
+   "body": "full-size electric SUV",
+   "generation": "I (2026/27–)",
+   "length_mm": 5285,
+   "platform": "Hyundai eMP (Electric Mobility Prime)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Production model unveiled 2026-08-19 (Korea/San Francisco); production from 2026 at Ulsan (Wikipedia, fetched). genesis.com/ch and /de show GV90 as 'Demnächst' (coming soon) without configurator (fetched 2026-10-21). European on-sale date not published – expected 2027.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Genesis_GV90",
+    "https://www.genesis.com/ch",
+    "https://www.genesis.com/de"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "eMP platform, not E-GMP.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Genesis_GV90"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Genesis GV90",
+   "commons_file": null,
+   "wikipedia_en": "Genesis GV90",
+   "notes": ""
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "Hyundai",
+   "model": "i20 N",
+   "note": "European production ended February 2024 (Wikipedia).",
+   "source": "https://en.wikipedia.org/wiki/Hyundai_i20"
+  },
+  {
+   "brand": "Hyundai",
+   "model": "i10 (production)",
+   "note": "European production ended January 2026 (Wikipedia); the model is kept in `models` as RUNOUT because hyundai.ch and hyundai.com/uk still list it in Oct 2026.",
+   "source": "https://en.wikipedia.org/wiki/Hyundai_i10"
+  },
+  {
+   "brand": "Hyundai",
+   "model": "Ioniq (liftback) / Kona I / i40",
+   "note": "Older drops (pre-2024) – listed only for completeness; not on 2026 overviews.",
+   "source": "https://www.hyundai.com/ch/de/modelle.html"
+  },
+  {
+   "brand": "Hyundai",
+   "model": "Staria (diesel)",
+   "note": "2.2 CRDi versions no longer shown on hyundai.ch / hyundai.com/de after the 2026 facelift (Hybrid + Electric only) – may persist in other markets.",
+   "source": "https://www.hyundai.com/ch/de/modelle.html"
+  },
+  {
+   "brand": "Hyundai",
+   "model": "Nexo I",
+   "note": "Replaced by the second-generation Nexo (on sale DE Jan 2026).",
+   "source": "https://www.electrive.net/2026/01/12/neuer-hyundai-nexo-ab-69-900-euro-bestellbar/"
+  },
+  {
+   "brand": "Kia",
+   "model": "Ceed (hatchback) / Ceed Sportswagon",
+   "note": "Production ended January 2026; replaced by K4 / K4 Sportswagon; no longer in kia.ch or kia.com/de navigation.",
+   "source": "https://en.wikipedia.org/wiki/Kia_Ceed"
+  },
+  {
+   "brand": "Kia",
+   "model": "ProCeed",
+   "note": "Production ended December 2024 (gradual discontinuation); not in kia.ch / kia.com/de navigation Oct 2026.",
+   "source": "https://en.wikipedia.org/wiki/Kia_Ceed"
+  },
+  {
+   "brand": "Kia",
+   "model": "Niro EV / Niro Plug-in Hybrid",
+   "note": "The facelifted 'New Niro' is offered as Hybrid only in CH (kia.ch: 'Erhältlich als Hybrid') and DE (navigation: 'Niro Hybrid') as of Oct 2026.",
+   "source": "https://www.kia.ch/de/modelle/new-niro"
+  },
+  {
+   "brand": "Kia",
+   "model": "Rio",
+   "note": "Dropped in Europe 2023 (Stonic/Picanto remain).",
+   "source": "https://www.kia.com/de/"
+  },
+  {
+   "brand": "Kia",
+   "model": "Stinger",
+   "note": "Production ended 2023.",
+   "source": "https://www.kia.com/de/"
+  },
+  {
+   "brand": "Kia",
+   "model": "Soul EV",
+   "note": "Dropped in Europe 2024 (EV3 takes its place).",
+   "source": "https://www.kia.com/de/"
+  },
+  {
+   "brand": "Genesis",
+   "model": "G70 2.2D / GV70 2.2D (diesels)",
+   "note": "Diesel variants reportedly dropped in Europe; only petrol/electrified remain – verify.",
+   "source": "https://www.genesis.com/de"
+  },
+  {
+   "brand": "Ford",
+   "model": "Focus",
+   "note": "Last Focus built in Saarlouis on 2025-11-14 (Motor1 DE, updated 2025-11-17); order books closed earlier in 2025. No new-vehicle stock expected by Oct 2026 → excluded.",
+   "source": "https://de.motor1.com/news/778872/ende-ford-focus-in-saarlouis/"
+  },
+  {
+   "brand": "Ford",
+   "model": "Fiesta",
+   "note": "Production ended July 2023 (Cologne).",
+   "source": "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+  },
+  {
+   "brand": "Ford",
+   "model": "Galaxy / S-Max",
+   "note": "Production ended April 2023 (Valencia).",
+   "source": "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+  },
+  {
+   "brand": "Ford",
+   "model": "EcoSport",
+   "note": "Ended 2022/23 (Craiova).",
+   "source": "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+  },
+  {
+   "brand": "Ford",
+   "model": "Explorer (US, plug-in hybrid)",
+   "note": "Imported US Explorer PHEV dropped from the European range c. 2023/24; nameplate reused by the MEB Explorer EV. (German Wikipedia template still lists 'Explorer' – treated as the EV.)",
+   "source": "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)"
+  },
+  {
+   "brand": "Tesla",
+   "model": "Model S",
+   "note": "European custom orders stopped July 2025, briefly reopened Oct 2025; Tesla ended Model S/X production (Musk, 2026-04-01) – zero new units left in Europe per Electrek (2026-04-01). Excluded.",
+   "source": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/"
+  },
+  {
+   "brand": "Tesla",
+   "model": "Model X",
+   "note": "As Model S: production ended, no European inventory (Electrek 2026-04-01).",
+   "source": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/"
+  },
+  {
+   "brand": "Tesla",
+   "model": "Cybertruck",
+   "note": "Never offered for sale in Europe (no EU type approval).",
+   "source": "https://www.tesla.com/de_ch"
+  },
+  {
+   "brand": "Cadillac",
+   "model": "Escalade IQ",
+   "note": "Not offered on cadillaceurope.com (CH/DE pages Oct 2026) – not a European model.",
+   "source": "https://www.cadillaceurope.com/de-de"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.hyundai.com/ch/de/modelle.html",
+   "what": "Hyundai Switzerland model overview (24 entries) – fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.hyundai.com/de/de/modelle.html",
+   "what": "Hyundai Germany model overview / leasing examples (incl. Nexo, Ioniq 3, Staria Elektro) – fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.hyundai.com/ch/de/modelle/i30.html",
+   "what": "Hyundai CH i30 page: CHF 31,700, configurator live"
+  },
+  {
+   "url": "https://www.hyundai.com/ch/de/modelle/new-staria-hybrid.html",
+   "what": "Hyundai CH new Staria Hybrid: CHF 55,000, 7/9 seats"
+  },
+  {
+   "url": "https://www.electrive.net/2026/09/02/ioniq-3-startet-bei-28-950-euro/",
+   "what": "Ioniq 3 orders open DE 2026-09-02"
+  },
+  {
+   "url": "https://www.electrive.net/2026/01/12/neuer-hyundai-nexo-ab-69-900-euro-bestellbar/",
+   "what": "Nexo II on sale DE Jan 2026"
+  },
+  {
+   "url": "https://www.kia.ch/",
+   "what": "Kia Switzerland model overview (26 entries incl. K4, Seltos, EV2, EV5, PV5 family) – fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.kia.com/de/",
+   "what": "Kia Germany navigation (no Ceed/ProCeed; Niro Hybrid only; PV5 WAV) – fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.electrive.net/2026/03/17/kia-ev2-startet-bei-26-600-euro/",
+   "what": "EV2 orders open DE 2026-03-17"
+  },
+  {
+   "url": "https://www.meinauto.de/news/2026/05/kia-seltos-2026-neuer-kompakt-suv-startet-in-europa",
+   "what": "Seltos Europe launch 2026 (DE from €34,190, 4,430 mm)"
+  },
+  {
+   "url": "https://caroftheyear.org/uncategorized/candidate-2027-kia-k4-the-new-ceed-isnt-electric-nor-is-it-an-suv/",
+   "what": "K4 on sale in Europe 2026, 4,460 mm, Ceed replacement"
+  },
+  {
+   "url": "https://www.largus.fr/actualite-automobile/kia-xceed-2026-changement-de-look-pour-le-crossover-restyle-30046574.html",
+   "what": "XCeed second facelift 2026, production from 2026-05-29"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kia_Ceed",
+   "what": "Ceed hatch/SW ended Jan 2026, ProCeed Dec 2024 (Wikipedia, fetched)"
+  },
+  {
+   "url": "https://ecomento.de/2025/09/05/kia-ev5-kostet-ab-45-990-euro-ab-september-bestellbar/",
+   "what": "EV5 orderable DE from Sept 2025"
+  },
+  {
+   "url": "https://www.electrive.com/2025/06/12/kia-launches-pv5-passenger-in-european-markets",
+   "what": "PV5 Passenger European launch"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/kia-brings-two-pv5-european-debuts-to-cv-show-2026/",
+   "what": "PV5 Cargo L1H1/L2H2 European debuts, CV Show April 2026"
+  },
+  {
+   "url": "https://www.genesis.com/ch",
+   "what": "Genesis Switzerland: Electrified GV70, GV60 (+Magma), Electrified G80, G90; GV90 'Demnächst' – fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.genesis.com/de",
+   "what": "Genesis Germany: GV60, Electrified GV70, Electrified G80, GV70, GV80, G70, G80, G70 Shooting Brake, G90; GV90 coming – fetched 2026-10-21"
+  },
+  {
+   "url": "https://electrive.com/2026/06/16/genesis-to-expand-into-four-additional-european-countries-in-2027",
+   "what": "Genesis European expansion: FR/IT/NL 2026, ES Q4 2026, AT/DK/PL/PT 2027"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Genesis_GV90",
+   "what": "GV90 unveiled 2026-08-19, eMP platform, 5,285 mm"
+  },
+  {
+   "url": "https://www.de.ford.ch/",
+   "what": "Ford Switzerland (German) home page: Puma, Kuga, Explorer, Capri, Mustang Mach-E, Transit/E-Transit Custom, Ranger"
+  },
+  {
+   "url": "https://www.ford.de/",
+   "what": "Ford Germany home page: Kuga, Tourneo Custom, Explorer, Capri, Mach-E, Puma Gen-E, Tourneo Connect, Ranger, Transit, E-Transit Custom"
+  },
+  {
+   "url": "https://www.ford.de/fahrzeuge",
+   "what": "Ford DE vehicle range page: Mustang GTD link; Puma/Kuga/Explorer/Ranger/Tourneo in description"
+  },
+  {
+   "url": "https://www.ford.co.uk/",
+   "what": "Ford UK home page: Puma Gen-E, Transit City, Kuga, Mach-E, E-Transit Custom, E-Tourneo Courier"
+  },
+  {
+   "url": "https://www.ford.co.uk/cars",
+   "what": "Ford UK cars page: Mustang GTD 'coming soon'"
+  },
+  {
+   "url": "https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Ford-Modelle_(Europa)",
+   "what": "German Wikipedia Ford Europe template: current Pkw Bronco, Explorer, Explorer EV, Focus, Kuga, Mustang, Mach-E, Puma; CV Transit Custom, Ranger, Transit, Transit Connect, F-MAX"
+  },
+  {
+   "url": "https://fordauthority.com/2026/05/ford-transit-city-orders-open-van-starts-at-30k/",
+   "what": "Transit City order banks open (May 2026), prices, JMC Nanchang, deliveries Dec 2026"
+  },
+  {
+   "url": "https://fordauthority.com/2026/03/2026-ford-transit-city-revealed-as-all-new-electric-van-for-europe/",
+   "what": "Transit City reveal 2026-03-26"
+  },
+  {
+   "url": "https://fordauthority.com/2026/05/ford-bronco-brand-will-be-big-part-of-european-product-roadmap/",
+   "what": "Bronco sold in Europe in limited numbers; new EU Bronco 2028 (Valencia)"
+  },
+  {
+   "url": "https://www.autoguide.com/auto/manufacturers/ford/ford-reopens-mustang-gtd-orders-in-europe-capped-at-500-44638672",
+   "what": "Mustang GTD European order window Sept–Oct 2026, 500 units"
+  },
+  {
+   "url": "https://de.motor1.com/news/778872/ende-ford-focus-in-saarlouis/",
+   "what": "Last Focus built 2025-11-14"
+  },
+  {
+   "url": "https://www.cadillaceurope.com/ch-de",
+   "what": "Cadillac Switzerland: Optiq CHF 59,900, Lyriq CHF 90,100, Lyriq-V, Vistiq CHF 108,800"
+  },
+  {
+   "url": "https://www.cadillaceurope.com/de-de",
+   "what": "Cadillac Germany: Optiq €57,500, Lyriq €83,000, Lyriq-V €108,809, Vistiq €99,640"
+  },
+  {
+   "url": "https://www.cadillaceurope.com/",
+   "what": "Cadillac Europe markets: FR, DE, IE, SE, CH, rest of Europe"
+  },
+  {
+   "url": "https://www.chevroleteurope.com/eu-en/corvette",
+   "what": "Chevrolet Europe Corvette: Stingray, E-Ray, Z06 (ZR1 shown); dealers; EU/DE/UK sites"
+  },
+  {
+   "url": "https://gmauthority.com/blog/2026/07/updated-2026-corvette-lineup-officially-on-sale-in-the-uk/",
+   "what": "Updated 2026 Corvette on sale in UK from £97,760 (2026-07-14)"
+  },
+  {
+   "url": "https://www.tesla.com/de_ch",
+   "what": "Tesla Switzerland home page: Model Y and Model 3 offers for orders to 2026-12-31"
+  },
+  {
+   "url": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/",
+   "what": "Model S/X production ended; zero EU inventory (2026-04-01)"
+  },
+  {
+   "url": "https://driveteslacanada.ca/news/regulatory-filings-hint-at-return-of-model-s-and-model-x-to-europe/",
+   "what": "Model S/X EU orders stopped July 2025 (2025-08-22)"
+  },
+  {
+   "url": "https://www.notateslaapp.com/news/4419/tesla-model-y-l-spotted-under-wraps-in-germany",
+   "what": "Model Y L not yet orderable in Europe (2026-07-10)"
+  },
+  {
+   "url": "https://speedme.ru/en/posts/id72519-tesla-model-y-l-spotted-in-europes-configurator-code-six-seat-suv-681-km-range-coming",
+   "what": "Model Y L in EU configurator code, not orderable (2026-08-19)"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/",
+   "what": "carsized site structure (slug pattern, compare URL pattern, /resources/ image paths)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hyundai_Electric_Global_Modular_Platform",
+   "what": "Wikipedia E-GMP vehicle list (fetched 2026-10-22): GV60, Ioniq 5/6/9, EV6/EV9, EV4, EV2, Ioniq 3 = E-GMP; EV3/EV5 = 400 V derivatives on K3/N3 chassis; PV5 = E-GMP.S"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hyundai-Kia_K3_platform",
+   "what": "Wikipedia Hyundai-Kia platform page: K3 = Kona SX2, Niro SG2, K4 CL4, Seltos SP3; K1/K2-P2 = i20 BC3, Bayon, Stonic; K1/K2-P3 = i30 PD, Ceed/XCeed CD (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+   "what": "Wikipedia MEB list incl. Ford Explorer EV and Capri EV (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ford_Transit_Custom",
+   "what": "Wikipedia Ford Transit Custom: VW Transporter = rebadge of 2nd-gen Transit Custom (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ford_Ranger_(T6)",
+   "what": "Wikipedia Ford Ranger (T6): T6.2 shares underpinnings with 2nd-gen VW Amarok; length 5,225–5,370 mm (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ford_Tourneo_Connect",
+   "what": "Wikipedia: 3rd-gen Tourneo Connect = rebadged Caddy 4 assembled by VW in Poland; 4,500/4,859 mm; Commons Category:Ford Transit Connect (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cadillac_Lyriq",
+   "what": "Lyriq 4,996 mm, wheelbase 3,094 mm, BEV3; Europe 2024 (CH first) (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cadillac_Vistiq",
+   "what": "Vistiq 5,222 mm, wheelbase 3,094 mm, BEV3; Europe 2025 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hyundai_i10",
+   "what": "i10 AC3 European production ended Jan 2026; reported discontinued in Europe/UK (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.hyundai.com/uk/en/models/i10.html",
+   "what": "Hyundai UK i10 page still live (GB only, configurator) – runout evidence (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.hyundai.com/ch/de/modelle/i20.html",
+   "what": "Hyundai CH i20: CHF 19,600, MY26 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_3",
+   "what": "Ioniq 3: 4,155–4,170 mm, wheelbase 2,680 mm, E-GMP 400 V, İzmit; related to Kia EV2 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kia_PV5",
+   "what": "PV5: 4,695/4,890 mm, wheelbase 2,995 mm, E-GMP.S, EU sales from Nov 2025; Commons Category:Kia PV5 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hyundai_Staria",
+   "what": "Staria: 5,255 mm, N3 platform, Staria Electric unveiled 2026-01-09 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Genesis_G70",
+   "what": "G70: 4,685 mm, M2 platform, still produced (Jan 2026 update) (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ford_Transit_City",
+   "what": "Transit City: JMC E-Fushun platform, orderable from Aug 2026 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.ford.co.uk/cars/mustang",
+   "what": "Mustang GT Fastback £58,670, configurator (fetched 2026-10-21)"
+  },
+  {
+   "url": "https://www.ford.co.uk/vans-and-pickups/transit-connect",
+   "what": "Transit Connect from £24,600, diesel + PHEV (fetched 2026-10-21)"
+  },
+  {
+   "url": "https://www.ford.co.uk/cars/tourneo-connect",
+   "what": "Tourneo Connect from £35,330, petrol/diesel/PHEV (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.ford.co.uk/cars/tourneo-courier",
+   "what": "Tourneo Courier from £28,490 + E-Tourneo Courier (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.ford.co.uk/vans-and-pickups/transit-courier",
+   "what": "Transit Courier from £19,632, petrol/diesel/electric (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.ford.co.uk/vans-and-pickups/transit-city",
+   "what": "Transit City UK: from £24,000 excl. VAT, 6.4/8.5 m³, pre-launch (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.kia.ch/de/modelle/new-niro",
+   "what": "New Niro CH: Hybrid only, CHF 32,950 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.chevroleteurope.com/de-de/corvette",
+   "what": "Corvette DE prices Stingray €106,900 / E-Ray €169,900 / Z06 €209,900 (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.carsized.com/sitemap.xml",
+   "what": "carsized sitemap index (65 gzipped sub-sitemaps + sitemap-trending; gz not readable via WebFetch)"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/trending/suvs/",
+   "what": "carsized slug convention: make-model-year-suv (e.g. tesla-model-y-2025-suv, kia-ev3-2024-suv, hyundai-ioniq-5-2021-suv), -minivan, -van-l2, pickups vary (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/cars/compare/hyundai-i10-2019-5-door-hatchback-vs-ford-f/",
+   "what": "carsized Hyundai i10 2019-2023 entry: side view sl_251098072 (fetched 2026-10-21)"
+  },
+  {
+   "url": "https://www.genesis.com/de/de/models/gv80.html",
+   "what": "Genesis DE GV80 page: stock/used only, no order button (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.genesis.com/de/de/models/g70.html",
+   "what": "Genesis DE G70 page: 2.0T only, used/stock wording (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.genesis.com/de/de/models/g80.html",
+   "what": "Genesis DE petrol G80: configurator link, 2.5T (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.genesis.com/de/de/models/g90.html",
+   "what": "Genesis DE G90: 3.5T AWD, configurator/consultation (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://www.ford.de/fahrzeuge/ford-bronco",
+   "what": "Ford DE Bronco: Outer Banks/Badlands 2.7 V6, leasing ab €569/month (fetched 2026-10-22)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)",
+   "what": "Wikipedia VW Transporter (T7): Transporter and Caravelle based on the Ford Transit Custom; Commons Category:Volkswagen T7 Transporter (fetched 2026-10-22)"
+  }
+ ]
+}

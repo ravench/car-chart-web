@@ -1783,6 +1783,18 @@
    "treatment": "rembg",
    "mirrored": false,
    "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://www.zeekr.eu/models/9x",
+   "source": "manufacturer website (zeekr.eu)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Zeekr's own studio side view from the zeekr.eu 9X page (exterior colour section: Onyx Black, Galaxy wheels, 2880 px), light-grey studio background removed",
+   "angle": "side",
+   "src": "v114/zeekr9x-eu-side-galaxy",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
   }
  },
  "skoda-peaq": {
@@ -1791,11 +1803,11 @@
    "page": "https://www.skoda-auto.com/",
    "source": "manufacturer website (skoda-auto.com)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "mirrored",
+   "notes": "brand render, faces left as published (v1.14a: the earlier mirroring made it face right)",
    "angle": "side",
    "src": "skoda/peaq-d1",
    "treatment": "alpha",
-   "mirrored": true,
+   "mirrored": false,
    "harvested": true
   },
   "front": {
@@ -2380,6 +2392,62 @@
    "src": "v113/iveco-esuperjolly-clean",
    "treatment": "alpha",
    "mirrored": true,
+   "harvested": true
+  }
+ },
+ "dr-dr-7": {
+  "side": {
+   "url": null,
+   "page": "https://drautomobiles.com/dr-8-collection/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "DR's own 'modellino' cut-out (dr7-modellino-dealer.png, 1200 px, uploaded February 2026) of the DR 7 Collection, which drautomobiles.com lists as DR 8 Collection since October 2026; true side view, the render's own transparency used",
+   "angle": "side",
+   "src": "v114/dr7-modellino",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mitsubishi-eclipse-cross": {
+  "side": {
+   "url": null,
+   "page": "https://media.mitsubishi-motors-europe.com/mitsubishi-motors-europe-electrifies-its-line-up-with-the-premiereof-the-advanced-all-electric-eclipse-cross-compact-suv/",
+   "source": "manufacturer press site (media.mitsubishi-motors-europe.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "Mitsubishi Motors Europe press photo Eclipse-Cross_004 (premiere press kit, 17 September 2025; static, seaside terrace), true side view, background removed, mirrored to face left",
+   "angle": "side",
+   "src": "v114/eclipse-cross-press-004",
+   "treatment": "rembg+clean",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "iveco-ejolly": {
+  "side": {
+   "url": null,
+   "page": "https://www.iveco-schouten.nl/",
+   "source": "manufacturer website (iveco-schouten.nl)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Iveco studio side view of the eJolly (silver, charging flap open) as published by the Dutch Iveco dealer Schouten (768 px copy; the Iveco press original could not be reached) - true side view facing left, own transparency used; placeholder (dealer copy) until a larger brand-own file is found",
+   "angle": "side",
+   "src": "v114/ejolly-schouten-side",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "fiat-ulysse": {
+  "side": {
+   "url": null,
+   "page": "https://www.fiat.it/omni/configuratore.pro",
+   "source": "manufacturer website (fiat.it)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Fiat's own configurator render (lb.assets.fiat.com vl-picker-service, angle 4 = true side view, 3840 px) of the 2024-facelift Ulysse Combi M in white; white background flood-filled and the ground shadow removed",
+   "angle": "side",
+   "src": "v114/ulysse-cfg-a4-clean",
+   "treatment": "alpha",
+   "mirrored": false,
    "harvested": true
   }
  }

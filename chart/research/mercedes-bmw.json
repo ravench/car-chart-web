@@ -1,0 +1,2803 @@
+{
+ "agent": "mercedes-bmw research agent (Mercedes-Benz Group + BMW Group)",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "A-Class",
+   "display": "A-Class",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "c-hatch",
+   "body": "5-door hatchback + 4-door saloon",
+   "generation": "W177 (2018–, facelift 2023)",
+   "length_mm": 4419,
+   "platform": "MFA2",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurable on mercedes-benz.de and listed on mercedes-benz.ch (2026-10-21). Final run: production moved from Rastatt to Kecskemét end 2025 and extended until ~2028; no successor generation.",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://www.carscoops.com/2025/07/mercedes-changes-its-mind-after-buyers-refuse-to-let-its-small-car-die/",
+    "https://mbpassion.de/2025/07/mercedes-benz-stellt-produktion-der-a-und-b-klasse-in-rastatt-ende-2025-ein/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-a-2018-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/a/d/2018/sl_238116108_mercedes-benz-a-2018-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2018-2022 (pre-facelift entry; facelift entry not found yet)",
+   "commons_category": "Category:Mercedes-Benz W177",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz A-Class (W177)",
+   "notes": "Hatchback and saloon are one tile. Other compact MFA2 models (B-Class, old GLA/GLB) are being phased out; A-Class stays as the entry model. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "B-Class",
+   "display": "B-Class",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "mpv-small",
+   "body": "compact MPV (Sports Tourer)",
+   "generation": "W247 (2019–, facelift 2023)",
+   "length_mm": 4419,
+   "platform": "MFA2",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "Still listed on mercedes-benz.de (2026-10-21) but only with 'Verfügbare Fahrzeuge anzeigen' (stock search), no configurator; NOT listed on mercedes-benz.ch any more. Rastatt production ended end 2025; Mercedes said the B-Class is phased out in 2026 (Carscoops 2025-07-21, mbpassion 2025-07-11).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://www.carscoops.com/2025/07/mercedes-changes-its-mind-after-buyers-refuse-to-let-its-small-car-die/",
+    "https://mbpassion.de/2025/07/mercedes-benz-stellt-produktion-der-a-und-b-klasse-in-rastatt-ende-2025-ein/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz W247",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz B-Class (W247)",
+   "notes": "Treat as runout (dealer stock only). Verifier: check whether any configurator (FR/IT/ES) is still live. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "CLA",
+   "display": "CLA",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "c-hatch",
+   "body": "4-door coupé-saloon + Shooting Brake",
+   "generation": "C178 (2025–)",
+   "length_mm": 4723,
+   "platform": "MMA (800 V)",
+   "powertrains": [
+    "BEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "New generation on sale since 2025: CLA with EQ Technology (BEV) first, 48 V mild-hybrid CLA 180/200/220 orderable since Nov 2025 with deliveries from Q1 2026; Shooting Brake (electric) from early 2026; CLA 45 AMG added 2026 (L'argus). Configurable in DE and CH.",
+   "status_sources": [
+    "https://fleetworld.co.uk/mercedes-benz-cla-48v-hybrid-now-available-to-order/",
+    "https://jesmb.de/26348/",
+    "https://www.largus.fr/actualite-automobile/prix-mercedes-cla-2026-arrivee-de-la-version-amg-45-4matic-et-evolutions-de-la-gamme-40004437.html",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz C178",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz CLA (C178)",
+   "notes": "Previous C118 CLA is no longer listed. Hybrid uses 1.5 petrol + 48 V (listed as MHEV because no plain-petrol version exists). Length 4,723 mm per launch data. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "GLA",
+   "display": "GLA",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "new generation (2026–); outgoing H247 (2020–) in runout",
+   "length_mm": 4570,
+   "platform": "MMA (800 V) new gen; MFA2 old gen",
+   "powertrains": [
+    "BEV",
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "All-new GLA premiered 29/30 July 2026 (Warsaw); electric GLA 200/250+/350 4MATIC orderable from end of July 2026 (from EUR 48,599), market launch Nov 2026; mild-hybrid versions early 2027 ('GLA Neu Benzin – bald erhältlich' on DE/CH pages). Outgoing H247 GLA (petrol/diesel/PHEV) still configurable in DE/CH 2026-10-21.",
+   "status_sources": [
+    "https://newmobility.news/en/2026/07/30/new-mercedes-gla-unveiled-up-to-657-km-of-range/",
+    "https://jesmb.de/34847/",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-gla-2020-suv",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/gla/d/2020/sm_270120108_mercedes-benz-gla-2020-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2020-2026 (outgoing H247; new 2026 GLA not on carsized yet)",
+   "commons_category": "Category:Mercedes-Benz GLA-Class",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz GLA",
+   "notes": "One tile for the nameplate: new electric GLA (4,570 mm, MMA, replaces EQA) + old-gen ICE GLA in runout. carsized: new generation probably not yet listed; old H247 entry would be the fallback. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "GLB",
+   "display": "GLB",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "c-suv",
+   "body": "compact 7-seat SUV",
+   "generation": "X244 (2026–); outgoing X247 (2019–2026) petrol in runout",
+   "length_mm": 4660,
+   "platform": "MMA (800 V) new gen; MFA2 old gen",
+   "powertrains": [
+    "BEV",
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "New electric GLB (GLB with EQ Technology, 250+ and 350 4MATIC, 7 seats) on sale in UK from April 2026 (from GBP 46,100) and configurable in DE/CH; old-gen petrol GLB still listed ('GLB Benzin'). Hybrid new-gen versions follow later.",
+   "status_sources": [
+    "https://www.electrifying.com/blog/article/new-electric-mercedes-glb-has-gone-on-sale",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-glb-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/glb/d/2019/sl_283120123_mercedes-benz-glb-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2023 (outgoing X247 pre-facelift; new X244 not on carsized yet)",
+   "commons_category": "Category:Mercedes-Benz GLB-Class",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz GLB",
+   "notes": "Length ~4,660 mm (new gen) is from launch coverage, verify. Replaces EQB. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "C-Class",
+   "display": "C-Class",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "d-car",
+   "body": "saloon + estate (T-Modell) + All-Terrain; electric saloon",
+   "generation": "W206 (2021–, facelift 2026) + C-Class with EQ Technology W520 (2026–)",
+   "length_mm": 4751,
+   "platform": "MRA2 (ICE); MB.EA-M 800 V (electric)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Facelifted W206 ('C-Klasse Limousine Neu', PHEV/petrol/diesel) configurable in DE/CH; electric C-Class (C 400 4MATIC with EQ Technology, 94.5 kWh, up to 762 km) orderable in Germany since May 2026 from EUR 67,711.",
+   "status_sources": [
+    "https://www.autoscout24.de/informieren/news/mercedes-c-klasse-eq-2026-preise/",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-c-2021-sedan",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/c/d/2021/sl_241102156_mercedes-benz-c-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Mercedes-Benz W206",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz C-Class (W206)",
+   "notes": "Electric C-Class (Wikipedia: 'Mercedes-Benz C-Class Electric', W520) is a separate MB.EA body but carries the same nameplate -> same tile (rule 4). Length given is W206 saloon (carsized 187.05 in). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "CLE",
+   "display": "CLE",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "sports",
+   "body": "2-door coupé + cabriolet",
+   "generation": "C236 / A236 (2023–)",
+   "length_mm": 4850,
+   "platform": "MRA2",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CLE Coupé and CLE Cabriolet configurable on mercedes-benz.de and listed on mercedes-benz.ch (2026-10-21); AMG CLE 53 included.",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-cle-2023-coupe",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/cle/c/2023/sl_241110149_mercedes-benz-cle-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present",
+   "commons_category": "Category:Mercedes-Benz C236",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz CLE",
+   "notes": "Replaced C-Class and E-Class coupés/cabriolets (2023). Shares MRA2 with C/E-Class (different rows, no tier). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "E-Class",
+   "display": "E-Class",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-car",
+   "body": "saloon + estate + All-Terrain",
+   "generation": "W214 / S214 (2023–)",
+   "length_mm": 4949,
+   "platform": "MRA2",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Saloon, T-Modell and All-Terrain configurable in DE and CH (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-e-2023-sedan",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/e/d/2023/sl_247109159_mercedes-benz-e-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present",
+   "commons_category": "Category:Mercedes-Benz W214",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz E-Class (W214)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "EQE",
+   "display": "EQE",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-car",
+   "body": "electric saloon",
+   "generation": "V295 (2022–)",
+   "length_mm": 4946,
+   "platform": "EVA2",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "Listed on mercedes-benz.de only with 'Verfügbare Fahrzeuge anzeigen' (stock), no configurator button; still listed on mercedes-benz.ch. Production of EQE saloon and SUV reported to end in 2026 (Autocar, Sept 2025); indirectly replaced by the electric C-Class.",
+   "status_sources": [
+    "https://www.autocar.co.uk/car-news/new-cars/mercedes-benz-eqe-saloon-and-suv-production-end-2026",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-eqe-2022-sedan",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/eqe/d/2022/sl_251114127_mercedes-benz-eqe-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Mercedes-Benz V295",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz EQE",
+   "notes": "Status 'runout' is a judgement from the DE page button set; verify whether the DE configurator is really closed. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "EQE SUV",
+   "display": "EQE SUV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-suv",
+   "body": "electric SUV",
+   "generation": "X294 (2023–)",
+   "length_mm": 4863,
+   "platform": "EVA2",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurable on mercedes-benz.de ('Fahrzeug konfigurieren') and listed on mercedes-benz.ch (2026-10-21). Production reported to end during 2026 (Autocar) - indirectly replaced by the electric GLC.",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://www.autocar.co.uk/car-news/new-cars/mercedes-benz-eqe-saloon-and-suv-production-end-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz X294",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz EQE SUV",
+   "notes": "Expect runout soon; AMG EQE SUV included. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "EQS",
+   "display": "EQS",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-car",
+   "body": "electric luxury liftback saloon",
+   "generation": "V297 (2021–, facelift 2024)",
+   "length_mm": 5216,
+   "platform": "EVA2",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurable on mercedes-benz.de and listed on mercedes-benz.ch (2026-10-21). EVA2 platform update (800 V) planned for EQS/EQS SUV (Autocar).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://www.autocar.co.uk/car-news/new-cars/mercedes-benz-eqe-saloon-and-suv-production-end-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz V297",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz EQS",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "EQS SUV",
+   "display": "EQS SUV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-suv",
+   "body": "electric large SUV (incl. Mercedes-Maybach EQS SUV)",
+   "generation": "X296 (2022–)",
+   "length_mm": 5125,
+   "platform": "EVA2",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on mercedes-benz.de and mercedes-benz.ch (2026-10-21), incl. Mercedes-Maybach EQS SUV. DE page button mapping for this card was unclear (only 'Mehr erfahren' seen) - verify configurator.",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz X296",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz EQS SUV",
+   "notes": "Maybach EQS SUV is the same tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "S-Class",
+   "display": "S-Class",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-car",
+   "body": "luxury saloon (standard/long, incl. Mercedes-Maybach S-Class)",
+   "generation": "W223 / V223 (2020–)",
+   "length_mm": 5179,
+   "platform": "MRA2",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "S-Klasse, S-Klasse Lang and Mercedes-Maybach S-Klasse configurable in DE and CH (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-s-2020-sedan",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/s/d/2020/sm_253113171_mercedes-benz-s-2020-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2020-present",
+   "commons_category": "Category:Mercedes-Benz W223",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz S-Class (W223)",
+   "notes": "Maybach S-Class = same tile (sub-brand of the same nameplate). Facelift expected 2026/27 - not verified. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "GLC",
+   "display": "GLC",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "d-suv",
+   "body": "mid-size SUV + SUV coupé; electric SUV",
+   "generation": "X254 / C254 (2022–) + GLC with EQ Technology X540 (orders 2025, production 2026–)",
+   "length_mm": 4716,
+   "platform": "MRA2 (ICE); MB.EA-M 800 V (electric)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ICE GLC and GLC Coupé configurable in DE/CH. Electric GLC (GLC 400 4MATIC with EQ Technology) orderable in almost all European markets since 21 Oct 2025 (DE EUR 71,281, UK GBP 60,350); line-up expanded June 2026.",
+   "status_sources": [
+    "https://www.electrive.com/2025/10/21/mercedes-opens-the-order-books-for-the-glc-in-europe",
+    "https://newmobility.news/en/2026/06/03/mercedes-expands-electric-glc-line-up/",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-glc-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/glc/d/2022/sl_277108136_mercedes-benz-glc-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Mercedes-Benz X254",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz GLC (X254)",
+   "notes": "Electric GLC (4,845 mm) is a distinct MB.EA body but same nameplate -> same tile. Length given is the X254 ICE SUV. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "GLE",
+   "display": "GLE",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-suv",
+   "body": "large SUV + SUV coupé",
+   "generation": "V167 / C167 (2019–, second facelift 2026 'Neu')",
+   "length_mm": 4924,
+   "platform": "MHA",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'GLE Neu' and 'GLE Coupé Neu' (updated 2026) configurable on mercedes-benz.de; listed on mercedes-benz.ch (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-gle-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/gle/d/2019/sm_298120139_mercedes-benz-gle-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2023 (pre-facelift entry; facelift entry not found yet)",
+   "commons_category": "Category:Mercedes-Benz V167",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz GLE (W167)",
+   "notes": "GLE Coupé = same tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "GLS",
+   "display": "GLS",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-suv",
+   "body": "full-size 7-seat SUV (incl. Mercedes-Maybach GLS)",
+   "generation": "X167 (2019–, facelift 2024/2026 'Neu')",
+   "length_mm": 5207,
+   "platform": "MHA",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'GLS Neu' and 'Mercedes-Maybach GLS Neu' configurable on mercedes-benz.de; listed on mercedes-benz.ch (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mercedes-benz-gls-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/mercedes-benz/gls/d/2019/sm_305121163_mercedes-benz-gls-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2023 (pre-facelift entry; facelift entry not found yet)",
+   "commons_category": "Category:Mercedes-Benz X167",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz GLS (X167)",
+   "notes": "Maybach GLS = same tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "G-Class",
+   "display": "G-Class",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "offroad",
+   "body": "ladder-frame off-roader (incl. electric G 580 with EQ Technology)",
+   "generation": "W465 (2024–)",
+   "length_mm": 4624,
+   "platform": "ladder frame (W465)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "G-Klasse (petrol/diesel, AMG G 63) and G-Klasse Elektrisch (G 580 with EQ Technology) configurable in DE and CH (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz W465",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz G-Class",
+   "notes": "Electric G 580 shares the W465 body -> same tile. A smaller 'baby G' is only teased (not announced for sale). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "AMG GT",
+   "display": "AMG GT",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "sports",
+   "body": "2-door 2+2 sports coupé (Mercedes-AMG GT Coupé)",
+   "generation": "C192 (2023–)",
+   "length_mm": 4728,
+   "platform": "MSA (shared with SL R232)",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Mercedes-AMG GT Coupé' (petrol and E Performance PHEV) configurable on mercedes-benz.de; listed on mercedes-benz.ch (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mercedes-Benz SL"
+   ],
+   "twin_note": "C192 AMG GT is the fixed-roof version of the R232 SL: same MSA platform, wheelbase, doors and interior; verifier may downgrade to tier 2 (coupé vs roadster).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-AMG_GT_(C192)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-AMG GT (C192)",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-AMG GT (C192)",
+   "notes": "Display 'AMG GT'. The new electric 'AMG GT 4-Door Coupé' is a different body/platform (AMG.EA) and is listed as its own tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "AMG GT 4-Door Coupé",
+   "display": "AMG GT 4-Door",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-car",
+   "body": "electric 4-door performance coupé (production version of the AMG GT XX concept)",
+   "generation": "C590 (2026–)",
+   "length_mm": null,
+   "platform": "AMG.EA (800 V, axial-flux motors)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders opened at the premiere on 27 May 2026 (Motor1.de: GT 55 4-Door Coupé EUR 154,700, GT 63 from EUR 196,350; up to 860 kW, three axial-flux motors, 600 kW charging). Listed with 'Fahrzeug konfigurieren' on mercedes-benz.de and on mercedes-benz.ch (2026-10-21); Wikipedia model list: C590, 2026–present, successor of the X290.",
+   "status_sources": [
+    "https://de.motor1.com/news/797069/mercedes-amg-gt-4tuerer-preise/",
+    "https://www.elektroauto-news.net/news/lademonster-mercedes-amg-gt-4-tuerer-coupe-startet",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://en.wikipedia.org/wiki/List_of_Mercedes-Benz_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-AMG GT 4-Door Coupé",
+   "notes": "Replaces the ICE AMG GT 4-Door Coupé (X290, 2019–2026). Length unknown (concept ~5.2 m). Row e-car because it is a >5 m four-door. carsized/Commons entries probably do not exist yet. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "AMG GT SUV",
+   "display": "AMG GT SUV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "e-suv",
+   "body": "electric performance SUV (Mercedes-AMG GT Sport-Utility-Vehicle)",
+   "generation": "AMG.EA (2026–)",
+   "length_mm": null,
+   "platform": "AMG.EA (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "World premiere 19 Oct 2026; in Europe the GT 53 SUV (400 kW) can be ordered from 20 Oct 2026 at EUR 113,050, GT 55 (600 kW) and GT 63 (860 kW) follow in spring 2027 (TimesLIVE 2026-10-19). Listed with 'Fahrzeug konfigurieren' on mercedes-benz.de and as 'new, electric' on mercedes-benz.ch on 2026-10-21.",
+   "status_sources": [
+    "https://www.timeslive.co.za/motoring/2026-10-19-mercedes-amg-gt-suv-breaks-cover-with-up-to-860kw-and-2000nm/",
+    "https://www.businessday.co.za/motoring/2026-10-19-mercedes-amg-debuts-all-electric-gt-suv-range/",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://ecomento.de/2026/08/14/mercedes-amg-teasert-elektro-suv-auf-eigener-amg-ea-plattform/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Second AMG.EA model after the electric AMG GT 4-Door. Length not published in the sources used. No carsized/Commons entry expected yet. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "SL",
+   "display": "SL",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "sports",
+   "body": "2-door roadster (Mercedes-AMG SL, Mercedes-Maybach SL Monogram Series)",
+   "generation": "R232 (2022–)",
+   "length_mm": 4705,
+   "platform": "MSA",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Mercedes-AMG SL Roadster' and 'Mercedes-Maybach SL Monogram Series' configurable on mercedes-benz.de; listed on mercedes-benz.ch (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mercedes-Benz AMG GT"
+   ],
+   "twin_note": "R232 SL and C192 AMG GT share the MSA platform, wheelbase, doors and interior (roadster vs coupé).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-AMG_SL_(R232)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz R232",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-AMG SL (R232)",
+   "notes": "Maybach SL = same tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify. carsized slug seen in search results but page not fetched (budget): mercedes-benz-sl-2022-roadster-amg-63."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "VLE",
+   "display": "VLE",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "mpv-large",
+   "body": "electric large MPV ('Grand Limousine'), 5–8 seats",
+   "generation": "VAN.EA (2026–)",
+   "length_mm": 5309,
+   "platform": "VAN.EA (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "World premiere 10 March 2026; orders open in Germany since mid-April 2026 (VLE 300 from EUR 82,260); VLE 400 4MATIC and VLE 250 (LFP) follow; market launch summer 2026. Listed on mercedes-benz.de ('Fahrzeug konfigurieren'), mercedes-benz.ch and as 'Nouveau VLE' on mercedes-benz.fr.",
+   "status_sources": [
+    "https://www.electrive.com/2026/04/15/mercedes-vle-now-available-from-e82260/",
+    "https://www.electrive.net/2026/04/15/mercedes-vla-ab-82-260-euro-bestellbar/",
+    "https://www.autohaus.de/nachrichten/autohersteller/mercedes-benz-vle-2026-die-neue-v-klasse-muss-sitzen-3776798",
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz VLE",
+   "notes": "Successor of the EQV (electrive). 5,309 x 1,999 x 1,916 mm (Autohaus 2026-03-10); a 5.48 m long-wheelbase version and a diesel on the same platform (the next V-Class) follow later; the W447 V-Class/Vito continue for now. No carsized entry expected yet. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "V-Class",
+   "display": "V-Class",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "row": "mpv-large",
+   "body": "large MPV (incl. Marco Polo / Marco Polo Horizon camper vans)",
+   "generation": "W447 (2014–, second facelift 2024)",
+   "length_mm": 5140,
+   "platform": "W447 (RWD van platform)",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "V-Klasse, Marco Polo and Marco Polo Horizon ('Neu') listed on mercedes-benz.de and mercedes-benz.ch passenger-car pages (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/passengercars/models.html",
+    "https://www.mercedes-benz.ch/de/vans/models.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mercedes-Benz Vito Tourer"
+   ],
+   "twin_note": "V-Class and Vito Tourer share the W447 body shell; the EQV (same body) is discontinued.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Vito"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz W447",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz V-Class",
+   "notes": "Marco Polo (camper) treated as a body variant of the V-Class. Length given for long wheelbase (compact 4,895 / extra-long 5,370). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "Vito Tourer",
+   "display": "Vito Tourer",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/vans/models.html",
+   "row": "mpv-large",
+   "body": "minibus / people carrier version of the Vito (incl. eVito Tourer)",
+   "generation": "W447 (2014–, facelift 2024)",
+   "length_mm": 5140,
+   "platform": "W447",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Vito Tourer (petrol/diesel) and eVito Tourer (electric) listed with prices on mercedes-benz.de/vans and mercedes-benz.ch/vans (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/vans/models.html",
+    "https://www.mercedes-benz.ch/de/vans/models.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mercedes-Benz V-Class"
+   ],
+   "twin_note": "Same W447 body shell as the V-Class (lower-spec version).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Vito"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz W447",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz Vito",
+   "notes": "Judgement call: separate tile for the passenger version (brief lists 'Vito Tourer' in mpv-large); verifier may merge into the Vito tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "Vito",
+   "display": "Vito",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/vans/models.html",
+   "row": "van-mid",
+   "body": "panel van / Mixto (incl. eVito)",
+   "generation": "W447 (2014–, facelift 2024)",
+   "length_mm": 5140,
+   "platform": "W447",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Vito Kastenwagen, Vito Mixto and eVito Kastenwagen listed with prices on mercedes-benz.de/vans and mercedes-benz.ch/vans (2026-10-21). Successor on VAN.CA/VAN.EA announced for 2026+ but the current Vito is still sold.",
+   "status_sources": [
+    "https://www.mercedes-benz.de/vans/models.html",
+    "https://www.mercedes-benz.ch/de/vans/models.html",
+    "https://newmobility.news/en/2025/04/14/mercedes-to-end-citan-t-class-production-in-2026/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz W447",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz Vito",
+   "notes": "eVito = same tile (BEV powertrain). Lengths 4,895 / 5,140 / 5,370 mm. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "group": "Mercedes-Benz Group",
+   "model": "Sprinter",
+   "display": "Sprinter",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mercedes-benz.ch/de/vans/models.html",
+   "row": "van-large",
+   "body": "large van: panel van, Tourer, chassis cab, double cab, platform (incl. eSprinter)",
+   "generation": "VS30 / W907-W910 (2018–, facelift 2024)",
+   "length_mm": 5932,
+   "platform": "VS30",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Sprinter Kastenwagen/Tourer/Fahrgestell/Doppelkabine/Pritsche and eSprinter Kastenwagen/Fahrgestell/Pritsche listed with prices on mercedes-benz.de/vans and mercedes-benz.ch/vans (2026-10-21).",
+   "status_sources": [
+    "https://www.mercedes-benz.de/vans/models.html",
+    "https://www.mercedes-benz.ch/de/vans/models.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mercedes-Benz Sprinter (VS30)",
+   "commons_file": null,
+   "wikipedia_en": "Mercedes-Benz Sprinter",
+   "notes": "eSprinter and Sprinter Tourer (minibus) are the same tile. Length given for L2 van (A2); L1 5,267 / L3 6,967 / L4 7,367 mm. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "smart",
+   "group": "Mercedes-Benz Group",
+   "model": "#1",
+   "display": "#1",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://ch.smart.com/de/models/hashtag-one/",
+   "row": "b-suv",
+   "body": "compact electric SUV (incl. BRABUS)",
+   "generation": "HX11 (2022–, Europe 2023–)",
+   "length_mm": 4270,
+   "platform": "SEA (Geely Sustainable Experience Architecture)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed with its own model page on ch.smart.com (2026-10-21); sold across Europe since 2023.",
+   "status_sources": [
+    "https://ch.smart.com/de/",
+    "https://ch.smart.com/de/models/hashtag-one/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volvo EX30",
+    "Zeekr X"
+   ],
+   "twin_note": "SEA platform siblings (same wheelbase class 2,650–2,750 mm, same e-motors/battery family, distinct bodies). smart #3 and Lynk & Co 02 belong to the same family but sit in c-suv (cross-row). Zeekr X (4,432 mm) could be grouped in either row - verifier to harmonise with the Geely agent.",
+   "twin_sources": [
+    "https://www.arenaev.com/zeekr_x_info_surfaces_shares_similar_specs_with_smart_1_and_volvo_ex30-news-1447.php",
+    "https://insideevs.com/news/782857/geely-volvo-sea-ex30-comparo/",
+    "https://en.wikipedia.org/wiki/Volvo_EX30"
+   ],
+   "carsized_slug": "smart-1-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/smart/1/d/2022/sl_275099097_smart-1-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Smart 1",
+   "commons_file": null,
+   "wikipedia_en": "Smart 1",
+   "notes": "Built by smart Automobile (Geely/Mercedes JV) in Xi'an. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "smart",
+   "group": "Mercedes-Benz Group",
+   "model": "#3",
+   "display": "#3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://ch.smart.com/de/models/hashtag-three/",
+   "row": "c-suv",
+   "body": "electric coupé-SUV (incl. BRABUS)",
+   "generation": "HX11 coupé (2023–)",
+   "length_mm": 4400,
+   "platform": "SEA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed with its own model page on ch.smart.com (2026-10-21); sold in Europe since late 2023.",
+   "status_sources": [
+    "https://ch.smart.com/de/",
+    "https://ch.smart.com/de/models/hashtag-three/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Zeekr X",
+    "Lynk & Co 02"
+   ],
+   "twin_note": "SEA platform sibling of smart #1 / Volvo EX30 (b-suv) and of Zeekr X (4,432 mm) / Lynk & Co 02 (4,460 mm); same platform generation, distinct bodies.",
+   "twin_sources": [
+    "https://insideevs.com/news/737128/lynk-and-co-02-sharing/",
+    "https://www.electrive.com/2024/10/16/lynk-co-brings-first-electric-car-to-europe-with-the-02",
+    "https://www.arenaev.com/zeekr_x_info_surfaces_shares_similar_specs_with_smart_1_and_volvo_ex30-news-1447.php"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Smart 3",
+   "commons_file": null,
+   "wikipedia_en": "Smart 3",
+   "notes": "4,400 mm: placed in c-suv (smart positions it above the #1). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "smart",
+   "group": "Mercedes-Benz Group",
+   "model": "#5",
+   "display": "#5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://ch.smart.com/de/models/hashtag-five/",
+   "row": "d-suv",
+   "body": "mid-size electric SUV (incl. BRABUS)",
+   "generation": "2024– (Europe 2025–)",
+   "length_mm": 4695,
+   "platform": "SEA (800 V variant)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed with its own model page on ch.smart.com (2026-10-21); European sales started 2025 (UK launch Sept 2026 per The Driven; 'Family electric SUV of the year' at the 2026 What Car? awards).",
+   "status_sources": [
+    "https://ch.smart.com/de/",
+    "https://ch.smart.com/de/models/hashtag-five/",
+    "https://thedriven.io/2026/09/12/smart-cuts-prices-on-existing-evs-as-it-gets-ready-for-launch-of-5-electric-suv/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Smart 5",
+   "commons_file": null,
+   "wikipedia_en": "Smart 5",
+   "notes": "Uses Geely's SEA architecture with 800 V system; no same-row twin claimed (loose architecture sharing with Zeekr 7X not counted). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify. carsized slug seen in search results but page not fetched (budget): smart-5-2024-suv-brabus (BRABUS entry found; base entry expected as smart-5-2024-suv)."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "1 Series",
+   "display": "1 Series",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "c-hatch",
+   "body": "5-door hatchback",
+   "generation": "F70 (2024–)",
+   "length_mm": 4361,
+   "platform": "UKL2/FAAR (FWD)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (F70, 2024–); 1 Series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "BMW 2 Series Gran Coupé"
+   ],
+   "twin_note": "F70 1 Series and F74 2 Series Gran Coupé share the FAAR platform, front end, wheelbase (2,670 mm) and drivetrains; distinct rear body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_1_Series_(F70)",
+    "https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coupé"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW F70",
+   "commons_file": null,
+   "wikipedia_en": "BMW 1 Series (F70)",
+   "notes": "M135 xDrive is the same tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "2 Series Gran Coupé",
+   "display": "2 Series Gran Coupé",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "c-hatch",
+   "body": "4-door coupé-saloon",
+   "generation": "F74 (2025–)",
+   "length_mm": 4546,
+   "platform": "UKL2/FAAR (FWD)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (F74, 2024/25–); 2 Series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "BMW 1 Series"
+   ],
+   "twin_note": "Platform sibling of the F70 1 Series (FAAR).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coupé"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW F74",
+   "commons_file": null,
+   "wikipedia_en": "BMW 2 Series Gran Coupé",
+   "notes": "M235 xDrive is the same tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "2 Series Coupé",
+   "display": "2 Series Coupé",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "sports",
+   "body": "2-door RWD coupé (incl. M2)",
+   "generation": "G42 / G87 (2021–, facelift 2024)",
+   "length_mm": 4537,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G42); 2 Series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G42",
+   "commons_file": null,
+   "wikipedia_en": "BMW 2 Series (G42)",
+   "notes": "M2 (G87) is the same tile. Shares CLAR with 3/4 Series (different rows, no tier). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify. carsized slug seen in search results but page not fetched (budget): bmw-2-2023-coupe-m2 (M2 entry found; base entry expected as bmw-2-2021-coupe)."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "2 Series Active Tourer",
+   "display": "2 Series Active Tourer",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "mpv-small",
+   "body": "compact MPV",
+   "generation": "U06 (2022–, facelift 2025)",
+   "length_mm": 4386,
+   "platform": "UKL2/FAAR (FWD)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (U06). Not visible in the truncated bmw.ch fetch - CH status unverified.",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW U06",
+   "commons_file": null,
+   "wikipedia_en": "BMW 2 Series Active Tourer (U06)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "3 Series",
+   "display": "3 Series",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-car",
+   "body": "saloon + Touring (incl. M3)",
+   "generation": "G20 / G21 (2019–, facelift 2022 and 2024)",
+   "length_mm": 4713,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G20/G21); 3 Series in bmw.ch filter bar. Neue-Klasse successor (G50) expected 2027. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G20",
+   "commons_file": null,
+   "wikipedia_en": "BMW 3 Series (G20)",
+   "notes": "The electric i3 (NA0, Neue Klasse) is a separate body/platform -> separate tile. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "4 Series",
+   "display": "4 Series",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "sports",
+   "body": "2-door coupé + convertible (incl. M4)",
+   "generation": "G22 / G23 / G82 / G83 (2020–, facelift 2024)",
+   "length_mm": 4768,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G22/G23); 4 Series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G22",
+   "commons_file": null,
+   "wikipedia_en": "BMW 4 Series (G22)",
+   "notes": "Gran Coupé listed as its own tile (d-car) because it is the ICE twin of the i4. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "4 Series Gran Coupé",
+   "display": "4 Series Gran Coupé",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-car",
+   "body": "5-door liftback coupé",
+   "generation": "G26 (2021–, facelift 2024)",
+   "length_mm": 4783,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G26); 4 Series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW i4"
+   ],
+   "twin_note": "i4 is the battery-electric version of the G26 4 Series Gran Coupé body (same shell, badges/fascia differ).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_i4"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G26",
+   "commons_file": null,
+   "wikipedia_en": "BMW 4 Series (G22)",
+   "notes": "Judgement call: split from the 2-door 4 Series so it can sit in d-car next to its BEV twin i4. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "i4",
+   "display": "i4",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-car",
+   "body": "electric 5-door liftback coupé",
+   "generation": "G26 BEV (2021–, facelift 2024)",
+   "length_mm": 4783,
+   "platform": "CLAR (BEV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "i4 xDrive40 Gran Coupé configurable on bmw.ch from CHF 62,900 (2026-10-21).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW 4 Series Gran Coupé"
+   ],
+   "twin_note": "Same G26 body shell as the ICE 4 Series Gran Coupé.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_i4"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW i4",
+   "commons_file": null,
+   "wikipedia_en": "BMW i4",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "5 Series",
+   "display": "5 Series",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-car",
+   "body": "saloon + Touring (incl. M5)",
+   "generation": "G60 / G61 (2023–)",
+   "length_mm": 5060,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G60/G61); 5 Series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW i5"
+   ],
+   "twin_note": "i5 is the BEV version of the same G60/G61 body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_5_Series_(G60)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G60",
+   "commons_file": null,
+   "wikipedia_en": "BMW 5 Series (G60)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "i5",
+   "display": "i5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-car",
+   "body": "electric saloon + Touring",
+   "generation": "G60 / G61 BEV (2023–)",
+   "length_mm": 5060,
+   "platform": "CLAR (BEV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "i5 eDrive40 / M60 Limousine and Touring configurable on bmw.ch (from CHF 77,900) 2026-10-21.",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW 5 Series"
+   ],
+   "twin_note": "Same G60/G61 body shell as the ICE 5 Series.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_i5"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW i5",
+   "commons_file": null,
+   "wikipedia_en": "BMW i5",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "7 Series",
+   "display": "7 Series",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-car",
+   "body": "luxury saloon",
+   "generation": "G70 (2022–, facelift 2026)",
+   "length_mm": 5391,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G70, updated 2026); 7 Series in bmw.ch filter bar; the facelifted i7 is labelled 'Neu' on bmw.ch. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW i7"
+   ],
+   "twin_note": "i7 is the BEV version of the same G70 body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_7_Series_(G70)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G70",
+   "commons_file": null,
+   "wikipedia_en": "BMW 7 Series (G70)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "i7",
+   "display": "i7",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-car",
+   "body": "electric luxury saloon",
+   "generation": "G70 BEV (2022–, facelift 2026)",
+   "length_mm": 5391,
+   "platform": "CLAR (BEV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "i7 50 xDrive and i7 M70 xDrive labelled 'Neu' (2026 facelift) and configurable on bmw.ch from CHF 143,700 (2026-10-21).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW 7 Series"
+   ],
+   "twin_note": "Same G70 body shell as the ICE 7 Series.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_i7"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW i7",
+   "commons_file": null,
+   "wikipedia_en": "BMW i7",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "X1",
+   "display": "X1",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "U11 (2022–)",
+   "length_mm": 4500,
+   "platform": "UKL2/FAAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (U11); X series in bmw.ch filter bar; iX1 (same body) configurable on bmw.ch. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW iX1",
+    "BMW X2",
+    "BMW iX2",
+    "MINI Countryman"
+   ],
+   "twin_note": "iX1 = BEV version of the same U11 body (tier 1). X2/iX2 (U10) and MINI Countryman (U25) are UKL2/FAAR platform siblings with the same 2,692 mm wheelbase but distinct bodies (tier 2).",
+   "twin_sources": [
+    "https://www.bmwblog.com/2023/11/10/mini-countryman-enters-production-bmw-leipzig/",
+    "https://en.wikipedia.org/wiki/BMW_X1_(U11)",
+    "https://en.wikipedia.org/wiki/BMW_X2_(U10)"
+   ],
+   "carsized_slug": "bmw-x1-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/bmw/x1/d/2022/sl_277117128_bmw-x1-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:BMW U11",
+   "commons_file": null,
+   "wikipedia_en": "BMW X1 (U11)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "iX1",
+   "display": "iX1",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "c-suv",
+   "body": "electric compact SUV",
+   "generation": "U11 BEV (2022–)",
+   "length_mm": 4500,
+   "platform": "UKL2/FAAR (BEV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "iX1 xDrive30 configurable on bmw.ch from CHF 52,200 (2026-10-21).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW X1",
+    "BMW X2",
+    "BMW iX2",
+    "MINI Countryman"
+   ],
+   "twin_note": "Same U11 body as the X1 (tier 1); X2/iX2 and Countryman are platform siblings (tier 2).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_iX1"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW iX1",
+   "commons_file": null,
+   "wikipedia_en": "BMW iX1",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "X2",
+   "display": "X2",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "c-suv",
+   "body": "compact coupé-SUV",
+   "generation": "U10 (2024–)",
+   "length_mm": 4554,
+   "platform": "UKL2/FAAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (U10); X series in bmw.ch filter bar; iX2 configurable on bmw.ch. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW iX2",
+    "BMW X1",
+    "BMW iX1",
+    "MINI Countryman"
+   ],
+   "twin_note": "iX2 = BEV version of the same U10 body (tier 1); X1/iX1 and Countryman are platform siblings (tier 2).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_X2_(U10)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW U10",
+   "commons_file": null,
+   "wikipedia_en": "BMW X2 (U10)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "iX2",
+   "display": "iX2",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "c-suv",
+   "body": "electric compact coupé-SUV",
+   "generation": "U10 BEV (2024–)",
+   "length_mm": 4554,
+   "platform": "UKL2/FAAR (BEV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "iX2 eDrive20 configurable on bmw.ch from CHF 54,300 (2026-10-21).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW X2",
+    "BMW X1",
+    "BMW iX1",
+    "MINI Countryman"
+   ],
+   "twin_note": "Same U10 body as the X2 (tier 1).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/BMW_iX2"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW iX2",
+   "commons_file": null,
+   "wikipedia_en": "BMW iX2",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "X3",
+   "display": "X3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-suv",
+   "body": "mid-size SUV (incl. X3 M50)",
+   "generation": "G45 (2024–)",
+   "length_mm": 4755,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G45, 2024–); X series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "bmw-x3-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/bmw/x3/d/2024/sm_279114140_bmw-x3-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:BMW G45",
+   "commons_file": null,
+   "wikipedia_en": "BMW X3 (G45)",
+   "notes": "The Neue Klasse iX3 (NA5) is a different platform/body -> separate tile, no tier. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "iX3",
+   "display": "iX3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-suv",
+   "body": "electric mid-size SUV (Neue Klasse)",
+   "generation": "NA5 (2025–)",
+   "length_mm": 4784,
+   "platform": "Neue Klasse (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "iX3 50 xDrive labelled 'Neu' and configurable on bmw.ch from CHF 69,600; iX3 M60 xDrive 'bald erhältlich' (2026-10-21). Wikipedia list: NA5 2025–.",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "BMW iX4"
+   ],
+   "twin_note": "iX4 is the coupé-SUV derivative on the same Neue Klasse platform (distinct body).",
+   "twin_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/BMW_iX3"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW iX3 (NA5)",
+   "commons_file": null,
+   "wikipedia_en": "BMW iX3",
+   "notes": "Built in Debrecen. Length 4,784 mm per launch data (unverified). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "iX4",
+   "display": "iX4",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-suv",
+   "body": "electric coupé-SUV (Neue Klasse)",
+   "generation": "2026– (revealed Oct 2026, deliveries 2027)",
+   "length_mm": null,
+   "platform": "Neue Klasse (800 V, 108 kWh)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Revealed early Oct 2026 (auto.it 2026-10-08 'BMW iX4 arriva'); iX4 50 xDrive labelled 'Neu' and configurable on bmw.ch from CHF 76,600, iX4 M60 xDrive 'bald erhältlich' (2026-10-21). auto motor und sport: market launch 2027, shares iX3 drivetrain (108 kWh, 800 V). Counted as on sale because the Swiss configurator is live; verifier may prefer 'announced' until deliveries start.",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://www.auto.it/news/anteprime/2026/10/08-9172606/bmw_ix4_arriva_il_suv_coup_della_neue_klasse",
+    "https://www.auto-motor-und-sport.de/elektroauto/bmw-ix4-so-kommt-das-elektrische-suv-coupe/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "BMW iX3"
+   ],
+   "twin_note": "Coupé derivative of the NA5 iX3 (same Neue Klasse platform).",
+   "twin_sources": [
+    "https://www.bmw.ch/de/all-models.html"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Successor of the discontinued X4 (G02, ended 2025). Length not published in the sources used (~4.8 m). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "X5",
+   "display": "X5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-suv",
+   "body": "large SUV",
+   "generation": "G65 (2026–)",
+   "length_mm": 4990,
+   "platform": "CLAR (evolved) with Gen6 technology",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Fifth-generation X5 (G65) debuted at Plant Spartanburg (WapCar 2026-07-01); German prices X5 40d xDrive from EUR 95,750 / X5 40 xDrive from EUR 99,750 (automobile.at, July 2026), ICE models at German dealers end of Nov 2026; PHEV (50e, M60e) and iX5 orders from 8 Oct 2026, deliveries early 2027; hydrogen 2028. Wikipedia model list: G65 current 2026.",
+   "status_sources": [
+    "https://www.wapcar.my/news/all-new-2026-bmw-x5-g65-debuts-neue-klasse-looks-5-powertrains-offered-including-hydrogen-753622",
+    "https://www.automobile.at/magazin/800055",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles",
+    "https://www.bmw.ch/de/all-models.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW iX5"
+   ],
+   "twin_note": "iX5 is the BEV version of the G65 X5 line (one multi-energy generation: petrol/diesel/PHEV/BEV/hydrogen).",
+   "twin_sources": [
+    "https://www.wapcar.my/news/all-new-2026-bmw-x5-g65-debuts-neue-klasse-looks-5-powertrains-offered-including-hydrogen-753622",
+    "https://www.bmw.ch/de/all-models.html"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G65",
+   "commons_file": null,
+   "wikipedia_en": "BMW X5",
+   "notes": "4,990 mm long, 3,035 mm wheelbase (automobile.at). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "iX5",
+   "display": "iX5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-suv",
+   "body": "electric large SUV",
+   "generation": "G65 BEV (2026–)",
+   "length_mm": 4990,
+   "platform": "CLAR (evolved) BEV, Gen6 batteries (141 kWh, up to 845 km WLTP)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "iX5 60 xDrive labelled 'Neu' and configurable on bmw.ch from CHF 114,900 (2026-10-21); orders in Germany from 8 Oct 2026, deliveries early 2027 (automobile.at); part of the G65 X5 debut (WapCar 2026-07-01).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://www.automobile.at/magazin/800055",
+    "https://www.wapcar.my/news/all-new-2026-bmw-x5-g65-debuts-neue-klasse-looks-5-powertrains-offered-including-hydrogen-753622"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "BMW X5"
+   ],
+   "twin_note": "Same G65 body as the X5.",
+   "twin_sources": [
+    "https://www.wapcar.my/news/all-new-2026-bmw-x5-g65-debuts-neue-klasse-looks-5-powertrains-offered-including-hydrogen-753622",
+    "https://www.bmw.ch/de/all-models.html"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "X6",
+   "display": "X6",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-suv",
+   "body": "large coupé-SUV (incl. X6 M)",
+   "generation": "G06 (2019–, facelift 2023)",
+   "length_mm": 4935,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G06, 2023 facelift); X series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G06",
+   "commons_file": null,
+   "wikipedia_en": "BMW X6 (G06)",
+   "notes": "Was the platform sibling of the previous G05 X5; the new G65 X5 is a newer generation, so no tier. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "X7",
+   "display": "X7",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-suv",
+   "body": "full-size 7-seat SUV",
+   "generation": "G07 (2019–, facelift 2022)",
+   "length_mm": 5151,
+   "platform": "CLAR",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model per Wikipedia model list (G07); X series in bmw.ch filter bar. bmw.ch all-models page fetched 2026-10-21 rendered only the electric cards; the 1/2/3/4/5/7/8/X series appear in its model filter bar (ch_on_sale inferred from that).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW G07",
+   "commons_file": null,
+   "wikipedia_en": "BMW X7 (G07)",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "XM",
+   "display": "XM",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-suv",
+   "body": "high-performance PHEV SUV",
+   "generation": "G09 (2022–)",
+   "length_mm": 5110,
+   "platform": "CLAR",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Model-year 2026 XM (only the 738 hp 'Label' version remains) in production at Spartanburg since Aug 2025 (Auto123 2025-06-12); reports say production ends Nov 2028 with no successor and the electric XM was cancelled. Listed as current in the Wikipedia model list; not visible in the truncated bmw.ch fetch.",
+   "status_sources": [
+    "https://www.auto123.com/en/news/bmw-xm-2026-hybrid-offer/72875/",
+    "https://autos.yahoo.com/bmw-xm-reportedly-die-2028-193115441.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW XM",
+   "commons_file": null,
+   "wikipedia_en": "BMW XM",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "iX",
+   "display": "iX",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "e-suv",
+   "body": "electric large SUV",
+   "generation": "I20 (2021–, facelift 2025)",
+   "length_mm": 4953,
+   "platform": "dedicated BEV architecture (aluminium/CFRP)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "iX xDrive45 and iX M70 xDrive configurable on bmw.ch from CHF 98,900 (2026-10-21).",
+   "status_sources": [
+    "https://www.bmw.ch/de/all-models.html",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BMW iX (I20)",
+   "commons_file": null,
+   "wikipedia_en": "BMW iX",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "BMW",
+   "group": "BMW Group",
+   "model": "i3",
+   "display": "i3",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.bmw.ch/de/all-models.html",
+   "row": "d-car",
+   "body": "electric saloon (Neue Klasse)",
+   "generation": "NA0 (2026–)",
+   "length_mm": 4760,
+   "platform": "Neue Klasse (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders opened 18 June 2026 in Germany (i3 50 xDrive Launch Edition from EUR 75,340) and in June 2026 in the UK (First Edition GBP 57,905); base i3 50 xDrive from EUR 65,900 on sale from end of Sept 2026; production started Aug 2026 in Munich (Electrek 2026-07-30, newmobility 2026-08-06). Not visible in the truncated bmw.ch fetch - CH status unverified.",
+   "status_sources": [
+    "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
+    "https://newmobility.news/en/2026/08/06/bmw-starts-i3-production-keeps-presales-under-wraps/",
+    "https://en.wikipedia.org/wiki/List_of_BMW_vehicles",
+    "https://www.angurten.de/is/abmessungen/2290-i3+2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "BMW i3",
+   "notes": "Not the same body as the G20 3 Series (no tier); 108.7 kWh battery, up to 912 km WLTP. 4,760 x 1,865 x 1,480 mm, wheelbase 2,897 mm (angurten.de). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "MINI",
+   "group": "BMW Group",
+   "model": "Cooper",
+   "display": "Cooper",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mini.ch/de_CH/home/range.html",
+   "row": "b-hatch",
+   "body": "3-door + 5-door hatchback; separate electric 3-door",
+   "generation": "F66 / F65 (2024–) ICE; J01 (2024–) electric",
+   "length_mm": 3876,
+   "platform": "UKL1 (ICE, Oxford); Spotlight platform (electric, BMW–GWM JV, Zhangjiagang)",
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MINI Cooper (3-door, 5-door, JCW) and the all-electric MINI Cooper (Cooper E/SE, JCW E) listed on mini.ch range page (2026-10-21).",
+   "status_sources": [
+    "https://www.mini.ch/de_CH/home/range.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mini F66",
+   "commons_file": null,
+   "wikipedia_en": "Mini Cooper (F66)",
+   "notes": "One tile for the nameplate although the electric J01 is a different body/platform (built by Spotlight Automotive, the BMW–Great Wall JV); no GWM model shares its body, so no twin claimed. Length: F66 3-door 3,876 mm, J01 3,858 mm. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "MINI",
+   "group": "BMW Group",
+   "model": "Cooper Cabrio",
+   "display": "Cooper Cabrio",
+   "other_names": [
+    "MINI Cooper Convertible (UK)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mini.ch/de_CH/home/range.html",
+   "row": "sports",
+   "body": "2-door 4-seat convertible",
+   "generation": "F67 (2025–)",
+   "length_mm": 3879,
+   "platform": "UKL1",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "MINI Cooper Cabrio (S) and JCW Cabrio listed on mini.ch range page (2026-10-21).",
+   "status_sources": [
+    "https://www.mini.ch/de_CH/home/range.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mini F67",
+   "commons_file": null,
+   "wikipedia_en": "Mini Cooper (F66)",
+   "notes": "Judgement call: separate tile (open-top body of the Cooper 3-door); verifier may merge into Cooper. Swiss name 'Cabrio' (UK: Convertible). Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "MINI",
+   "group": "BMW Group",
+   "model": "Aceman",
+   "display": "Aceman",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mini.ch/de_CH/home/range.html",
+   "row": "b-suv",
+   "body": "electric small crossover (incl. JCW Aceman)",
+   "generation": "J05 (2024–)",
+   "length_mm": 4079,
+   "platform": "Spotlight platform (BMW–GWM JV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "All-electric MINI Aceman (E/SE, JCW E) listed on mini.ch range page (2026-10-21).",
+   "status_sources": [
+    "https://www.mini.ch/de_CH/home/range.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mini Aceman",
+   "commons_file": null,
+   "wikipedia_en": "Mini Aceman",
+   "notes": "Shares the Spotlight platform with the electric Cooper (J01) - different row, mentioned only. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "MINI",
+   "group": "BMW Group",
+   "model": "Countryman",
+   "display": "Countryman",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mini.ch/de_CH/home/range.html",
+   "row": "c-suv",
+   "body": "compact SUV, ICE and electric (incl. JCW)",
+   "generation": "U25 (2024–)",
+   "length_mm": 4444,
+   "platform": "UKL2/FAAR (Leipzig)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MINI Countryman C/S/JCW and all-electric Countryman E/SE listed on mini.ch range page (2026-10-21).",
+   "status_sources": [
+    "https://www.mini.ch/de_CH/home/range.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "BMW X1",
+    "BMW iX1",
+    "BMW X2",
+    "BMW iX2"
+   ],
+   "twin_note": "UKL2/FAAR platform sibling of the BMW X1 (U11) and X2 (U10): same 2,692 mm wheelbase and drivetrains, distinct body.",
+   "twin_sources": [
+    "https://www.bmwblog.com/2023/11/10/mini-countryman-enters-production-bmw-leipzig/",
+    "https://www.bimmertoday.de/2023/03/01/mini-countryman-bmw-leipzig-baut-ersten-deutschen-mini",
+    "https://en.wikipedia.org/wiki/Mini_Countryman"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mini Countryman (U25)",
+   "commons_file": null,
+   "wikipedia_en": "Mini Countryman",
+   "notes": "Built in Leipzig alongside the BMW X1/X2; the electric Countryman shares the body. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Rolls-Royce",
+   "group": "BMW Group",
+   "model": "Phantom",
+   "display": "Phantom",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "ultra-luxury saloon (standard + Extended)",
+   "generation": "VIII (2017–, Series II 2022)",
+   "length_mm": 5762,
+   "platform": "Architecture of Luxury (aluminium spaceframe)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Phantom and Phantom Extended shown in the Rolls-Royce showroom (2026-10-21); Series II revealed May 2022 per Wikipedia.",
+   "status_sources": [
+    "https://www.rolls-roycemotorcars.com/en_GB/showroom.html",
+    "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Rolls-Royce Phantom VIII",
+   "commons_file": null,
+   "wikipedia_en": "Rolls-Royce Phantom VIII",
+   "notes": "Extended wheelbase 5,982 mm. Swiss sales via dealers in Zürich/Geneva not verified. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Rolls-Royce",
+   "group": "BMW Group",
+   "model": "Ghost",
+   "display": "Ghost",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "luxury saloon (standard + Extended, Black Badge)",
+   "generation": "II (2020–, Series II 2024)",
+   "length_mm": 5546,
+   "platform": "Architecture of Luxury",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Ghost and Ghost Extended shown in the showroom (2026-10-21); Series II revealed Aug 2024 per Wikipedia.",
+   "status_sources": [
+    "https://www.rolls-roycemotorcars.com/en_GB/showroom.html",
+    "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Rolls-Royce Ghost (2020)",
+   "commons_file": null,
+   "wikipedia_en": "Rolls-Royce Ghost",
+   "notes": "Extended 5,716 mm. Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify. carsized slug seen in search results but page not fetched (budget): rolls-royce-ghost-2020-sedan."
+  },
+  {
+   "brand": "Rolls-Royce",
+   "group": "BMW Group",
+   "model": "Cullinan",
+   "display": "Cullinan",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "ultra-luxury SUV (incl. Black Badge)",
+   "generation": "2018– (Series II 2024)",
+   "length_mm": 5341,
+   "platform": "Architecture of Luxury",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Cullinan and Black Badge Cullinan shown in the showroom (2026-10-21); Series II facelift July 2024 per Wikipedia.",
+   "status_sources": [
+    "https://www.rolls-roycemotorcars.com/en_GB/showroom.html",
+    "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "rolls-royce-cullinan-2018-suv",
+   "carsized_side": "https://www.carsized.com/resources/rolls-royce/cullinan/d/2018/sl_301114152_rolls-royce-cullinan-2018-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2018-2024 (pre-Series II entry; Series II entry not found yet)",
+   "commons_category": "Category:Rolls-Royce Cullinan",
+   "commons_file": null,
+   "wikipedia_en": "Rolls-Royce Cullinan",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  },
+  {
+   "brand": "Rolls-Royce",
+   "group": "BMW Group",
+   "model": "Spectre",
+   "display": "Spectre",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "electric 2-door super-coupé (Spectre Series II)",
+   "generation": "2023– (Series II announced June 2026)",
+   "length_mm": 5475,
+   "platform": "Architecture of Luxury (BEV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Spectre Series II announced 2 June 2026 (CompleteCar, BusinessDay: more power, longer range); showroom page headlines 'Spectre Series II' (2026-10-21).",
+   "status_sources": [
+    "https://www.completecar.ie/car-news/article/14939/Rolls-Royce-Spectre-Series-II-announced",
+    "https://www.businessday.co.za/motoring/2026-06-02-new-rolls-royce-spectre-series-ii-offers-more-power-longer-range/",
+    "https://www.rolls-roycemotorcars.com/en_GB/showroom.html",
+    "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars",
+    "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Rolls-Royce Spectre",
+   "commons_file": null,
+   "wikipedia_en": "Rolls-Royce Spectre",
+   "notes": "Commons category/file names are the standard chassis-code naming and were NOT fetched (fetch budget exhausted) - verify."
+  }
+ ],
+ "announced": [
+  {
+   "brand": "smart",
+   "group": "Mercedes-Benz Group",
+   "model": "#2",
+   "display": "#2",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://ch.smart.com/de/models/hashtag-two/",
+   "row": "a-city",
+   "body": "two-seat electric city car (fortwo successor)",
+   "generation": "2026– (production start 2026, European deliveries 2027)",
+   "length_mm": 2790,
+   "platform": "ECA (Electric Compact Architecture)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "World premiere at the Paris Motor Show, Oct 2026; pre-orders (reservations/early orders) open since 13 Oct 2026 in DE/FR/IT at EUR 19,990 (Pure) to 25,690 (Couture Edition, 999 units); full market availability and e-commerce launch in H1 2027. ch.smart.com shows it as 'Neu' with a Couture Edition page but no configurator.",
+   "status_sources": [
+    "https://electrive.com/2026/10/13/smart-2-now-available-to-pre-order-for-under-e20000",
+    "https://www.autoevolution.com/news/2026-paris-motor-show-the-world-premiere-of-smart-2-seeks-to-reinvent-the-urban-two-seater-car-276873.html",
+    "https://ch.smart.com/de/models/hashtag-two/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Smart 2",
+   "notes": "Kept as 'announced/coming' because deliveries only start in 2027; verifier may treat the pre-order as 'on sale'. Length 2,750–2,790 mm (electrive gives both), 35.7 kWh LFP, 290 km WLTP, built in China."
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQA",
+   "note": "Orders stopped mid-March 2026, production (H243, Rastatt) ended June/July 2026; replaced by the electric GLA.",
+   "source": "https://mbpassion.de/2026/04/mercedes-beendet-eqa-produktion-im-juni/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQB",
+   "note": "Removed from the German configurator in Sept 2025 (quietly discontinued in Europe); replaced by the electric GLB.",
+   "source": "https://www.electrive.com/2025/09/25/mercedes-quietly-discontinues-the-eqb-and-removes-it-from-configurator"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQV",
+   "note": "No longer listed on the DE/CH/FR passenger-car or van pages (2026-10-21/22); the VLE is its successor (electrive 2026-04-15).",
+   "source": "https://www.electrive.com/2026/04/15/mercedes-vle-now-available-from-e82260/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "Citan",
+   "note": "Production of the Renault-built Citan/eCitan (W420, 2021–2026) ended Q2 2026 (newmobility 2025-04-14; t-online: 'Citan und T-Klasse werden 2026 eingestellt'); not in the model listings of mercedes-benz.de/vans, mercedes-benz.ch/vans or mercedes-benz.fr/vans (only a footer link 'Gamme Citan' remains in FR). Tier-1 twin of Renault Kangoo Van / Nissan Townstar Van (built by Renault in Maubeuge) - name it in those groups only if the verifier decides to show runout stock.",
+   "source": "https://www.t-online.de/mobilitaet/aktuelles/id_100677466/mercedes-citan-und-t-klasse-baureihen-werden-2026-eingestellt.html"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "T-Class",
+   "note": "Production of the T-Class/EQT (tier-1 twin of Renault Kangoo / Nissan Townstar Combi) ended Q2 2026; not listed on DE/CH/FR sites (2026-10-21/22).",
+   "source": "https://newmobility.news/en/2025/04/14/mercedes-to-end-citan-t-class-production-in-2026/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "AMG GT 4-Door Coupé (X290)",
+   "note": "ICE four-door (2019–2026 per Wikipedia list) no longer listed; replaced by the electric AMG GT 4-Door Coupé (C590) on AMG.EA.",
+   "source": "https://en.wikipedia.org/wiki/List_of_Mercedes-Benz_vehicles"
+  },
+  {
+   "brand": "BMW",
+   "model": "8 Series (G14/G15/G16, M8)",
+   "note": "A BMW spokesperson confirmed 8 Series/M8 production ended (last car Sept 2025; regular 8 Series continued to April 2026 for the US only); no successor (BMWBlog 2025-12-18, auto motor und sport). The nameplate still appears in the bmw.ch filter bar (stock). If the verifier finds a live configurator, add as 'runout' in row sports (4,851 mm, CLAR, petrol/diesel MHEV).",
+   "source": "https://www.bmwblog.com/?p=509302"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "CLA (C118)",
+   "note": "Previous generation replaced by the C178 CLA in 2025.",
+   "source": "https://fleetworld.co.uk/mercedes-benz-cla-48v-hybrid-now-available-to-order/"
+  },
+  {
+   "brand": "smart",
+   "model": "EQ fortwo",
+   "note": "Production in Hambach ended 2024; fortwo appears on ch.smart.com only under 'legacy cars'. Successor smart #2 announced.",
+   "source": "https://ch.smart.com/de/"
+  },
+  {
+   "brand": "BMW",
+   "model": "X4 (G02)",
+   "note": "Production 2018–2025 per Wikipedia model list; succeeded by the electric iX4 (2026).",
+   "source": "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX3 (G08)",
+   "note": "First-generation iX3 (China-built) ended 2025; replaced by the Neue Klasse iX3 (NA5).",
+   "source": "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+  },
+  {
+   "brand": "BMW",
+   "model": "Z4 (G29)",
+   "note": "Production officially ended in spring 2026 (Hypebeast May 2026: 'BMW officially ceases production of the Z4 roadster'; Auto123: Z4 and Supra leave the line-up in 2026, both built by Magna Steyr in Graz on a shared platform/engine/gearbox). Absent from the bmw.ch model filter bar (2026-10-21). Tier-2 twin of the Toyota GR Supra. If the verifier finds it still orderable, add to models (row sports, twin Toyota GR Supra, 4,324 mm).",
+   "source": "https://hypebeast.com/ph/2026/5/bmw-z4-roadster-officially-ceases-production-info"
+  },
+  {
+   "brand": "BMW",
+   "model": "X5 (G05)",
+   "note": "Replaced by the G65 generation in 2026.",
+   "source": "https://en.wikipedia.org/wiki/List_of_BMW_vehicles"
+  },
+  {
+   "brand": "MINI",
+   "model": "Clubman (F54)",
+   "note": "Ended 2024, no successor (Aceman fills the slot).",
+   "source": "https://www.mini.ch/de_CH/home/range.html"
+  },
+  {
+   "brand": "MINI",
+   "model": "Countryman (F60) / Hatch (F56) / Convertible (F57)",
+   "note": "Previous generations replaced 2024–2025 by U25 / F66-F65-J01 / F67.",
+   "source": "https://www.mini.ch/de_CH/home/range.html"
+  },
+  {
+   "brand": "Rolls-Royce",
+   "model": "Wraith / Dawn",
+   "note": "Ended 2023 (before the window) - listed for completeness; Spectre is the only coupé.",
+   "source": "https://www.rolls-roycemotorcars.com/en_GB/showroom.html"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "what": "Mercedes-Benz Switzerland passenger-car model overview (fetched 2026-10-21) - incl. VLE, V-Class, Marco Polo"
+  },
+  {
+   "url": "https://www.mercedes-benz.ch/de/vans/models.html",
+   "what": "Mercedes-Benz Vans Switzerland model overview (fetched 2026-10-21): Sprinter/eSprinter, Vito/eVito, V-Class, Marco Polo; no Citan/T-Class/EQV"
+  },
+  {
+   "url": "https://www.mercedes-benz.de/passengercars/models.html",
+   "what": "Mercedes-Benz Germany model overview (fetched 2026-10-21): B-Class and EQE stock-only, new electric AMG GT 4-Door and AMG GT SUV configurable, GLA Neu Benzin 'bald erhältlich'"
+  },
+  {
+   "url": "https://www.mercedes-benz.de/vans/models.html",
+   "what": "Mercedes-Benz Vans Germany overview with prices (fetched 2026-10-21); no Citan/T-Class/EQV"
+  },
+  {
+   "url": "https://www.carscoops.com/2025/07/mercedes-changes-its-mind-after-buyers-refuse-to-let-its-small-car-die/",
+   "what": "Carscoops 2025-07-21: A-Class production extended to ~2028 (Kecskemét); B-Class phased out 2026"
+  },
+  {
+   "url": "https://mbpassion.de/2025/07/mercedes-benz-stellt-produktion-der-a-und-b-klasse-in-rastatt-ende-2025-ein/",
+   "what": "mbpassion 2025-07-11: A/B-Class Rastatt production ends end 2025"
+  },
+  {
+   "url": "https://newmobility.news/en/2026/07/30/new-mercedes-gla-unveiled-up-to-657-km-of-range/",
+   "what": "newmobility 2026-07-30: new GLA unveiled, electric orderable immediately, hybrids early 2027"
+  },
+  {
+   "url": "https://jesmb.de/34847/",
+   "what": "JESMB 2026-07-17: GLA order release end of July 2026"
+  },
+  {
+   "url": "https://www.electrifying.com/blog/article/new-electric-mercedes-glb-has-gone-on-sale",
+   "what": "Electrifying 2026-04-06: electric GLB on sale in UK from GBP 46,100"
+  },
+  {
+   "url": "https://www.autoscout24.de/informieren/news/mercedes-c-klasse-eq-2026-preise/",
+   "what": "AutoScout24 2026-05-06: electric C-Class orderable from EUR 67,711"
+  },
+  {
+   "url": "https://www.autocar.co.uk/car-news/new-cars/mercedes-benz-eqe-saloon-and-suv-production-end-2026",
+   "what": "Autocar (Sept 2025): EQE saloon/SUV production to end 2026"
+  },
+  {
+   "url": "https://www.electrive.com/2025/10/21/mercedes-opens-the-order-books-for-the-glc-in-europe",
+   "what": "electrive 2025-10-21: electric GLC order books open in almost all European markets"
+  },
+  {
+   "url": "https://newmobility.news/en/2026/06/03/mercedes-expands-electric-glc-line-up/",
+   "what": "newmobility 2026-06-03: electric GLC line-up expanded"
+  },
+  {
+   "url": "https://fleetworld.co.uk/mercedes-benz-cla-48v-hybrid-now-available-to-order/",
+   "what": "Fleet World (Nov 2025): CLA 48V hybrid orderable, deliveries Q1 2026; electric CLA on sale"
+  },
+  {
+   "url": "https://jesmb.de/26348/",
+   "what": "JESMB: CLA Shooting Brake deliveries from early 2026"
+  },
+  {
+   "url": "https://www.largus.fr/actualite-automobile/prix-mercedes-cla-2026-arrivee-de-la-version-amg-45-4matic-et-evolutions-de-la-gamme-40004437.html",
+   "what": "L'argus: CLA 2026 prices, AMG 45 added"
+  },
+  {
+   "url": "https://mbpassion.de/2026/04/mercedes-beendet-eqa-produktion-im-juni/",
+   "what": "mbpassion 2026-04-07: EQA orders stopped March 2026, production ends June/July 2026"
+  },
+  {
+   "url": "https://www.electrive.com/2025/09/25/mercedes-quietly-discontinues-the-eqb-and-removes-it-from-configurator",
+   "what": "electrive 2025-09-25: EQB removed from configurator"
+  },
+  {
+   "url": "https://motorillustrated.com/mercedes-amg-stripteases-its-amg-gt-xx-prototype-on-the-las-vegas-strip/169309/",
+   "what": "Motor Illustrated 2025-11-25: electric AMG GT 4-Door (AMG.EA) to be unveiled 2026"
+  },
+  {
+   "url": "https://ecomento.de/2026/08/14/mercedes-amg-teasert-elektro-suv-auf-eigener-amg-ea-plattform/",
+   "what": "ecomento 2026-08-14: AMG GT SUV teased, no premiere date yet"
+  },
+  {
+   "url": "https://www.electrive.com/2026/04/15/mercedes-vle-now-available-from-e82260/",
+   "what": "electrive 2026-04-15: VLE orderable in Germany from EUR 82,260; successor of EQV"
+  },
+  {
+   "url": "https://newmobility.news/en/2025/04/14/mercedes-to-end-citan-t-class-production-in-2026/",
+   "what": "newmobility 2025-04-14: Citan/T-Class/eCitan/EQT production ends Q2 2026"
+  },
+  {
+   "url": "https://ch.smart.com/de/",
+   "what": "smart Switzerland homepage (fetched 2026-10-21): #1, #2 (Neu), #3, #5"
+  },
+  {
+   "url": "https://www.bmw.ch/de/all-models.html",
+   "what": "BMW Switzerland all-models page (fetched 2026-10-21): electric cards incl. iX5 Neu, iX4 Neu, iX3 Neu, i7 Neu; page truncated before ICE cards"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/List_of_BMW_vehicles",
+   "what": "Wikipedia list of BMW vehicles (fetched 2026-10-21): current generations, X4/iX3 G08 ended 2025, Z4/8 Series 2018–2026, X5 G65 2026, i3 NA0 2026"
+  },
+  {
+   "url": "https://www.mini.ch/de_CH/home/range.html",
+   "what": "MINI Switzerland range page (fetched 2026-10-21)"
+  },
+  {
+   "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom.html",
+   "what": "Rolls-Royce showroom (fetched 2026-10-21): Phantom, Ghost, Cullinan, Spectre Series II"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars",
+   "what": "Wikipedia Rolls-Royce Motor Cars (fetched 2026-10-21): Series II dates"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/cars/compare/renault-kangoo-2021-5-door-van-vs-ford-f/",
+   "what": "carsized recipe test (works via WebFetch)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/List_of_Mercedes-Benz_vehicles",
+   "what": "Wikipedia list of Mercedes-Benz vehicles (fetched 2026-10-22): codes W520 (C-Class Electric), X540 (GLC Electric), C590 (electric AMG GT 4-Door), X244 (new GLB); EQA/EQB/B-Class/Citan/X290/X247 end 2026"
+  },
+  {
+   "url": "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
+   "what": "Electrek 2026-07-30: BMW i3 orders open since June 2026 (DE/UK), base model end Sept 2026"
+  },
+  {
+   "url": "https://newmobility.news/en/2026/08/06/bmw-starts-i3-production-keeps-presales-under-wraps/",
+   "what": "newmobility 2026-08-06: BMW starts i3 production"
+  },
+  {
+   "url": "https://www.wapcar.my/news/all-new-2026-bmw-x5-g65-debuts-neue-klasse-looks-5-powertrains-offered-including-hydrogen-753622",
+   "what": "WapCar 2026-07-01: all-new X5 G65 debuts with five powertrains incl. iX5"
+  },
+  {
+   "url": "https://www.automobile.at/magazin/800055",
+   "what": "automobile.at: first German prices for the X5 G65 (2026)"
+  },
+  {
+   "url": "https://www.auto123.com/en/news/bmw-xm-2026-hybrid-offer/72875/",
+   "what": "Auto123 2025-06-12: 2026 XM Label only; production reportedly until Nov 2028"
+  },
+  {
+   "url": "https://hypebeast.com/ph/2026/5/bmw-z4-roadster-officially-ceases-production-info",
+   "what": "Hypebeast (May 2026): BMW officially ends Z4 production"
+  },
+  {
+   "url": "https://www.auto123.com/en/news/end-bmw-z4-toyota-supra-2026/72617/",
+   "what": "Auto123 2025-04-08: Z4 and Supra end 2026; shared platform, Magna Steyr Graz"
+  },
+  {
+   "url": "https://www.bmwblog.com/?p=509302",
+   "what": "BMWBlog 2025-12-18: 8 Series/M8 production ended; no successor"
+  },
+  {
+   "url": "https://electrive.com/2026/10/13/smart-2-now-available-to-pre-order-for-under-e20000",
+   "what": "electrive 2026-10-13: smart #2 pre-orders open (DE/FR/IT) from EUR 19,990; deliveries 2027; ECA platform"
+  },
+  {
+   "url": "https://www.timeslive.co.za/motoring/2026-10-19-mercedes-amg-gt-suv-breaks-cover-with-up-to-860kw-and-2000nm/",
+   "what": "TimesLIVE 2026-10-19: Mercedes-AMG GT SUV revealed (up to 860 kW)"
+  },
+  {
+   "url": "https://www.completecar.ie/car-news/article/14939/Rolls-Royce-Spectre-Series-II-announced",
+   "what": "CompleteCar (June 2026): Rolls-Royce Spectre Series II announced"
+  },
+  {
+   "url": "https://www.arenaev.com/zeekr_x_info_surfaces_shares_similar_specs_with_smart_1_and_volvo_ex30-news-1447.php",
+   "what": "ArenaEV: Zeekr X is the sister model of smart #1 and Volvo EX30 (SEA)"
+  },
+  {
+   "url": "https://insideevs.com/news/782857/geely-volvo-sea-ex30-comparo/",
+   "what": "InsideEVs: Geely SEA platform - EX30 and siblings compared"
+  },
+  {
+   "url": "https://insideevs.com/news/737128/lynk-and-co-02-sharing/",
+   "what": "InsideEVs: Lynk & Co 02 is a Volvo EX30 sibling (SEA)"
+  },
+  {
+   "url": "https://www.bmwblog.com/2023/11/10/mini-countryman-enters-production-bmw-leipzig/",
+   "what": "BMWBlog 2023-11-10: MINI Countryman U25 enters production at BMW Leipzig alongside the X1/X2 (shared UKL2 platform)"
+  },
+  {
+   "url": "https://www.t-online.de/mobilitaet/aktuelles/id_100677466/mercedes-citan-und-t-klasse-baureihen-werden-2026-eingestellt.html",
+   "what": "t-online: Citan and T-Class discontinued in 2026"
+  },
+  {
+   "url": "https://www.mercedes-benz.fr/vans/models.html",
+   "what": "Mercedes-Benz Vans France overview (fetched 2026-10-22): Sprinter/eSprinter, Vito/eVito, Marco Polo only; Citan only as footer link, no T-Class/EQV; 'Nouveau VLE' footer link"
+  },
+  {
+   "url": "https://de.motor1.com/news/797069/mercedes-amg-gt-4tuerer-preise/",
+   "what": "Motor1.de 2026-05-27: electric AMG GT 4-Door Coupé orders open, GT 55 EUR 154,700 / GT 63 EUR 196,350"
+  },
+  {
+   "url": "https://www.timeslive.co.za/motoring/2026-10-19-mercedes-amg-gt-suv-breaks-cover-with-up-to-860kw-and-2000nm/",
+   "what": "TimesLIVE 2026-10-19: AMG GT SUV revealed; GT 53 orderable in Europe from 2026-10-20 at EUR 113,050, GT 55/63 spring 2027"
+  },
+  {
+   "url": "https://www.automobile.at/magazin/800055",
+   "what": "automobile.at (July 2026): X5 G65 German prices (40d from EUR 95,750), ICE at dealers end Nov 2026, PHEV/iX5 orders from 8 Oct 2026, 4,990 mm / 3,035 mm wheelbase"
+  },
+  {
+   "url": "https://www.auto.it/news/anteprime/2026/10/08-9172606/bmw_ix4_arriva_il_suv_coup_della_neue_klasse",
+   "what": "auto.it 2026-10-08: BMW iX4 (Neue Klasse SUV coupé) arrives"
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/elektroauto/bmw-ix4-so-kommt-das-elektrische-suv-coupe/",
+   "what": "auto motor und sport: iX4 market launch 2027, shares iX3 108 kWh/800 V technology"
+  },
+  {
+   "url": "https://www.autohaus.de/nachrichten/autohersteller/mercedes-benz-vle-2026-die-neue-v-klasse-muss-sitzen-3776798",
+   "what": "Autohaus 2026-03-10: VLE 5,309 x 1,999 x 1,916 mm, up to 7 seats, V-Class/Vito renewal continues with combustion variants"
+  },
+  {
+   "url": "https://www.angurten.de/is/abmessungen/2290-i3+2026",
+   "what": "angurten.de: BMW i3 (2026) dimensions"
+  }
+ ]
+}

@@ -1,0 +1,2313 @@
+{
+ "agent": "jlr-independents (Tata Motors, KG Mobility, Isuzu, Ineos, Iveco Group, Volvo Group/Renault Trucks, Lucid, VinFast, Micro Mobility, Ferrari, Aston Martin, McLaren, Morgan, Caterham, Bugatti Rimac, Koenigsegg, Pagani)",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Range Rover",
+   "display": "Range Rover",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.rangerover.com/de-ch/index.html",
+   "row": "e-suv",
+   "body": "full-size luxury SUV (SWB/LWB, 5/7 seats)",
+   "generation": "V (L460, 2022–; Range Rover Electric 2026–)",
+   "length_mm": 5052,
+   "platform": "MLA-Flex",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH: 'ab CHF 159'600', configure & reserve live (2026-10-21). Range Rover Electric (BEV, 118.5 kWh, 800 V, up to 372 mi WLTP): 'has finally gone on sale', 'orders are open', from £154,070 in the UK (Electrifying, 2 Sep 2026); CH page still shows waitlist + 'personalisieren und reservieren' without price (2026-10-21).",
+   "status_sources": [
+    "https://www.rangerover.com/de-ch/index.html",
+    "https://www.rangerover.com/de-ch/range-rover/electric.html",
+    "https://www.electrifying.com/blog/article/the-range-rover-electric-is-finally-here"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Land Rover Range Rover Sport"
+   ],
+   "twin_note": "Range Rover and Range Rover Sport share the MLA-Flex platform, Solihull plant and powertrains (incl. PHEV, BEV); distinct bodies.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Range_Rover_(L460)",
+    "https://en.wikipedia.org/wiki/Range_Rover_Sport_(L461)"
+   ],
+   "carsized_slug": "land-rover-range-rover-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/range-rover/d/2021/sl_298110156_land-rover-range-rover-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Range Rover L460",
+   "commons_file": null,
+   "wikipedia_en": "Range Rover (L460)",
+   "notes": "Length 5,052 mm SWB / 5,252 mm LWB. SV versions are trims. 'Range Rover Electric' is the BEV version of this body (same nameplate/tile); first deliveries not yet reported. Commons category name not re-verified by fetch (budget)."
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Range Rover Sport",
+   "display": "Range Rover Sport",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.rangerover.com/de-ch/index.html",
+   "row": "e-suv",
+   "body": "large luxury SUV",
+   "generation": "III (L461, 2022–; Range Rover Sport Electric 2026–)",
+   "length_mm": 4946,
+   "platform": "MLA-Flex",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH: 'ab CHF 113'900' (2026-10-21). Range Rover Sport Electric (405 kW, 118.5 kWh, up to 374 mi WLTP): 'Orders are open now', prices from £110,000 (Autotrader, 30 Sep 2026); CH page offers 'personalisieren und reservieren' without a price (2026-10-22).",
+   "status_sources": [
+    "https://www.rangerover.com/de-ch/index.html",
+    "https://www.rangerover.com/de-ch/range-rover-sport/electric.html",
+    "https://www.autotrader.co.uk/content/news/new-range-rover-sport-electric-coming-soon-specs-price-and-release-info"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Land Rover Range Rover"
+   ],
+   "twin_note": "MLA-Flex sibling of the Range Rover L460.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Range_Rover_(L460)",
+    "https://en.wikipedia.org/wiki/Range_Rover_Sport_(L461)"
+   ],
+   "carsized_slug": "land-rover-range-rover-sport-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/range-rover-sport/d/2022/sl_300111142_land-rover-range-rover-sport-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Range Rover Sport L461",
+   "commons_file": null,
+   "wikipedia_en": "Range Rover Sport (L461)",
+   "notes": "SV is a trim. 'Range Rover Sport Electric' is the BEV version of this body (same tile). Commons category name not re-verified (budget)."
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Range Rover Velar",
+   "display": "Range Rover Velar",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.rangerover.com/de-ch/index.html",
+   "row": "d-suv",
+   "body": "mid-size luxury SUV",
+   "generation": "I (L560, 2017–; facelift 2023)",
+   "length_mm": 4797,
+   "platform": "JLR D8 / iQ[Al] (ex-Jaguar F-Pace architecture)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH: 'ab CHF 85'100', configure & reserve live (2026-10-21). Autocar (Oct 2026): Velar 'lives on' with market editions (Belgravia, Hoxton); no production end date given.",
+   "status_sources": [
+    "https://www.rangerover.com/de-ch/index.html",
+    "https://zephr.autocar.co.uk/car-news/new-cars/discovery-sport-production-ends-year-evoque-and-velar-live"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Former D8 sibling Jaguar F-Pace ended production Dec 2025, so no current twin.",
+   "twin_sources": [
+    "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+   ],
+   "carsized_slug": "land-rover-range-rover-velar-2017-suv",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/range-rover-velar/d/2017/sl_281114145_land-rover-range-rover-velar-2017-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2017-2023 (pre-facelift; carsized also has land-rover-range-rover-velar-2023-suv '2023-present' - image not yet fetched)",
+   "commons_category": "Category:Range Rover Velar",
+   "commons_file": null,
+   "wikipedia_en": "Range Rover Velar",
+   "notes": ""
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Range Rover Evoque",
+   "display": "Range Rover Evoque",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.rangerover.com/de-ch/index.html",
+   "row": "c-suv",
+   "body": "compact luxury SUV",
+   "generation": "II (L551, 2019–; facelift 2023)",
+   "length_mm": 4371,
+   "platform": "PTA (Premium Transverse Architecture)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH: 'ab CHF 68'900', configure & reserve live (2026-10-21). Autocar (Oct 2026): Range Rover MD Limpert – no immediate plans to end the Evoque; it may continue until the EMA-based 'Defender Sport' arrives in 2027. Becomes the cheapest Land Rover once Discovery Sport ends (Motor1, Jul 2026).",
+   "status_sources": [
+    "https://www.rangerover.com/de-ch/index.html",
+    "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/",
+    "https://zephr.autocar.co.uk/car-news/new-cars/discovery-sport-production-ends-year-evoque-and-velar-live"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Land Rover Discovery Sport"
+   ],
+   "twin_note": "Evoque L551 and Discovery Sport (from MY2020) share the PTA platform, Halewood plant and Ingenium MHEV/PHEV powertrains; distinct bodies.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Range_Rover_Evoque",
+    "https://en.wikipedia.org/wiki/Land_Rover_Discovery_Sport"
+   ],
+   "carsized_slug": "land-rover-range-rover-evoque-2018-suv",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/range-rover-evoque/d/2018/sm_273116103_land-rover-range-rover-evoque-2018-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2018-2023 (no separate post-2023-facelift entry on carsized)",
+   "commons_category": "Category:Range Rover Evoque L551",
+   "commons_file": null,
+   "wikipedia_en": "Range Rover Evoque",
+   "notes": "Diesel/petrol are 48V MHEV. Commons category name not re-verified (budget)."
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Discovery Sport",
+   "display": "Discovery Sport",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.landrover.ch/de/discovery/index.html",
+   "row": "c-suv",
+   "body": "compact SUV (5+2 seats)",
+   "generation": "I (L550, 2014–2026; PTA from MY2020; facelift 2023)",
+   "length_mm": 4597,
+   "platform": "PTA (Premium Transverse Architecture)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "JLR: 'Discovery Sport production will end in December 2026, in line with normal product lifecycles' (Motor1 27 Jul 2026; Autocar Oct 2026). Autocar: it 'can no longer be ordered from the factory in France, Germany or Spain' (EU GSR2 rules from Jul 2026) but can still be configured in the UK; CH site still shows 'Ab CHF 65'700' with a live configurator (2026-10-21) -> run-out.",
+   "status_sources": [
+    "https://www.landrover.ch/de/discovery/index.html",
+    "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/",
+    "https://zephr.autocar.co.uk/car-news/new-cars/discovery-sport-production-ends-year-evoque-and-velar-live"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Land Rover Range Rover Evoque"
+   ],
+   "twin_note": "PTA sibling of the Evoque L551 (same plant, powertrains).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Range_Rover_Evoque",
+    "https://en.wikipedia.org/wiki/Land_Rover_Discovery_Sport"
+   ],
+   "carsized_slug": "land-rover-discovery-sport-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/discovery-sport/d/2019/sm_286122128_land-rover-discovery-sport-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-present",
+   "commons_category": "Category:Land Rover Discovery Sport",
+   "commons_file": null,
+   "wikipedia_en": "Land Rover Discovery Sport",
+   "notes": "Length 4,597 mm (post-2019). Halewood switches to EMA models (Range Rover GT, then 'Defender Sport' 2027) – no direct successor."
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Discovery",
+   "display": "Discovery",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.landrover.ch/de/discovery/index.html",
+   "row": "e-suv",
+   "body": "large 7-seat SUV",
+   "generation": "V (L462, 2017–; facelift 2020, MY2025 update)",
+   "length_mm": 4956,
+   "platform": "JLR D7u (aluminium)",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "CH 'Ab CHF 96'600', configurator l462 live (2026-10-21).",
+   "status_sources": [
+    "https://www.landrover.ch/de/discovery/index.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "D7u also underpinned the previous Range Rover/RR Sport (ended 2022); Defender L663 uses the derived D7x – different row (offroad), so no group.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Land_Rover_Discovery",
+    "https://en.wikipedia.org/wiki/Land_Rover_Defender_(L663)"
+   ],
+   "carsized_slug": "land-rover-discovery-2017-suv",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/discovery/d/2017/sm_304111160_land-rover-discovery-2017-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2017-present",
+   "commons_category": "Category:Land Rover Discovery L462",
+   "commons_file": null,
+   "wikipedia_en": "Land Rover Discovery",
+   "notes": "Petrol/diesel are MHEV. Commons category name not re-verified (budget)."
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Defender",
+   "display": "Defender",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.landrover.ch/de/defender/index.html",
+   "row": "offroad",
+   "body": "body-on-aluminium-monocoque 4x4; 90 (3-dr), 110, 130 (5-dr), Hard Top (commercial), OCTA",
+   "generation": "L663 (2020–; Octa 2024; MY2026 update)",
+   "length_mm": 5018,
+   "platform": "JLR D7x",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH prices 2026-10-21: Defender 90 ab CHF 92'700, 110 ab 93'200, 130 ab 108'200, OCTA ab 220'900, Hard Top ab 88'600.",
+   "status_sources": [
+    "https://www.landrover.ch/de/defender/index.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin. D7x is a derivative of the Discovery's D7u (different row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Land_Rover_Defender_(L663)"
+   ],
+   "carsized_slug": "land-rover-defender-2019-offroader-110",
+   "carsized_side": "https://www.carsized.com/resources/land-rover/defender/d/2019/sl_309105145_land-rover-defender-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2024 (shown as 2019-present in listings; 110 body)",
+   "commons_category": "Category:Land Rover Defender L663",
+   "commons_file": null,
+   "wikipedia_en": "Land Rover Defender (L663)",
+   "notes": "Lengths: 90 = 4,583 mm, 110 = 5,018 mm, 130 = 5,358 mm (incl. spare wheel). One tile for all wheelbases per brief rule 4. Commons category name not re-verified (budget)."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Tivoli",
+   "display": "Tivoli",
+   "other_names": [
+    "SsangYong Tivoli (pre-2023 badge)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (X100, 2015–; facelifts 2019, 2024)",
+   "length_mm": 4225,
+   "platform": "KGM X100 (monocoque)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "CH 'ab CHF 19'990' (kgm.ch, 2026-10-21); DE ab 18.990 € (kgm.de).",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "ssang-yong-tivoli-2015-suv",
+   "carsized_side": "https://www.carsized.com/resources/ssang-yong/tivoli/d/2015/sm_283117100_ssang-yong-tivoli-2015-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2015-present (pre-facelift shape, 4,195 mm)",
+   "commons_category": "Category:SsangYong Tivoli",
+   "commons_file": null,
+   "wikipedia_en": "SsangYong Tivoli",
+   "notes": "Length 4,225 mm (post-2019 facelift); 'Tivoli Steel' is a trim. Commons/Wikipedia titles may still use SsangYong."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Korando",
+   "display": "Korando",
+   "other_names": [
+    "SsangYong Korando (pre-2023 badge)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "IV (C300, 2019–; facelift 2024)",
+   "length_mm": 4450,
+   "platform": "KGM C300",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "CH 'ab CHF 30'990'; DE ab 22.990 € (2026-10-21). Korando e-Motion (BEV) no longer listed on kgm.de/kgm.ch.",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "ssang-yong-korando-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/ssang-yong/korando/d/2019/sm_276126112_ssang-yong-korando-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-present",
+   "commons_category": "Category:SsangYong Korando C300",
+   "commons_file": null,
+   "wikipedia_en": "SsangYong Korando",
+   "notes": "Diesel availability in Europe 2026 not verified (petrol 1.5 T-GDI confirmed via DE price list)."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Torres",
+   "display": "Torres / Torres EVX",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "d-suv",
+   "body": "mid-size SUV (Torres petrol/hybrid; Torres EVX BEV with own fascias; EVX Cargo Van N1 in DE)",
+   "generation": "I (J100 Torres 2022–, EU 2024; U100 Torres EVX 2023–; Torres Hybrid 2025/26)",
+   "length_mm": 4700,
+   "platform": "KGM J100/U100 (Torres architecture; EVX uses BYD LFP battery)",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH: Torres ab CHF 38'790, Torres EVX ab CHF 35'490 (campaign 33'490) (2026-10-21); DE: Torres 28.990 €, Torres Hybrid, Torres EVX 34.990 €, EVX Cargo Van 38.990 €.",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "KGM Actyon"
+   ],
+   "twin_note": "Actyon (J120) is 'based on the Torres' (same architecture, longer coupé-SUV body).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/List_of_KGM_vehicles"
+   ],
+   "carsized_slug": "kgm-torres-2023-suv-evx",
+   "carsized_side": "https://www.carsized.com/resources/kgm/torres/evx/2023/sl_291125155_kgm-torres-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present (Torres EVX body; plain Torres entry not confirmed)",
+   "commons_category": "Category:KGM Torres",
+   "commons_file": null,
+   "wikipedia_en": "KGM Torres",
+   "notes": "JUDGEMENT CALL: Torres and Torres EVX kept as ONE tile (same body shell, different fascias/powertrain), like Kona/Kona Electric; KGM markets them as separate models – split if the chart prefers (EVX length 4,715 mm, Wikipedia 'KGM Torres EVX', Commons 'Category:KGM Torres EVX')."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Actyon",
+   "display": "Actyon",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "d-suv",
+   "body": "mid-size coupé-SUV",
+   "generation": "II (J120, 2024–; EU 2025; Actyon Hybrid 2026)",
+   "length_mm": 4740,
+   "platform": "KGM J100 (Torres architecture)",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH 'ab CHF 42'490' (2026-10-21); DE ab 35.790 € incl. 'Der neue Actyon Hybrid'; ACL Luxembourg: hybrid expected early 2026.",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/",
+    "https://autotouring.acl.lu/en/kgm/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "KGM Torres"
+   ],
+   "twin_note": "Based on the Torres (Wikipedia list of KGM vehicles).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/List_of_KGM_vehicles"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:KGM Actyon",
+   "commons_file": null,
+   "wikipedia_en": "KGM Actyon",
+   "notes": "Hybrid system co-developed with BYD."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Rexton",
+   "display": "Rexton",
+   "other_names": [
+    "SsangYong Rexton (pre-2023 badge)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "offroad",
+   "body": "body-on-frame 7-seat SUV",
+   "generation": "II (Y400, 2017–; facelifts 2020, 2023)",
+   "length_mm": 4850,
+   "platform": "KGM Y400 ladder frame",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "CH 'ab CHF 50'490'; DE ab 47.990 € (2026-10-21).",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "The Musso pickup shares the Rexton's frame and cab, but sits in the pickup row – no group.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/List_of_KGM_vehicles"
+   ],
+   "carsized_slug": "ssang-yong-rexton-2017-suv",
+   "carsized_side": "https://www.carsized.com/resources/ssang-yong/rexton/d/2017/sl_305116150_ssang-yong-rexton-2017-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2017-present",
+   "commons_category": "Category:SsangYong Rexton Y400",
+   "commons_file": null,
+   "wikipedia_en": "SsangYong Rexton",
+   "notes": "Row per brief ('Rexton' listed under offroad); length 4,850 mm."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Musso",
+   "display": "Musso",
+   "other_names": [
+    "SsangYong Musso (pre-2023 badge)",
+    "KGM Musso Grand (long bed)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "pickup",
+   "body": "body-on-frame double-cab pickup (Musso / Musso Grand long bed)",
+   "generation": "Q300 'new Musso' (2026–), successor of Q200 (2018–2025)",
+   "length_mm": 5095,
+   "platform": "KGM Y400 ladder frame (Rexton)",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "CH: 'New KGM Musso' campaign, Musso ab CHF 42'689, Musso Grand ab 44'311 (2026-10-21); DE: 'Der neue Musso und der neue Musso Grand' ab 40.990 €.",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/",
+    "https://en.wikipedia.org/wiki/List_of_KGM_vehicles"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Derived from the Rexton (offroad row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/List_of_KGM_vehicles"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:SsangYong Musso (Q200)",
+   "commons_file": null,
+   "wikipedia_en": "SsangYong Musso",
+   "notes": "Length ~5,095 mm (Grand ~5,405 mm). Wikipedia lists the 2026 Musso as Q300 – whether it is a new generation or a heavy facelift is unverified; carsized may only have the 2018 Q200 shape."
+  },
+  {
+   "brand": "KGM",
+   "group": "KG Mobility",
+   "model": "Musso EV",
+   "display": "Musso EV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.kgm.ch/",
+   "row": "pickup",
+   "body": "unibody electric double-cab pickup",
+   "generation": "I (O100, 2025–; EU launch Aug 2025)",
+   "length_mm": 5160,
+   "platform": "KGM U100 (Torres EVX) electric architecture",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH 'ab CHF 43'230', 'Der neue Elektro-Pick-Up' (2026-10-21); DE ab 41.990 €; ACL: launched in Europe end of Aug 2025.",
+   "status_sources": [
+    "https://www.kgm.ch/",
+    "https://www.kgm.de/",
+    "https://autotouring.acl.lu/en/kgm/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Shares the Torres EVX electric platform (different row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/List_of_KGM_vehicles"
+   ],
+   "carsized_slug": "kgm-musso-ev-2025-4-door-pickup",
+   "carsized_side": "https://www.carsized.com/resources/kgm/musso-ev/d/2025/sl_299122159_kgm-musso-ev-2025-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2025-present",
+   "commons_category": "Category:KGM Musso EV",
+   "commons_file": null,
+   "wikipedia_en": "KGM Musso EV",
+   "notes": "Length approx. (5.19 m) – verify."
+  },
+  {
+   "brand": "Isuzu",
+   "group": "Isuzu",
+   "model": "D-Max",
+   "display": "D-Max",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.isuzu.ch/",
+   "row": "pickup",
+   "body": "body-on-frame pickup (Single/Space/Double Cab)",
+   "generation": "III (RT, 2019–; EU 2021; facelift 2023; MY2026 adds 2.2 diesel; D-Max EV 2025/26)",
+   "length_mm": 5280,
+   "platform": "Isuzu RT ladder frame",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Only Isuzu car-class model in Europe; isuzu.co.uk range page (2026-10-22) lists D-Max Utility/DL20/DL40/V-Cross/AT35 and the electric D-Max eDL40 (£54,995) and eV-Cross (£57,495) – 'the UK's only all-electric pick-up'. isuzu.ch content is JS-rendered (not readable by fetch) – CH status from importer presence.",
+   "status_sources": [
+    "https://www.isuzu.ch/",
+    "https://www.isuzu-sales.de/",
+    "https://www.isuzu.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Tier-1 twin Mazda BT-50 (built by Isuzu) is NOT sold in Europe, so no group.",
+   "twin_sources": [],
+   "carsized_slug": "isuzu-d-max-2019-2-door-pickup-space-cab",
+   "carsized_side": "https://www.carsized.com/resources/isuzu/d-max/space-cab/2019/sm_295123190_isuzu-d-max-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2023 (Space Cab; carsized has no 3rd-gen double-cab or 2023-facelift entry)",
+   "commons_category": "Category:Isuzu D-Max (RT)",
+   "commons_file": null,
+   "wikipedia_en": "Isuzu D-Max",
+   "notes": "Double Cab length 5,280 mm. D-Max EV = same body with BEV drivetrain (one tile). Isuzu N35 3.5 t light truck not on the UK range page – not included."
+  },
+  {
+   "brand": "Ineos",
+   "group": "Ineos",
+   "model": "Grenadier",
+   "display": "Grenadier",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ineosgrenadier.com/de/ch",
+   "row": "offroad",
+   "body": "ladder-frame 4x4 Station Wagon (5-seat) / Utility Wagon (2-seat commercial)",
+   "generation": "I (2022–)",
+   "length_mm": 4896,
+   "platform": "Ineos ladder frame (BMW B58/B57 engines)",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "CH site lists 'GRENADIER Station Wagon' (Fünfsitziger Geländewagen) with test drive/stock (2026-10-21); UK site adds 'Grenadier Commercial'.",
+   "status_sources": [
+    "https://www.ineosgrenadier.com/de/ch",
+    "https://www.ineosgrenadier.com/en/ch"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Engine supply from BMW only – no tier.",
+   "twin_sources": [],
+   "carsized_slug": "ineos-grenadier-2022-offroader",
+   "carsized_side": "https://www.carsized.com/resources/ineos/grenadier/d/2022/sl_349127129_ineos-grenadier-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Ineos Grenadier",
+   "commons_file": null,
+   "wikipedia_en": "Ineos Grenadier",
+   "notes": "Length 4,896 mm (without rear spare ~4,927 incl.). 'Arcane Works Detour' limited edition. Smaller Fusilier EV postponed."
+  },
+  {
+   "brand": "Ineos",
+   "group": "Ineos",
+   "model": "Quartermaster",
+   "display": "Grenadier Quartermaster",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ineosgrenadier.com/de/ch",
+   "row": "pickup",
+   "body": "double-cab pickup (also Chassis Cab)",
+   "generation": "I (2024–)",
+   "length_mm": 5400,
+   "platform": "Ineos ladder frame (stretched)",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "CH site: 'GRENADIER Quartermaster – Doppelkabiner-Geländewagen', test drive bookable (2026-10-21).",
+   "status_sources": [
+    "https://www.ineosgrenadier.com/de/ch",
+    "https://www.ineosgrenadier.com/en/ch"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ineos Grenadier Quartermaster",
+   "commons_file": null,
+   "wikipedia_en": "Ineos Grenadier",
+   "notes": "Length ~5,400 mm. Commons sub-category may not exist – fall back to Category:Ineos Grenadier."
+  },
+  {
+   "brand": "Iveco",
+   "group": "Iveco Group",
+   "model": "Daily",
+   "display": "Daily / eDaily",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.iveco.com/switzerland/",
+   "row": "van-large",
+   "body": "large van / chassis cab / minibus (3.3–7.2 t; 3.5 t '35S/35C' versions)",
+   "generation": "VI 'New Daily' (2014–; updates 2019, MY2022, MY2024)",
+   "length_mm": 5670,
+   "platform": "Iveco Daily ladder frame (unique)",
+   "powertrains": [
+    "diesel",
+    "CNG",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Core Iveco LCV; eDaily (BEV) since 2022. Swiss/German product pages could not be fetched (web budget) – status from general availability; verifier please spot-check iveco.com/switzerland.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Iveco_Group",
+    "https://en.ilsole24ore.com/art/iveco-heywood-to-complete-integration-with-tata-motors-by-the-third-quarter-of-2026-AIuCpziD"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No rebadge (unique ladder-frame van).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Iveco Daily VI",
+   "commons_file": null,
+   "wikipedia_en": "Iveco Daily",
+   "notes": "Length varies 4.99–7.44 m; 5,670 mm given for a 3.5 t L2 van. OWNERSHIP: Tata Motors agreed (30 Jul 2025) to acquire Iveco Group's CV business; defence unit sold to Leonardo in Q1 2026; Iveco chair Heywood at the June 2026 AGM: integration with Tata Motors 'expected by the third quarter of 2026' (Il Sole 24 Ore, 17 Jun 2026) – closing after that date not verified; group label kept as 'Iveco Group' per brief (verifier: footnote 'Tata Motors' if closed)."
+  },
+  {
+   "brand": "Renault Trucks",
+   "group": "Volvo Group",
+   "model": "Master",
+   "display": "Renault Trucks Master",
+   "other_names": [
+    "Renault Trucks Master Red Edition",
+    "Renault Trucks E-Tech Master"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.renault-trucks.ch/de-ch/product/renault-trucks-master-red-edition",
+   "row": "van-large",
+   "body": "large van / crew van / platform & chassis cab (3.5 t & 4.0 t GVW)",
+   "generation": "IV (2024–; 'Red Edition', 'E-Tech Master', 'Red Edition OFFROAD')",
+   "length_mm": 5570,
+   "platform": "Renault Master IV (Renault Group)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "renault-trucks.ch lists Master Red Edition, Master E-Tech and Master Red Edition OFFROAD (2026-10-21); Transport Operator (Apr 2025): new-generation E-Tech Master, 3,500/4,000 kg GVW, 87 kWh, 460 km.",
+   "status_sources": [
+    "https://www.renault-trucks.ch/",
+    "https://www.renault-trucks.ch/de-ch/product/renault-trucks-master-red-edition",
+    "https://www.renault-trucks.ch/de-ch/product/renault-trucks-e-tech-master-elektrisch",
+    "https://transportoperator.co.uk/?p=33350"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Master",
+    "Nissan Interstar"
+   ],
+   "twin_note": "Renault Trucks sells the Renault Master IV (built by Renault at Batilly) with its own badging/Red Edition trims; Nissan Interstar is the same van.",
+   "twin_sources": [
+    "https://transportoperator.co.uk/?p=33350",
+    "https://www.fleetnews.co.uk/news/renault-reveals-all-new-master-van-range"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Renault Master IV",
+   "commons_file": null,
+   "wikipedia_en": "Renault Master",
+   "notes": "Length 5,570 mm for L2 (L3 ~6,300). Image: use Renault Master IV van on carsized (same body)."
+  },
+  {
+   "brand": "Renault Trucks",
+   "group": "Volvo Group",
+   "model": "Trafic",
+   "display": "Renault Trucks Trafic",
+   "other_names": [
+    "Renault Trucks Trafic Red Edition",
+    "Renault Trucks E-Tech Trafic"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.renault-trucks.ch/de-ch/product/der-neue-renault-trucks-trafic-red-edition-0",
+   "row": "van-mid",
+   "body": "mid-size van",
+   "generation": "III (2014–; facelift 2022) 'Trafic Red Edition 2024'; E-Tech Trafic (BEV)",
+   "length_mm": 5080,
+   "platform": "Renault Trafic III (Renault Group)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "renault-trucks.ch lists 'Trafic Red Edition (2024)' and 'neuer Renault Trucks E-Tech Trafic' (2026-10-21). Whether the E-Tech Trafic is the all-new 2026 Renault Trafic E-Tech (4th gen) could not be verified (web budget).",
+   "status_sources": [
+    "https://www.renault-trucks.ch/",
+    "https://www.renault-trucks.ch/de-ch/product/der-neue-renault-trucks-trafic-red-edition-0",
+    "https://www.renault-trucks.ch/de-ch/neuer-renault-trucks-e-tech-trafic"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Trafic",
+    "Nissan Primastar"
+   ],
+   "twin_note": "Rebadged Renault Trafic III (Sandouville); Nissan Primastar is the same van.",
+   "twin_sources": [
+    "https://www.renault-trucks.ch/"
+   ],
+   "carsized_slug": "renault-trafic-2021-panel-van-l1h1",
+   "carsized_side": "https://www.carsized.com/resources/renault/trafic/spaceclass-l1h1/2021/sm_327142144_renault-trafic-2021-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/trafic/spaceclass-l1h1/2021/fa_330000000_renault-trafic-2021-front-view_4x.png",
+   "carsized_years": "2021-present (Renault Trafic entry; same body)",
+   "commons_category": "Category:Renault Trafic III",
+   "commons_file": null,
+   "wikipedia_en": "Renault Trafic",
+   "notes": "Length 5,080 mm (L1) / 5,480 (L2). Image: use Renault Trafic III on carsized."
+  },
+  {
+   "brand": "Lucid",
+   "group": "Lucid",
+   "model": "Air",
+   "display": "Air",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "luxury saloon",
+   "generation": "I (2021–; EU 2022; 2025 update)",
+   "length_mm": 4975,
+   "platform": "LEAP (Lucid Electric Advanced Platform)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "lucidmotors.com/de-de (2026-10-22): Air Pure ab 85.900 €, Air Touring ab 99.900 €, Air Grand Touring ab 130.900 €, Air Sapphire 250.000 €, with 'Konfigurieren'.",
+   "status_sources": [
+    "https://lucidmotors.com/de-de",
+    "https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "lucid-air-2021-sedan",
+   "carsized_side": "https://www.carsized.com/resources/lucid/air/d/2021/sl_240119146_lucid-air-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Lucid Air",
+   "commons_file": null,
+   "wikipedia_en": "Lucid Air",
+   "notes": "Length 4,975 mm. Lucid operates a studio in Zurich/Geneva – CH status likely true but unverified."
+  },
+  {
+   "brand": "Lucid",
+   "group": "Lucid",
+   "model": "Gravity",
+   "display": "Gravity",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/",
+   "row": "e-suv",
+   "body": "large 7-seat electric SUV",
+   "generation": "I (2024–; EU orders Sep 2025, deliveries early 2026)",
+   "length_mm": 5034,
+   "platform": "LEAP (Lucid)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders opened Sep 2025 in Germany, Netherlands, Switzerland, Norway (Grand Touring first; CH CHF 125'900, Touring CHF 108'900); deliveries from early 2026 (InsideEVs 9 Sep 2025). lucidmotors.com/de-de (2026-10-22): Gravity Touring ab 94.900 € with 'Konfigurieren'; a 'Gravity Touring Plus 2027' is hinted in a comparison link.",
+   "status_sources": [
+    "https://lucidmotors.com/de-de",
+    "https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/",
+    "https://ir.lucidmotors.com/news-releases/news-release-details/lucids-new-all-electric-suv-iaa-mobility-munich-adventure-has",
+    "https://www.electrive.com/2025/09/08/lucid-gravity-celebrates-its-european-premiere-at-the-iaa"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "lucid-gravity-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/lucid/gravity/d/2024/sl_273116149_lucid-gravity-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Lucid Gravity",
+   "commons_file": null,
+   "wikipedia_en": "Lucid Gravity",
+   "notes": "748 km WLTP."
+  },
+  {
+   "brand": "VinFast",
+   "group": "VinFast",
+   "model": "VF 6",
+   "display": "VF 6",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://vinfastauto.eu/",
+   "row": "b-suv",
+   "body": "small electric SUV (B-segment)",
+   "generation": "I (2024–; EU 2025)",
+   "length_mm": 4238,
+   "platform": "VinFast B-SUV (Pininfarina design)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "vinfastauto.eu (2026-10-21): VF 6 'New' with 'Order Now'; reservation flow for France and Germany, stock in the Netherlands; dealer expansion news through Sep 2026 (Groupe Dallard, Toulouse).",
+   "status_sources": [
+    "https://vinfastauto.eu/",
+    "https://vinfastauto.eu/en/newsroom",
+    "https://www.electrive.com/2025/05/09/vinfast-announces-new-dealership-contracts-in-germany-france/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:VinFast VF 6",
+   "commons_file": null,
+   "wikipedia_en": "VinFast VF 6",
+   "notes": "No Swiss presence (EU site lists FR/DE/NL only) -> ch_on_sale false."
+  },
+  {
+   "brand": "VinFast",
+   "group": "VinFast",
+   "model": "VF 8",
+   "display": "VF 8",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://vinfastauto.eu/",
+   "row": "d-suv",
+   "body": "mid-size electric SUV",
+   "generation": "I (2022–; new generation unveiled 21 May 2026)",
+   "length_mm": 4750,
+   "platform": "VinFast D-SUV",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "vinfastauto.eu (2026-10-21): VF 8 'Available Now / Available For Order' (FR, DE, NL). Newsroom 21 May 2026: 'VinFast introduces the new-generation VF 8' – EU arrival date of the new generation not verified.",
+   "status_sources": [
+    "https://vinfastauto.eu/",
+    "https://vinfastauto.eu/en/newsroom"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "vinfast-vf-8-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/vinfast/vf-8/d/2022/sl_276116125_vinfast-vf-8-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present (first-generation body)",
+   "commons_category": "Category:VinFast VF 8",
+   "commons_file": null,
+   "wikipedia_en": "VinFast VF 8",
+   "notes": "VF 7, VF 9 and VF 3 are not offered on the European site (2026-10-21)."
+  },
+  {
+   "brand": "Microlino",
+   "group": "Micro Mobility",
+   "model": "Microlino",
+   "display": "Microlino",
+   "other_names": [
+    "Microlino Lite (L6e, 45 km/h)",
+    "Microlino Spiaggina"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://microlino-car.com/",
+   "row": "quadricycle",
+   "body": "L7e heavy quadricycle bubble car (front door); Lite = L6e version; Spiaggina open variant",
+   "generation": "2.0 (2022–; Lite 2024–; Spiaggina 2024–)",
+   "length_mm": 2519,
+   "platform": "Microlino unibody (built in Turin)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "microlino-car.com (2026-10-21): configurator live; CH site in DE/FR/IT/EN plus 18 European country sites (AT, BE, CZ, DK, FR, DE, GR, IT, LU, NL, NO, PL, PT, ES, RO, SE, TR, UK).",
+   "status_sources": [
+    "https://microlino-car.com/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "micro-microlino-2022-microcar",
+   "carsized_side": "https://www.carsized.com/resources/micro/microlino/d/2022/sl_254073050_micro-microlino-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Microlino",
+   "commons_file": null,
+   "wikipedia_en": "Microlino",
+   "notes": "One tile for Microlino, Lite and Spiaggina (same body). 2,519 mm long."
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "296",
+   "display": "296 GTB / GTS / Speciale",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ferrari.com/en-CH/auto/range",
+   "row": "sports",
+   "body": "mid-engined 2-seat berlinetta (GTB) / spider (GTS); Speciale & Speciale A",
+   "generation": "I (2021–; GTS 2022; Speciale/Speciale A 2025)",
+   "length_mm": 4565,
+   "platform": "Ferrari F171 aluminium spaceframe",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current range per Wikipedia list (2026) and Goodwood 2026 line-up (296 Speciale, Speciale A). Whether the standard GTB/GTS are still orderable or only the Speciale could not be verified (ferrari.com blocks fetches).",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "ferrari-296-2021-cabriolet",
+   "carsized_side": "https://www.carsized.com/resources/ferrari/296/gts/2021/sl_206146109_ferrari-296-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present (296 GTS entry)",
+   "commons_category": "Category:Ferrari 296 GTB",
+   "commons_file": null,
+   "wikipedia_en": "Ferrari 296",
+   "notes": "ferrari.com is robots-blocked for fetch; Swiss official dealers exist (Zürich, Geneva, Lugano)."
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "849 Testarossa",
+   "display": "849 Testarossa",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ferrari.com/en-CH/auto/range",
+   "row": "sports",
+   "body": "mid-engined PHEV berlinetta / Spider (RHT)",
+   "generation": "I (2025–; production from mid-2026)",
+   "length_mm": 4718,
+   "platform": "Ferrari F173 (SF90 evolution)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Unveiled 9 Sep 2025; 1,050 cv; 'production will begin in the middle of 2026' (Wikipedia); shown at Goodwood Jul 2026 incl. Spider.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Ferrari_849_Testarossa",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ferrari 849 Testarossa",
+   "commons_file": null,
+   "wikipedia_en": "Ferrari 849 Testarossa",
+   "notes": "Replaces SF90 Stradale/Spider."
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "Amalfi",
+   "display": "Amalfi",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ferrari.com/en-CH/auto/range",
+   "row": "sports",
+   "body": "front-mid-engined V8 2+2 coupé / Spider",
+   "generation": "I (2025–; Spider 2026)",
+   "length_mm": 4660,
+   "platform": "Ferrari F169 (Roma evolution)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Replaces the Roma (Wikipedia list); Goodwood 2026 dynamic debut, Amalfi Spider public debut (Jul 2026).",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ferrari Amalfi",
+   "commons_file": null,
+   "wikipedia_en": "Ferrari Amalfi",
+   "notes": "Length ~4,660 mm."
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "12Cilindri",
+   "display": "12Cilindri",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ferrari.com/en-CH/auto/range",
+   "row": "sports",
+   "body": "front-mid-engined V12 berlinetta / Spider; 'Manuale' 2026",
+   "generation": "I (2024–; Spider 2024; Manuale 2026)",
+   "length_mm": 4733,
+   "platform": "Ferrari F167 (812 evolution)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Current range (Wikipedia list, Goodwood 2026).",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "ferrari-12cilindri-2024-coupe",
+   "carsized_side": "https://www.carsized.com/resources/ferrari/12cilindri/d/2024/sm_221135139_ferrari-12cilindri-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Ferrari 12Cilindri",
+   "commons_file": null,
+   "wikipedia_en": "Ferrari 12Cilindri",
+   "notes": ""
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "Purosangue",
+   "display": "Purosangue",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ferrari.com/en-CH/auto/range",
+   "row": "e-suv",
+   "body": "four-door, four-seat V12 crossover",
+   "generation": "I (2022–; HS pack 2026)",
+   "length_mm": 4973,
+   "platform": "Ferrari F175 (unique)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Current range; 'Purosangue Handling Speciale' on-request configuration shown Goodwood 2026.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "ferrari-purosangue-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/ferrari/purosangue/d/2023/sm_265115123_ferrari-purosangue-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present",
+   "commons_category": "Category:Ferrari Purosangue",
+   "commons_file": null,
+   "wikipedia_en": "Ferrari Purosangue",
+   "notes": ""
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "F80",
+   "display": "F80",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.ferrari.com/en-CH/auto/range",
+   "row": "sports",
+   "body": "mid-engined V6 PHEV hypercar (799 units)",
+   "generation": "I (2024–2027; 799 units)",
+   "length_mm": 4840,
+   "platform": "Ferrari F250 carbon tub",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "Limited to 799 cars, allocation closed at launch (Oct 2024); deliveries 2025–2027 – 'runout' per brief definition.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ferrari F80",
+   "commons_file": null,
+   "wikipedia_en": "Ferrari F80",
+   "notes": ""
+  },
+  {
+   "brand": "Aston Martin",
+   "group": "Aston Martin",
+   "model": "Vantage",
+   "display": "Vantage",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "front-mid-engined V8 coupé / Roadster; Vantage S",
+   "generation": "2024 Vantage (AM6 facelift, 2024–; Roadster 2024; Vantage S 2025)",
+   "length_mm": 4495,
+   "platform": "Aston Martin bonded aluminium (AM6)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "astonmartin.com/en/models (2026-10-21): Vantage, Vantage Roadster, Vantage S, Vantage S Roadster with configurator/enquire.",
+   "status_sources": [
+    "https://www.astonmartin.com/en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Mercedes-AMG engine supply only – no tier.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aston Martin Vantage (2018)",
+   "commons_file": null,
+   "wikipedia_en": "Aston Martin Vantage (2018)",
+   "notes": "Swiss official dealers exist (Zürich, Geneva) – not re-verified."
+  },
+  {
+   "brand": "Aston Martin",
+   "group": "Aston Martin",
+   "model": "DB12",
+   "display": "DB12",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "V8 GT coupé / Volante; DB12 S",
+   "generation": "I (2023–; DB12 S 2025)",
+   "length_mm": 4725,
+   "platform": "Aston Martin bonded aluminium (AM6/DB11 evolution)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "astonmartin.com/en/models (2026-10-21): DB12, DB12 Volante, DB12 S, DB12 S Volante, 60th Anniversary Edition.",
+   "status_sources": [
+    "https://www.astonmartin.com/en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aston Martin DB12",
+   "commons_file": null,
+   "wikipedia_en": "Aston Martin DB12",
+   "notes": ""
+  },
+  {
+   "brand": "Aston Martin",
+   "group": "Aston Martin",
+   "model": "Vanquish",
+   "display": "Vanquish",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "V12 GT coupé / Volante",
+   "generation": "III (2024–; Volante 2025)",
+   "length_mm": 4850,
+   "platform": "Aston Martin bonded aluminium (AM6 evolution)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "astonmartin.com/en/models (2026-10-21): Vanquish, Vanquish Volante, anniversary editions.",
+   "status_sources": [
+    "https://www.astonmartin.com/en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "aston-martin-vanquish-2024-coupe",
+   "carsized_side": "https://www.carsized.com/resources/aston-martin/vanquish/c/2024/sm_221116135_aston-martin-vanquish-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Aston Martin Vanquish (2024)",
+   "commons_file": null,
+   "wikipedia_en": "Aston Martin Vanquish (2024)",
+   "notes": ""
+  },
+  {
+   "brand": "Aston Martin",
+   "group": "Aston Martin",
+   "model": "DBX",
+   "display": "DBX",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "large luxury SUV (DBX GT, DBX S, DBX707)",
+   "generation": "I (2020–; DBX707 2022; 2024 interior update; DBX S 2025)",
+   "length_mm": 5039,
+   "platform": "Aston Martin bonded aluminium SUV platform",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "astonmartin.com/en/models (2026-10-21): DBX GT, DBX S, DBX707.",
+   "status_sources": [
+    "https://www.astonmartin.com/en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aston Martin DBX",
+   "commons_file": null,
+   "wikipedia_en": "Aston Martin DBX",
+   "notes": ""
+  },
+  {
+   "brand": "Aston Martin",
+   "group": "Aston Martin",
+   "model": "Valhalla",
+   "display": "Valhalla",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V8 PHEV supercar (999 units)",
+   "generation": "I (2025–; 999 units)",
+   "length_mm": 4727,
+   "platform": "Aston Martin carbon tub (bespoke)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed as current model on astonmartin.com/en/models (2026-10-21); deliveries from 2025/26; whether the 999 build slots are sold out could not be verified (web budget).",
+   "status_sources": [
+    "https://www.astonmartin.com/en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aston Martin Valhalla",
+   "commons_file": null,
+   "wikipedia_en": "Aston Martin Valhalla",
+   "notes": "Length approx."
+  },
+  {
+   "brand": "McLaren",
+   "group": "McLaren",
+   "model": "750S",
+   "display": "750S",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V8 coupé / Spider",
+   "generation": "I (2023–)",
+   "length_mm": 4569,
+   "platform": "McLaren Monocage II-based carbon tub",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Current core model; mclaren.com model pages are JS-rendered (fetch returned no list) – status from Wikipedia/press (2025–26). Verifier: spot-check mclaren.com/cars.",
+   "status_sources": [
+    "https://www.mclaren.com/cars/gl_en/all-models",
+    "https://en.wikipedia.org/wiki/McLaren_Automotive"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:McLaren 750S",
+   "commons_file": null,
+   "wikipedia_en": "McLaren 750S",
+   "notes": "Swiss dealers: McLaren Zürich, Geneva (not re-verified)."
+  },
+  {
+   "brand": "McLaren",
+   "group": "McLaren",
+   "model": "Artura",
+   "display": "Artura",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V6 PHEV coupé / Spider",
+   "generation": "I (2021–; Spider 2024; 2025 update)",
+   "length_mm": 4539,
+   "platform": "McLaren Carbon Lightweight Architecture (MCLA)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current core model (see 750S note).",
+   "status_sources": [
+    "https://www.mclaren.com/cars/gl_en/all-models",
+    "https://en.wikipedia.org/wiki/McLaren_Automotive"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:McLaren Artura",
+   "commons_file": null,
+   "wikipedia_en": "McLaren Artura",
+   "notes": ""
+  },
+  {
+   "brand": "McLaren",
+   "group": "McLaren",
+   "model": "GTS",
+   "display": "GTS",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V8 grand tourer",
+   "generation": "I (2023–; replaced GT)",
+   "length_mm": 4683,
+   "platform": "McLaren Monocell II-T carbon tub",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Current core model (see 750S note).",
+   "status_sources": [
+    "https://www.mclaren.com/cars/gl_en/all-models",
+    "https://en.wikipedia.org/wiki/McLaren_Automotive"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:McLaren GTS",
+   "commons_file": null,
+   "wikipedia_en": "McLaren GTS",
+   "notes": ""
+  },
+  {
+   "brand": "McLaren",
+   "group": "McLaren",
+   "model": "W1",
+   "display": "W1",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V8 PHEV hypercar (399 units)",
+   "generation": "I (2024–; 399 units; deliveries 2026)",
+   "length_mm": 4635,
+   "platform": "McLaren Aerocell carbon tub",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "All 399 cars allocated at reveal (Oct 2024); deliveries from 2026.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/McLaren_Automotive"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:McLaren W1",
+   "commons_file": null,
+   "wikipedia_en": "McLaren W1",
+   "notes": "McLaren Automotive owned by CYVN Holdings (Abu Dhabi) since 2025; group label 'McLaren' per brief."
+  },
+  {
+   "brand": "Morgan",
+   "group": "Morgan",
+   "model": "Plus Four",
+   "display": "Plus Four",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-seat roadster (BMW 2.0 four-cylinder)",
+   "generation": "II (CX-generation, 2020–; 2024 update)",
+   "length_mm": 3830,
+   "platform": "Morgan CX bonded aluminium",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "morgan-motor.com (2026-10-21): Plus Four configurable; Supersport 400 press release (Jul 2026) lists Super 3, Plus Four, Supersport (400) as the four models.",
+   "status_sources": [
+    "https://www.morgan-motor.com/",
+    "https://media.morgan-motor.com/wp-content/uploads/2026/07/Morgan-Supersport-400-customer-deliveries-begin-Press-Release.pdf"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "BMW engine supply only – no tier.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Morgan Plus Four (2020)",
+   "commons_file": null,
+   "wikipedia_en": "Morgan Plus Four",
+   "notes": "Swiss importer exists (unverified)."
+  },
+  {
+   "brand": "Morgan",
+   "group": "Morgan",
+   "model": "Supersport",
+   "display": "Supersport / Supersport 400",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-seat roadster (BMW B58 straight-six); Supersport 400 = 402 bhp flagship",
+   "generation": "I (CXV, 2025–; Supersport 400 2026)",
+   "length_mm": 4060,
+   "platform": "Morgan CXV bonded aluminium",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Supersport 400 introduced Apr 2026, customer deliveries began Jul 2026, 'can be ordered now in all markets except the United States' (Morgan PR 28 Jul 2026); Supersport configurable on morgan-motor.com.",
+   "status_sources": [
+    "https://media.morgan-motor.com/wp-content/uploads/2026/07/Morgan-Supersport-400-customer-deliveries-begin-Press-Release.pdf",
+    "https://www.morgan-motor.com/",
+    "https://www.carmagazine.co.uk/car-news/first-official-pictures/morgan/2026-supersport-400/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Morgan Supersport",
+   "commons_file": null,
+   "wikipedia_en": "Morgan Supersport",
+   "notes": "One tile for Supersport and Supersport 400 (performance version)."
+  },
+  {
+   "brand": "Caterham",
+   "group": "Caterham",
+   "model": "Seven",
+   "display": "Seven",
+   "other_names": [
+    "Seven 170 / 310 / 360 / 420 / 620 / CSR",
+    "Super Seven 600 / 2000",
+    "Seven 340 (Europe)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://swisscarinfo.ch/en/vehicle/1ch140-caterham-seven-s3-170",
+   "row": "sports",
+   "body": "open two-seater (S3 / SV chassis), factory-built or kit",
+   "generation": "Seven (1973–; current Ford/Suzuki-engined range; Super Sevens 2022–; 485 Final Edition 2024; 310 Encore 2025)",
+   "length_mm": 3100,
+   "platform": "Caterham spaceframe",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "caterhamcars.com/en/models (2026-10-22): Seven 170, 310 Encore, 360, 420, 420 CUP, 420 Nürburgring Edition, 620, CSR Twenty, Super Seven 600, Super Seven 2000 (+ Academy/420R race packages), prices from £29,490 (self-assembly). News index: 'Caterham Expands European Network With Three New Retailer Appointments' (28 May 2026); retailers in FR, BE, CZ, DE.",
+   "status_sources": [
+    "https://caterhamcars.com/en/models",
+    "https://caterhamcars.com/en/news/our-heritage-range-returns-with-the-new-super-sevens.md",
+    "https://www.auto-motor-und-sport.de/neuheiten/caterham-stattet-den-seven-mit-neuen-kostenlosen-extras-aus/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Caterham Seven",
+   "commons_file": null,
+   "wikipedia_en": "Caterham 7",
+   "notes": "Length ~3,100 mm (S3; SV ~3,380). Project V electric coupé is a concept only. CH: Swiss type-approval entries for Seven 170/275/340/485 on swisscarinfo.ch (importer not verified). carsized only has a 1973-1990 Seven entry (caterham-seven-1973-roadster) – not used."
+  },
+  {
+   "brand": "Bugatti",
+   "group": "Bugatti Rimac",
+   "model": "Tourbillon",
+   "display": "Tourbillon",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V16 PHEV hypercar coupé (250 units)",
+   "generation": "I (2024–; deliveries from 2026; 250 units)",
+   "length_mm": 4671,
+   "platform": "Bugatti carbon monocoque (Rimac e-axles)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "'alle 250 Exemplare ... längst ausverkauft'; first deliveries 2026, built through 2029 (Motor1.de 2026 overview) -> sold out = runout.",
+   "status_sources": [
+    "https://de.motor1.com/news/781513/bugatti-neuheiten-2026-ueberblick/",
+    "https://newsroom.bugatti.com/api/en/press-releases/pdf/bugatti-celebrates-successful-year"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Bugatti Tourbillon",
+   "commons_file": null,
+   "wikipedia_en": "Bugatti Tourbillon",
+   "notes": "€3.8 m net."
+  },
+  {
+   "brand": "Bugatti",
+   "group": "Bugatti Rimac",
+   "model": "Mistral",
+   "display": "W16 Mistral",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "W16 roadster (99 units)",
+   "generation": "I (2024–2026; 99 units)",
+   "length_mm": 4544,
+   "platform": "Bugatti Chiron carbon monocoque",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "99 units sold out; deliveries since 2024; production ends mid/late 2026 (Motor1.de).",
+   "status_sources": [
+    "https://de.motor1.com/news/781513/bugatti-neuheiten-2026-ueberblick/",
+    "https://www.motorauthority.com/news/1145783_bugattis-mistral-w-16-deliveries-start"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Bugatti W16 Mistral",
+   "commons_file": null,
+   "wikipedia_en": "Bugatti Mistral",
+   "notes": "Bolide is track-only (excluded); Brouillard is a one-off."
+  },
+  {
+   "brand": "Rimac",
+   "group": "Bugatti Rimac",
+   "model": "Nevera",
+   "display": "Nevera / Nevera R",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "electric hypercar coupé (Nevera 150 units; Nevera R 40 units)",
+   "generation": "I (2021–; Nevera R 2025–)",
+   "length_mm": 4750,
+   "platform": "Rimac carbon monocoque, quad-motor",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Nevera R (2,107 PS) presented 2024, production 2025–; European deliveries ongoing (Rimac newsroom; evspecs). Not reported sold out.",
+   "status_sources": [
+    "https://www.evspecs.org/tech-specs/rimac/nevera/r",
+    "https://www.rimac-newsroom.com/api/press-releases/download/docx/the-first-belgian-registered-rimac-nevera-arrives-in-brussels?lang=en",
+    "https://topgear.nl/autonieuws/rimac-nevera-nederland-prijs/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Rimac Nevera",
+   "commons_file": null,
+   "wikipedia_en": "Rimac Nevera",
+   "notes": ""
+  },
+  {
+   "brand": "Koenigsegg",
+   "group": "Koenigsegg",
+   "model": "Jesko",
+   "display": "Jesko",
+   "other_names": [
+    "Jesko Attack",
+    "Jesko Absolut"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V8 hypercar (125 units; Attack / Absolut)",
+   "generation": "I (2021–; 125 units)",
+   "length_mm": 4610,
+   "platform": "Koenigsegg carbon monocoque",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "All 125 sold; deliveries continuing (supercars.net 2024/25). Sadair's Spear (30 units, 2025) is a Jesko-based special, also sold out.",
+   "status_sources": [
+    "https://supercars.net/blog/all-brands/koenigsegg/current-koenigsegg-models/",
+    "https://en.wikipedia.org/wiki/Koenigsegg"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Koenigsegg Jesko",
+   "commons_file": null,
+   "wikipedia_en": "Koenigsegg Jesko",
+   "notes": "Koenigsegg dealer in Switzerland (unverified)."
+  },
+  {
+   "brand": "Koenigsegg",
+   "group": "Koenigsegg",
+   "model": "Gemera",
+   "display": "Gemera",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "four-seat mega-GT (300 units), 2-door",
+   "generation": "I (2024–; 300 units)",
+   "length_mm": 4975,
+   "platform": "Koenigsegg carbon monocoque",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "300 units; in production since 2024; '2,300-hp Koenigsegg sold out until 2028' (vienna.at) – sold out = runout.",
+   "status_sources": [
+    "https://supercars.net/blog/all-brands/koenigsegg/current-koenigsegg-models/",
+    "https://www.vienna.at/luxury-problem-2300-hp-koenigsegg-sold-out-until-2028/9539585"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Koenigsegg Gemera",
+   "commons_file": null,
+   "wikipedia_en": "Koenigsegg Gemera",
+   "notes": ""
+  },
+  {
+   "brand": "Koenigsegg",
+   "group": "Koenigsegg",
+   "model": "CC850",
+   "display": "CC850",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V8 targa (70 units)",
+   "generation": "I (2023–; 70 units)",
+   "length_mm": 4364,
+   "platform": "Koenigsegg carbon monocoque (Jesko-based)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "In production, deliveries through 2025/26; all units sold (supercars.net).",
+   "status_sources": [
+    "https://supercars.net/blog/all-brands/koenigsegg/current-koenigsegg-models/",
+    "https://en.wikipedia.org/wiki/Koenigsegg"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Koenigsegg CC850",
+   "commons_file": null,
+   "wikipedia_en": "Koenigsegg CC850",
+   "notes": "Length approx."
+  },
+  {
+   "brand": "Pagani",
+   "group": "Pagani",
+   "model": "Utopia",
+   "display": "Utopia",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "mid-engined V12 coupé (99) / Roadster (130)",
+   "generation": "I (2022–; Roadster 2024–)",
+   "length_mm": 4607,
+   "platform": "Pagani carbo-titanium monocoque",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "Coupé (99) and Roadster (130) allocations sold out; deliveries ongoing 2026 (Motor1.de 2026 overview, Pagani Retromobile 2026 release).",
+   "status_sources": [
+    "https://de.motor1.com/news/785433/pagani-neuheiten-2026-ueberblick/",
+    "https://www.pagani.com/app/uploads/2026/01/Pagani-Automobili-at-Salon-Retromobile-2026_English.docx.pdf",
+    "https://www.ilgiornaledigitale.it/pagani-tutti-modelli-prezzi-gamma-completa-italia-84671.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Pagani Utopia",
+   "commons_file": null,
+   "wikipedia_en": "Pagani Utopia",
+   "notes": "Huayra Codalunga Speedster (10 units, deliveries H1 2026) and other Huayra specials are coachbuilt derivatives of the previous model – not tiled."
+  }
+ ],
+ "announced": [
+  {
+   "brand": "Jaguar",
+   "group": "Tata Motors",
+   "model": "Type 01",
+   "display": "Type 01",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.jaguar.com/de-ch/index.html",
+   "row": "e-car",
+   "body": "4-door electric GT (fastback saloon)",
+   "generation": "I (2026–; deliveries from summer 2027)",
+   "length_mm": 5200,
+   "platform": "JEA (Jaguar Electric Architecture)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Unveiled in New York in early Oct 2026: the event 'kicked off the Type 01's commercial introduction before first deliveries in summer 2027'; 'likely to cost from around £120,000'; 1,015 bhp, ~120 kWh, 435-mile WLTP target (Auto Express, 9 Oct 2026). jaguar.com/de-ch (2026-10-21) shows only a newsletter for launch dates, no configurator or CH price -> kept as 'announced' (coming); verifier: check whether order books are open in DE/UK.",
+   "status_sources": [
+    "https://www.autoexpress.co.uk/jaguar/gt/365043/new-jaguar-type-01-october-reveal-confirmed-worlds-hottest-new-car",
+    "https://www.carmagazine.co.uk/car-news/first-official-pictures/jaguar/2026-type-01/",
+    "https://www.jaguar.com/de-ch/index.html",
+    "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling; JEA is Jaguar-only (Range Rover GT uses EMA).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Jaguar Type 00",
+   "notes": "Jaguar currently has NO model on sale in Europe (all ICE/I-Pace production ended by Dec 2025). Commons: 'Category:Jaguar Type 00' (concept) is the best parent category; carsized has no entry yet. Wikipedia article for the production car may be titled 'Jaguar Type 01' once created."
+  },
+  {
+   "brand": "Land Rover",
+   "group": "Tata Motors",
+   "model": "Range Rover GT",
+   "display": "Range Rover GT",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.rangerover.com/de-ch/range-rover-gt/index.html",
+   "row": "d-suv",
+   "body": "electric crossover/GT (new nameplate on EMA)",
+   "generation": "I (2027–?)",
+   "length_mm": null,
+   "platform": "EMA (Electrified Modular Architecture)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "'The first car built on our new EMA architecture' (JLR via Autocar, Oct 2026), built at Halewood after Discovery Sport ends (Motor1, 27 Jul 2026). rangerover.com/de-ch GT page (2026-10-22): 'eleganter elektrischer GT mit schlanker Silhouette und Coupé-Proportionen', 'der limousinenartigste Range Rover', pre-series model shown, no price, no dates, not in the model navigation -> coming (2027). Row provisional (d-suv; could be e-car/e-suv once dimensions are known).",
+   "status_sources": [
+    "https://www.rangerover.com/de-ch/index.html",
+    "https://www.rangerover.com/de-ch/range-rover-gt/index.html",
+    "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/",
+    "https://zephr.autocar.co.uk/car-news/new-cars/discovery-sport-production-ends-year-evoque-and-velar-live"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Full hybrid version planned later (Motor1)."
+  },
+  {
+   "brand": "Ferrari",
+   "group": "Ferrari",
+   "model": "Luce",
+   "display": "Luce",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "four-door electric liftback/crossover (Ferrari's first BEV)",
+   "generation": "I (2026/27–)",
+   "length_mm": null,
+   "platform": "Ferrari BEV architecture (Maranello e-building)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Reveal planned 25 May 2026 (Bloomberg/AOL, Jan 2026); shown to clients at Goodwood Jul 2026 as 'Ferrari's first full electric car'; >1,000 hp, four doors. Order/delivery dates not found (deliveries expected 2027).",
+   "status_sources": [
+    "https://www.aol.com/finance/ferrari-planning-5-model-debuts-210200208.html",
+    "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx",
+    "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Ferrari Luce",
+   "notes": "Row provisional (e-car) – could be e-suv if positioned as crossover."
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "Jaguar",
+   "model": "F-Pace",
+   "note": "Last Jaguar built: a black F-Pace SVR left Solihull on 19 Dec 2025; no new orders possible anywhere since (dealers sell remaining stock at discounts). Brand relaunches with the electric Type 01 (launch planned Sep 2026).",
+   "source": "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+  },
+  {
+   "brand": "Jaguar",
+   "model": "E-Pace",
+   "note": "Discontinued December 2024.",
+   "source": "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+  },
+  {
+   "brand": "Jaguar",
+   "model": "I-Pace",
+   "note": "Production ended 2024/2025 (Magna Steyr); only leftover stock in 2026.",
+   "source": "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+  },
+  {
+   "brand": "Jaguar",
+   "model": "XF",
+   "note": "Officially discontinued mid-2024.",
+   "source": "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+  },
+  {
+   "brand": "Jaguar",
+   "model": "XE",
+   "note": "Ended 2024 together with XF (UK sales of all Jaguars paused from Nov 2024, Jalopnik).",
+   "source": "https://jalopnik.com/1851690273"
+  },
+  {
+   "brand": "Jaguar",
+   "model": "F-Type",
+   "note": "Production ended 2024; stock sales only in 2025/26.",
+   "source": "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html"
+  },
+  {
+   "brand": "Ferrari",
+   "model": "SF90 Stradale / Spider / XX",
+   "note": "Stradale ended 2024, Spider and XX 2026; replaced by 849 Testarossa.",
+   "source": "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars"
+  },
+  {
+   "brand": "Ferrari",
+   "model": "Roma / Roma Spider",
+   "note": "Roma ended 2024, Roma Spider 2026; replaced by Amalfi / Amalfi Spider.",
+   "source": "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars"
+  },
+  {
+   "brand": "Ferrari",
+   "model": "812 Superfast/GTS/Competizione",
+   "note": "Ended 2024; replaced by 12Cilindri.",
+   "source": "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars"
+  },
+  {
+   "brand": "Ferrari",
+   "model": "Daytona SP3",
+   "note": "Icona series ended 2025.",
+   "source": "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars"
+  },
+  {
+   "brand": "Aston Martin",
+   "model": "Valkyrie / Valkyrie Spider",
+   "note": "Limited hypercar (150 coupés + 85 Spiders), sold out, production wound down 2025; still listed on the website as a model family (AMR Pro/LM are track cars).",
+   "source": "https://www.astonmartin.com/en/models"
+  },
+  {
+   "brand": "Aston Martin",
+   "model": "Valour / Valiant",
+   "note": "Limited editions (110 / 38 cars), sold out; still shown on the models page.",
+   "source": "https://www.astonmartin.com/en/models"
+  },
+  {
+   "brand": "Aston Martin",
+   "model": "Valen",
+   "note": "'Limited to 150 cars worldwide' (models page) – track-only, not road-legal, therefore excluded.",
+   "source": "https://www.astonmartin.com/en/models"
+  },
+  {
+   "brand": "Aston Martin",
+   "model": "DBS 770 Ultimate",
+   "note": "Ended 2024; replaced by Vanquish.",
+   "source": "https://www.astonmartin.com/en/models"
+  },
+  {
+   "brand": "Morgan",
+   "model": "Plus Six",
+   "note": "Ended 2024, replaced by Supersport (listed under 'Past Models' on morgan-motor.com).",
+   "source": "https://www.morgan-motor.com/"
+  },
+  {
+   "brand": "Morgan",
+   "model": "Midsummer",
+   "note": "50-unit special commission (2024–25), sold out; listed under Special Commissions.",
+   "source": "https://www.morgan-motor.com/"
+  },
+  {
+   "brand": "Morgan",
+   "model": "Super 3",
+   "note": "Current model but THREE wheels – excluded per scope.",
+   "source": "https://www.morgan-motor.com/"
+  },
+  {
+   "brand": "Pagani",
+   "model": "Huayra (incl. Codalunga, Epitome, R)",
+   "note": "Series production ended; only 10-unit Codalunga Speedster (deliveries H1 2026) and one-offs remain.",
+   "source": "https://de.motor1.com/news/785433/pagani-neuheiten-2026-ueberblick/"
+  },
+  {
+   "brand": "Koenigsegg",
+   "model": "Regera",
+   "note": "Production (80 units) completed 2022.",
+   "source": "https://en.wikipedia.org/wiki/Koenigsegg"
+  },
+  {
+   "brand": "Bugatti",
+   "model": "Chiron (Super Sport / Pur Sport / Profilée)",
+   "note": "500-unit run completed 2024; replaced by Tourbillon.",
+   "source": "https://de.motor1.com/news/781513/bugatti-neuheiten-2026-ueberblick/"
+  },
+  {
+   "brand": "McLaren",
+   "model": "GT / 720S / 765LT / Elva / Speedtail",
+   "note": "Ended 2022–2024 (GT replaced by GTS 2023, 720S by 750S 2023).",
+   "source": "https://en.wikipedia.org/wiki/McLaren_Automotive"
+  },
+  {
+   "brand": "KGM",
+   "model": "Korando e-Motion",
+   "note": "BEV Korando no longer listed on kgm.de / kgm.ch (2026-10-21).",
+   "source": "https://www.kgm.de/"
+  },
+  {
+   "brand": "Lucid",
+   "model": "Air Sapphire (EU)",
+   "note": "Trim, not a nameplate – no action.",
+   "source": "https://lucidmotors.com/eu"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.jaguar.com/de-ch/index.html",
+   "what": "Jaguar CH homepage – only Type 01 shown, no configurator (2026-10-21)"
+  },
+  {
+   "url": "https://www.carmagazine.co.uk/car-news/first-official-pictures/jaguar/2026-type-01/",
+   "what": "CAR magazine (May 2026): Type 01 name, launch planned Sep 2026"
+  },
+  {
+   "url": "https://www.autoexpress.co.uk/jaguar/gt/365043/new-jaguar-type-01-october-reveal-confirmed-worlds-hottest-new-car",
+   "what": "Auto Express 9 Oct 2026: Type 01 unveiled in New York, commercial introduction started, deliveries summer 2027, ~£120k, 5.2 m, 1,015 bhp"
+  },
+  {
+   "url": "https://www.autoevolution.com/news/jaguar-stopped-production-entirely-but-still-has-hundreds-of-cars-to-sell-offers-huge-discounts-272410.html",
+   "what": "autoevolution 5 Jul 2026: Jaguar production stopped Dec 2025, no new orders anywhere"
+  },
+  {
+   "url": "https://www.rangerover.com/de-ch/index.html",
+   "what": "rangerover.com/de-ch: CH prices Range Rover/Sport/Velar/Evoque, Electric waitlist, Sport Electric, Range Rover GT"
+  },
+  {
+   "url": "https://www.rangerover.com/de-ch/range-rover/electric.html",
+   "what": "Range Rover Electric CH page: waitlist / reserve, 600 km"
+  },
+  {
+   "url": "https://www.landrover.ch/de/defender/index.html",
+   "what": "landrover.ch Defender CH prices 90/110/130/OCTA/Hard Top"
+  },
+  {
+   "url": "https://www.landrover.ch/de/discovery/index.html",
+   "what": "landrover.ch Discovery & Discovery Sport CH prices, configurators"
+  },
+  {
+   "url": "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/",
+   "what": "Motor1 27 Jul 2026: Discovery Sport production ends Dec 2026; Range Rover GT on EMA"
+  },
+  {
+   "url": "https://www.autocar.co.uk/car-news/new-cars/range-rover-ev-pushed-2026-%E2%80%93-delay-may-affect-jaguar-relaunch",
+   "what": "Autocar (2025): Range Rover Electric pushed to 2026"
+  },
+  {
+   "url": "https://www.electrifying.com/blog/article/the-range-rover-electric-is-finally-here",
+   "what": "Electrifying 2 Sep 2026: Range Rover Electric on sale, orders open, from £154,070, 118.5 kWh, 372 mi"
+  },
+  {
+   "url": "https://www.autotrader.co.uk/content/news/new-range-rover-sport-electric-coming-soon-specs-price-and-release-info",
+   "what": "Autotrader 30 Sep 2026: Range Rover Sport Electric orders open, from £110,000, 374 mi"
+  },
+  {
+   "url": "https://zephr.autocar.co.uk/car-news/new-cars/discovery-sport-production-ends-year-evoque-and-velar-live",
+   "what": "Autocar Oct 2026: Discovery Sport production ends Dec 2026, no longer factory-orderable in FR/DE/ES; Evoque & Velar live on; Range Rover GT first EMA car; Defender Sport 2027"
+  },
+  {
+   "url": "https://www.rangerover.com/de-ch/range-rover-gt/index.html",
+   "what": "Range Rover GT CH page: electric GT, pre-series, no price/dates"
+  },
+  {
+   "url": "https://www.kgm.ch/",
+   "what": "kgm.ch model list with CHF prices (9 models)"
+  },
+  {
+   "url": "https://www.kgm.de/",
+   "what": "kgm.de model list with EUR prices incl. Torres Hybrid, Actyon Hybrid, new Musso"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/List_of_KGM_vehicles",
+   "what": "Wikipedia list of KGM vehicles (codes, years, Actyon based on Torres)"
+  },
+  {
+   "url": "https://autotouring.acl.lu/en/kgm/",
+   "what": "ACL Luxembourg: Musso EV EU launch Aug 2025, Actyon hybrid early 2026"
+  },
+  {
+   "url": "https://www.ineosgrenadier.com/de/ch",
+   "what": "INEOS Grenadier CH page: Station Wagon, Quartermaster"
+  },
+  {
+   "url": "https://www.ineosgrenadier.com/en/ch",
+   "what": "INEOS UK page: Station Wagon, Quartermaster, Grenadier Commercial"
+  },
+  {
+   "url": "https://www.renault-trucks.ch/",
+   "what": "renault-trucks.ch: LCV range Master (Red Edition, E-Tech, OFFROAD) and Trafic (Red Edition, E-Tech)"
+  },
+  {
+   "url": "https://transportoperator.co.uk/?p=33350",
+   "what": "Transport Operator Apr 2025: Renault Trucks E-Tech Master new generation, variants, GVW"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Iveco_Group",
+   "what": "Wikipedia Iveco Group: Tata Motors deal (announced 30 Jul 2025, closing expected H1 2026); Daily 3.3–7.2 t"
+  },
+  {
+   "url": "https://en.ilsole24ore.com/art/iveco-heywood-to-complete-integration-with-tata-motors-by-the-third-quarter-of-2026-AIuCpziD",
+   "what": "Il Sole 24 Ore 17 Jun 2026: Iveco–Tata integration expected by Q3 2026; defence sold to Leonardo Q1 2026"
+  },
+  {
+   "url": "https://www.motortradenews.com/?p=64871",
+   "what": "Motor Trade News 31 Jul 2025: Tata to acquire 100% of Iveco Group ex-defence, completion expected H1 2026"
+  },
+  {
+   "url": "https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/",
+   "what": "InsideEVs 9 Sep 2025: Lucid Gravity orders open DE/NL/CH/NO, prices, deliveries early 2026"
+  },
+  {
+   "url": "https://lucidmotors.com/de-de",
+   "what": "lucidmotors.com/de-de (2026-10-22): Air Pure/Touring/Grand Touring/Sapphire and Gravity Touring prices, configurator"
+  },
+  {
+   "url": "https://caterhamcars.com/en/models",
+   "what": "caterhamcars.com/en/models (2026-10-22): full Seven range with prices"
+  },
+  {
+   "url": "https://www.isuzu.co.uk/",
+   "what": "isuzu.co.uk (2026-10-22): D-Max range incl. electric eDL40/eV-Cross with prices"
+  },
+  {
+   "url": "https://www.rangerover.com/de-ch/range-rover-sport/electric.html",
+   "what": "Range Rover Sport Electric CH page: 609 km, 800 V, 'Personalisieren und reservieren', no price"
+  },
+  {
+   "url": "https://vinfastauto.eu/",
+   "what": "vinfastauto.eu: VF 6 and VF 8 orderable (FR, DE, NL)"
+  },
+  {
+   "url": "https://vinfastauto.eu/en/newsroom",
+   "what": "VinFast EU newsroom 2026: new-gen VF 8 (May 2026), dealer expansion DE/FR"
+  },
+  {
+   "url": "https://microlino-car.com/",
+   "what": "microlino-car.com: Microlino, Lite, Spiaggina; CH and 18 European country sites"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/List_of_Ferrari_road_cars",
+   "what": "Wikipedia list of Ferrari road cars: current range 2026 and ended models"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ferrari_849_Testarossa",
+   "what": "Wikipedia 849 Testarossa: reveal 9 Sep 2025, 4,718 mm, production mid-2026"
+  },
+  {
+   "url": "https://www.conceptcarz.com/a61576/ferrari-goodwood-festival-speed-2026.aspx",
+   "what": "conceptcarz Goodwood FoS 2026 (Jul 2026): Ferrari range on display incl. Luce"
+  },
+  {
+   "url": "https://www.aol.com/finance/ferrari-planning-5-model-debuts-210200208.html",
+   "what": "AOL/Bloomberg Jan 2026: Ferrari Luce reveal 25 May 2026, five 2026 debuts"
+  },
+  {
+   "url": "https://www.astonmartin.com/en/models",
+   "what": "astonmartin.com/en/models: full current list (Vantage, DB12, Vanquish, DBX, Valhalla, Valen, Valkyrie, Valour, Valiant)"
+  },
+  {
+   "url": "https://www.mclaren.com/cars/gl_en/all-models",
+   "what": "mclaren.com all-models (JS-rendered; no list extractable)"
+  },
+  {
+   "url": "https://www.morgan-motor.com/",
+   "what": "morgan-motor.com: Supersport 400, Supersport, Plus Four, Super 3; past models Plus Six"
+  },
+  {
+   "url": "https://media.morgan-motor.com/wp-content/uploads/2026/07/Morgan-Supersport-400-customer-deliveries-begin-Press-Release.pdf",
+   "what": "Morgan PR 28 Jul 2026: Supersport 400 deliveries begin, orderable in all markets except US"
+  },
+  {
+   "url": "https://caterhamcars.com/en/news/our-heritage-range-returns-with-the-new-super-sevens.md",
+   "what": "Caterham news index: European retailer expansion 28 May 2026, Seven range news"
+  },
+  {
+   "url": "https://de.motor1.com/news/781513/bugatti-neuheiten-2026-ueberblick/",
+   "what": "Motor1.de Bugatti 2026 overview: Tourbillon sold out, deliveries 2026; Mistral production ends 2026"
+  },
+  {
+   "url": "https://supercars.net/blog/all-brands/koenigsegg/current-koenigsegg-models/",
+   "what": "supercars.net current Koenigsegg models: Jesko sold out, Gemera & CC850 in production"
+  },
+  {
+   "url": "https://www.vienna.at/luxury-problem-2300-hp-koenigsegg-sold-out-until-2028/9539585",
+   "what": "vienna.at: 2,300-hp Koenigsegg sold out until 2028"
+  },
+  {
+   "url": "https://de.motor1.com/news/785433/pagani-neuheiten-2026-ueberblick/",
+   "what": "Motor1.de Pagani 2026 overview: Codalunga Speedster deliveries H1 2026"
+  },
+  {
+   "url": "https://www.evspecs.org/tech-specs/rimac/nevera/r",
+   "what": "evspecs: Rimac Nevera R specs"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/cars/compare/mercedes-benz-g-2018-offroader-amg-63-vs-ford-f/",
+   "what": "carsized dummy-compare test (confirms URL recipe & /resources/ image pattern)"
+  }
+ ]
+}

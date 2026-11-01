@@ -3823,7 +3823,10 @@
 "zeekr-9x": {
 "front": "img/zeekr-9x-front.webp",
 "fw": 516,
-"fh": 388
+"fh": 388,
+"side": "img/zeekr-9x-side.webp",
+"sw": 800,
+"sh": 289
 },
 "zeekr-x": {
 "front": "img/zeekr-x-front.webp",
@@ -3832,5 +3835,25 @@
 "side": "img/zeekr-x-side.webp",
 "sw": 677,
 "sh": 268
+},
+"dr-dr-7": {
+"side": "img/dr-dr-7-side.webp",
+"sw": 800,
+"sh": 329
+},
+"fiat-ulysse": {
+"side": "img/fiat-ulysse-side.webp",
+"sw": 800,
+"sh": 335
+},
+"iveco-ejolly": {
+"side": "img/iveco-ejolly-side.webp",
+"sw": 668,
+"sh": 260
+},
+"mitsubishi-eclipse-cross": {
+"side": "img/mitsubishi-eclipse-cross-side.webp",
+"sw": 800,
+"sh": 299
 }
 }

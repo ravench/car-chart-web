@@ -1,0 +1,880 @@
+{
+ "models": [
+  {
+   "brand": "Aixam",
+   "group": "Polaris",
+   "model": "Easy",
+   "display": "Easy",
+   "other_names": [
+    "Aixam Mega Easy (title used by motor1 Italy/Spain)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": "https://www.steck-automobile.ch/de/aixam",
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), compact hatchback; entry model",
+   "generation": "I (2026–); evolution of the Minauto with a new front end (Wikipedia)",
+   "length_mm": 2773,
+   "platform": "Aixam quadricycle platform, short chassis (1,795 mm wheelbase)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "aixam.com lists Easy Access/Chic/GT, diesel from €11,499 and electric (5.02 kWh/75 km or 7.5 kWh/113 km WMTC); electric Easy from €9,999 (automobile-propre, 15 Apr 2026). Easy GT trim shown at the Mondial 2026 (€12,990 electric / €13,599 diesel). Also on aixam.de (Access/Chic, Diesel/Elektro). Not on the Aixam list of the Swiss partner Steck Automobile (aixam.ch redirects there), Oct 2026, so CH availability is unverified.",
+   "status_sources": [
+    "https://www.aixam.com/fr/easy/access",
+    "https://www.aixam.com/fr/nos-modeles-de-voitures-sans-permis",
+    "https://www.automobile-propre.com/articles/aixam-easy-voiture-electrique-sans-permis/",
+    "https://mondial.paris/?p=97704",
+    "https://aixam.de/fahrzeuge/aixam/chic-diesel/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Aixam City",
+    "Aixam e-Scouty",
+    "Aixam Coupé",
+    "Aixam Crossover"
+   ],
+   "twin_note": "Tier 2 (dashed frame): Aixam's passenger range is one platform in two chassis lengths (motor.es on the June 2026 S10-2 range: 'dos longitudes de chasis, corto y largo'). Short chassis (1,795 mm wheelbase): Easy, City, e-Scouty; long chassis (2,000 mm): Coupé, Crossover; all with 1,345 mm tracks, 1,500 mm width and the same Kubota 479 cc diesel / 6 kW electric drivetrains (aixam.com spec sheets). Wikipedia: Crossline/Crossover are crossover versions of the City; e-Scouty is 'technically very similar' to the e-City. If the chart applies 'similar wheelbase' strictly, split into {Easy, City, e-Scouty} and {Coupé, Crossover}. For the Easy the shared chassis is inferred from identical official wheelbase/tracks to the City (Aixam does not say so).",
+   "twin_sources": [
+    "https://www.aixam.com/fr/easy/access",
+    "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+    "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+    "https://www.motor.es/noticias/aixam-gama-s10-2-2026114937.html",
+    "https://en.wikipedia.org/wiki/Aixam_City"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aixam vehicles",
+   "commons_file": null,
+   "wikipedia_en": "Aixam",
+   "notes": "Replaces the Minauto (motor.es; it.motor1 'sostituisce Minauto'). Trims Access, Chic, GT. Width 1,500 mm. Diesel: Kubota 479 cc, 6 kW. Commons category is the brand parent category (model category not found).",
+   "pictures": [
+    {
+     "url": "https://aixam.de/wp-content/uploads/EASICE_PROF_JAD_PNG.jpg",
+     "page": "https://aixam.de/fahrzeuge/aixam/chic-diesel/",
+     "view": "side",
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Easy Chic in jade green; 'PROF' = profile in Aixam's file naming (PROF/34AV/34AR/INTE/DETZ). Angle inferred from the filename only; facing, background and width not verified. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.aixam.com/ressources/medias/slide_aixam-easy-access-69dcac65d667c.webp",
+     "page": "https://www.aixam.com/fr/easy/access",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Full-size main gallery image of Easy Access (thumbnail: voiture-sans-permis-essentiel_aixam-easy-access-69dcac65d667c.webp?v2). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Aixam",
+   "group": "Polaris",
+   "model": "City",
+   "display": "City",
+   "other_names": [
+    "e-City (electric versions)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.steck-automobile.ch/de/aixam",
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), compact hatchback",
+   "generation": "City (2007–); current Ambition body (2023), S10-2 update (June 2026)",
+   "length_mm": 2789,
+   "platform": "Aixam quadricycle platform, short chassis (1,795 mm wheelbase)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "aixam.com: City Pack/Sport/GTO, diesel from €14,699; e-City Pack (75 km WMTC) and Pack/Sport/GTO 7.5 kWh (113 km), e-City Sport €16,799. CH: Steck Automobile (aixam.ch redirects there; 'offizieller Partner') lists City Pack (from CHF 16,390), City Sport and E-City Sport. DE: aixam.de (Leichtmobile GmbH & Co. KG); eCity Pack/Premium on the Berlin Welmo subsidy list (21 Sep 2026).",
+   "status_sources": [
+    "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+    "https://www.aixam.com/fr/voiture-sans-permis-e-city/sport-electrique",
+    "https://www.steck-automobile.ch/de/aixam",
+    "https://aixam.de/fahrzeuge/aixam/city-pack/",
+    "https://www.ibb-business-team.de/fileadmin/ibb-business-team/welmo/downloads/welmo_foerderfaehige_klein-_und_leichtfahrzeuge.pdf"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Aixam Easy",
+    "Aixam e-Scouty",
+    "Aixam Coupé",
+    "Aixam Crossover"
+   ],
+   "twin_note": "Tier 2 (dashed frame): Aixam's passenger range is one platform in two chassis lengths (motor.es on the June 2026 S10-2 range: 'dos longitudes de chasis, corto y largo'). Short chassis (1,795 mm wheelbase): Easy, City, e-Scouty; long chassis (2,000 mm): Coupé, Crossover; all with 1,345 mm tracks, 1,500 mm width and the same Kubota 479 cc diesel / 6 kW electric drivetrains (aixam.com spec sheets). Wikipedia: Crossline/Crossover are crossover versions of the City; e-Scouty is 'technically very similar' to the e-City. If the chart applies 'similar wheelbase' strictly, split into {Easy, City, e-Scouty} and {Coupé, Crossover}.",
+   "twin_sources": [
+    "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+    "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+    "https://www.motor.es/noticias/aixam-gama-s10-2-2026114937.html",
+    "https://en.wikipedia.org/wiki/Aixam_City"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aixam vehicles",
+   "commons_file": null,
+   "wikipedia_en": "Aixam City",
+   "notes": "Length 2,789 mm per aixam.com spec sheet (aixam.de and Wikipedia: 2,800 mm). Width 1,500, wheelbase 1,795, tracks 1,345/1,345 mm. Steck's CH page does not use the word 'Generalimporteur'; the official aixam.ch domain redirecting to Steck is the evidence for an official CH channel.",
+   "pictures": [
+    {
+     "url": "https://www.aixam.com/ressources/medias/slide_aixam-city-pack-6a19629c12c99.webp",
+     "page": "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Full-size gallery slide, City Pack. Angle unknown (the only angle-coded City files found are 34AV = 3/4 front). needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.aixam.com/ressources/medias/slide_aixam-city-sport-6a1962be1b928.webp",
+     "page": "https://www.aixam.com/en/licence-free-car-city/sport",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "One of five City Sport gallery slides (others: ...6a1962a89582e, ...6a1962b21f58b, ...6a1962bb4ec66, ...6a1962bcbb2e6). Angles unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.steck-automobile.ch/images/aixam/aixam-city-pack/aixam-city-pack-quer.jpg",
+     "page": "https://www.steck-automobile.ch/de/aixam",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Swiss partner's model image ('quer' = landscape crop). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Aixam",
+   "group": "Polaris",
+   "model": "Coupé",
+   "display": "Coupé",
+   "other_names": [
+    "e-Coupé (electric versions)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.steck-automobile.ch/de/aixam",
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), coupé-styled hatchback",
+   "generation": "Coupé (current Ambition body 2023, S10-2 update June 2026)",
+   "length_mm": 3000,
+   "platform": "Aixam quadricycle platform, long chassis (2,000 mm wheelbase)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "aixam.com: Coupé Sport (from €17,799) and GTI, diesel and electric (113 km WMTC). CH: Steck lists Coupé Sport and E-Coupé Sport. DE: aixam.de Coupé Sport/GTi and eCoupé Sport/GTi; eCoupé Premium/GTi on the Welmo list.",
+   "status_sources": [
+    "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+    "https://www.steck-automobile.ch/de/aixam",
+    "https://aixam.de/fahrzeuge/aixam/coupe-sport/",
+    "https://www.ibb-business-team.de/fileadmin/ibb-business-team/welmo/downloads/welmo_foerderfaehige_klein-_und_leichtfahrzeuge.pdf"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Aixam Easy",
+    "Aixam City",
+    "Aixam e-Scouty",
+    "Aixam Crossover"
+   ],
+   "twin_note": "Tier 2 (dashed frame): Aixam's passenger range is one platform in two chassis lengths (motor.es on the June 2026 S10-2 range: 'dos longitudes de chasis, corto y largo'). Short chassis (1,795 mm wheelbase): Easy, City, e-Scouty; long chassis (2,000 mm): Coupé, Crossover; all with 1,345 mm tracks, 1,500 mm width and the same Kubota 479 cc diesel / 6 kW electric drivetrains (aixam.com spec sheets). Wikipedia: Crossline/Crossover are crossover versions of the City; e-Scouty is 'technically very similar' to the e-City. If the chart applies 'similar wheelbase' strictly, split into {Easy, City, e-Scouty} and {Coupé, Crossover}.",
+   "twin_sources": [
+    "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+    "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+    "https://www.motor.es/noticias/aixam-gama-s10-2-2026114937.html",
+    "https://en.wikipedia.org/wiki/Aixam_City"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aixam vehicles",
+   "commons_file": null,
+   "wikipedia_en": "Aixam City",
+   "notes": "Width 1,500, wheelbase 2,000, tracks 1,345/1,345 mm (aixam.com). The Wikipedia 'Aixam City' article also covers the Coupé/e-Coupé.",
+   "pictures": [
+    {
+     "url": "https://www.aixam.com/ressources/medias/voiture-sans-permis-essentiel_aixam-coup-sport-6a1963444a185.webp?v2",
+     "page": "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Main gallery image, Coupé Sport (gallery thumbnails ...6a19634dad745, ...6a19633775302, ...6a1963418166e, ...6a196342f0c55). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://aixam.de/wp-content/uploads/slide_aixam-coup-sport-670c47978f694.jpg",
+     "page": "https://aixam.de/fahrzeuge/aixam/coupe-sport/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "One of five aixam.de Coupé Sport slides (...670c47989d522, ...670c4799b1448, ...670c479b2aa52, ...670c479d28cce). Angles unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.steck-automobile.ch/images/aixam/aixam-coupe-sport/aixam-coupe-sport-home-quer.jpg",
+     "page": "https://www.steck-automobile.ch/de/aixam",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Swiss partner's model image. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Aixam",
+   "group": "Polaris",
+   "model": "Crossover",
+   "display": "Crossover",
+   "other_names": [
+    "Crossline (name of the Pack version in CH, and in aixam.de file names)",
+    "e-Crossover (electric version)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.steck-automobile.ch/de/aixam",
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), crossover-styled hatchback with raised roof",
+   "generation": "Crossover (current Ambition body 2023, S10-2 update June 2026)",
+   "length_mm": 3000,
+   "platform": "Aixam quadricycle platform, long chassis (2,000 mm wheelbase)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "aixam.com: Crossover Pack (from €16,699) and Premium, diesel; Crossover Premium électrique (113 km WMTC). CH: Steck lists Crossline Pack, Crossover Premium and E-Crossover Premium. DE: aixam.de Crossover Pack/Premium and eCrossover Premium.",
+   "status_sources": [
+    "https://www.aixam.com/fr/voiture-sans-permis-crossover/pack",
+    "https://www.steck-automobile.ch/de/aixam",
+    "https://aixam.de/fahrzeuge/aixam/crossover-pack/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Aixam Easy",
+    "Aixam City",
+    "Aixam e-Scouty",
+    "Aixam Coupé"
+   ],
+   "twin_note": "Tier 2 (dashed frame): Aixam's passenger range is one platform in two chassis lengths (motor.es on the June 2026 S10-2 range: 'dos longitudes de chasis, corto y largo'). Short chassis (1,795 mm wheelbase): Easy, City, e-Scouty; long chassis (2,000 mm): Coupé, Crossover; all with 1,345 mm tracks, 1,500 mm width and the same Kubota 479 cc diesel / 6 kW electric drivetrains (aixam.com spec sheets). Wikipedia: Crossline/Crossover are crossover versions of the City; e-Scouty is 'technically very similar' to the e-City. If the chart applies 'similar wheelbase' strictly, split into {Easy, City, e-Scouty} and {Coupé, Crossover}.",
+   "twin_sources": [
+    "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+    "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+    "https://www.motor.es/noticias/aixam-gama-s10-2-2026114937.html",
+    "https://en.wikipedia.org/wiki/Aixam_City"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aixam vehicles",
+   "commons_file": null,
+   "wikipedia_en": "Aixam City",
+   "notes": "One tile for Crossover and Crossline: on aixam.com the family is 'Crossover' (Pack, Premium); 'Crossline' is the Pack version's name in CH (Steck: 'Crossline Pack') and appears in aixam.de file names (min_aixam-crossline-pack-titane-34av.webp on the crossover-pack page). Width 1,500, wheelbase 2,000 mm (aixam.com).",
+   "pictures": [
+    {
+     "url": "https://www.aixam.com/ressources/medias/voiture-sans-permis-essentiel_aixam-crossover-pack-6a196367d8b10.webp?v2",
+     "page": "https://www.aixam.com/fr/voiture-sans-permis-crossover/pack",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Main gallery image, Crossover Pack (thumbnails ...6a1963721872a, ...6a19635aead4f, ...6a1963650240d, ...6a19636680b6e). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://aixam.de/wp-content/uploads/slide_aixam-crossover-premium-670c47a72810a.jpg",
+     "page": "https://aixam.de/fahrzeuge/aixam/crossover-premium/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "One of seven aixam.de Crossover Premium slides (...670c47b8b9c1f, ...670c47cc175a1, ...670c47dc80b05, ...670c47dd6edfe, ...670c47de77ed9, ...670c47df77399). Angles unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.steck-automobile.ch/images/aixam/aixam-crossover-premium/aixam-crossover-premium-quer.jpg",
+     "page": "https://www.steck-automobile.ch/de/aixam",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Swiss partner's model image (also aixam-crossline-pack/aixam-crossline-pack.jpg). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Aixam",
+   "group": "Polaris",
+   "model": "e-Scouty",
+   "display": "e-Scouty",
+   "other_names": [
+    "Mega e-Scouty (sold in Aixam's 'Gamme MEGA')"
+   ],
+   "ch_on_sale": null,
+   "ch_source": "https://www.steck-automobile.ch/de/aixam",
+   "row": "quadricycle",
+   "body": "2-seat electric licence-free light quadricycle (L6e, 45 km/h)",
+   "generation": "I (2023–), current version 'Evo'",
+   "length_mm": 2650,
+   "platform": "Aixam quadricycle platform, short chassis (1,795 mm wheelbase)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "aixam.com lists e-Scouty Evo under 'Gamme MEGA': 5.02 kWh LFP, 75 km WMTC, from €13,499. Not on Steck's Swiss Aixam list and not on aixam.de (Oct 2026).",
+   "status_sources": [
+    "https://www.aixam.com/fr/e-scouty/evo",
+    "https://www.aixam.com/fr/nos-modeles-de-voitures-sans-permis"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Aixam Easy",
+    "Aixam City",
+    "Aixam Coupé",
+    "Aixam Crossover"
+   ],
+   "twin_note": "Tier 2 (dashed frame): Aixam's passenger range is one platform in two chassis lengths (motor.es on the June 2026 S10-2 range: 'dos longitudes de chasis, corto y largo'). Short chassis (1,795 mm wheelbase): Easy, City, e-Scouty; long chassis (2,000 mm): Coupé, Crossover; all with 1,345 mm tracks, 1,500 mm width and the same Kubota 479 cc diesel / 6 kW electric drivetrains (aixam.com spec sheets). Wikipedia: Crossline/Crossover are crossover versions of the City; e-Scouty is 'technically very similar' to the e-City. If the chart applies 'similar wheelbase' strictly, split into {Easy, City, e-Scouty} and {Coupé, Crossover}.",
+   "twin_sources": [
+    "https://www.aixam.com/fr/e-scouty/evo",
+    "https://www.aixam.com/fr/voiture-sans-permis-city/pack",
+    "https://www.aixam.com/fr/voiture-sans-permis-coupe/sport",
+    "https://www.motor.es/noticias/aixam-gama-s10-2-2026114937.html",
+    "https://en.wikipedia.org/wiki/Aixam_City"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aixam vehicles",
+   "commons_file": null,
+   "wikipedia_en": "Aixam City",
+   "notes": "Brand column: kept under Aixam because aixam.com sells it, but it is marketed in the MEGA range (Wikipedia: 'Mega e-Scouty'); the chart owner may prefer brand 'Mega'. Width 1,500, wheelbase 1,795 mm (aixam.com).",
+   "pictures": [
+    {
+     "url": "https://www.aixam.com/ressources/medias/voiture-sans-permis-essentiel_mega-e-scouty-evo-69cfda952dc06.webp?v2",
+     "page": "https://www.aixam.com/fr/e-scouty/evo",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Main gallery image (alt 'Voiture sans permis AIXAM e-Scouty 1.jpg'); six more thumbnails ...69cfdaa531b03, ...69cfdab826af3, ...69cfdace0e6f3, ...69cfdae439cde, ...69cfdaf9e9de8, ...69cfdb0fe71a6. Angles unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Aixam",
+   "group": "Polaris",
+   "model": "D-Truck / e-Truck",
+   "display": "D-Truck / e-Truck",
+   "other_names": [
+    "Aixam Pro D-Truck (diesel)",
+    "Aixam Pro e-Truck (electric)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.steck-automobile.ch/de/aixam-professional",
+   "row": "quadricycle",
+   "body": "2-seat utility quadricycle (45 km/h; L6e-BU inferred), drop-side flatbed (plateau ridelles / Pritsche) or box van (fourgon / Van)",
+   "generation": null,
+   "length_mm": 3000,
+   "platform": "Aixam Pro utility chassis (2,252 mm wheelbase)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "aixam-pro.com: D-Truck from €15,499 excl. VAT (Kubota 479 cc diesel, 6 kW), e-Truck from €16,083 excl. VAT (e-Truck Fourgon €16,666 excl. VAT; 6 kW, 165 km WMTC, payload 327 kg). New 11.01 kWh e-Truck battery (165 km) shown at the Mondial 2026. CH: Steck lists 'Aixam Pro D-Truck Van' and 'E-Truck Alu Pritsche'. DE: aixam.de Pro (D-Truck and eTruck, Pritsche/Van); ePritsche and eVan on the Welmo list.",
+   "status_sources": [
+    "https://www.aixam-pro.com/fr/d-truck/plateau-ridelles",
+    "https://www.aixam-pro.com/fr/e-truck/fourgon",
+    "https://mondial.paris/?p=97704",
+    "https://www.steck-automobile.ch/de/aixam-professional",
+    "https://aixam.de/fahrzeuge/aixam-pro/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin: own utility chassis (2,252 mm wheelbase) distinct from the passenger range (1,795/2,000 mm).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Aixam vehicles",
+   "commons_file": null,
+   "wikipedia_en": "Aixam",
+   "notes": "One tile: Aixam Pro lists 'Gamme D-TRUCK' and 'Gamme E-TRUCK' separately, but they are the same vehicle with diesel or electric drive (chart rule: e-versions are powertrains of the same tile). Width 1,500 mm. Pages cite type approval under Regulation (EU) 168/2013; the exact subcategory is not printed. The 2023 'Tiny Van' camper is not in the current Aixam Pro range.",
+   "pictures": [
+    {
+     "url": "https://www.aixam-pro.com/ressources/medias/slide_propla_prof_serie.png?v2",
+     "page": "https://www.aixam-pro.com/fr/d-truck/plateau-ridelles",
+     "view": "side",
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Gallery item titled 'Profil' (thumbnail alt 'Utilitaire sans permis AIXAM D-TRUCK Profil'), flatbed body; PNG, probably a cut-out. Facing, background and width not verified. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.aixam-pro.com/ressources/medias/slide_profou_prof_serie.png?v2",
+     "page": "https://www.aixam-pro.com/fr/d-truck/fourgon",
+     "view": "side",
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Gallery item titled 'Profil', box-van body. Facing, background and width not verified. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Ligier",
+   "group": "Ligier Group",
+   "model": "JS50",
+   "display": "JS50",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback; electric version also as L7e (75 km/h, B1 licence)",
+   "generation": "'Nouvelle JS50' (orders from Mondial 2024, first deliveries Nov 2024)",
+   "length_mm": 2972,
+   "platform": "Ligier JS50/JS60 base (shared platform inferred; JS50 wheelbase 1,828 mm per quecochemecompro)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ligier.fr: JS50 Select/Élite/Ultimate €14,999–18,999, diesel REVO D+ (499.8 cc) or electric 11.04 kWh (159–164 km WMTC); JS50 75 km/h L7e electric €15,999 (ligier.fr/voitures-permis-b1/). ligier.de: from €15,199. caroom guide (26 Oct 2026) lists it.",
+   "status_sources": [
+    "https://www.ligier.fr/vehicules/js50/",
+    "https://www.ligier.fr/voitures-permis-b1/",
+    "https://www.ligier.de/fahrzeug/js50/",
+    "https://media.ligier.fr/app/uploads/2024/11/Mondial-2024-Dossier-de-presse-FR.pdf",
+    "https://www.caroom.fr/guide/voiture-neuve/voiture-sans-permis"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Ligier JS60"
+   ],
+   "twin_note": "The Sept 2026 JS60 press release describes the JS60 relative to the JS50 (roof +5 cm, boot +110 L, sill −15 cm) with almost the same length (2,998 vs 2,972 mm), identical 1,499 mm width, same powertrains (REVO D+, 11.04 kWh, L7e 75 km/h) and trims. Ligier does not state a shared platform; tier 2 is an inference (moderate confidence).",
+   "twin_sources": [
+    "https://media.ligier.fr/app/uploads/2026/09/2026.09-CP-NOUVELLE-JS60.pdf",
+    "https://www.motor.es/ligier/medidas"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Ligier",
+   "notes": "Length: motor.es 2,972 mm; quecochemecompro gives 2,992 in its table and 2,972 in its text. Ligier's own pages give no dimensions. Width 1,499, height 1,503 mm (motor.es). Wikipedia link is the company article (no model article checked).",
+   "pictures": [
+    {
+     "url": "https://s3.ligier.fr/ligier-prod/uploads/2026/10/Microcar-Ligier-bleute-en-studio-2.webp",
+     "page": "https://www.ligier.fr/voitures-permis-b1/",
+     "view": null,
+     "facing": null,
+     "background": "studio (per filename)",
+     "width_px": null,
+     "downloaded": null,
+     "note": "Product image for 'Ligier JS50 version 75 km/h'. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://s3.ligier.fr/ligier-prod/uploads/2026/04/REEF.webp",
+     "page": "https://www.ligier.fr/vehicules/js50/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Colour picker image, alt 'JS50 bleu reef grand format' (also NACRE, ROUGE, ASPHALT, NOIR .webp). Angle unknown; the smaller 1024x670 colour images are a 3/4-front matrix ('MATRICE-Vues3-4AV'). needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Ligier",
+   "group": "Ligier Group",
+   "model": "JS60",
+   "display": "JS60",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), crossover-styled hatchback; electric version also as L7e (75 km/h, B1 licence)",
+   "generation": "'Nouvelle JS60' (press release 23 Sep 2026)",
+   "length_mm": 2998,
+   "platform": "Ligier JS50/JS60 base (shared platform inferred; 'châssis aluminium monobloc' per press release)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Press release 23 Sep 2026: Select/Elite/Ultimate, diesel from €16,499, electric (11.04 kWh, 164 km WMTC) from €16,999, L7e 75 km/h electric €16,999; built in Abrest. Listed with prices on ligier.fr and ligier.de; caroom guide (26 Oct 2026) lists it.",
+   "status_sources": [
+    "https://media.ligier.fr/communique-de-presse/nouvelle-ligier-js60-la-ligier-qui-voit-plus-grand/",
+    "https://www.ligier.fr/vehicules/js60/",
+    "https://www.ligier.fr/voitures-permis-b1/",
+    "https://www.ligier.de/fahrzeug/js60/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Ligier JS50"
+   ],
+   "twin_note": "See JS50: described by Ligier relative to the JS50; same width, powertrains and trims. Shared platform inferred, not stated.",
+   "twin_sources": [
+    "https://media.ligier.fr/app/uploads/2026/09/2026.09-CP-NOUVELLE-JS60.pdf"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Ligier",
+   "notes": "Dimensions from the press release: 2,998 × 1,499 (without mirrors) × 1,529 mm; boot 580 L. Wheelbase not published.",
+   "pictures": [
+    {
+     "url": "https://s3.ligier.fr/ligier-prod/uploads/2026/10/Microcar-Ligier-en-studio-gris-clair-2.webp",
+     "page": "https://www.ligier.fr/voitures-permis-b1/",
+     "view": null,
+     "facing": null,
+     "background": "studio (per filename)",
+     "width_px": null,
+     "downloaded": null,
+     "note": "Product image for 'Ligier JS60 version 75 km/h'. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://s3.ligier.fr/ligier-prod/uploads/2026/09/js60-view.webp",
+     "page": "https://www.ligier.fr/vehicules/js60/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Alt 'js60 suv ligier'. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://media.ligier.fr/app/uploads/2026/09/NOUVELLE-JS60-ULTIMATE-23-scaled.jpg",
+     "page": "https://media.ligier.fr/mediatheque/nouvelle-js60/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": 2560,
+     "downloaded": null,
+     "note": "Press photo from the JS60 media library (WordPress '-scaled' = about 2,560 px). Angle unknown; library has more frames (-2, -18, -36, -37, -45, -46, -89, -90). needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Ligier",
+   "group": "Ligier Group",
+   "model": "Myli",
+   "display": "Myli",
+   "other_names": [
+    "Myli LAB",
+    "Myli MAX"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback; Myli MAX electric also as L7e (75 km/h, B1 licence)",
+   "generation": "I (2023–), revised Jan 2026 as Myli LAB and Myli MAX",
+   "length_mm": 2958,
+   "platform": "Ligier Myli all-aluminium chassis, designed as an EV (wheelbase 1,830 mm per quecochemecompro)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Press release 13 Jan 2026: Myli LAB diesel €12,499 (Feb 2026) and electric 6 kWh €10,999 (Q2 2026); Myli MAX diesel €13,999, electric 6 kWh €13,999 (Q2 2026), electric 11.04 kWh €14,999 (L6e) and 75 km/h L7e €14,999. ligier.fr lists Myli LAB (diesel) and Myli MAX (diesel/electric) as separate model pages; ligier.de: Myli LAB €12,499, Myli MAX €14,999.",
+   "status_sources": [
+    "https://media.ligier.fr/communique-de-presse/ligier-fait-evoluer-myli-encore-plus-accessible-plus-expressive-et-plus-polyvalente-que-jamais/",
+    "https://www.ligier.fr/vehicules/myli-lab/",
+    "https://www.ligier.fr/vehicules/myli-max/",
+    "https://www.ligier.de/fahrzeug/myli-max/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No tier given. Wheelbase (1,830 mm) and width are almost identical to the JS50 and it uses the same REVO D+ / 11.04 kWh drivetrains, but Ligier presents the Myli as designed from the start as an EV with an all-aluminium chassis (Caradisiac 2023); a shared platform with the JS50 is not documented.",
+   "twin_sources": [
+    "https://www.caradisiac.com/essai-ligier-myli-l-anti-ami-a-prix-ennemi-mais-avec-autonomie-202042.htm",
+    "https://www.quecochemecompro.com/comparativa/ligier-js50-vs-ligier-myli/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Ligier",
+   "notes": "One tile for Myli LAB and Myli MAX: the Jan 2026 press release calls them two versions of the revised Myli, although ligier.fr shows them as two model pages; split into two tiles if the chart follows the website menu. Length 2,958 mm (motor.es; Caradisiac: 2.96 m).",
+   "pictures": [
+    {
+     "url": "https://s3.ligier.fr/ligier-prod/uploads/2026/10/Microcar-rouge-Ligier-en-studio-2.webp",
+     "page": "https://www.ligier.fr/voitures-permis-b1/",
+     "view": null,
+     "facing": null,
+     "background": "studio (per filename)",
+     "width_px": null,
+     "downloaded": null,
+     "note": "Product image for 'Myli MAX version 75 km/h'. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://s3.ligier.fr/ligier-prod/uploads/2026/05/LIGIER-MYLI-MAX-2026-Blanc.webp",
+     "page": "https://www.ligier.fr/vehicules/myli-max/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Colour image, alt 'Myli MAX blanc' (also -ROUGE, -GRIS). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://media.ligier.fr/app/uploads/2026/01/MYLI-LAB-ET-MAX-1024x325.png",
+     "page": "https://media.ligier.fr/communique-de-presse/ligier-fait-evoluer-myli-encore-plus-accessible-plus-expressive-et-plus-polyvalente-que-jamais/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": 1024,
+     "downloaded": null,
+     "note": "'LAB and MAX range' graphic; the very wide 1024x325 format suggests two cars side by side, possibly profiles. Not verified. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Ligier",
+   "group": "Ligier Group",
+   "model": "Pulse 4",
+   "display": "Pulse 4",
+   "other_names": [
+    "Ligier Professional Pulse 4"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "quadricycle",
+   "body": "Electric utility quadricycle: short body L6e (2,600 mm), long body L7e (3,356 mm); box with roller shutters, drop-side or tipping flatbed",
+   "generation": "I (2023–)",
+   "length_mm": 3356,
+   "platform": "Ligier Professional Pulse (electric utility)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ligier-professional.fr lists Pulse 4 (court/long; caisson, plateau 3 ridelles, plateau basculant…), 2 × 5.51 kWh, up to 161 km; price on quote; configurable at store.ligier.fr. Pulse 3 (3 wheels) and Pulse 2 (cargo bike) are out of scope.",
+   "status_sources": [
+    "https://www.ligier-professional.fr/product/pulse-4/",
+    "https://store.ligier.fr/configure?model_id=Pulse4",
+    "https://www.ligier-professional.fr"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin found.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Ligier",
+   "notes": "length_mm is the long L7e body (3,356 mm), matching the long-body press images; the short L6e body is 2,600 mm. Payload 179–308 kg depending on body. Separate tile because Ligier Professional lists it as its own model.",
+   "pictures": [
+    {
+     "url": "https://media.ligier.fr/app/uploads/2024/05/Pulse-4-long-caisson-HD.png",
+     "page": "https://media.ligier.fr/mediatheque/ligier-professional-pulse-4/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "HD press image, long body with box (also -HD-2, -HD-3). PNG, possibly a cut-out. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://media.ligier.fr/app/uploads/2024/05/Pulse-4-long-plateau-basculant-HD.png",
+     "page": "https://media.ligier.fr/mediatheque/ligier-professional-pulse-4/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "HD press image, long body with tipping flatbed (also -HD-2 to -HD-4). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.ligier-professional.fr/wp-content/uploads/sites/118/2023/02/pulse-4-header-1920x793.jpg",
+     "page": "https://www.ligier-professional.fr/product/pulse-4/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": 1920,
+     "downloaded": null,
+     "note": "Product page header banner. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Chatenet",
+   "group": "Automobiles Chatenet",
+   "model": "CH46",
+   "display": "CH46",
+   "other_names": [
+    "CH46 K (diesel: K Series, K SL, K Sportline RR)",
+    "CH46e (electric: SL, Sportline RR)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback",
+   "generation": null,
+   "length_mm": 2977,
+   "platform": "Chatenet CH46",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "automobiles-chatenet.com lists CH46 K Series, K SL, K Sportline RR (Kubota Z482 diesel, 480 cc, 6 kW, Euro 5+; new engine news dated 07.05.2026) and CH46e SL / Sportline RR (9.4 kWh LiFePO4, Valeo 48 V 6 kW, 120 km WMTC). No prices on the site. caroom guide (26 Oct 2026) lists CH46 K and CH46e as available new in FR; French multi-brand dealers present themselves as Chatenet distributors (Moderne Auto; APH 'distributeur Casalini et Chatenet').",
+   "status_sources": [
+    "https://www.automobiles-chatenet.com/ch46-k-series.html",
+    "https://www.automobiles-chatenet.com/ch46e-sl-electrique.html",
+    "https://www.automobiles-chatenet.com/details-de-lactualite/NOUVELLE-MOTORISATION.html",
+    "https://www.caroom.fr/guide/voiture-neuve/voiture-sans-permis"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin found. Shares only its engine supplier (Kubota) and some French dealers with Casalini and Aixam; component supply does not count.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Automobiles Chatenet",
+   "notes": "Length 2,977, width 1,492, height 1,457, wheelbase 1,988 mm from autocentrum.pl (secondary; the official manual's dimension table is an image). One tile for diesel and electric. chatenet.fr is a parked domain; the official site is automobiles-chatenet.com.",
+   "pictures": [
+    {
+     "url": "https://www.automobiles-chatenet.com/files/pack/contenu/Images/Gamme/BASE/VISUEL-V-BLANCHE.jpg",
+     "page": "https://www.automobiles-chatenet.com/ch46e-sl-electrique.html",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "CH46e SL model visual (white). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.automobiles-chatenet.com/files/pack/contenu/Images/Gamme/CH46%20K%20Series/VISUEL-V-GRISE%281%29.jpg",
+     "page": "https://www.automobiles-chatenet.com/ch46-k-series.html",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "CH46 K Series model visual (grey). Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://www.automobiles-chatenet.com/files/pack/contenu/Images/Slider/Chatenet-GAMME%20site%201600x650px.jpg",
+     "page": "https://www.automobiles-chatenet.com/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": 1600,
+     "downloaded": null,
+     "note": "Home-page range slider. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  },
+  {
+   "brand": "Casalini",
+   "group": "Casalini",
+   "model": "650",
+   "display": "650",
+   "other_names": [
+    "M20 650 (Austrian importer listing)",
+    "Casalini 650 Starter / Xtreme / Sportiva"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "quadricycle",
+   "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback; Xtreme = SUV-styled version",
+   "generation": "I (2026–)",
+   "length_mm": null,
+   "platform": "Casalini 650",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "casalini.eu (uploads Sept/Oct 2026) presents only the 'Gamma 650' (Starter, Xtreme, Sportiva) with a Kubota twin-cylinder and in-house SCR + DPF; French dealers list it new from €18,900 (Sportiva shown at €21,900), Kubota Euro 5+ diesel, from June 2026; the Austrian general importer M+B Riedhart lists 'M20 650 Sportiva' (€24,580) and 'M20 650 Modell' (€21,590), model year 2026. caroom guide (26 Oct 2026) lists the 650 range in FR.",
+   "status_sources": [
+    "https://www.casalini.eu/",
+    "https://www.annonces-automobile.com/d/6038252",
+    "https://www.autoscout24.at/haendler/m-b-riedhart-casalini-generalimporteur-austria/fahrzeuge?atype=C",
+    "https://www.caroom.fr/guide/voiture-neuve/voiture-sans-permis"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin found (Kubota engine supply shared with Chatenet and Aixam does not count).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Casalini",
+   "notes": "Length not published (casalini.eu, dealers and the AT importer give none); fill it before drawing to scale. Diesel per dealer listings (casalini.eu only says Kubota + SCR/DPF). casalini.it is now a bookseller's domain; the maker's site is casalini.eu. The AT importer also lists a new electric 'eKERRY MAXXI TR' utility, but casalini.eu does not show the Kerry, so it is not tiled (unverified).",
+   "pictures": [
+    {
+     "url": "https://casalini.eu/wp-content/uploads/2026/09/SPORTIVA-GT-Bianco4.png",
+     "page": "https://www.casalini.eu/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Sportiva colour render (12 colours: SPORTIVA-Red3, -Navy-Blue4, -GT-Antracite8, ...). The trailing digit may index views of a 360° set; angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://casalini.eu/wp-content/uploads/2026/09/XTREME-Black3.png",
+     "page": "https://www.casalini.eu/",
+     "view": null,
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Xtreme render. Angle unknown. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    },
+    {
+     "url": "https://casalini.eu/wp-content/uploads/2026/09/CASALINI-starter-front.jpg",
+     "page": "https://www.casalini.eu/",
+     "view": "front",
+     "facing": null,
+     "background": null,
+     "width_px": null,
+     "downloaded": null,
+     "note": "Starter; 'front' per filename, could be a 3/4 front. needs browser fetch: proxy refused CONNECT (403) to this host from the container; not retried."
+    }
+   ]
+  }
+ ]
+}

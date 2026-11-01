@@ -1,0 +1,221 @@
+{
+ "BYD Atto 3": {
+  "slug": "byd-atto-3-2022-suv",
+  "side": "https://www.carsized.com/resources/byd/atto-3/d/2022/sm_274116111_byd-atto-3-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-present"
+ },
+ "BYD Seal": {
+  "slug": "byd-seal-2022-sedan",
+  "side": "https://www.carsized.com/resources/byd/seal/d/2022/sl_244108126_byd-seal-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-present"
+ },
+ "BYD Dolphin": {
+  "slug": "byd-dolphin-2021-5-door-hatchback",
+  "side": "https://www.carsized.com/resources/byd/dolphin/d/2021/sl_263110097_byd-dolphin-2021-side-view_4x.png",
+  "front": null,
+  "years": "2021-present"
+ },
+ "BYD Sealion 7": {
+  "slug": "byd-sealion-7-2024-suv",
+  "side": "https://www.carsized.com/resources/byd/sealion-7/d/2024/sl_272114134_byd-sealion-7-2024-side-view_4x.png",
+  "front": null,
+  "years": "2024-present"
+ },
+ "BYD Seal U": {
+  "slug": "byd-seal-u-2023-suv",
+  "side": "https://www.carsized.com/resources/byd/seal-u/d/2023/sm_285135139_byd-seal-u-2023-side-view_4x.png",
+  "front": null,
+  "years": "2023-present"
+ },
+ "BYD Atto 2": {
+  "slug": "byd-atto-2-2024-suv",
+  "side": "https://www.carsized.com/resources/byd/atto-2/d/2024/sm_278113111_byd-atto-2-2024-side-view_4x.png",
+  "front": null,
+  "years": "2024-present"
+ },
+ "BYD Tang": {
+  "slug": "byd-tang-2018-suv",
+  "side": "https://www.carsized.com/resources/byd/tang/d/2018/sl_284134142_byd-tang-2018-side-view_4x.png",
+  "front": "https://www.carsized.com/resources/byd/tang/d/2018/fa_292000000_byd-tang-2018-front-view_4x.png",
+  "years": "2018-present (Gen. 2)"
+ },
+ "MG ZS": {
+  "slug": "mg-zs-2024-suv",
+  "side": "https://www.carsized.com/resources/mg/zs/d/2024/sl_277128116_mg-zs-2024-side-view_4x.png",
+  "front": null,
+  "years": "2024-present (Gen. 2)"
+ },
+ "MG HS": {
+  "slug": "mg-hs-2024-suv",
+  "side": "https://www.carsized.com/resources/mg/hs/d/2024/sl_282126126_mg-hs-2024-side-view_4x.png",
+  "front": "https://www.carsized.com/resources/mg/hs/d/2024/fa_287000000_mg-hs-2024-front-view_4x.png",
+  "years": "2024-present (Gen. 2)"
+ },
+ "MG MG4": {
+  "slug": "mg-mg4-2022-5-door-hatchback",
+  "side": "https://www.carsized.com/resources/mg/mg4/d/2022/sm_256109102_mg-mg4-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-2025 (Gen. 1; carsized lists it as ended 2025 although the car is still sold in Europe)"
+ },
+ "MG MG3": {
+  "slug": "mg-mg3-2024-5-door-hatchback",
+  "side": "https://www.carsized.com/resources/mg/mg3/d/2024/sm_254121086_mg-mg3-2024-side-view_4x.png",
+  "front": null,
+  "years": "2024-present"
+ },
+ "XPeng G6": {
+  "slug": "xpeng-g6-2023-suv",
+  "side": "https://www.carsized.com/resources/xpeng/g6/d/2023/sl_276120129_xpeng-g6-2023-side-view_4x.png",
+  "front": null,
+  "years": "2023-2025 (pre-facelift entry; the 2025 facelift entry was not found)"
+ },
+ "XPeng G9": {
+  "slug": "xpeng-g9-2022-suv",
+  "side": "https://www.carsized.com/resources/xpeng/g9/d/2022/sl_277115139_xpeng-g9-2022-side-view_4x.png",
+  "front": "https://www.carsized.com/resources/xpeng/g9/d/2022/fa_285000000_xpeng-g9-2022-front-view_4x.png",
+  "years": "2022-2025 (pre-facelift entry)"
+ },
+ "NIO ET5": {
+  "slug": "nio-et5-2022-sedan",
+  "side": "https://www.carsized.com/resources/nio/et5/d/2022/sl_251121136_nio-et5-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-present"
+ },
+ "NIO ET7": {
+  "slug": "nio-et7-2022-sedan",
+  "side": "https://www.carsized.com/resources/nio/et7/d/2022/sl_254119153_nio-et7-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-present"
+ },
+ "NIO EL6": {
+  "slug": "nio-el6-2023-suv",
+  "side": "https://www.carsized.com/resources/nio/el6/d/2023/sl_285121136_nio-el6-2023-side-view_4x.png",
+  "front": null,
+  "years": "2023-present"
+ },
+ "NIO EL7": {
+  "slug": "nio-el7-2022-suv",
+  "side": "https://www.carsized.com/resources/nio/el7/d/2022/sl_282123138_nio-el7-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-present"
+ },
+ "NIO EL8": {
+  "slug": "nio-el8-2023-suv",
+  "side": "https://www.carsized.com/resources/nio/el8/d/2023/sl_286120150_nio-el8-2023-side-view_4x.png",
+  "front": null,
+  "years": "2023-present (Gen. 2)"
+ },
+ "Omoda Omoda 5": {
+  "slug": "omoda-5-2022-suv",
+  "side": "https://www.carsized.com/resources/omoda/5/d/2022/sl_266115121_omoda-5-2022-side-view_4x.png",
+  "front": null,
+  "years": "2022-2025 (pre-facelift entry; 2025 facelift entry not found)"
+ },
+ "Jaecoo Jaecoo 7": {
+  "slug": "jaecoo-7-2023-suv",
+  "side": "https://www.carsized.com/resources/jaecoo/7/d/2023/sl_280117131_jaecoo-7-2023-side-view_4x.png",
+  "front": null,
+  "years": "2023-present"
+ },
+ "Voyah Free": {
+  "slug": "voyah-free-2021-suv",
+  "side": "https://www.carsized.com/resources/voyah/free/d/2021/sl_278120137_voyah-free-2021-side-view_4x.png",
+  "front": null,
+  "years": "2021-present"
+ },
+ "Haval Jolion Pro": {
+  "slug": "haval-jolion-2021-suv",
+  "side": "https://www.carsized.com/resources/haval/jolion/d/2021/sl_273120117_haval-jolion-2021-side-view_4x.png",
+  "front": null,
+  "years": "2021-present (listed as 'Haval Jolion'; Jolion Pro is the facelift of the same generation)"
+ },
+ "BYD Dolphin Surf": {
+  "note": "probed byd-dolphin-surf-2025-5-door-hatchback and byd-seagull-2023-5-door-hatchback - both blank (no entry found)"
+ },
+ "BYD Seal 6": {
+  "note": "probed byd-seal-6-2025-sedan - blank"
+ },
+ "MG MG4 Urban": {
+  "note": "probed mg-4-2023-5-door-hatchback - blank; mg-mg4-2025-5-door-hatchback not yet probed (budget)"
+ },
+ "MG Cyberster": {
+  "note": "probed mg-cyberster-2024-convertible and -roadster - blank; 2-door-convertible / 2-door-roadster not yet probed (budget)"
+ },
+ "MG MGS5 EV": {
+  "note": "probed mg-s5-ev-2025-suv and mg-mgs5-2025-suv - blank"
+ },
+ "MG IM5": {
+  "note": "probed mg-im5-2025-sedan - blank; im-l6-2024-sedan not yet probed (budget)"
+ },
+ "XPeng P7+": {
+  "note": "probed xpeng-p7-plus-2024-sedan - blank"
+ },
+ "XPeng X9": {
+  "note": "probed xpeng-x9-2024-minivan - blank"
+ },
+ "Omoda Omoda 9": {
+  "note": "probed omoda-9-2024-suv - blank"
+ },
+ "Omoda Omoda 7": {
+  "note": "probed omoda-7-2025-suv - blank"
+ },
+ "Jaecoo Jaecoo 5": {
+  "note": "probed jaecoo-5-2025-suv - blank"
+ },
+ "Jaecoo Jaecoo 8": {
+  "note": "probed jaecoo-8-2025-suv - blank"
+ },
+ "Chery Tiggo 7": {
+  "note": "probed chery-tiggo-7-2024-suv - blank"
+ },
+ "Chery Tiggo 8": {
+  "note": "probed chery-tiggo-8-2024-suv - blank"
+ },
+ "Chery Tiggo 4": {
+  "note": "probed chery-tiggo-4-2023-suv - blank"
+ },
+ "Chery Tiggo 9": {
+  "note": "probed chery-tiggo-9-2023-suv - blank"
+ },
+ "Ora Ora 03": {
+  "note": "probed ora-funky-cat-2022-5-door-hatchback, ora-03-2022-5-door-hatchback and ora-good-cat-2020-5-door-hatchback - blank"
+ },
+ "Ora Ora 07": {
+  "note": "probed ora-07-2023-sedan - blank"
+ },
+ "Wey Wey 03": {
+  "note": "probed wey-03-2023-suv - blank"
+ },
+ "Wey Wey 05": {
+  "note": "probed wey-05-2022-suv and wey-coffee-01-2022-suv - blank"
+ },
+ "Haval H6": {
+  "note": "probed haval-h6-2020-suv and haval-h6-2021-suv - blank"
+ },
+ "Deepal S07": {
+  "note": "probed deepal-s07-2023-suv and changan-deepal-s07-2023-suv - blank"
+ },
+ "Voyah Dream": {
+  "note": "probed voyah-dream-2022-minivan - blank"
+ },
+ "Voyah Courage": {
+  "note": "probed voyah-courage-2024-suv - blank"
+ },
+ "Hongqi EH7": {
+  "note": "probed hongqi-eh7-2024-sedan - blank"
+ },
+ "Hongqi EHS7": {
+  "note": "probed hongqi-ehs7-2024-suv - blank"
+ },
+ "Firefly Firefly": {
+  "note": "probed firefly-firefly-2025-5-door-hatchback and nio-firefly-2025-5-door-hatchback - blank"
+ },
+ "Denza Z9 GT": {
+  "note": "probed denza-z9-gt-2024-wagon - blank"
+ },
+ "BYD Shark": {
+  "note": "probed byd-shark-2024-pickup-double-cab - blank"
+ }
+}
