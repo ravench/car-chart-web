@@ -57,11 +57,11 @@
    "page": "https://www.audi.com/en/photos/detail/audi-a2-e-tron-133575",
    "source": "manufacturer website (audi.com)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "near-side view, background removed",
+   "notes": "near-side view, mirrored to face left, background removed",
    "angle": "side",
    "src": "batch1/audi-a2-e-tron-side",
    "treatment": "rembg",
-   "mirrored": false,
+   "mirrored": true,
    "harvested": true
   }
  },
@@ -1251,6 +1251,18 @@
    "treatment": "flood",
    "mirrored": false,
    "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://www.nissan.de/fahrzeuge/neuwagen/primastar/kombi/technische-daten.html",
+   "source": "manufacturer website (nissan.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension drawing of the Primastar Kombi (nissan.de technical data), true side view facing left, dimension lines overlaid, cropped to the vehicle, background removed",
+   "angle": "side",
+   "src": "v113/nissan-primastar-kombi-drawing",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
   }
  },
  "nissan-townstar-van-small": {
@@ -1493,6 +1505,18 @@
    "treatment": "rembg",
    "mirrored": false,
    "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://www.renault-trucks.co.uk/sites/default/files/2025-04/SW425_RT_NEW_CATALOGUE_MASTER_2024_v3.%20%281%29_0.pdf",
+   "source": "manufacturer website (renault-trucks.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension line drawing of the Master L2H2 van from the Renault Trucks UK catalogue (Weights and dimensions, p. 40), dimension figures removed from the PDF, cropped to the vehicle, lines slightly thickened; faces left",
+   "angle": "side",
+   "src": "v113/renault-trucks-master-drawing",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
   }
  },
  "rimac-nevera": {
@@ -1567,11 +1591,11 @@
    "page": "https://cars.suzuki.co.uk/new-cars/e-vitara/",
    "source": "manufacturer website (cars.suzuki.co.uk)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "studio photo, background removed",
+   "notes": "studio photo, mirrored to face left, background removed",
    "angle": "side",
    "src": "batch1/suzuki-e-vitara-side",
    "treatment": "rembg",
-   "mirrored": false,
+   "mirrored": true,
    "harvested": true
   },
   "front": {
@@ -2179,11 +2203,11 @@
    "page": "https://www.media.stellantis.com/em-en/jeep/media-library/press-images/637335",
    "source": "manufacturer press site (media.stellantis.com)",
    "licence": "manufacturer copyright; press/editorial use",
-   "notes": "press photo of the 2026 Compass (quarry scene), true side view, background removed",
+   "notes": "press photo of the 2026 Compass (quarry scene), true side view, mirrored to face left, background removed",
    "angle": "side",
    "src": "v111/jeep-compass-16-full",
    "treatment": "rembg+clean",
-   "mirrored": false,
+   "mirrored": true,
    "harvested": true
   },
   "front": {
@@ -2210,6 +2234,152 @@
    "src": "v111/lancia-ypsilon-h19-full",
    "treatment": "rembg+clean",
    "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ebro-s400": {
+  "side": {
+   "url": null,
+   "page": "https://www.ebroauto.com/s400-ficha-tecnica",
+   "source": "manufacturer website (ebroauto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "official dimension graphic (transparent render) from the ebroauto.com spec page, true side view, dimension lines and markers blanked",
+   "angle": "side",
+   "src": "v113/ebro-s400-cotas",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.ebroauto.com/s400-ficha-tecnica",
+   "source": "manufacturer website (ebroauto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "official dimension graphic (render), straight front",
+   "angle": "front",
+   "src": "v113/ebro-s400-cotas",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ebro-s700": {
+  "side": {
+   "url": null,
+   "page": "https://www.ebroauto.com/modelos/s700-phev/especificaciones",
+   "source": "manufacturer website (ebroauto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "official dimension graphic (transparent render) from the ebroauto.com spec page, true side view, dimension lines and markers blanked",
+   "angle": "side",
+   "src": "v113/ebro-s700-cotas",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.ebroauto.com/modelos/s700-phev/especificaciones",
+   "source": "manufacturer website (ebroauto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "official dimension graphic (render), straight front",
+   "angle": "front",
+   "src": "v113/ebro-s700-cotas",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ebro-s900": {
+  "side": {
+   "url": null,
+   "page": "https://www.ebroauto.com/modelos/s900-phev/especificaciones",
+   "source": "manufacturer website (ebroauto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "official dimension graphic (transparent render) from the ebroauto.com spec page, true side view, dimension lines and markers blanked",
+   "angle": "side",
+   "src": "v113/ebro-s900-cotas",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.ebroauto.com/modelos/s900-phev/especificaciones",
+   "source": "manufacturer website (ebroauto.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "official dimension graphic (render), straight front",
+   "angle": "front",
+   "src": "v113/ebro-s900-cotas",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "opel-rocks": {
+  "side": {
+   "url": null,
+   "page": "https://www.opel.de/fahrzeuge/rocks/uebersicht.html",
+   "source": "manufacturer website (opel.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "small hero render (576 px) of the 2025 Rocks from opel.de, true side view, mirrored to face left; the render's own transparency used and its ground shadow removed (no larger brand-own side view exists: the Stellantis press set, the online-store configurator and the price list only have 3/4 or elevated views)",
+   "angle": "side",
+   "src": "v113/opel-rocks-clean",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "abarth-600e": {
+  "side": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/de-de/abarth/media-library/press-images/636714",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo of the 2025 Abarth 600e Competizione (static, graffiti wall), true side view, background removed",
+   "angle": "side",
+   "src": "v113/abarth-600e-2-whr",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/de-de/abarth/media-library/press-images/636714",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo (static), straight front, background removed",
+   "angle": "front",
+   "src": "v113/abarth-600e-3-whr",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "volkswagen-crafter": {
+  "side": {
+   "url": null,
+   "page": "https://www.volkswagen-vans.co.uk/en/new-vehicles/crafter-panel-van.html",
+   "source": "manufacturer website (volkswagen-vans.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio render of the Crafter panel van Trendline from the UK trim gallery (volkswagen-vans.co.uk), true side view facing left, background removed",
+   "angle": "side",
+   "src": "v113/crafter-trendline-side",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "iveco-esuperjolly": {
+  "side": {
+   "url": null,
+   "page": "https://www.iveco.com/uk/-/media/IVECOdotcom/Content/Products/eJolly/brochure/brochure_eSuperJolly_en.pdf",
+   "source": "manufacturer website (iveco.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "dimension render from the eSuperJolly brochure (iveco.com/uk, page 11): dimension labels and lines removed from the PDF before rendering, the ghosted longer/higher body variant cropped away, true side view mirrored to face left",
+   "angle": "side",
+   "src": "v113/iveco-esuperjolly-clean",
+   "treatment": "alpha",
+   "mirrored": true,
    "harvested": true
   }
  }

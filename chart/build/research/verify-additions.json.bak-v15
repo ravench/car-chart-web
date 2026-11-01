@@ -1,0 +1,1498 @@
+{
+ "agent": "verify",
+ "checked_on": "2026-10-22",
+ "models": [
+  {
+   "brand": "Lepas",
+   "group": "Chery",
+   "model": "L8",
+   "display": "L8",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "d-suv",
+   "body": "SUV (5-seat)",
+   "generation": "I (2025–; UK 2026–)",
+   "length_mm": null,
+   "platform": "Chery LEX (T1X-derived)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK: pre-orders opened July 2026, order books open, Essence GBP 34,900 / Elevate GBP 37,900, customer deliveries and showrooms from September 2026 (EV Fleet World 2026-06-18; AM-online). Petrol/EV versions later (EV 2027).",
+   "status_sources": [
+    "https://evfleetworld.co.uk/lepas-confirms-full-uk-specification-and-pricing-for-flagship-l8-suv/",
+    "https://www.am-online.com/news/how-lepas-is-incentivising-test-drives-at-dealers-as-l8-phev-orders-open",
+    "https://www.carwow.co.uk/lepas",
+    "https://www.lepas.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Derived from the second-generation Chery Tiggo 8 family (2,800 mm wheelbase) but with its own body; the UK Chery Tiggo 8 is the first-generation body -> no tier.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_8"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Lepas L8",
+   "notes": "Moved from 'announced' to on_sale (UK orders open since July 2026). Length not published in UK sources checked; wheelbase 2,800 mm. Lepas is Chery's fourth European brand (UK first, IT/ES/GR/HR/SI/RO to follow).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "Ora",
+   "group": "Great Wall Motor",
+   "model": "Ora 5",
+   "display": "Ora 5",
+   "other_names": [
+    "GWM Ora 5"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2026–)",
+   "length_mm": null,
+   "platform": "GWM L.E.M.O.N.",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Germany: market launch August 2026, list price EUR 26,990 (EUR 24,990 with the 'Go-with-more' launch discount), 1.5T petrol with 7-speed DCT; full-hybrid and BEV versions announced for late 2026 (automobile.at May 2026; autonotizen 2026-08-28: 'startet ... ab 24.990 Euro').",
+   "status_sources": [
+    "https://www.automobile.at/magazin/796281",
+    "https://autonotizen.de/neuigkeiten/gwm-haval-h7-hybrid-phev-benziner-suv-china",
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling on sale in Europe (Haval Jolion Pro is a different body).",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Moved from 'announced' (the record listed it as 'Ora 05'): German launch August 2026 per two trade sources; an official GWM Germany order confirmation could not be fetched (medium confidence). Length not confirmed (compact SUV positioned against Tiguan/Atto 3).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "Ebro",
+   "group": "Chery (licensed)",
+   "model": "S400",
+   "display": "S400",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4318,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Spain, October 2026 price list: Ebro S400 from EUR 18,990 (hybrid 211 hp); sold through the Ebro/EV Motors dealer network.",
+   "status_sources": [
+    "https://www.quecochemecompro.com/precios/ebro/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 4",
+    "DR 5"
+   ],
+   "twin_note": "Licence-built Chery Tiggo 4 (2024 facelift) with Ebro badges and fascia (Wikipedia Chery Tiggo 4); DR 5 (Italy) is the same body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_4"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length taken from the Chery Tiggo 4 record (same body). Not sold in Switzerland.",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "Ebro",
+   "group": "Chery (licensed)",
+   "model": "S700",
+   "display": "S700",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4513,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Spain, October 2026 price list: S700 petrol from EUR 25,990, S700 híbrido (HEV and PHEV) from EUR 25,990; built at the Barcelona Zona Franca plant.",
+   "status_sources": [
+    "https://www.quecochemecompro.com/precios/ebro/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 7",
+    "DR 6"
+   ],
+   "twin_note": "Licence-built second-generation Chery Tiggo 7 (Wikipedia: Ebro 'produced a licensed-built second-generation Tiggo 7' as the S700); DR 6 (Italy) is the same body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_7"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length from the Chery Tiggo 7 record. Not sold in Switzerland.",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "Ebro",
+   "group": "Chery (licensed)",
+   "model": "S800",
+   "display": "S800",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "7-seat SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4722,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Spain, October 2026 price list: S800 petrol (7 seats) from EUR 30,990, S800 híbrido PHEV from EUR 31,990.",
+   "status_sources": [
+    "https://www.quecochemecompro.com/precios/ebro/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 8",
+    "DR 7"
+   ],
+   "twin_note": "Chery Tiggo 8 'rebadged and sold in Spain by Ebro as the Ebro S800' (Wikipedia Chery Tiggo 8); DR 7 (Italy, 4.72 m, 7 seats) is the same body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_8"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length from the Chery Tiggo 8 record. Not sold in Switzerland.",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "Ebro",
+   "group": "Chery (licensed)",
+   "model": "S900",
+   "display": "S900",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "large 5/7-seat SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4820,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Spain, October 2026 price list: S900 híbrido (PHEV) from EUR 41,590.",
+   "status_sources": [
+    "https://www.quecochemecompro.com/precios/ebro/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 9",
+    "Jaecoo 8"
+   ],
+   "twin_note": "Rebadged Chery Tiggo 9 PHEV assembled in Barcelona (Diariomotor: 'Ebro S900 - Chery Tiggo 9'; newmobility.news 2025-11-04: flagship PHEV S900 launched); same body as the Jaecoo 8.",
+   "twin_sources": [
+    "https://www.diariomotor.com/noticia/ebro-s900-chery-tiggo-9-espana/",
+    "https://newmobility.news/en/2025/11/04/spanish-car-brand-ebro-launches-flagship-phev-s900/",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_9"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length from the Chery Tiggo 9 record. Not sold in Switzerland.",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "DR",
+   "group": "DR Automobiles",
+   "model": "DR 1.0 EV",
+   "display": "DR 1.0 EV",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "a-city",
+   "body": "city car (3-door)",
+   "generation": "I (2023–)",
+   "length_mm": 3200,
+   "platform": "Chery eQ1",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Italy, September 2026 price list: DR 1.0 EV 61 CV / 31 kWh / 210 km WLTP, EUR 18,900 (il Giornale Digitale, updated 2026-09-10).",
+   "status_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Rebadged Chery eQ1 'Little Ant' (Wikipedia DR Automobiles); no European twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/DR_Automobiles"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length 3.20 m per the price-list article. Not sold in Switzerland (Italy-only brand). Official drautomobiles site could not be located/fetched; status rests on the published Italian price lists (Jan and Sept 2026).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "DR",
+   "group": "DR Automobiles",
+   "model": "DR 3",
+   "display": "DR 3",
+   "other_names": [
+    "DR 3.0 (previous name)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (2016–; ex DR 3.0)",
+   "length_mm": 4200,
+   "platform": "Chery T1X (Tiggo 3x)",
+   "powertrains": [
+    "petrol",
+    "LPG"
+   ],
+   "status": "on_sale",
+   "status_note": "Italy, September 2026 price list: 1.5 petrol 116 CV manual EUR 17,900 / CVT 19,400, petrol-LPG 19,900 / 21,400.",
+   "status_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Rebadged Chery Tiggo 3x / Tiggo 2 Pro (Wikipedia DR Automobiles); that Chery model is not sold elsewhere in Europe -> no twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/DR_Automobiles"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length ~4.20 m (Chery Tiggo 3x), not confirmed by the fetched sources. Not sold in Switzerland (Italy-only brand). Official drautomobiles site could not be located/fetched; status rests on the published Italian price lists (Jan and Sept 2026).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "DR",
+   "group": "DR Automobiles",
+   "model": "DR 5",
+   "display": "DR 5",
+   "other_names": [
+    "DR 5.0 (previous name)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "b-suv",
+   "body": "small SUV / compact crossover",
+   "generation": "II (2026–; ex DR 5.0)",
+   "length_mm": 4320,
+   "platform": "Changan CS35 Plus (per Wikipedia) - disputed",
+   "powertrains": [
+    "petrol",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Italy: official 2026 price list published 2026-01-07 (al Volante, Autoblog) - 1.5 petrol 95 CV EUR 19,900, petrol/LPG 21,900, full hybrid 25,900; September 2026 list: Collection 20,900-26,900, Stilnovo 1.4 TGDI 158 CV 25,900-27,900.",
+   "status_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No tier: Wikipedia (DR Automobiles) says the 2026 DR 5 is based on the Changan CS35 Plus (Changan became a donor at the end of 2025), while al Volante/Autoblog do not name the donor; the 1.4 TGDI 158 CV engine matches Changan, not Chery. The previous DR 5.0 (Chery Tiggo 5x) would have been a tier-1 twin of the Tiggo 4 / Ebro S400 - left unlinked pending confirmation.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/DR_Automobiles",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_4"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length 432 cm per al Volante. Not sold in Switzerland (Italy-only brand). Official drautomobiles site could not be located/fetched; status rests on the published Italian price lists (Jan and Sept 2026).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "DR",
+   "group": "DR Automobiles",
+   "model": "DR 6",
+   "display": "DR 6",
+   "other_names": [
+    "DR 6.0 (previous name)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "II (2026–; ex DR 6.0)",
+   "length_mm": 4500,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "LPG",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Italy: official 2026 price list (2026-01-07) - 1.6 petrol 146 CV DCT EUR 28,900, petrol/LPG 30,900, plug-in hybrid 33,900 (al Volante); September 2026 list: Collection 30,900, Stilnovo 1.5 TGDI 180 CV 30,900, Super Hybrid plug-in 35,900.",
+   "status_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 7",
+    "Ebro S700"
+   ],
+   "twin_note": "'Ispirata direttamente alla Chery Tiggo 7 Pro' (Autoblog 2026-01-09); Wikipedia: DR 'marketed the second-generation Tiggo 7 in Italy as the DR 6.0'. Same body as Tiggo 7 / Ebro S700; Chery 1.6 TGDI 108 kW engine.",
+   "twin_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_7"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length 450 cm per al Volante. Not sold in Switzerland (Italy-only brand). Official drautomobiles site could not be located/fetched; status rests on the published Italian price lists (Jan and Sept 2026).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "DR",
+   "group": "DR Automobiles",
+   "model": "DR 7",
+   "display": "DR 7",
+   "other_names": [
+    "DR 7.0 (previous name)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "7-seat SUV",
+   "generation": "II (2026–; ex DR 7.0)",
+   "length_mm": 4720,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "LPG"
+   ],
+   "status": "on_sale",
+   "status_note": "Italy: official 2026 price list (2026-01-07) - 1.6 T-GDI 146 CV DCT EUR 32,900 'chiavi in mano', petrol/LPG 34,900 (al Volante); September 2026 list: Collection 34,900 / bi-fuel 36,900.",
+   "status_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 8",
+    "Ebro S800"
+   ],
+   "twin_note": "4.72 m, up to seven seats, Chery 1.6 TGDI = Chery Tiggo 8 body (Wikipedia: DR 7.0 (2023-) = Chery Tiggo 8); the 2026 articles do not name the donor explicitly -> medium confidence.",
+   "twin_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7",
+    "https://en.wikipedia.org/wiki/DR_Automobiles",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_8"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length 472 cm per al Volante. Not sold in Switzerland (Italy-only brand). Official drautomobiles site could not be located/fetched; status rests on the published Italian price lists (Jan and Sept 2026). DR's sister brands EVO, Sportequipe, ICH-X and Tiger (Chery/Jetour/JAC/BAIC rebadges) are NOT added - see unresolved.",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "DR",
+   "group": "DR Automobiles",
+   "model": "DR PK8",
+   "display": "DR PK8",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "pickup",
+   "body": "double-cab 4x4 pickup",
+   "generation": "I (2023–)",
+   "length_mm": 5325,
+   "platform": "JAC Shuailing T8",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Italy, September 2026 price list: 2.0 turbodiesel 136 CV, 6-speed manual, 4x4 double cab, EUR 32,900.",
+   "status_sources": [
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Rebadged JAC Shuailing T8 (Wikipedia DR Automobiles); JAC pickups are not in the dataset -> no twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/DR_Automobiles"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length ~5.33 m (JAC T8), not confirmed by the fetched sources. Not sold in Switzerland (Italy-only brand). Official drautomobiles site could not be located/fetched; status rests on the published Italian price lists (Jan and Sept 2026).",
+   "_verify_scope": "geely-china"
+  },
+  {
+   "brand": "Denza",
+   "group": "BYD",
+   "model": "D9",
+   "display": "D9",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.moneycab.com/mobilitaet/e-mobility/denza-gibt-die-preise-in-der-schweiz-fuer-die-super-hybrid-dm-i-versionen-des-z9gt-und-d9-bekannt/amp/",
+   "row": "mpv-large",
+   "body": "luxury MPV (7 seats)",
+   "generation": "I (2023–; Europe 2026–)",
+   "length_mm": 5250,
+   "platform": "BYD e3 / DM-i",
+   "powertrains": [
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Switzerland: D9 DM-i Elegance CHF 79,900 / Ultimate CHF 84,900, ordering from the end of April 2026 at Denza sales points, deliveries summer 2026 (moneycab 2026-04-22). Germany: 'vorbestellbar' EUR 80,000-90,000, configurator 'in Kürze' (denza.com/de, Oct 2026). BEV version not yet priced in CH.",
+   "status_sources": [
+    "https://www.moneycab.com/mobilitaet/e-mobility/denza-gibt-die-preise-in-der-schweiz-fuer-die-super-hybrid-dm-i-versionen-des-z9gt-und-d9-bekannt/amp/",
+    "https://www.denza.com/de/d9"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling in Europe.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Denza D9",
+   "notes": "Moved from 'announced' to on_sale on the strength of the Swiss price list and order opening (Apr 2026); in the brief's six reference markets it is still pre-order only (DE) - see unresolved. Length 5,250 mm per the announced record.",
+   "_verify_scope": "geely-china"
+  }
+ ],
+ "announced": [],
+ "discontinued_recently": [],
+ "sources": [
+  {
+   "url": "https://www.bmw.ch/de/all-models.html",
+   "what": "BMW CH all-models page (2026-10-22): electric cards only - iX 98,900; iX5 60 xDrive 'Neu' 114,900; iX4 50 xDrive 'Neu' 76,600 (M60 'bald erhältlich'); iX3 50 'Neu' 69,600; iX2 54,300; iX1 52,200; i7 'Neu' 143,700; i5 77,900; i4 62,900 CHF. Z4 not in filter; '8' filter without cards; ICE cards never render."
+  },
+  {
+   "url": "https://www.mini.ch/de_CH/home/range.html",
+   "what": "MINI CH range: Cooper (3/5 door, electric), Cooper Cabrio, Aceman, Countryman, JCW versions - nothing else."
+  },
+  {
+   "url": "https://de.toyota.ch/neuwagen-kaufen",
+   "what": "Toyota CH overview with CHF prices (2026-10-22): Urban Cruiser, C-HR+, bZ4X, bZ4X Touring, Hilux (Verbrenner oder Elektrisch, 53,900), Aygo X, Yaris, Yaris Cross, Corolla (+TS), Corolla Cross, C-HR, Prius, Mirai, RAV4, Land Cruiser, GR Yaris, Proace City (Verso), Proace (Verso), Proace Max; GR Supra/Camry absent, Highlander 0 results; 'Demnächst: GR GT'."
+  },
+  {
+   "url": "https://www.toyota.de/neuwagen",
+   "what": "Toyota DE overview: model filter includes GR Supra (no price seen), 'Der neue Hilux', C-HR+, bZ4X Touring, Urban Cruiser, Proace family; GR86/Highlander/Camry absent."
+  },
+  {
+   "url": "https://de.lexus.ch/",
+   "what": "Lexus CH: LBX 36,900; UX 47,900; NX 54,900; RZ 57,900; ES 61,900; RX 79,900; LM 154,900 CHF; TZ 'Weltpremiere' without price; LC/LS/RC absent."
+  },
+  {
+   "url": "https://www.subaru.ch/de/modelle",
+   "what": "Subaru CH: Impreza, Crosstrek, Forester, Outback ('Eleganter 4x4 SUV der Luxusklasse'), Uncharted, Solterra, E-Outback; BRZ/Levorg/WRX absent."
+  },
+  {
+   "url": "https://www.subaru.de/",
+   "what": "Subaru DE: Outback 'Letzte Chance' - 'Die letzten Outback mit Boxer-Motor' (SUV/Crossover); E-Outback and Uncharted 'Neu'; BRZ only in a slider."
+  },
+  {
+   "url": "https://www.suzuki.ch/de/auto",
+   "what": "Suzuki CH: Swift, Vitara, S-Cross, Across ('NEW', 'die neue Generation des ACROSS'), e Vitara ('NEW'); Swace/Ignis/Jimny absent."
+  },
+  {
+   "url": "https://www.de.honda.ch/cars.html",
+   "what": "Honda CH with CHF prices: Jazz 25,990; Prelude 45,900 'Neu'; Civic 35,990; Civic Type R 56,800 (petrol, still listed); HR-V 32,990; ZR-V 37,490; CR-V Hybrid 47,990 / PHEV 48,490; Super-N absent; e:Ny1 only as alt text; 0 Series only under concept cars."
+  },
+  {
+   "url": "https://www.mazda.de/modelle/",
+   "what": "Mazda DE: JavaScript-only; keywords list Mazda2, Mazda2 Hybrid, Mazda3, CX-30, CX-5, CX-60, CX-80, MX-5, Mazda6e, CX-6e (no MX-30)."
+  },
+  {
+   "url": "https://www.automobile.at/magazin/765275",
+   "what": "motor1/automobile.at update 2025-10-01: new CX-5 'ab sofort bestellbar', from EUR 34,990, 2.5 MHEV 141 PS, 4,690 mm, showrooms Dec 2025."
+  },
+  {
+   "url": "https://thedriven.io/2026/10/07/mazda-launches-cx-6e-electric-suv-in-australian-market-but-is-it-a-real-mazda/",
+   "what": "CX-6e: Changan EPA1 platform shared with Deepal S07, Mazda-designed sheet metal/interior, separate plant - 'in no way a rebadged S07'; 4,850 mm."
+  },
+  {
+   "url": "https://www.nau.ch/neues/mazda-cx-6e-starke-e-leistung-zum-fairen-preis-67179222",
+   "what": "Swiss price CX-6e Takumi from CHF 49,000 (2026-09-23)."
+  },
+  {
+   "url": "https://media-assets.mazda.eu/raw/upload//mazdauk/globalassets/pdfs/range-price-list-jan26.pdf?rnd=48f2df",
+   "what": "Official Mazda UK range price list effective 2026-01-01: Mazda2 Hybrid, Mazda3, CX-30, CX-60, CX-80, MX-5 Roadster/RF; no petrol Mazda2, no CX-5 (between generations), no 6e/CX-6e/MX-30."
+  },
+  {
+   "url": "https://www.autosprint.ch/en/?p=96002",
+   "what": "Swiss article 2025-05-19: Mazda 6e from CHF 43,600, at Swiss dealers from summer 2025."
+  },
+  {
+   "url": "https://ecomento.de/2026/07/21/mazda-cx-6e-in-deutschland-ab-spaetsommer-fuer-49990-euro-bestellbar/",
+   "what": "CX-6e orderable in Germany from late summer 2026 at EUR 49,990; links to 2026-09-04 'Mazda CX-6e startet in Deutschland ab 49.990 Euro'."
+  },
+  {
+   "url": "https://ev-database.org/de/pkw/3713/Mazda-6e-78-kWh",
+   "what": "Mazda 6e 78 kWh listed as MY27 (title from search results, not fetched)."
+  },
+  {
+   "url": "https://www.nau.ch/neues/mazda-cx-80-flaggschiff-fur-die-schweiz-66916311",
+   "what": "Swiss article on the CX-80 launch in Switzerland (title only, from search results)."
+  },
+  {
+   "url": "https://www.electrive.net/2026/10/08/der-bmw-ix4-ist-da-suv-coupe-ab-70-900-euro/",
+   "what": "iX4: 40/50 xDrive orderable from EUR 70,900; M60 orders Jan 2027; market launch March 2027; 4.78 x 1.90 x 1.60 m."
+  },
+  {
+   "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag",
+   "what": "iX4 reveal 2026-10-08: coupé sibling of the iX3 (Neue Klasse), 188.3 in long, 114.1 in wheelbase, US sales March 2027."
+  },
+  {
+   "url": "https://www.autozeitung.de/bmw-z4-produktionsende-2026-final-edition-209775.html",
+   "what": "Z4 production ends March 2026; Final Edition orderable for a short period from late Jan 2026; no successor; Supra production also ended (2025-11-26)."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/BMW_i4",
+   "what": "i4: CLAR, bodyshell of the G26 4 Series Gran Coupé, 'battery-powered G20 3 Series', 2,856 mm wheelbase, 4,785 mm."
+  },
+  {
+   "url": "https://www.automobile.at/magazin/800055",
+   "what": "X5 G65 (2026): first German prices (Update) - from search results, used by the researcher for the Oct 2026 order start."
+  },
+  {
+   "url": "https://www.press.bmwgroup.com/switzerland/article/attachment/T0452307DE/636991",
+   "what": "BMW CH press: iX3 50 xDrive from CHF 78,000, Swiss launch March 2026 (not the i3)."
+  },
+  {
+   "url": "https://www.press.bmwgroup.com/switzerland/article/attachment/T0456755DE/646344",
+   "what": "BMW CH press 2026-03-31: iX3 40 from CHF 69,600, Swiss launch summer 2026 (not the i3)."
+  },
+  {
+   "url": "https://www.rolls-roycemotorcars.com/geneva/en_GB/showroom.html",
+   "what": "Rolls-Royce Motor Cars Geneva showroom: Phantom (+Extended), Ghost (+Extended), Cullinan, Spectre Series II, Black Badge."
+  },
+  {
+   "url": "https://www.honda.co.uk/cars/new/super-n/overview.html",
+   "what": "Super-N from GBP 18,995, 'Configure and Buy', 'only available in Great Britain', 3.6 m, 128 miles WLTP."
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/elektroauto/honda-super-n-elektro-kei-car-mit-europastart/",
+   "what": "Super-N: UK is the European starting point (sales from July); no other markets named."
+  },
+  {
+   "url": "https://www.autohaus.de/nachrichten/autohersteller/markenausblick-honda-die-japanische-null-nummer-3628947",
+   "what": "Honda outlook (2025-03-21, stale) with 2026 sidebar headlines: Super-N UK-only, e:Ny1 withdrawn (Apr 2026), 'Aus für 0 Serie'."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Honda_0_SUV",
+   "what": "0 SUV and 0 Saloon cancelled March 2026 (Honda Global release on the reassessment of its electrification strategy)."
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/neuheiten/toyota-hilux-2026-premiere-so-kommt-der-rundum-neue-toyota-pick-up/",
+   "what": "New Hilux: 5,320 x 1,860 x 1,800 mm; 2.8 diesel MHEV 204 PS; BEV 59.2 kWh ~240 km; production from spring 2026."
+  },
+  {
+   "url": "https://www.zeekr.eu/",
+   "what": "Zeekr Europe line-up 2026-10-22: 9X (Configure button, no price), 7X, 7GT (from EUR 45,990), X, 001; country selector has no Switzerland"
+  },
+  {
+   "url": "https://www.saicmaxus.co.uk/",
+   "what": "Maxus UK range 2026-10-22: diesel Deliver 7, Deliver 9, T60 Max; electric eDeliver 3/5/7/9, eTerron 9, Mifa 7, Mifa 9; no T90"
+  },
+  {
+   "url": "https://www.byd.com/uk",
+   "what": "BYD UK model menu 2026-10-22: Dolphin Surf, Dolphin, Atto 2, Atto 3 Evo, Seal, Sealion 7 (BEV); Ti 7 DM-p, Dolphin G DM-i, Atto 2 DM-i, Seal 6 DM-i (+Touring), Sealion 5 DM-i, Seal U DM-i, Shark DMO (PHEV), all with PCP offers; no Tang"
+  },
+  {
+   "url": "https://www.xpeng.com/de",
+   "what": "XPeng Germany 2026-10-22: L03 (NEU), G9L (NEU), G6, G9, P7+, X9, each with configurator; no P7/Mona"
+  },
+  {
+   "url": "https://cardealermagazine.co.uk/farizon-hands-over-first-v7e-electric-van-to-uk-customer/325512",
+   "what": "Farizon V7E: first UK customer handover 2026 (nameplate and UK sales confirmed)"
+  },
+  {
+   "url": "https://www.fleetnews.co.uk/news/farizon-v7e",
+   "what": "Farizon V7E UK launch (Fleet News 2026)"
+  },
+  {
+   "url": "https://vanreviewer.co.uk/maxus/edeliver-5/dimensions/4622/",
+   "what": "Maxus eDeliver 5 dimensions page (L1/L2 variants)"
+  },
+  {
+   "url": "https://capital.com/en-gb/news/geely-auto-group-makes-its-paris-motor-show-debut-with",
+   "what": "Geely Auto Paris Motor Show release (2026-10-12): Zeekr 9X 'available to order, deliveries from January 2027'; Monjaro EM-i 'launches in Europe' (no price/orders/markets); Lynk & Co 07GT European premiere only"
+  },
+  {
+   "url": "https://www.electrive.com/2026/09/23/nio-closes-hubs-in-cologne-and-weiterstadt/",
+   "what": "NIO Europe Sept 2026: hubs closing, sales via distribution partners (except Norway), registrations -90% in DE, no new model generation in Europe before end-2027, Onvo postponed to 2028-29"
+  },
+  {
+   "url": "https://www.am-online.com/news/how-lepas-is-incentivising-test-drives-at-dealers-as-l8-phev-orders-open",
+   "what": "Lepas L8 PHEV: UK order books open, GBP 34,900 / 37,900, deliveries 'this month' (Sept 2026)"
+  },
+  {
+   "url": "https://evfleetworld.co.uk/lepas-confirms-full-uk-specification-and-pricing-for-flagship-l8-suv/",
+   "what": "Lepas L8 UK spec (2026-06-18): pre-orders July 2026, deliveries Sept 2026, PHEV 1.5T + 18.4 kWh, wheelbase 2,800 mm, EV version 2027"
+  },
+  {
+   "url": "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+   "what": "DR Automobiles official 2026 price lists (2026-01-07): DR 5 (Tiggo 4 basis, 4.32 m, EUR 19,900), DR 6 (Tiggo 7 Pro basis, 4.50 m, EUR 28,900), DR 7 (4.72 m, 7 seats, EUR 32,900)"
+  },
+  {
+   "url": "https://www.quecochemecompro.com/precios/ebro/",
+   "what": "Ebro range with prices, October 2026: S400 (EUR 18,990), S700 petrol / hybrid-PHEV (25,990), S800 7-seat petrol (30,990) / PHEV (31,990), S900 PHEV (41,590)"
+  },
+  {
+   "url": "https://www.automobile.at/magazin/796281",
+   "what": "GWM Ora 5: German launch August 2026, list price EUR 26,990 (24,990 with launch discount), compact SUV, hybrid and BEV versions to follow late 2026"
+  },
+  {
+   "url": "https://autonotizen.de/neuigkeiten/gwm-haval-h7-hybrid-phev-benziner-suv-china",
+   "what": "autonotizen 2026-08-28: Haval H7 and Jolion Max due in Germany end of 2026; Ora 07 withdrawn from the German market; Ora 03 'Auslaufmodell'; Ora 5 launched from EUR 24,990; Jolion Pro and H6 current"
+  },
+  {
+   "url": "https://www.mgmotor.ch/",
+   "what": "MG Switzerland model overview 2026-10-22: MG3 / MG3 Hybrid+, MG ZS / ZS Hybrid+, MG HS / HS Hybrid+ / HS PHEV, MGS5 EV, MG4 EV (NEU), MG4 EV Urban (NEU), MGS6 EV (NEU), MGS9 Plug-in Hybrid (NEU), MG Cyberster, MG IM5 (ab CHF 41,990), MG IM6 (ab CHF 49,990)"
+  },
+  {
+   "url": "https://www.byd.com/uk/hybrid-cars/shark",
+   "what": "BYD Shark DMO UK page 2026-10-22: 2.9% APR PCP 'on vehicle orders from 7/10/2026 to 31/12/2026' - retail orders open"
+  },
+  {
+   "url": "https://evfleetworld.co.uk/byd-shark-plug-in-hybrid-pickup-truck-open-for-orders-from-47290/",
+   "what": "BYD Shark UK: open for orders from GBP 47,290 (2026)"
+  },
+  {
+   "url": "https://www.omodajaecoo.ch/",
+   "what": "Omoda & Jaecoo Switzerland 2026-10-22: still 'Coming soon' (Grand Automotive Switzerland AG), no prices/orders"
+  },
+  {
+   "url": "https://www.dongfengbox.nl/",
+   "what": "Dongfeng Box NL 2026-10-22: Style Edition EUR 23,499 'op bestelling leverbaar', Premium Edition EUR 24,499 (stock deal 21,499), five dealer partners, test drives"
+  },
+  {
+   "url": "https://voyah.nl/mhero?hsLang=nl",
+   "what": "MHERO I NL 2026-10-22: 'nu in de showroom' (Alkmaar, Veghel), price-list PDF, test drives; no explicit order button"
+  },
+  {
+   "url": "https://www.volvocars.com/de-ch/media/models/v60/2025/",
+   "what": "Volvo Car Switzerland media site 2026-10-22: navigation labels V60 'MY27', V90 'MY26', V90 Cross Country 'MY2026', S60 'MY2025'; EX30/EX60/ES90/EX90 MY27"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Mazda_EZ-60",
+   "what": "Mazda EZ-60 / CX-6e 'heavily based on the Deepal S07', shares BEV/EREV powertrains, EPA1 platform; Europe launch Brussels 2026-01-09"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_4",
+   "what": "Ebro S400 'based in 2024 facelift Tiggo 4' (hybrid 211 hp); DR 5.0 = Tiggo 5x (2020); Tiggo 4 released in Europe March 2026 starting in the UK"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_9",
+   "what": "Tiggo 9 exported as Jaecoo J8/8; length 4,820 mm"
+  },
+  {
+   "url": "https://www.carwow.de/wey",
+   "what": "carwow.de Oct 2026: GWM Wey 05 new-car offers from EUR 55,499 with configurator; Wey 03 new-car and leasing offers 'derzeit nicht verfügbar'"
+  },
+  {
+   "url": "https://www.am-online.com/news/gwm-uk-launches-2-000-test-drive-incentive",
+   "what": "GWM UK: Ora 03 (Pure GBP 24,995, Pro 28,995, GT 32,995) and Haval Jolion Pro Hybrid (GBP 23,995, since March 2025) on sale; more models to come"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/gwm-renews-europe-strategy-seven-new-models-suv-focus/",
+   "what": "GWM Europe strategy 2025-10-17: seven new models/variants from mid-2026, own sales companies in ES/IT, importers elsewhere; no Switzerland"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/DR_Automobiles",
+   "what": "DR Automobiles model/donor list: DR 1.0 = Chery eQ1, DR 3 = Tiggo 3x, DR 5.0 = Tiggo 5x, DR 5 (2026) = Changan CS35 Plus, DR 6.0 = Tiggo 7 (2nd gen), DR 7.0 = Tiggo 8, DR PK8 = JAC T8; EVO/Sportequipe/ICH-X/Tiger donors"
+  },
+  {
+   "url": "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+   "what": "DR Italian range and September 2026 prices: DR 1.0 EV, DR 3, DR 5, DR 6, DR 7, DR PK8"
+  },
+  {
+   "url": "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7",
+   "what": "Autoblog 2026-01-09: new DR 5 (4.32 m), DR 6 (4.50 m, 'ispirata direttamente alla Chery Tiggo 7 Pro'), DR 7 (4.72 m, 7 seats) prices"
+  },
+  {
+   "url": "https://www.carwow.co.uk/lepas",
+   "what": "carwow UK: Lepas L8 RRP GBP 34,900-37,900, pre-orders July 2026, deliveries Sept 2026; L6 and L4 to follow"
+  },
+  {
+   "url": "https://www.diariomotor.com/noticia/ebro-s900-chery-tiggo-9-espana/",
+   "what": "Diariomotor: Ebro S900 = Chery Tiggo 9 for Spain"
+  },
+  {
+   "url": "https://newmobility.news/en/2025/11/04/spanish-car-brand-ebro-launches-flagship-phev-s900/",
+   "what": "Ebro launches flagship PHEV S900 (2025-11-04)"
+  },
+  {
+   "url": "https://www.elektrischeauto.nl/nieuws/hongqi-ehs7-en-eh7-komen-naar-nederland-en-dagen-de-gevestigde-orde-uit",
+   "what": "Hongqi Netherlands (2025-02-12): Hedin Automotive exclusive dealer (5 sites), EH7 and EHS7 just under EUR 60,000; E-HS9 was the first Hongqi in NL"
+  },
+  {
+   "url": "https://xpengswitzerland.pr.co/269694-garage-juni-is-new-xpeng-partner-in-the-bern-area/",
+   "what": "XPeng Switzerland release 2026-08-27: importer Hedin Distribution AG; G6, G9, P7+, X9 (configurable) sold in CH; L03 'will soon follow', deliveries Q4 2026; G9L only in the newsroom navigation"
+  },
+  {
+   "url": "https://www.moneycab.com/mobilitaet/e-mobility/denza-gibt-die-preise-in-der-schweiz-fuer-die-super-hybrid-dm-i-versionen-des-z9gt-und-d9-bekannt/amp/",
+   "what": "Denza Switzerland 2026-04-22: Z9GT DM-i CHF 101,000, D9 DM-i Elegance CHF 79,900 / Ultimate 84,900; ordering from end of April 2026 at Denza sales points, deliveries summer 2026"
+  },
+  {
+   "url": "https://www.blick.ch/auto/10-prozent-huerde-geknackt-autos-made-in-china-erobern-die-schweiz-id22129778.html",
+   "what": "Blick 2026-07-23: Chinese brands in CH H1 2026 - BYD 3,114 (Seal U top), MG 2,632, Leapmotor, Xpeng, Geely (market start), Zeekr (coming); China-built Volvo EX30 1,127, Polestar, smart; no GWM/Hongqi/Deepal/Denza/NIO/Maxus mentioned"
+  },
+  {
+   "url": "https://fr.motor1.com/news/744328/hypercar-lotus-prete-livraison-2025/",
+   "what": "Motor1 2025: Lotus Evija finally ready for customer deliveries"
+  },
+  {
+   "url": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-announces-opening-first-swiss-retail-location-geneva",
+   "what": "Lucid first Swiss retail location (Geneva)"
+  },
+  {
+   "url": "https://theevreport.com/lucid-opens-new-studio-in-zurich",
+   "what": "Lucid studio Zurich"
+  },
+  {
+   "url": "https://www.autoscout24.ch/de/d/morgan-plus-four-20-automatic-swiss-new-car-30-month-factory-warranty-20476334",
+   "what": "Morgan Plus Four sold new in CH with factory warranty (classified)"
+  },
+  {
+   "url": "https://www.ineosgrenadier.com/de/ch",
+   "what": "Ineos CH 2026-10-25: Grenadier Station Wagon and Grenadier Quartermaster with configurator and test-drive links; Arcane Works Detour"
+  },
+  {
+   "url": "https://www.fox6now.com/news/ferraris-400k-suv-is-sold-out-until-2026",
+   "what": "Purosangue order backlog (sold out until 2026) – series model, not closed"
+  },
+  {
+   "url": "https://www.hdmotori.it/auto-articoli-n611169-micolino-stop-produzione-aprile-quadriciclo-cause/",
+   "what": "Microlino production pause until Apr 2025 (7 Mar 2025)"
+  },
+  {
+   "url": "https://www.kgm.ch/",
+   "what": "KGM CH 2026-10-25: Tivoli, Korando, Torres, Torres EVX, Actyon, Rexton, Musso (CHF 42,689), Musso Grand (CHF 44,311), Musso EV; New KGM Musso campaign; no Musso Rhino"
+  },
+  {
+   "url": "https://autonotizen.de/fahrberichte/kgm-musso-grand-test-fahrt-video-2026",
+   "what": "New KGM Musso / Musso Grand (17 Jun 2026): new generation, 5,150 / 5,460 mm, DE prices from 40,990 / 42,490 EUR, at dealers"
+  },
+  {
+   "url": "https://newsroom.bugatti.com/press-releases/the-last-of-its-kind-bugatti-marks-the-end-of-production-of-the-w16-mistral",
+   "what": "Bugatti 16 Jul 2026: end of W16 Mistral production, 99 built"
+  },
+  {
+   "url": "https://robbreport.com/motors/cars/rimac-will-not-build-electric-hypercar-after-nevera-1235610647",
+   "what": "Rimac Nevera 150-car run not sold out (c. 2024)"
+  },
+  {
+   "url": "https://www.de.ford.ch/",
+   "what": "Ford CH 2026-10-25: Puma, Puma Gen-E, Kuga, Explorer, Capri, Mustang Mach-E; Transit, Transit Custom, E-Transit Custom, Ranger; no Bronco/Mustang"
+  },
+  {
+   "url": "https://fordauthority.com/2026/05/ford-kuga-production-slated-to-last-through-end-of-decade/",
+   "what": "Kuga production to last through end of decade (May 2026, search snippet)"
+  },
+  {
+   "url": "https://radical-mag.com/en/2026/08/13/drive-report-cadillac-optiq/",
+   "what": "Swiss magazine drive report Cadillac Optiq, Aug 2026 (Cadillac active in CH)"
+  },
+  {
+   "url": "https://zephr.autocar.co.uk/car-news/new-cars/discovery-sport-production-ends-year-evoque-and-velar-live",
+   "what": "Discovery Sport production ends Dec 2026, no EU factory orders (GSR2); Evoque/Velar continue; Discovery nearing retirement but on sale"
+  },
+  {
+   "url": "https://astonmartin.com/en/dealers/aston-martin-zurich",
+   "what": "Official Aston Martin Zürich dealer (sales + service), 2026"
+  },
+  {
+   "url": "https://www.autocarindia.com/car-news/mclaren-750s-production-to-end-in-2027-final-orders-now-being-accepted-440988",
+   "what": "McLaren 750S ends 2027, final orders open; Artura/GTS end by 2028 (9 Oct 2026)"
+  },
+  {
+   "url": "https://topgear.co.za/news/chevrolet-launches-corvette-swiss-edition-meant-strictly-for-switzerland",
+   "what": "Corvette Swiss Edition 2022 (old evidence of Swiss sales)"
+  },
+  {
+   "url": "https://www.electrive.net/2025/01/28/genesis-stellt-auf-elektrifiziertes-angebot-in-europa-um/",
+   "what": "Genesis Europe switch to electrified range: ICE G70/G70 SB/G80 stock only; G90 until mid-2025 (DE, CH)"
+  },
+  {
+   "url": "https://autocar.co.uk/car-news/new-cars/genesis-drops-g70-and-gv80-it-shifts-focus-hybrids",
+   "what": "Genesis drops G70 and GV80 from UK and Europe (Aug 2024), stock only"
+  },
+  {
+   "url": "https://www.genesis.com/ch",
+   "what": "Genesis CH 2026-10-25: GV60 Magma, GV60, Electrified GV70, Electrified G80 (configurators), GV90 Demnächst, G90 consultation only; no G70/GV80/ICE GV70/ICE G80"
+  },
+  {
+   "url": "https://www.genesis.com/de/de/models/gv70.html",
+   "what": "DE ICE GV70 page = Certified Pre-Owned, only 2.2D listed"
+  },
+  {
+   "url": "https://vinfastauto.eu/en/newsroom",
+   "what": "VinFast EU newsroom: dealer opening Toulouse 16 Sep 2026, akf-Bank DE dealer finance Jul 2026; VF 6 and VF 8 sold; FR/DE purchase pages; no exit"
+  },
+  {
+   "url": "https://www.hyundai.com/ch/de/modelle.html",
+   "what": "Hyundai CH model overview 2026-10-22: i10 still listed; Nexo absent; IONIQ 3 listed; STARIA Hybrid / STARIA Electric / STARIA Cargo Electric naming"
+  },
+  {
+   "url": "https://www.kia.ch/",
+   "what": "Kia CH overview 2026-10-22: 21 passenger + 4 PV5 entries; K4/K4 Sportswagon, Seltos, EV2, New Niro present; no Ceed/ProCeed; PV7 only as world-premiere banner"
+  },
+  {
+   "url": "https://www.genesis.com/de",
+   "what": "Genesis DE overview 2026-10-22: configurator only for GV60/GV60 Magma, Electrified GV70, Electrified G80; GV90 'Demnächst'; GV70, GV80, G70, G70 SB, G80, G90 only model-page links"
+  },
+  {
+   "url": "https://www.kgm.de/",
+   "what": "KGM DE 2026-10-22: Tivoli, Korando, Torres (+Hybrid), Torres EVX (+Cargo Van), Actyon (+Hybrid), Musso EV, Musso ('New Musso Q300 M', ab 40.990 €), 'Der neue Musso Grand' (42.490 €), Rexton; no 'Musso Rhino' name"
+  },
+  {
+   "url": "https://www.firmenauto.de/fahrzeuge/transporter/ford-transit-city-elektrotransporter-jetzt-bestellbar-preis-reichweite-nutzlast/",
+   "what": "Transit City orderable DE from 10 Aug 2026, €35,990 net; L1/H1 4,985 mm, wheelbase 3,060 mm; 8 m³; 1,275 kg"
+  },
+  {
+   "url": "https://www.loveelectric.cars/blog/jaguar-type-01-revealed",
+   "what": "Jaguar Type 01 (16 Oct 2026): £130,000, orders open early 2027, deliveries H2 2027"
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/neuheiten/hyundai-i10-eingestellt-der-naechste-kleinwagen-verschwindet/",
+   "what": "Hyundai i10: European production ended Nov 2025; no new orders in DE, stock only"
+  },
+  {
+   "url": "https://insideevs.com/news/767444/tesla-model-s-model-x-dead-europe/",
+   "what": "Tesla Model S/X withdrawn from Europe (search result title; supports exclusion)"
+  },
+  {
+   "url": "https://www.mercedes-benz.ch/de/vans/models.html",
+   "what": "Mercedes-Benz CH vans overview 2026-10-22: Sprinter/eSprinter, Vito/eVito (Kastenwagen, Mixto, Tourer), V-Klasse, Marco Polo (+Horizon) with prices and configurator; no Citan/T-Klasse/EQT/EQV/VLE"
+  },
+  {
+   "url": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "what": "Mercedes-Benz CH passenger overview 2026-10-22: VLE (Grand Limousine) with configurator, V-Klasse, Marco Polo/Horizon; no B-Klasse, EQV, T-Klasse, EQT, VLS"
+  },
+  {
+   "url": "https://www.mobiflip.de/shortnews/mercedes-stoppt-bau-kleiner-vans-auch-eqt-betroffen/",
+   "what": "mobiflip 2025-04-14: Citan/T-Klasse/eCitan/EQT production to end mid-2026; Kangoo-based, built at Renault Maubeuge"
+  },
+  {
+   "url": "https://www.electrive.com/2026/04/15/mercedes-vle-now-available-from-e82260/",
+   "what": "electrive 2026-04-15: VLE orderable in Germany from EUR 82,260; EQV named as predecessor"
+  },
+  {
+   "url": "https://www.ford.co.uk/vans-and-pickups/transit-city",
+   "what": "Ford UK Transit City page 2026-10-22: GBP 24,000 excl VAT SWB van, price list, finance offer for orders 01/10/2026-31/12/2026, L1H1 6.4 m3 / L2H2 8.5 m3 / chassis cab; configurator placeholder"
+  },
+  {
+   "url": "https://www.hyundai.com/ch/de/modelle.html",
+   "what": "Hyundai CH model overview 2026-10-22: STARIA Hybrid, STARIA Electric, STARIA Cargo Electric (no diesel, no 'Staria Van')"
+  },
+  {
+   "url": "https://www.kia.ch/de/kia-pbv/fahrzeuge/pv5-cargo",
+   "what": "Kia CH PV5 Cargo page 2026-10-22: from CHF 32'971, Jetzt kaufen / Konfigurieren / Probefahren; Crew, Chassis Cab, Passenger in navigation"
+  },
+  {
+   "url": "https://www.byd.com/uk/hybrid-cars/shark",
+   "what": "BYD UK Shark page 2026-10-22: finance offer on BYD SHARK DMO orders 07/10/2026-31/12/2026"
+  },
+  {
+   "url": "https://evfleetworld.co.uk/byd-shark-plug-in-hybrid-pickup-truck-open-for-orders-from-47290/",
+   "what": "EV Fleet World 2026: BYD Shark open for UK orders from GBP 47,290"
+  },
+  {
+   "url": "https://www.saicmaxus.co.uk/",
+   "what": "Maxus UK range 2026-10-22: DELIVER 7, DELIVER 9, T60 MAX (diesel); eDELIVER 3/5/7/9, eTERRON 9, MIFA 7, MIFA 9 (electric); no T90 EV"
+  },
+  {
+   "url": "https://de.renault.ch/vans.html",
+   "what": "Renault CH vans page 2026-10-22: Kangoo Van, Trafic Van, Master bodies with prices/configurator; 'Neuer Trafic Van E-Tech' without price; Trafic Passenger/SpaceClass, Kangoo, Grand Kangoo; no Estafette/Goelette/Express"
+  },
+  {
+   "url": "https://www.toyota.co.uk/new-cars/hilux",
+   "what": "Toyota UK 2026-10-22: 'All New Hilux' MY26, 2.8 diesel 48V MHEV and BEV, Build/quote, offers for orders Oct-Dec 2026"
+  },
+  {
+   "url": "https://de.toyota.ch/neuwagen-kaufen",
+   "what": "Toyota CH new cars 2026-10-22: Hilux (Verbrenner oder Elektrisch, CHF 53'900), Proace City, Proace City Verso, Proace, Proace Verso, Proace Max with prices"
+  },
+  {
+   "url": "https://www.kgm-motors.co.uk/",
+   "what": "KGM UK 2026-10-22: Musso GBP 32,980 ex VAT, Musso EV GBP 39,995, All-new Musso Rhino GBP 38,995 ex VAT"
+  },
+  {
+   "url": "https://www.kgm.ch/",
+   "what": "KGM CH 2026-10-22: Musso CHF 42'689, Musso Grand CHF 44'311, Musso EV CHF 43'230; no Musso Rhino"
+  },
+  {
+   "url": "https://www.largus.fr/actualite-automobile/renault-trafic-et-goelette-e-tech-2026-deux-utilitaires-electriques-nouvelle-generation-30040105.html",
+   "what": "L'argus 2025-04-29: new Trafic E-Tech L1 4.87 m / L2 5.27 m, Goelette same lengths, order books planned Q1 2026, diesel Trafic continues"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/iveco-completes-its-electric-offer-of-light-commercial-vehicles-with-the-new-ejolly-and-esuperjolly-the-jack-of-all-trades-for-urban-missions/",
+   "what": "Iveco press release 2025-06-12: eJolly (49/75 kWh) and eSuperJolly (110 kWh, 17 m3) from Stellantis Pro One partnership; eSuperJolly deliveries Q1 2026, eJolly Q2 2026"
+  },
+  {
+   "url": "https://cardealermagazine.co.uk/farizon-hands-over-first-v7e-electric-van-to-uk-customer/325512",
+   "what": "Car Dealer Magazine 2026: first Farizon V7E handed over to a UK customer"
+  },
+  {
+   "url": "https://www.electrive.com/2026/03/26/ford-unveils-new-transit-city-as-affordable-e-van/",
+   "what": "electrive 2026-03-26: Transit City L1H1 4.99 m / L2H2 5.29 m, 56 kWh LFP, 110 kW, 254 km, orders Q2 2026, deliveries end 2026, JMC-built"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.ch/de/modelle",
+   "what": "Mitsubishi CH models 2026-10-22: Colt, ASX, Grandis, Eclipse Cross BEV, Outlander PHEV; Space Star nicht mehr bestellbar; no L200"
+  },
+  {
+   "url": "https://www.de.ford.ch/nutzfahrzeuge",
+   "what": "Ford CH Nutzfahrzeuge page 2026-10-22: E-Transit and E-Transit Custom with Lagerprämie; Transit Custom/Transit/Ranger imagery"
+  },
+  {
+   "url": "https://www.peugeot.ch/de/",
+   "what": "Peugeot CH home 2026-10-22: Partner Premium Long offer; Rifter/Traveller/Expert/Boxer not on the home page (models page not fetched)"
+  },
+  {
+   "url": "https://www.motor1.com/news/93987/new-man-tge-van-is-a-rebadged-vw-crafter/",
+   "what": "Motor1: MAN TGE is a rebadged VW Crafter (twin source)"
+  },
+  {
+   "url": "https://www.just-auto.com/news/man-wrzesnia-plant-builds-first-vw-crafter-based-tge",
+   "what": "just-auto: MAN Wrzesnia plant builds first VW Crafter-based TGE"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/fiat-introduces-seven-seat-qubo-l-model/",
+   "what": "Fiat/Stellantis launch release 2026-01-12: 'Qubo L' 5-seat 4.40 m / 7-seat 4.75 m, diesel/petrol/electric, orders January 2026, showrooms early 2026"
+  },
+  {
+   "url": "https://vanreviewer.co.uk/maxus/edeliver-5/dimensions/4622/",
+   "what": "Maxus eDeliver 5 dimensions: 4,800 mm L1 only, 6.6/7.6 m3, 1,200 kg"
+  },
+  {
+   "url": "https://commercial.piaggio.com/en_EN/",
+   "what": "Piaggio Commercial Vehicles site 2026-10-22: Porter NP6 range (chassis, tipper, deck) and electric Porter NPE listed as current models"
+  },
+  {
+   "url": "https://www.iveco.com/global/press/pressreleases/2025/IVECO-completes-its-electric-offer-of-light-commercial-vehicles-with-the-new-eJolly-and-eSuperJolly",
+   "what": "Iveco official press release 2025-06: eJolly / eSuperJolly from the Stellantis Pro One partnership, deliveries Q2 / Q1 2026"
+  },
+  {
+   "url": "https://electrive.com/2023/12/05/toyota-launches-electric-van-based-on-the-ducato",
+   "what": "electrive 2023-12-05: Proace Max built at Stellantis Gliwice/Atessa (Ducato), smaller Toyota LCVs based on Stellantis"
+  },
+  {
+   "url": "https://global.nissannews.com/en/releases/interstar-primastar-and-all-new-townstar-nissans-van-range-renewed-to-future-proof-businesses",
+   "what": "Nissan global release 2021-09-27: Townstar built on the Alliance CMF-C platform in Maubeuge; NV300 -> Primastar, NV400 -> Interstar"
+  },
+  {
+   "url": "https://www.planeterenault.com/30-alliance/1603-nissan/1597-actualite-automobile/11924-nissan-devoile-son-nouveau-fourgon-interstar-base-sur-master/",
+   "what": "Planete Renault: Nissan Interstar based on the Renault Master (title)"
+  },
+  {
+   "url": "https://journalauto.com/constructeurs/le-nissan-nv300-a-sandouville/",
+   "what": "Journal de l'Automobile: Nissan NV300 (now Primastar) built at Renault Sandouville with the Trafic (title)"
+  },
+  {
+   "url": "https://www.firmenauto.de/fahrzeuge/pkw/ford-und-vw-kooperieren-ford-mit-vw-technik-unterm-blech/",
+   "what": "firmenauto 2020-06-19: Transit Connect on the VW Caddy platform, both built in Poland; Amarok on the Ranger platform, same South African plant; joint 1-tonne van announced"
+  },
+  {
+   "url": "https://europe.autonews.com/automakers/fords-new-tourneo-connect-first-model-vw-partnership",
+   "what": "Automotive News Europe: Tourneo Connect first model of the Ford-VW partnership (Caddy-based)"
+  },
+  {
+   "url": "https://fleetworld.co.uk/volkswagen-previews-new-gen-transporter-and-e-transporter/",
+   "what": "Fleet World: new VW Transporter/e-Transporter (and Caravelle) on the Ford Transit Custom platform, built alongside it at Kocaeli"
+  },
+  {
+   "url": "https://groupe-grim.com/ford/quel-ford-tourneo-choisir/",
+   "what": "French Ford dealer group 2026 comparison of Tourneo Courier / Connect / Custom (all current in FR)"
+  },
+  {
+   "url": "https://www.volkswagen.ch/de/modelle.html",
+   "what": "VW CH models page 2026-10-22: Vans = Caddy, ID. Buzz, Multivan, Caddy California, California, Grand California (commercial models on the blocked vw-nutzfahrzeuge.ch)"
+  },
+  {
+   "url": "https://www.de.ford.ch/nutzfahrzeuge-modelle",
+   "what": "Ford CH commercial model index 2026-10-22: generic page, no model names readable"
+  },
+  {
+   "url": "https://www.lagazettefrance.fr/article/le-nouveau-renault-trafic-electrique-de-sandouville-sacre-utilitaire-de-l-annee-2027",
+   "what": "La Gazette (2026): new electric Trafic from Sandouville named International Van of the Year 2027 (title only; supports 'announced, launch 2027')"
+  },
+  {
+   "url": "https://www.carsized.com/",
+   "what": "carsized.com dimensions used for the measurement check"
+  },
+  {
+   "url": "https://de.renault.ch/personenwagen.html",
+   "what": "Renault CH passenger-car line-up with prices/lengths (2026-10-22): Twingo, R5, Clio, R5 Turbo 3E (no price), R4, Neuer Megane, Captur, Symbioz, Scenic, Kangoo, Austral, Rafale, Espace, Grand Kangoo, Trafic Passenger, Trafic SpaceClass; Arkana absent; Mobilize Duo only under 'Ältere Modelle'"
+  },
+  {
+   "url": "https://de.renault.ch/vans.html",
+   "what": "Renault CH vans (2026-10-22): Kangoo Van, Trafic Van, 'Neuer Trafic Van E-Tech' (no price/configurator), Master family; no Estafette/Goelette"
+  },
+  {
+   "url": "https://de.dacia.ch/",
+   "what": "Dacia CH line-up (2026-10-22): Bigster, Striker ('Ab sofort bestellbar', ab CHF 27'890), Duster, Jogger, Sandero, Sandero Stepway, Neuer Spring (ab CHF 16'790); no Logan"
+  },
+  {
+   "url": "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+   "what": "Nissan CH line-up (2026-10-22): Neuer Micra, Juke, Neuer Leaf, Qashqai, X-Trail, Ariya, Townstar Kombi, Primastar Kombi; Townstar, Townstar Elektro, Primastar, Interstar; no Pixo/Navara"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.ch/de/modelle",
+   "what": "Mitsubishi CH models (2026-10-22): Space Star 'nicht mehr bestellbar', Colt, ASX, Grandis, Eclipse Cross BEV, Outlander PHEV; no L200"
+  },
+  {
+   "url": "https://www.mercedes-benz.ch/de/passengercars/models.html",
+   "what": "Mercedes CH cars (2026-10-22): all current cards incl. EQE, EQS, EQS SUV, GLA Neu, GLB, AMG GT SUV (Neu), AMG GT 4-Türer, VLE, V-Klasse, Marco Polo (Horizon Neu); no B-Klasse, EQA, EQB, EQT, EQV, T-Klasse, Citan"
+  },
+  {
+   "url": "https://www.mercedes-benz.de/passengercars/models.html",
+   "what": "Mercedes DE cars with button sets (2026-10-22): B-Klasse and EQE Limousine stock-only (no configurator); EQS SUV / Maybach EQS SUV cards without configurator or price; everything else 'Fahrzeug konfigurieren' incl. AMG GT SUV (EUR 113,050), AMG GT 4-Türer (EUR 115,430), VLE (EUR 71,526), GLA Neu Elektrisch; 'GLA Neu Benzin' bald erhältlich; EQV/T-Klasse/EQT absent"
+  },
+  {
+   "url": "https://www.mercedes-benz.ch/de/vans/models.html",
+   "what": "Mercedes CH vans (2026-10-22): Sprinter/eSprinter, Vito/eVito (Kastenwagen, Mixto, Tourer), V-Klasse, Marco Polo (+Horizon Neu); no Citan, T-Klasse, EQT, EQV, VLE"
+  },
+  {
+   "url": "https://ch.smart.com/de/",
+   "what": "smart CH menu (2026-10-22): #1, #2 (Neu), #3, #5, fortwo legacy"
+  },
+  {
+   "url": "https://de.alpinecars.ch/",
+   "what": "Alpine CH (2026-10-22): A110 menu only (no price/configurator), A290 ab CHF 38'000, A390 ab CHF 64'500 with configurators, A110 Future waiting programme"
+  },
+  {
+   "url": "https://www.electrive.net/2026/10/13/smart-2-ist-ab-knapp-20-000-euro-vorbestellbar/",
+   "what": "smart #2: binding orders from 2026-10-13 in DE/FR/IT, prices EUR 19,990–25,690, market launch 2027"
+  },
+  {
+   "url": "https://www.mobiflip.de/shortnews/mercedes-stoppt-bau-kleiner-vans-auch-eqt-betroffen/",
+   "what": "Citan/eCitan/T-Klasse/EQT production end 'Mitte 2026' (2025-04-14)"
+  },
+  {
+   "url": "https://www.electrive.net/2026/06/12/mercedes-benz-laeutet-serienproduktion-des-vle-ein/",
+   "what": "VLE series production from June 2026 in Vitoria, blind orders since April 2026, from EUR 82,260, successor of the EQV"
+  },
+  {
+   "url": "https://www.largus.fr/actualite-automobile/renault-trafic-et-goelette-e-tech-2026-deux-utilitaires-electriques-nouvelle-generation-30040105.html",
+   "what": "Trafic E-Tech / Goelette (2025-04-29): planned order opening Q1 2026, launch mid-2026, L1 4.87 m / L2 5.27 m, built in Sandouville (plan since slipped)"
+  },
+  {
+   "url": "https://cardealermagazine.co.uk/mitsubishi-brings-back-l200-pick-up-to-uk-market-priced-from-36295/322421",
+   "what": "L200 on sale in the UK from 2026-02-27 (£36,295, deliveries May 2026, Commercial variant)"
+  },
+  {
+   "url": "https://www.autoevolution.com/news/all-new-dacia-spring-made-in-europe-launches-with-fresh-rg-ev-platform-and-275-kwh-lfp-battery-pack-275235.html",
+   "what": "Dacia Spring II (2026-09-08): RG-EV small platform, 27.5 kWh LFP, 60 kW, Novo Mesto"
+  },
+  {
+   "url": "https://www.autocar.co.uk/node/375412",
+   "what": "Final Alpine A110 built July 2026 (28,701 units)"
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/neuheiten/mitsubishi-colt-kurz-comeback-nach-2-jahren-schon-wieder-vorbei/",
+   "what": "Mitsubishi Colt discontinued after 2025 (title; corroborates DE 'Auslaufmodell')"
+  },
+  {
+   "url": "https://lautomobiliste.fr/15/12/2025/renault-mobilize-duo-vehicule-electrique/",
+   "what": "Renault ends the Mobilize Duo (2025-12-15, title); corroborates Inovev"
+  },
+  {
+   "url": "https://www.completecar.ie/car-news/article/15016/Dacia-Striker-crossover-revealed",
+   "what": "Dacia positions the Striker as a crossover ('SUV capability, estate versatility, saloon efficiency' in the UK press material) -> c-suv with Duster/Bigster"
+  },
+  {
+   "url": "https://web2.goauto.com.au/future-models/nissan/micra/ev/2025-08-14/97127.html",
+   "what": "Micra K15 vs Renault 5: roof and greenhouse carried over, hard points unchanged, all body panels restyled, shared battery/motors/ADAS/infotainment"
+  },
+  {
+   "url": "https://drive.co.uk/cars/nissan/micra/review?from=hj",
+   "what": "Micra shares platform, batteries, motors and much of its cabin with the R5; bespoke exterior; 3,974 mm"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Nissan_Micra",
+   "what": "Micra K15 on AmpR Small (shared with R5/R4), built at Douai, sales from Sept 2025"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Dacia_Spring",
+   "what": "Spring II (2026-09-08): RGEV Small architecture shared with Twingo E-Tech, Revoz Novo Mesto, 27.5 kWh LFP, 60 kW"
+  },
+  {
+   "url": "https://journalauto.com/journal-des-flottes/renault-devoile-le-nouveau-trafic-electrique-et-donne-rendez-vous-fin-2026/",
+   "what": "New Trafic E-Tech (2025-11-18): commercialisation planned end 2026, no order date; Sandouville"
+  },
+  {
+   "url": "https://www.mercedes-benz.de/passengercars/models/suv.html",
+   "what": "DE SUV page (2026-10-22): EQS SUV 'Fahrzeug konfigurieren' ab 107,661 €; EQE SUV configurable; GLA Neu Elektrisch configurable, GLA Neu Benzin 'Bald erhältlich'; GLB electric/petrol configurable; AMG GT SUV configurable ab 113,050 €"
+  },
+  {
+   "url": "https://ecomento.de/?p=135169",
+   "what": "AMG GT SUV preview (2026-08-19): no dimensions"
+  },
+  {
+   "url": "https://www.elektroauto-news.net/news/lademonster-mercedes-amg-gt-4-tuerer-coupe-startet",
+   "what": "AMG GT 4-Türer Coupé electric: Bestellfreigabe 27 May 2026, from EUR 154,700 / 196,350; no dimensions"
+  },
+  {
+   "url": "https://www.inovev.com/index.php/en/market-analyses/category-blog/21723-2025-29-2",
+   "what": "Renault halts Mobilize Duo/Bento production (brand ended Dec 2025) - researcher source corroborated by search results"
+  },
+  {
+   "url": "https://www.peugeot.ch/de/",
+   "what": "Peugeot CH homepage: 208/E-208 GTi, 2008, 308/308 SW, 408 (new), 3008/E-3008, 5008/E-5008, Partner Premium Long; no 508"
+  },
+  {
+   "url": "https://www.peugeot.ch/de/modelle/rifter-van/konfigurator.html",
+   "what": "Peugeot CH Rifter configurator page exists (search result) -> Rifter orderable in CH"
+  },
+  {
+   "url": "https://www.citroen.ch/de/modelle.html",
+   "what": "Citroën CH model overview: C3/ë-C3, C3 Aircross, C4/ë-C4, C5 Aircross, Berlingo, Jumpy Combi, SpaceTourer, Holidays; LCV: ë-C3 Van, Berlingo Van, Jumpy, Jumper. No Ami, C4 X, C5 X on the page"
+  },
+  {
+   "url": "https://www.opel.ch/de/",
+   "what": "Opel CH model list: Corsa (+GSE), Mokka (+GSE), Frontera, Grandland, Astra (+Sports Tourer), Combo, Combo Electric, Zafira, Zafira Electric; vans Combo Cargo, Vivaro, Movano (+Electric). No Rocks, no 'Life' names. Prices: Corsa CHF 20,490, Mokka 29,990, Frontera 25,400, Grandland 40,270"
+  },
+  {
+   "url": "https://www.fiat.ch/de",
+   "what": "Fiat CH homepage: Grizzly/Grizzly Fastback 'coming soon'; 500 (Elektro/Hybrid/Hybrid Torino), Grande Panda, 600, Qubo L (Elektro/Benzin/Diesel), Pandina, E-Doblò (Lagerfahrzeuge), Ulysse/E-Ulysse"
+  },
+  {
+   "url": "https://www.abarth.ch/",
+   "what": "Abarth CH: 500e, 600e only"
+  },
+  {
+   "url": "https://www.alfaromeo.ch/",
+   "what": "Alfa Romeo CH: Junior Ibrida/Elettrica, Neuer Tonale, Stelvio, Giulia (+Quadrifoglio)"
+  },
+  {
+   "url": "https://www.jeep.ch/",
+   "what": "Jeep CH: Neuer Avenger (CHF 24,990), Neuer Compass (CHF 36,990), Grand Cherokee Summit Reserve (CHF 15,000 bonus); Wrangler/Renegade only in image paths"
+  },
+  {
+   "url": "https://www.maserati.com/ch/de/modelle",
+   "what": "Maserati CH: Grecale, GranTurismo, GranCabrio, MCPURA, MCPURA Cielo, GT2 Stradale"
+  },
+  {
+   "url": "https://www.lancia.it/",
+   "what": "Lancia IT: Ypsilon (Turbo 100/Ibrida/Elettrica/HF), Nuova Gamma Ibrida (da 249 EUR/mese), Gamma Elettrica (349), Gamma Business"
+  },
+  {
+   "url": "https://www.alvolante.it/news/lancia-gamma-si-aprono-ordini-prezzi-partono-39-900-euro-420825",
+   "what": "al Volante: Lancia Gamma orders open, prices from 39,900 EUR (Oct 2026)"
+  },
+  {
+   "url": "https://www.autoblog.it/post/lancia-gamma-ordini-aperti-fino-a-740-km-di-autonomia-e-hf-integrale-da-375-cv",
+   "what": "Autoblog.it: Lancia Gamma 'ordini aperti' (Oct 2026)"
+  },
+  {
+   "url": "https://www.dsautomobiles.de/modelle.html",
+   "what": "DS DE models: DS 3, DS 7 (only 'Angebote DS 7' link), N°7, N°8, DS 4, N°4; no prices"
+  },
+  {
+   "url": "https://www.opel.de/fahrzeuge/rocks/uebersicht.html",
+   "what": "opel.de Rocks overview page (search result) - Rocks still listed in Germany"
+  },
+  {
+   "url": "https://www.automobile-propre.com/articles/jeep-devoile-ses-nouveaux-plans-pour-leurope-avec-de-nombreuses-surprises/",
+   "what": "Automobile Propre 30 Jun 2026: Wrangler and Grand Cherokee sold from stock only; Renegade retirement imminent; Recon confirmed for Europe; Wagoneer S not coming"
+  },
+  {
+   "url": "https://www.jeep.de/",
+   "what": "jeep.de 22 Oct 2026: Avenger MJ26/MJ27, Neuer Compass; 'Wrangler Benziner' in navigation without price/configurator; Renegade only in image alt text; no Grand Cherokee"
+  },
+  {
+   "url": "https://www.media.stellantis.com/ch-de/leapmotor/press",
+   "what": "Leapmotor CH press: B05 CHF 25,900 (15 Jun 2026), B03X CHF 23,900 at 34 dealers (11 Sep 2026), C10 4x4 CHF 39,900 (Feb 2026) + MY2027 (12 Oct 2026), B03/D19 Paris premiere (14 Oct 2026), T03 fleet deliveries"
+  },
+  {
+   "url": "https://www.fiat.ch/de/models/fiat-qubo-l",
+   "what": "fiat.ch Qubo L page: 5/7 seats, BEV/diesel/petrol, configurator + price list; no length given"
+  },
+  {
+   "url": "https://www.fiat.ch/de/professional/business-offers/range",
+   "what": "Fiat Professional CH range: Doblò/E-Doblò (from CHF 26,390 net), Scudo/E-Scudo (28,440), Ducato/E-Ducato (49,581); no Fiorino"
+  },
+  {
+   "url": "https://www.peugeot.ch/de/kontakt/preislisten.html",
+   "what": "peugeot.ch price lists: E-208 GTi, 208, 308, 308 SW, 408, 2008, 3008, 5008, Rifter, Traveller, Partner, Expert, Boxer (no 508)"
+  },
+  {
+   "url": "https://www.peugeot.de/modelle.html",
+   "what": "peugeot.de models: 208/E-208/E-208 GTi, 2008/E-2008, 308/E-308 (+SW), 3008/E-3008, 408/E-408, 5008/E-5008, E-Rifter L1, E-Traveller L2, E-Expert Kombi L2; no 508"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Opel_Frontera_(2024)",
+   "what": "Wikipedia Opel Frontera (2024): 'sister model' of the C3 Aircross II, Smart Car platform, 4,385 mm / 2,670 mm wheelbase, Trnava; related C3, C3 Aircross, Grande Panda"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_Junior_(2024)",
+   "what": "Wikipedia Alfa Romeo Junior: related to Jeep Avenger and Fiat 600, built alongside them in Tychy; 4,170 mm / 2,550 mm wheelbase; no body-sharing statement"
+  },
+  {
+   "url": "https://www.whatvan.co.uk/news/iveco-unveils-ejolly-and-esuperjolly-electric-vans/",
+   "what": "What Van? 13 Jun 2025: Iveco eJolly/eSuperJolly based on Stellantis Pro One platforms; eSuperJolly deliveries Q1 2026, eJolly Q2 2026"
+  },
+  {
+   "url": "https://www.largus.fr/actualite-automobile/ds-7-2026-fin-de-production-pour-le-suv-premium-tricolore-40000135.html",
+   "what": "L'argus 29 Jul 2026: DS 7 production at Mulhouse has ended; sold from stock (~515 cars in France); DS N°7 successor built in Melfi"
+  },
+  {
+   "url": "https://www.automoto.it/news/ds-7-esce-di-scena-termina-la-produzione-del-suv-che-ha-lanciato-il-marchio-francese.html",
+   "what": "automoto.it: DS 7 production ended (2026)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/FCA_Giorgio_platform",
+   "what": "Wikipedia FCA Giorgio platform: lists Giulia, Stelvio, Grecale (2022–), GranTurismo, GranCabrio, Jeep Grand Cherokee (2022–) and Grand Cherokee L"
+  },
+  {
+   "url": "https://www.citroen.ch/de/modelle/new-ami.html",
+   "what": "citroen.ch Ami model page ('Neuen Citroën ami kaufen')"
+  },
+  {
+   "url": "https://www.fiat.ch/it/models/topolino",
+   "what": "fiat.ch Topolino model page"
+  },
+  {
+   "url": "https://inovev.com/index.php/en/market-analyses/category-blog/20270-2024-14-9",
+   "what": "Inovev (2024): Frontera 'shares most of its body with the recent Citroën C3 Aircross', same Smart Car platform, built together in Trnava, 5/7 seats, 4.39 m -> tier 1 confirmed"
+  },
+  {
+   "url": "https://inovev.com/index.php/en/market-analyses/category-blog/21534-2025-17-9?rCH=2",
+   "what": "Inovev (2025): Iveco e-Jolly = rebadged BEV Fiat Scudo (built Hordain), e-Super Jolly = rebadged BEV Fiat Ducato (Atessa/Gliwice), marketed from Q1 2026, electric only"
+  },
+  {
+   "url": "https://www.parkers.co.uk/alfa-romeo/junior/suv/review/",
+   "what": "Parkers: Junior uses the same underpinnings as Jeep Avenger / Fiat 600e / Mokka; no body-sharing statement"
+  },
+  {
+   "url": "https://www.automoto.it/news/nuova-fiat-qubo-l-mimensioni-motori-e-prezzi-aggiornati.html",
+   "what": "automoto.it 15 Feb 2026: Fiat Qubo L 5-seat 4,406 mm / 7-seat 4,756 mm, diesel 100/130, petrol 110, BEV 136 PS; deliveries from April 2026, configurator live, from under EUR 22,000"
+  },
+  {
+   "url": "https://www.carwow.de/leapmotor/b03x/technische-daten",
+   "what": "carwow.de: Leapmotor B03X 4,270 mm long, wheelbase 2,605 mm, EUR 25,400-29,900"
+  },
+  {
+   "url": "https://www.dsautomobiles.ch/fr/modeles/nouvelle-ds-7/offres.html",
+   "what": "dsautomobiles.ch DS 7 offers (valid 1-31 Oct 2026): BlueHDi 130 CHF 41,900, PHEV 225 CHF 45,200, PHEV 300 AWD CHF 49,800"
+  },
+  {
+   "url": "https://www.actu-automobile.com/?p=143802",
+   "what": "actu-automobile.com: 'Citroën C5 X : c'est déjà la fin pour la grande Citroën' - end of the C5 X (exclusion stands; not on citroen.ch)"
+  },
+  {
+   "url": "https://www.dsautomobiles.ch/de/modelle/neuer-ds-7.html",
+   "what": "dsautomobiles.ch still has DS 7 model pages (diesel, PHEV, Performance Line) - search index 22 Oct 2026"
+  },
+  {
+   "url": "https://www.volkswagen.ch/de/modelle.html",
+   "what": "VW Switzerland model overview (passenger + Vans), fetched 2026-10-22: Touareg listed, ID.5 and Touran absent, ID. Polo/ID. Cross/ID.3 Neo/ID. Tiguan 'Neuheit', Caddy California listed as own model"
+  },
+  {
+   "url": "https://www.volkswagen.de/de/modelle.html",
+   "what": "VW Germany model overview with prices, fetched 2026-10-22: ID.5 ab 43'360 EUR, ID. Tiguan ab 42'695 EUR 'Jetzt erhältlich', Touareg and Touran absent"
+  },
+  {
+   "url": "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+   "what": "VW Nutzfahrzeuge Germany model overview with prices, fetched 2026-10-22: Caravelle/e-Caravelle, Transporter/e-Transporter, Caddy Cargo, ID. Buzz Cargo, Crafter (no e-Crafter), Amarok, Grand California"
+  },
+  {
+   "url": "https://www.skoda.ch/models/range",
+   "what": "Škoda Switzerland range page, fetched 2026-10-22: Peaq, Epiq, Enyaq, Elroq, Kodiaq, Karoq, Kamiq, Superb, Octavia, Scala, Fabia"
+  },
+  {
+   "url": "https://www.seat.ch/",
+   "what": "SEAT Switzerland, fetched 2026-10-22: Ibiza/Arona/Leon/Leon ST configurable; Ateca 'Offerte anfragen' only (no configurator)"
+  },
+  {
+   "url": "https://www.cupraofficial.ch/",
+   "what": "Cupra Switzerland, fetched 2026-10-22: Raval, Born, Tavascan, Leon, Leon ST, Formentor, Terramar priced; Ateca 'Lagerfahrzeuge' only; Tindaya = showcar"
+  },
+  {
+   "url": "https://www.porsche.com/swiss/de/",
+   "what": "Porsche Switzerland, fetched 2026-10-22: 911 (Benzin), 718 'Modell aktuell nicht bestellbar', Taycan (Elektro), Panamera (Hybrid/Benzin), Macan (Elektro), Cayenne (Elektro/Hybrid/Benzin)"
+  },
+  {
+   "url": "https://www.bentleymotors.com/en/models.html",
+   "what": "Bentley models page, fetched 2026-10-22: Continental GT/GTC, Flying Spur, Bentayga/EWB with Configure; Torcal 'Explore' only (EU figures pending type approval); Supersports pre-production"
+  },
+  {
+   "url": "https://www.audi.co.uk/uk/web/en/models.html",
+   "what": "Audi UK models page (2026-10-22): A1, A2 e-tron, A3, A5, A6, A6 e-tron, Q2, Q3, Q4 e-tron, Q5, Q6 e-tron, Q7, Q8, Q9, e-tron GT, Nuvolari listed; A7, A8, Q8 e-tron, TT, R8 absent"
+  },
+  {
+   "url": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q2",
+   "what": "audi.ch new-car search Q2 (2026-10-22): 12 new Q2 + 3 SQ2 in stock, no configurator; model filter lists A1, A2 e-tron, Q7, Q9, Nuvolari but no A8"
+  },
+  {
+   "url": "https://www.autoscout24.at/informieren/news/audi-q9-2026-preis-masse-diesel-siebensitzer/",
+   "what": "AutoScout24.at 2026-07-29: Audi Q9 5,310 mm, PPC, 3.0 TDI MHEV plus only in Europe, from 108'400 EUR"
+  },
+  {
+   "url": "https://www.drweb.de/audi-q9-diesel-flaggschiff-marktstart/",
+   "what": "drweb.de (2026-07-31, updated 2026-10-22): Q9 orders open end of July 2026, deliveries from November 2026"
+  },
+  {
+   "url": "https://www.autoscout24.de/informieren/news/audi-q7-2026-vorstellung/",
+   "what": "AutoScout24.de 2026-06-10: Q7 III orders open June 2026 (from 87'900 EUR), launch September 2026, diesel MHEV plus only at launch"
+  },
+  {
+   "url": "https://www.meinauto.de/news/2026/06/neuer-audi-q7-nach-elf-jahren-dritte-generation-startet-mit-v6-diesel",
+   "what": "meinauto.de 2026-06-09: Q7 III length 5.06 m; petrol V6 and PHEV around the turn of 2026/27"
+  },
+  {
+   "url": "https://www.autoscout24.at/informieren/news/audi-a8-produktionsende-2026/",
+   "what": "AutoScout24.at 2026-03-04: A8 EU order stop 2026-02-18, worldwide withdrawal H2 2026, successor not before 2028/29"
+  },
+  {
+   "url": "https://www.wardsauto.com/news/torcal-ev-arrives-as-one-of-bentleys-lowest-cost-models/831232/",
+   "what": "WardsAuto 2026-09-25: Bentley Torcal from 218'000 USD, 197 in (≈5,004 mm), no order/delivery dates -> stays announced"
+  },
+  {
+   "url": "https://www.auto123.com/en/news/porsche-discontinues-ice-boxster-cayman/73156",
+   "what": "Auto123 2025-09-03: combustion 718 order books closed worldwide; Europe suspended since early 2024; EV successor not yet orderable -> 718 correctly excluded"
+  },
+  {
+   "url": "https://www.elektroquatsch.de/artikel/audi-a2-e-tron-fast-ungetarnt-bis-649-km-wltp-einstieg-38200-euro",
+   "what": "elektroquatsch 2026-07-22: A2 e-tron on MEB, Ingolstadt, from 38'200 EUR, market launch autumn 2026"
+  },
+  {
+   "url": "https://www.autoscout24.de/informieren/news/skoda-peaq-2026-preis-reichweite-daten-elektro-suv/",
+   "what": "AutoScout24.de 2026-06-24: Škoda Peaq MEB+, 4.87 m, wheelbase 2,965 mm, 5/7 seats, from 49'900 EUR, flagship above Enyaq"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cupra_Born",
+   "what": "Cupra Born: MEB, Zwickau with ID.3, 4,322 mm, 2,765 mm wheelbase, facelift March 2026"
+  },
+  {
+   "url": "https://www.carscoops.com/2021/05/electric-cupra-born-hot-hatch-is-a-vw-id-3-with-added-latin-sizzle/",
+   "what": "Carscoops 2021-05: Born 'basic body structure is shared with the ID.3 … even the doors are the same' -> tier 1 confirmed"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cupra_Raval",
+   "what": "Cupra Raval: MEB Entry platform shared with Škoda Epiq and VW ID. Polo, 4,046 mm, 2,600 mm wheelbase, Martorell"
+  },
+  {
+   "url": "https://www.topgear.com/car-reviews/cupra/raval",
+   "what": "Top Gear review: Raval and ID. Polo share MEB+ 'bones', built in Martorell, UK prices 26'930–36'245 GBP"
+  },
+  {
+   "url": "https://www.man.eu/ch/de/transporter/man-tge/modelluebersicht/man-tge-modelluebersicht.html",
+   "what": "MAN Switzerland TGE model overview (2026-10-22): body styles, '10 Jahre MAN TGE', no eTGE offered"
+  },
+  {
+   "url": "https://ecomento.de/2024/03/22/vwn-neuer-elektro-crafter-erst-ab-2028/",
+   "what": "ecomento 2024-03-22 (title): VWN's next electric Crafter only from 2028"
+  },
+  {
+   "url": "https://www.amag.ch/en/find-vehicle/body-type/pickup.html",
+   "what": "AMAG Switzerland pickup page: Amarok Dark Label/Aventura/Canyon as new/stock/used vehicles"
+  },
+  {
+   "url": "https://amag.ch/en/promotion/vwnf/elektriker-sanitaer.html",
+   "what": "AMAG Switzerland VW Nutzfahrzeuge trade page: Caddy Cargo, Transporter, ID. Buzz Cargo, Crafter 35/50/55, Amarok"
+  },
+  {
+   "url": "https://www.autoscout24.ch/en/d/vw-caravelle-20-tdi-life-aut8-20598495",
+   "what": "autoscout24.ch: AMAG Zug lists a 07/2026 Caravelle 2.0 TDI Life demo car (new-generation Caravelle sold in CH)"
+  },
+  {
+   "url": "https://www.bentleymedia.com/en/newsitem/1517-bentley-zurich-celebrates-centenary-with-a-mulliner-anniversary-collection",
+   "what": "Bentley Media: Bentley Zurich official dealer (Swiss availability of Bentley models)"
+  },
+  {
+   "url": "https://media.lamborghini.com/english/corporate/automobili-lamborghini-officially-opens-lamborghini-z-rich/s/f7226e99-643f-4057-b212-7e38a936a1c9",
+   "what": "Lamborghini Media: official opening of Lamborghini Zürich (Swiss availability of Lamborghini models)"
+  }
+ ]
+}

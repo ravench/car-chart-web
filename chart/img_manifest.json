@@ -7,6 +7,14 @@
 "sw": 569,
 "sh": 263
 },
+"abarth-600e": {
+"front": "img/abarth-600e-front.webp",
+"fw": 589,
+"fh": 441,
+"side": "img/abarth-600e-side.webp",
+"sw": 800,
+"sh": 308
+},
 "aixam-city": {
 "side": "img/aixam-city-side.webp",
 "sw": 800,
@@ -866,10 +874,34 @@
 "sw": 750,
 "sh": 271
 },
+"ebro-s400": {
+"front": "img/ebro-s400-front.webp",
+"fw": 800,
+"fh": 687,
+"side": "img/ebro-s400-side.webp",
+"sw": 800,
+"sh": 371
+},
+"ebro-s700": {
+"front": "img/ebro-s700-front.webp",
+"fw": 800,
+"fh": 702,
+"side": "img/ebro-s700-side.webp",
+"sw": 800,
+"sh": 333
+},
 "ebro-s800": {
 "side": "img/ebro-s800-side.webp",
 "sw": 800,
 "sh": 299
+},
+"ebro-s900": {
+"front": "img/ebro-s900-front.webp",
+"fw": 800,
+"fh": 659,
+"side": "img/ebro-s900-side.webp",
+"sw": 800,
+"sh": 324
 },
 "ferrari-12cilindri": {
 "front": "img/ferrari-12cilindri-front.webp",
@@ -1406,6 +1438,11 @@
 "side": "img/isuzu-d-max-side.webp",
 "sw": 800,
 "sh": 303
+},
+"iveco-esuperjolly": {
+"side": "img/iveco-esuperjolly-side.webp",
+"sw": 800,
+"sh": 329
 },
 "jaecoo-jaecoo-5": {
 "front": "img/jaecoo-jaecoo-5-front.webp",
@@ -2522,7 +2559,10 @@
 "nissan-primastar-kombi": {
 "front": "img/nissan-primastar-kombi-front.webp",
 "fw": 800,
-"fh": 537
+"fh": 537,
+"side": "img/nissan-primastar-kombi-side.webp",
+"sw": 800,
+"sh": 313
 },
 "nissan-primastar-van-mid": {
 "front": "img/nissan-primastar-van-mid-front.webp",
@@ -2642,6 +2682,11 @@
 "side": "img/opel-movano-side.webp",
 "sw": 576,
 "sh": 250
+},
+"opel-rocks": {
+"side": "img/opel-rocks-side.webp",
+"sw": 319,
+"sh": 198
 },
 "opel-vivaro": {
 "front": "img/opel-vivaro-front.webp",
@@ -2959,7 +3004,10 @@
 "renault-trucks-master": {
 "front": "img/renault-trucks-master-front.webp",
 "fw": 579,
-"fh": 639
+"fh": 639,
+"side": "img/renault-trucks-master-side.webp",
+"sw": 800,
+"sh": 363
 },
 "renault-trucks-trafic": {
 "front": "img/renault-trucks-trafic-front.webp",
@@ -3482,6 +3530,11 @@
 "side": "img/volkswagen-caravelle-side.webp",
 "sw": 796,
 "sh": 340
+},
+"volkswagen-crafter": {
+"side": "img/volkswagen-crafter-side.webp",
+"sw": 800,
+"sh": 360
 },
 "volkswagen-golf": {
 "front": "img/volkswagen-golf-front.webp",

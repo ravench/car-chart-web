@@ -79,6 +79,59 @@
   "genesis g90|e-car": {
    "status": "runout",
    "status_note": "Genesis Europe sells the G90 by consultation only: genesis.com/ch lists it without price or configurator (Oct 2026) and electrive reported in January 2025 that it would be offered only until mid-2025. Treated as run-out."
+  },
+  "volkswagen caravelle|mpv-large": {
+   "platform": "Ford V710 (2nd-gen Transit Custom, 2023; Ford publishes no platform name)",
+   "generation": "7th generation (2024–; Ford-built; VW calls it the seventh generation, not officially T7)",
+   "twin_note": "Rebadged Ford Tourneo Custom, built by Ford Otosan in Kocaeli (TR). Ford program code V710; neither Ford nor VW publishes a platform name (Wikipedia’s “Ford Pro platform” is not an official name).",
+   "_verify_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(2024)",
+    "https://www.vw.co.za/en/volkswagen-experience/newsroom/iaa-transportation-2024-world-premiere-of-new-transporter.html",
+    "https://carshow360.net/en/ford/transit-custom/ii-v710-limited-h1-300l2-ii-v710-12064"
+   ]
+  },
+  "volkswagen transporter|van-mid": {
+   "platform": "Ford V710 (2nd-gen Transit Custom, 2023; Ford publishes no platform name)",
+   "generation": "7th generation (2024–; Ford-built; VW calls it the seventh generation, not officially T7)",
+   "twin_note": "Rebadged Ford Transit Custom, built by Ford Otosan in Kocaeli (TR), Ford–VW alliance. Ford program code V710; neither Ford nor VW publishes a platform name. The MQB-based Multivan T7 is NOT related.",
+   "_verify_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(2024)",
+    "https://www.vw.co.za/en/volkswagen-experience/newsroom/iaa-transportation-2024-world-premiere-of-new-transporter.html",
+    "https://carshow360.net/en/ford/transit-custom/ii-v710-limited-h1-300l2-ii-v710-12064"
+   ]
+  },
+  "ford tourneo custom|mpv-large": {
+   "platform": "Ford V710 (2nd-gen Transit Custom, 2023; Ford publishes no platform name)",
+   "twin_note": "The seventh-generation VW Caravelle (2024) is the rebadged Tourneo Custom; Ford program code V710.",
+   "_verify_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(2024)",
+    "https://www.vw.co.za/en/volkswagen-experience/newsroom/iaa-transportation-2024-world-premiere-of-new-transporter.html",
+    "https://carshow360.net/en/ford/transit-custom/ii-v710-limited-h1-300l2-ii-v710-12064"
+   ]
+  },
+  "ford transit custom|van-mid": {
+   "platform": "Ford V710 (2nd-gen Transit Custom, 2023; Ford publishes no platform name)",
+   "twin_note": "The seventh-generation VW Transporter (2024) is the rebadged Transit Custom (both built by Ford Otosan, Kocaeli); Ford program code V710.",
+   "_verify_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(2024)",
+    "https://www.vw.co.za/en/volkswagen-experience/newsroom/iaa-transportation-2024-world-premiere-of-new-transporter.html",
+    "https://carshow360.net/en/ford/transit-custom/ii-v710-limited-h1-300l2-ii-v710-12064"
+   ]
+  },
+  "dr dr 7|d-suv": {
+   "display": "DR 8",
+   "other_names": [
+    "DR 7 (name on the January–September 2026 price lists)",
+    "DR 7.0 (previous generation name)"
+   ],
+   "generation": "II (2026–; launched as DR 7 in January 2026, listed as DR 8 Collection on drautomobiles.com since October 2026; ex DR 7.0)",
+   "status_note": "Italy: official 2026 price list (2026-01-07) - 1.6 T-GDI 146 CV DCT EUR 32,900 'chiavi in mano', petrol/LPG 34,900 (al Volante); September 2026 list: Collection 34,900 / bi-fuel 36,900. October 2026: drautomobiles.com lists the same car (4720 x 1860 x 1705 mm, wheelbase 2710, 1.6 T-GDI 146 CV, 7 seats, EUR 34,900 / 36,900) as 'DR 8 Collection' and no longer lists a DR 7; alvolante.it still carries it as DR 7. Treated as a rename (not confirmed by a press release).",
+   "_verify_sources": [
+    "https://drautomobiles.com/dr-8-collection/",
+    "https://drautomobiles.com/",
+    "https://www.alvolante.it/listino_auto/dr-7",
+    "https://www.auto.it/marche/dr-motor-drm/modelli/dr-8-3631"
+   ]
   }
  },
  "exclude": [
