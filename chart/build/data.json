@@ -2215,12 +2215,11 @@
    "powertrains": [
     "BEV"
    ],
-   "status": "on_sale",
-   "status_note": "Italy, September 2026 price list: DR 1.0 EV 61 CV / 31 kWh / 210 km WLTP, EUR 18,900 (il Giornale Digitale, updated 2026-09-10).",
+   "status": "runout",
+   "status_note": "drautomobiles.com no longer lists the DR 1.0 (menu, pages API and sitemap show DR 3, 5, 6, 8 and PK8 only; the site's last DR 1.0 uploads date from spring 2026, checked 2026-11-01), so it is treated as run-out stock. Italy, September 2026 third-party price list: DR 1.0 EV 61 CV / 31 kWh / 210 km WLTP, EUR 18,900 (il Giornale Digitale, updated 2026-09-10).",
    "status_sources": [
-    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
-    "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
-    "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+    "https://drautomobiles.com/",
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html"
    ],
    "twin_tier": null,
    "twin_members": [],
@@ -11457,21 +11456,24 @@
    "model": "Wey 03",
    "display": "Wey 03",
    "other_names": [
-    "Wey Latte / Wey Lanshan (China)"
+    "Wey Coffee 02 (DE, 2023–24)",
+    "Wey Latte (China)"
    ],
    "ch_on_sale": false,
    "ch_source": null,
    "row": "c-suv",
    "body": "SUV",
    "generation": "I (2023–)",
-   "length_mm": 4520,
+   "length_mm": 4668,
    "platform": "GWM L.E.M.O.N.",
    "powertrains": [
     "PHEV"
    ],
    "status": "runout",
-   "status_note": "Offered in Germany (GWM leasing listings, Oct 2026)",
+   "status_note": "gwm-motor.de lists the WEY 03 as 'Auslaufmodell' (run-out) on 2026-11-01; length 4,668 mm, wheelbase 2,745 mm per the technical-data page (the chart had 4,520 mm, the Macchiato's length, and a wrong 'Lanshan' alias). Offered in Germany (GWM leasing listings, Oct 2026).",
    "status_sources": [
+    "https://www.gwm-motor.de/technische-daten-wey-03",
+    "https://www.gwm-motor.de/wey-03",
     "https://www.goleasy.de/leasing/marken/gwm"
    ],
    "twin_tier": null,
@@ -11494,7 +11496,8 @@
    "key": "wey wey 03|c-suv",
    "agents": [
     "china-other"
-   ]
+   ],
+   "length_note": "4,668 mm (gwm-motor.de technical data, 2026-11-01)"
   },
   {
    "brand": "Haval",
@@ -15240,14 +15243,16 @@
    "row": "d-suv",
    "body": "SUV",
    "generation": "I (2022–)",
-   "length_mm": 4871,
+   "length_mm": 4870,
    "platform": "GWM L.E.M.O.N.",
    "powertrains": [
     "PHEV"
    ],
-   "status": "on_sale",
-   "status_note": "Germany: new-car offers from EUR 55,499 with configurator on carwow.de (Oct 2026); 2.0 PHEV 4WD. GWM's Aug 2026 German line-up articles do not mention Wey - weak but current.",
+   "status": "runout",
+   "status_note": "gwm-motor.de lists the WEY 05 Plug-in Hybrid as 'Auslaufmodell' (run-out) on 2026-11-01; length 4,870 mm, wheelbase 2,910 mm per the technical-data page. Germany: new-car offers from EUR 55,499 with configurator on carwow.de (Oct 2026).",
    "status_sources": [
+    "https://www.gwm-motor.de/technische-daten-wey-05",
+    "https://www.gwm-motor.de/wey-05",
     "https://www.goleasy.de/leasing/marken/gwm"
    ],
    "twin_tier": null,
@@ -15266,7 +15271,8 @@
    "key": "wey wey 05|d-suv",
    "agents": [
     "china-other"
-   ]
+   ],
+   "length_note": "4,870 mm (gwm-motor.de technical data, 2026-11-01)"
   },
   {
    "brand": "Haval",

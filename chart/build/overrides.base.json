@@ -132,6 +132,46 @@
     "https://www.alvolante.it/listino_auto/dr-7",
     "https://www.auto.it/marche/dr-motor-drm/modelli/dr-8-3631"
    ]
+  },
+  "wey wey 03|c-suv": {
+   "length_mm": 4668,
+   "other_names": [
+    "Wey Coffee 02 (DE, 2023–24)",
+    "Wey Latte (China)"
+   ],
+   "status": "runout",
+   "status_note": "gwm-motor.de lists the WEY 03 as 'Auslaufmodell' (run-out) on 2026-11-01; length 4,668 mm, wheelbase 2,745 mm per the technical-data page (the chart had 4,520 mm, the Macchiato's length, and a wrong 'Lanshan' alias). Offered in Germany (GWM leasing listings, Oct 2026).",
+   "status_sources": [
+    "https://www.gwm-motor.de/technische-daten-wey-03",
+    "https://www.gwm-motor.de/wey-03",
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "length_note": "4,668 mm (gwm-motor.de technical data, 2026-11-01)",
+   "_verify_sources": [
+    "https://www.gwm-motor.de/technische-daten-wey-03"
+   ]
+  },
+  "wey wey 05|d-suv": {
+   "length_mm": 4870,
+   "status": "runout",
+   "status_note": "gwm-motor.de lists the WEY 05 Plug-in Hybrid as 'Auslaufmodell' (run-out) on 2026-11-01; length 4,870 mm, wheelbase 2,910 mm per the technical-data page. Germany: new-car offers from EUR 55,499 with configurator on carwow.de (Oct 2026).",
+   "status_sources": [
+    "https://www.gwm-motor.de/technische-daten-wey-05",
+    "https://www.gwm-motor.de/wey-05",
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "length_note": "4,870 mm (gwm-motor.de technical data, 2026-11-01)",
+   "_verify_sources": [
+    "https://www.gwm-motor.de/technische-daten-wey-05"
+   ]
+  },
+  "dr dr 1.0 ev|a-city": {
+   "status": "runout",
+   "status_note": "drautomobiles.com no longer lists the DR 1.0 (menu, pages API and sitemap show DR 3, 5, 6, 8 and PK8 only; the site's last DR 1.0 uploads date from spring 2026, checked 2026-11-01), so it is treated as run-out stock. Italy, September 2026 third-party price list: DR 1.0 EV 61 CV / 31 kWh / 210 km WLTP, EUR 18,900 (il Giornale Digitale, updated 2026-09-10).",
+   "status_sources": [
+    "https://drautomobiles.com/",
+    "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html"
+   ]
   }
  },
  "exclude": [

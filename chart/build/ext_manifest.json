@@ -146,13 +146,13 @@
  "byd-sealion-5": {
   "side": {
    "url": null,
-   "page": "https://www.byd.com/eu/hybrid-cars/sealion-5-dm-i",
+   "page": "https://www.byd.com/uk/hybrid-cars/sealion-5",
    "source": "manufacturer website (byd.com)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "dimension drawing (side view cropped from the three-view figure)",
+   "notes": "BYD's own cut-out side view (transparent, 2816 px) from the byd.com/uk Sealion 5 DM-i page (colour picker image 2 = side, Atlantis Blue); soft ground shadow removed; body checked against the byd.ch dimension drawing (European Sealion 5)",
    "angle": "side",
-   "src": "china/byd-sealion-5-side",
-   "treatment": "flood",
+   "src": "v115/H/byd-sealion-5-side-clean",
+   "treatment": "alpha",
    "mirrored": false,
    "harvested": true
   }
@@ -167,6 +167,18 @@
    "angle": "front",
    "src": "zig3/shark6-0-FullFrontViewofShark6",
    "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://www.byd.com/uk/hybrid-cars/shark",
+   "source": "manufacturer website (byd.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "BYD's own studio side view from the byd.com/uk Shark page (colour picker image 2 = side, Atlantis Blue, 2816 px), white background and soft shadow removed",
+   "angle": "side",
+   "src": "v115/H/byd-shark-side",
+   "treatment": "rembg+clean",
    "mirrored": false,
    "harvested": true
   }
@@ -261,6 +273,18 @@
    "angle": "front",
    "src": "ebro/dr-1-motor",
    "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://drautomobiles.com/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "DR's own 'ModelloCut' cut-out render of the DR 1.0 EV (drautomobiles.com media library, DR_ModelloCut_DR1.png, September 2023, 975 px, white car): true side view, own transparency used; the model page itself was removed from drautomobiles.com in spring 2026",
+   "angle": "side",
+   "src": "v115/I/dr-dr-1-0-ev-side-clean",
+   "treatment": "alpha",
    "mirrored": false,
    "harvested": true
   }
@@ -604,13 +628,25 @@
  "geely-starray-em-i": {
   "front": {
    "url": null,
-   "page": "https://www.zigwheels.ae/new-cars/geely/starray/images",
-   "source": "zigwheels.ae (third-party catalogue photo)",
-   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
-   "notes": "dark studio photo, background removed",
+   "page": "https://www.geely.de/",
+   "source": "manufacturer website (geely.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Geely's own 360-degree viewer render (geely.de, frame 00 = straight front), white studio background",
    "angle": "front",
-   "src": "zig2/starray-front",
-   "treatment": "rembg",
+   "src": "v115/B/starray-emi-f00-white",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://www.geely.de/",
+   "source": "manufacturer website (geely.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Geely's own 360-degree viewer render (geely.de, assets.geelyauto.eu frame 18 of 24 = exact side view, 2100 px) of the Starray EM-i in white on a white studio background",
+   "angle": "side",
+   "src": "v115/B/starray-emi-f18-white",
+   "treatment": "flood",
    "mirrored": false,
    "harvested": true
   }
@@ -1185,6 +1221,18 @@
    "treatment": "rembg",
    "mirrored": false,
    "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://configure.morgan-motor.com/plusfour/",
+   "source": "manufacturer website (configure.morgan-motor.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Morgan's own 3D configurator (configure.morgan-motor.com, Plus Four, manual, default dark blue), real-time render captured at 2380 px with the camera turned to a true side view (slightly elevated, so the seat tops show); grey studio background and floor shadow removed, mirrored to face left",
+   "angle": "side",
+   "src": "v115/N/morgan-plus-four-side-cfg",
+   "treatment": "rembg+clean",
+   "mirrored": true,
+   "harvested": true
   }
  },
  "morgan-supersport": {
@@ -1254,27 +1302,27 @@
   },
   "side": {
    "url": null,
-   "page": "https://www.nissan.de/fahrzeuge/neuwagen/primastar/kombi/technische-daten.html",
+   "page": "https://www.nissan.de/fahrzeuge/neuwagen/primastar/primastar-kombi.html",
    "source": "manufacturer website (nissan.de)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "dimension drawing of the Primastar Kombi (nissan.de technical data), true side view facing left, dimension lines overlaid, cropped to the vehicle, background removed",
+   "notes": "Nissan's own packshot of the Primastar Kombi L1 (nissan.de vehicle-page asset 'Primastar-combi_de.jpg', 600 px - small): true side view on white, mirrored to face left; replaces the v1.13 dimension drawing",
    "angle": "side",
-   "src": "v113/nissan-primastar-kombi-drawing",
+   "src": "v115/L/nissan-primastar-kombi-side-eutile",
    "treatment": "rembg+clean",
-   "mirrored": false,
+   "mirrored": true,
    "harvested": true
   }
  },
  "nissan-townstar-van-small": {
   "side": {
    "url": null,
-   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar.html",
-   "source": "manufacturer website (de.nissan.ch)",
-   "licence": "manufacturer copyright; editorial use",
-   "notes": "outline drawing (technical data page), mirrored",
+   "page": "https://europe.nissannews.com/",
+   "source": "manufacturer press site (europe.nissannews.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "Nissan Europe press photo from the 2021 Townstar reveal gallery (europe.nissannews.com, photo 6, public 928 px copy, van about 580 px): true side view of the white L1 van in a city scene, background removed, mirrored to face left; small source",
    "angle": "side",
-   "src": "nissan/nissan-townstar-van-small-side",
-   "treatment": "flood",
+   "src": "v115/K/nissan-townstar-van-small-side-37afe1",
+   "treatment": "rembg+clean",
    "mirrored": true,
    "harvested": true
   },
@@ -1294,14 +1342,14 @@
  "nissan-primastar-van-mid": {
   "side": {
    "url": null,
-   "page": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar/technische-daten.html",
-   "source": "manufacturer website (de.nissan.ch)",
+   "page": "https://www.nissan.de/fahrzeuge/neuwagen/primastar.html",
+   "source": "manufacturer website (nissan.de)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "dimension drawing (technical data page)",
+   "notes": "Nissan's own packshot of the Primastar panel van L1H1 (nissan.de vehicle-page asset 'Primastar fourgon.jpg', 600 px - small): true side view on white, mirrored to face left; replaces the v1.13 dimension drawing (a 2021 press photo of the van was the alternative)",
    "angle": "side",
-   "src": "nissan/nissan-primastar-van-mid-side",
-   "treatment": "flood",
-   "mirrored": false,
+   "src": "v115/L/bonus-nissan-primastar-van-mid-side-eutile",
+   "treatment": "rembg+clean",
+   "mirrored": true,
    "harvested": true
   },
   "front": {
@@ -1485,10 +1533,10 @@
    "page": "https://www.renault.ch/",
    "source": "manufacturer website (renault.ch)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "mirrored",
+   "notes": "Renault configurator cut-out (renault.ch), ground shadow removed, mirrored",
    "angle": "side",
-   "src": "misc2/renault-master-side-xl",
-   "treatment": "alpha",
+   "src": "misc2/renault-master-side-xl-white",
+   "treatment": "rembg+clean",
    "mirrored": true,
    "harvested": true
   }
@@ -1508,14 +1556,14 @@
   },
   "side": {
    "url": null,
-   "page": "https://www.renault-trucks.co.uk/sites/default/files/2025-04/SW425_RT_NEW_CATALOGUE_MASTER_2024_v3.%20%281%29_0.pdf",
-   "source": "manufacturer website (renault-trucks.co.uk)",
+   "page": "https://www.renault-trucks.com/en/renault-trucks-light-commercial-vehicules",
+   "source": "manufacturer website (renault-trucks.com)",
    "licence": "manufacturer copyright; editorial use",
-   "notes": "dimension line drawing of the Master L2H2 van from the Renault Trucks UK catalogue (Weights and dimensions, p. 40), dimension figures removed from the PDF, cropped to the vehicle, lines slightly thickened; faces left",
+   "notes": "Renault Trucks press photo 'Renault Trucks E-Tech Master (4)' (renault-trucks.com press set of November 2023, 5000 px, used at 3000 px): true side view of the grey E-Tech Master IV L3H2 panel van on white, mirrored to face left",
    "angle": "side",
-   "src": "v113/renault-trucks-master-drawing",
-   "treatment": "alpha",
-   "mirrored": false,
+   "src": "v115/G/renault-trucks-master-side",
+   "treatment": "rembg+clean",
+   "mirrored": true,
    "harvested": true
   }
  },
@@ -2111,6 +2159,18 @@
    "treatment": "rembg",
    "mirrored": false,
    "harvested": true
+  },
+  "side": {
+   "url": null,
+   "page": "https://casalini.eu/",
+   "source": "manufacturer website (casalini.eu)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Casalini's own studio photo of the 650 Starter in white (casalini.eu media library, CASALINI-starter-dx.jpg, September 2026, 2048 px): true side view, white background removed, mirrored to face left",
+   "angle": "side",
+   "src": "v115/J/casalini-650-side-starter-white",
+   "treatment": "rembg+clean",
+   "mirrored": true,
+   "harvested": true
   }
  },
  "aixam-easy": {
@@ -2447,6 +2507,354 @@
    "angle": "side",
    "src": "v114/ulysse-cfg-a4-clean",
    "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "voyah-dream": {
+  "side": {
+   "url": null,
+   "page": "https://www.voyah.com.cn/dreamer.html",
+   "source": "manufacturer website (voyah.com.cn)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Voyah's own photo from the Chinese Dreamer (= Dream) model page (voyah.com.cn, 3840 px, used at 2304 px): true side view in a dark architectural scene, background removed",
+   "angle": "side",
+   "src": "v115/B/voyah-dream-cn-side",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ligier-myli": {
+  "side": {
+   "url": null,
+   "page": "https://media.ligier.fr/",
+   "source": "manufacturer press site (media.ligier.fr)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "Ligier Group press photo '2023_Ligier_Myli_ADV-Photo_R.EBEL-Velvet-Green_Profile' (media.ligier.fr, 2560 px): studio side view of the Myli R.EBEL in Velvet Green, light-grey studio backdrop removed; the Myli LAB/MAX update of January 2026 changed trim details only",
+   "angle": "side",
+   "src": "v115/A/myli-profile-green",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ligier-pulse-4": {
+  "side": {
+   "url": null,
+   "page": "https://media.ligier.fr/",
+   "source": "manufacturer press site (media.ligier.fr)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "Ligier Group press photo 'Pulse-4-L3KS-Forgeon-Social-Profile-2' (media.ligier.fr, 2560 px): true side view of the Pulse 4 L3KS with the Forgeon box body, taken in front of a factory; background removed",
+   "angle": "side",
+   "src": "v115/A/pulse4-forgeon-profile",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "maxus-edeliver-3": {
+  "side": {
+   "url": null,
+   "page": "https://maxus.no/",
+   "source": "manufacturer website (maxus.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Maxus studio side view (transparent PNG, 1920 px) from the Norwegian importer site maxus.no (RSA), short-wheelbase eDeliver 3, white; the soft ground shadow removed",
+   "angle": "side",
+   "src": "v115/D/maxus-edeliver-3-side-clean",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "maxus-edeliver-7": {
+  "side": {
+   "url": null,
+   "page": "https://maxus.no/",
+   "source": "manufacturer website (maxus.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Maxus studio side view (transparent PNG, 1920 px) from the Norwegian importer site maxus.no (RSA), eDeliver 7 L1 body, white; the soft ground shadow removed",
+   "angle": "side",
+   "src": "v115/D/maxus-edeliver-7-side-clean",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "maxus-edeliver-9": {
+  "side": {
+   "url": null,
+   "page": "https://maxus.no/",
+   "source": "manufacturer website (maxus.no)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Maxus studio side view (transparent PNG, 1920 px) from the Norwegian importer site maxus.no (RSA), eDeliver 9 L2H2 body, silver; the soft ground shadow removed",
+   "angle": "side",
+   "src": "v115/D/maxus-edeliver-9-side-clean",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "lepas-l8": {
+  "side": {
+   "url": null,
+   "page": "https://www.lepasinternational.com/models/lepasl8/lepasl8phev/index.shtml",
+   "source": "manufacturer website (lepasinternational.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Lepas's own studio side view from the brand's international site (lepasinternational.com, 742 px - small), grey studio with floor reflection removed, mirrored to face left",
+   "angle": "side",
+   "src": "v115/B/lepas-l8-side",
+   "treatment": "rembg+clean",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "farizon-sv": {
+  "side": {
+   "url": null,
+   "page": "https://farizonauto.co.uk/our-range/sv-range/product-detail",
+   "source": "manufacturer website (farizonauto.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Farizon's own cut-out side view (transparent PNG, 4096 px, used at 2048 px) of the SV L1H1 from the UK importer site farizonauto.co.uk (Jameel Motors); soft ground shadow removed",
+   "angle": "side",
+   "src": "v115/B/farizon-sv-l1h1-side-clean",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "farizon-v7e": {
+  "side": {
+   "url": null,
+   "page": "https://farizonauto.co.uk/our-range/farizon-v7e",
+   "source": "manufacturer website (farizonauto.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Farizon's own cut-out side view (transparent PNG, 878 px) of the V7E from the UK configurator on farizonauto.co.uk (Jameel Motors); soft ground shadow removed",
+   "angle": "side",
+   "src": "v115/B/farizon-v7e-side-clean",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "byd-ti-7": {
+  "side": {
+   "url": null,
+   "page": "https://www.byd.com/uk/hybrid-cars/ti-7",
+   "source": "manufacturer website (byd.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "BYD's own studio photo from the byd.com/uk Ti 7 page ('three-part silhouette' section, 972 px wide, Jade Green, UK car with European badges): true side view, studio gradient background removed, mirrored to face left",
+   "angle": "side",
+   "src": "v115/H/byd-ti-7-side",
+   "treatment": "rembg+clean",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "maxus-mifa-7": {
+  "side": {
+   "url": null,
+   "page": "https://www.saicmaxus.com/car/mifa7.shtml",
+   "source": "manufacturer website (saicmaxus.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "SAIC Maxus's own cut-out side view (transparent PNG, 750 px - small) from the Chinese Maxus site (saicmaxus.com, Mifa 7 = 大家7, same body), own transparency used; wheels may differ from the European trim",
+   "angle": "side",
+   "src": "v115/G/maxus-mifa-7-side-clean",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "xpeng-l03": {
+  "side": {
+   "url": null,
+   "page": "https://store.xpeng.com/de/configurator/L03",
+   "source": "manufacturer website (store.xpeng.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "XPeng's own configurator render (store.xpeng.com/de L03 configurator, exterior view 2 of 3, transparent PNG 2048 px, car about 1640 px): true side view of the European L03 in white with a black roof, facing left; the opaque ground shadow of the render removed",
+   "angle": "side",
+   "src": "v115/F/xpeng-l03-side-cfg-white",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "xpeng-g9l": {
+  "side": {
+   "url": null,
+   "page": "https://store.xpeng.com/de/configurator/G9L",
+   "source": "manufacturer website (store.xpeng.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "XPeng's own configurator render (store.xpeng.com/de G9L configurator, exterior view 2 of 3, transparent PNG 2048 px, car about 1500 px): true side view in silver-white, facing left; the opaque ground shadow of the render removed",
+   "angle": "side",
+   "src": "v115/F/xpeng-g9l-side-cfg-white",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "denza-z9-gt": {
+  "side": {
+   "url": null,
+   "page": "https://www.denza.com/de/z9gt",
+   "source": "manufacturer website (denza.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Denza's own studio picture from the European Z9 GT page (denza.com/de, 'eu-model-introduction' exterior image 2, 2400 px): near-true side view in teal, facing left; light-grey studio background and floor reflection removed",
+   "angle": "side",
+   "src": "v115/F/denza-z9-gt-side-studio",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "denza-d9": {
+  "side": {
+   "url": null,
+   "page": "https://www.denza.com/de/d9",
+   "source": "manufacturer website (denza.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Denza's own studio picture from the European D9 page (denza.com/de, exterior image 2, 2400 px): side view of the European D9 in dark blue, facing left, studio gradient background removed; the camera sits a few degrees towards the front, so the edge of the grille shows (near-side view)",
+   "angle": "side",
+   "src": "v115/F/denza-d9-side",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.denza.com/de/d9",
+   "source": "manufacturer website (denza.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Denza's own studio front view from the same European D9 page (exterior image 1), background removed",
+   "angle": "front",
+   "src": "v115/F/denza-d9-front-eu",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "chatenet-ch46": {
+  "side": {
+   "url": null,
+   "page": "https://www.automoto.it/catalogo/chatenet/ch46",
+   "source": "automoto.it (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / automoto.it; third-party placeholder",
+   "notes": "third-party catalogue photo (automoto.it CH46 listing of 2019, 2000 px, soft/upscaled): true side view in white with a black roof, facing left, grey studio background removed; the body is the current CH46 shell (Chatenet's own site has only lifestyle and three-quarter pictures) - placeholder until a brand-own side view is found",
+   "angle": "side",
+   "src": "v115/J/chatenet-ch46-side-automoto2019",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "wey-wey-03": {
+  "side": {
+   "url": null,
+   "page": "https://presse.gwm-motor.de/",
+   "source": "manufacturer press site (presse.gwm-motor.de)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "GWM Germany press photo 'GWM-WEY-03_-66' (presse.gwm-motor.de, June 2024 set, 2560 px, used at 1536 px): true side view of the white Wey 03 on a lake shore, facing left, background removed",
+   "angle": "side",
+   "src": "v115/K/wey-wey-03-side-press66",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mhero-mhero-i": {
+  "side": {
+   "url": null,
+   "page": "https://www.zigwheels.ae/newcars/Mhero/1",
+   "source": "zigwheels.ae (third-party catalogue photo)",
+   "licence": "copyright of the manufacturer / zigwheels; third-party placeholder",
+   "notes": "third-party catalogue photo (zigwheels.ae, 'Side View (Left)', 930 px): true side view of a black Mhero I in a dark architectural scene, facing left, background removed; UAE listing of the same body as the European electric car - placeholder until a brand-own side view is found",
+   "angle": "side",
+   "src": "v115/K/mhero-mhero-i-side-zigwheels",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mitsubishi-l200": {
+  "side": {
+   "url": null,
+   "page": "https://www.mitsubishi-motors.com.au/vehicles/triton.html",
+   "source": "manufacturer website (mitsubishi-motors.com.au)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Mitsubishi Australia's own configurator render of the Triton (= L200, same sixth-generation body) in Impulse Blue (mitsubishi-motors.com.au, transparent PNG 1920 px): true side view, mirrored to face left, soft ground shadow removed; it shows the Club Cab body (shorter cab, longer tub) because no Double Cab pick-up side render was found - the European Double Cab shares the nose, wheelbase and overall length",
+   "angle": "side",
+   "src": "v115/I/mitsubishi-l200-side-clubcab-clean",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "iveco-daily": {
+  "side": {
+   "url": null,
+   "page": "https://www.iveco.com/uk/",
+   "source": "manufacturer website (iveco.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Iveco UK's own profile render 'eDaily_cab_MY24_profilo_SW_LHD' (iveco.com/uk eDaily page, 1048 px, vehicle about 890 px): near-true side view of the MY24 eDaily single chassis cab with a dropside body, facing left, white background removed; no side view of the Daily van exists on Iveco's sites, so the cab (shared with the diesel Daily) stands in for the family - placeholder",
+   "angle": "side",
+   "src": "v115/G/iveco-daily-side-edaily-cab",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "maxus-t90-ev": {
+  "side": {
+   "url": null,
+   "page": "https://www.saicmaxus.com/car/t90ev.shtml",
+   "source": "manufacturer website (saicmaxus.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "SAIC Maxus's own cut-out side view (transparent PNG, 750 px, truck about 610 px - small) from the Chinese T90 EV model page (saicmaxus.com/car/t90ev.shtml, sold there as the Xingji EV; same T90 body as the European T90 EV and the LDV eT60): true side view of the white double cab facing left, the opaque ground shadow of the render removed",
+   "angle": "side",
+   "src": "v115/M/maxus-t90-ev-side-cn-white",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "ligier-js60": {
+  "side": {
+   "url": null,
+   "page": "https://media.ligier.fr/communique-de-presse/nouvelle-ligier-js60-la-ligier-qui-voit-plus-grand/",
+   "source": "manufacturer press site (media.ligier.fr)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "Ligier Group press photo 'NOUVELLE-JS60-ULTIMATE-89' (media.ligier.fr, September 2026 shoot of the new JS60 Ultimate in blue, 2560 px): near-true side view in a courtyard, facing left, background removed",
+   "angle": "side",
+   "src": "v115/L/ligier-js60-side-press89",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "wey-wey-05": {
+  "side": {
+   "url": null,
+   "page": "https://www.wey.com/mocca.html",
+   "source": "manufacturer website (wey.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "Wey's own cut-out render of the Chinese New Mocha Hi4 (2026 model year, black; wey.com model carousel, 1948 px): true side view facing left, ground shadow removed; the Mocha is the Chinese name of the Wey 05 / Coffee 01 and shares its body shell (4,875 mm against 4,871 mm), but bumpers and wheels of the European car differ - GWM's European sites have no side view of the Wey 05",
+   "angle": "side",
+   "src": "v115/L/wey-wey-05-side-mocha26-white",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "smart-2": {
+  "side": {
+   "url": null,
+   "page": "https://de.smart.com/de/models/hashtag-two/",
+   "source": "manufacturer website (de.smart.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "smart's own early-order banner of the production #2 in red (de.smart.com #2 page, 4096 px original used at 2048 px): near-true side view (slight wide-angle lens) in a red studio set, facing left, background removed",
+   "angle": "side",
+   "src": "v115/L/smart-2-side-earlyorder",
+   "treatment": "rembg+clean",
    "mirrored": false,
    "harvested": true
   }

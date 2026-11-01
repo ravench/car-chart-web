@@ -1,0 +1,1051 @@
+[
+ {
+  "id": "ligier-js50",
+  "brand": "Ligier",
+  "group": "Ligier Group",
+  "model": "JS50",
+  "display": "JS50",
+  "other_names": [],
+  "row": "quadricycle",
+  "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback; electric version also as L7e (75 km/h, B1 licence)",
+  "generation": "'Nouvelle JS50' (orders from Mondial 2024, first deliveries Nov 2024)",
+  "length_mm": 2972,
+  "platform": "Ligier JS50/JS60 base (shared platform inferred; JS50 wheelbase 1,828 mm per quecochemecompro)",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "ligier.fr: JS50 Select/Élite/Ultimate €14,999–18,999, diesel REVO D+ (499.8 cc) or electric 11.04 kWh (159–164 km WMTC); JS50 75 km/h L7e electric €15,999 (ligier.fr/voitures-permis-b1/). ligier.de: from €15,199. caroom guide (26 Oct 2026) lists it.",
+  "status_sources": [
+   "https://www.ligier.fr/vehicules/js50/",
+   "https://www.ligier.fr/voitures-permis-b1/",
+   "https://www.ligier.de/fahrzeug/js50/",
+   "https://media.ligier.fr/app/uploads/2024/11/Mondial-2024-Dossier-de-presse-FR.pdf",
+   "https://www.caroom.fr/guide/voiture-neuve/voiture-sans-permis"
+  ],
+  "ch_source": null,
+  "twin_tier": 2,
+  "current_picture": "none"
+ },
+ {
+  "id": "ligier-js60",
+  "brand": "Ligier",
+  "group": "Ligier Group",
+  "model": "JS60",
+  "display": "JS60",
+  "other_names": [],
+  "row": "quadricycle",
+  "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), crossover-styled hatchback; electric version also as L7e (75 km/h, B1 licence)",
+  "generation": "'Nouvelle JS60' (press release 23 Sep 2026)",
+  "length_mm": 2998,
+  "platform": "Ligier JS50/JS60 base (shared platform inferred; 'châssis aluminium monobloc' per press release)",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Press release 23 Sep 2026: Select/Elite/Ultimate, diesel from €16,499, electric (11.04 kWh, 164 km WMTC) from €16,999, L7e 75 km/h electric €16,999; built in Abrest. Listed with prices on ligier.fr and ligier.de; caroom guide (26 Oct 2026) lists it.",
+  "status_sources": [
+   "https://media.ligier.fr/communique-de-presse/nouvelle-ligier-js60-la-ligier-qui-voit-plus-grand/",
+   "https://www.ligier.fr/vehicules/js60/",
+   "https://www.ligier.fr/voitures-permis-b1/",
+   "https://www.ligier.de/fahrzeug/js60/"
+  ],
+  "ch_source": null,
+  "twin_tier": 2,
+  "current_picture": "none"
+ },
+ {
+  "id": "ligier-myli",
+  "brand": "Ligier",
+  "group": "Ligier Group",
+  "model": "Myli",
+  "display": "Myli",
+  "other_names": [
+   "Myli LAB",
+   "Myli MAX"
+  ],
+  "row": "quadricycle",
+  "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback; Myli MAX electric also as L7e (75 km/h, B1 licence)",
+  "generation": "I (2023–), revised Jan 2026 as Myli LAB and Myli MAX",
+  "length_mm": 2958,
+  "platform": "Ligier Myli all-aluminium chassis, designed as an EV (wheelbase 1,830 mm per quecochemecompro)",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Press release 13 Jan 2026: Myli LAB diesel €12,499 (Feb 2026) and electric 6 kWh €10,999 (Q2 2026); Myli MAX diesel €13,999, electric 6 kWh €13,999 (Q2 2026), electric 11.04 kWh €14,999 (L6e) and 75 km/h L7e €14,999. ligier.fr lists Myli LAB (diesel) and Myli MAX (diesel/electric) as separate model pages; ligier.de: Myli LAB €12,499, Myli MAX €14,999.",
+  "status_sources": [
+   "https://media.ligier.fr/communique-de-presse/ligier-fait-evoluer-myli-encore-plus-accessible-plus-expressive-et-plus-polyvalente-que-jamais/",
+   "https://www.ligier.fr/vehicules/myli-lab/",
+   "https://www.ligier.fr/vehicules/myli-max/",
+   "https://www.ligier.de/fahrzeug/myli-max/"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "ligier-pulse-4",
+  "brand": "Ligier",
+  "group": "Ligier Group",
+  "model": "Pulse 4",
+  "display": "Pulse 4",
+  "other_names": [
+   "Ligier Professional Pulse 4"
+  ],
+  "row": "quadricycle",
+  "body": "Electric utility quadricycle: short body L6e (2,600 mm), long body L7e (3,356 mm); box with roller shutters, drop-side or tipping flatbed",
+  "generation": "I (2023–)",
+  "length_mm": 3356,
+  "platform": "Ligier Professional Pulse (electric utility)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "ligier-professional.fr lists Pulse 4 (court/long; caisson, plateau 3 ridelles, plateau basculant…), 2 × 5.51 kWh, up to 161 km; price on quote; configurable at store.ligier.fr. Pulse 3 (3 wheels) and Pulse 2 (cargo bike) are out of scope.",
+  "status_sources": [
+   "https://www.ligier-professional.fr/product/pulse-4/",
+   "https://store.ligier.fr/configure?model_id=Pulse4",
+   "https://www.ligier-professional.fr"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "chatenet-ch46",
+  "brand": "Chatenet",
+  "group": "Chatenet",
+  "model": "CH46",
+  "display": "CH46",
+  "other_names": [
+   "CH46 K (diesel: K Series, K SL, K Sportline RR)",
+   "CH46e (electric: SL, Sportline RR)"
+  ],
+  "row": "quadricycle",
+  "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback",
+  "generation": null,
+  "length_mm": 2977,
+  "platform": "Chatenet CH46",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "automobiles-chatenet.com lists CH46 K Series, K SL, K Sportline RR (Kubota Z482 diesel, 480 cc, 6 kW, Euro 5+; new engine news dated 07.05.2026) and CH46e SL / Sportline RR (9.4 kWh LiFePO4, Valeo 48 V 6 kW, 120 km WMTC). No prices on the site. caroom guide (26 Oct 2026) lists CH46 K and CH46e as available new in FR; French multi-brand dealers present themselves as Chatenet distributors (Moderne Auto; APH 'distributeur Casalini et Chatenet').",
+  "status_sources": [
+   "https://www.automobiles-chatenet.com/ch46-k-series.html",
+   "https://www.automobiles-chatenet.com/ch46e-sl-electrique.html",
+   "https://www.automobiles-chatenet.com/details-de-lactualite/NOUVELLE-MOTORISATION.html",
+   "https://www.caroom.fr/guide/voiture-neuve/voiture-sans-permis"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "casalini-650",
+  "brand": "Casalini",
+  "group": "Casalini",
+  "model": "650",
+  "display": "650",
+  "other_names": [
+   "M20 650 (Austrian importer listing)",
+   "Casalini 650 Starter / Xtreme / Sportiva"
+  ],
+  "row": "quadricycle",
+  "body": "2-seat licence-free light quadricycle (L6e, 45 km/h), hatchback; Xtreme = SUV-styled version",
+  "generation": "I (2026–)",
+  "length_mm": null,
+  "platform": "Casalini 650",
+  "powertrains": [
+   "diesel"
+  ],
+  "status": "on_sale",
+  "status_note": "casalini.eu (uploads Sept/Oct 2026) presents only the 'Gamma 650' (Starter, Xtreme, Sportiva) with a Kubota twin-cylinder and in-house SCR + DPF; French dealers list it new from €18,900 (Sportiva shown at €21,900), Kubota Euro 5+ diesel, from June 2026; the Austrian general importer M+B Riedhart lists 'M20 650 Sportiva' (€24,580) and 'M20 650 Modell' (€21,590), model year 2026. caroom guide (26 Oct 2026) lists the 650 range in FR.",
+  "status_sources": [
+   "https://www.casalini.eu/",
+   "https://www.annonces-automobile.com/d/6038252",
+   "https://www.autoscout24.at/haendler/m-b-riedhart-casalini-generalimporteur-austria/fahrzeuge?atype=C",
+   "https://www.caroom.fr/guide/voiture-neuve/voiture-sans-permis"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "smart-2",
+  "brand": "smart",
+  "group": "Mercedes-Benz Group",
+  "model": "#2",
+  "display": "#2",
+  "other_names": [],
+  "row": "a-city",
+  "body": "two-seat electric city car (fortwo successor)",
+  "generation": "2026– (production start 2026, European deliveries 2027)",
+  "length_mm": 2790,
+  "platform": "ECA (Electric Compact Architecture)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Binding orders open since 2026-10-13 in DE/FR/IT (DE price list EUR 19,990–25,690); full market launch and deliveries in 2027. Shown as on sale under the chart’s rule that an open order book counts; ch.smart.com listed the #2 as new without a configurator on 2026-10-22.",
+  "status_sources": [
+   "https://electrive.com/2026/10/13/smart-2-now-available-to-pre-order-for-under-e20000",
+   "https://www.autoevolution.com/news/2026-paris-motor-show-the-world-premiere-of-smart-2-seeks-to-reinvent-the-urban-two-seater-car-276873.html",
+   "https://ch.smart.com/de/models/hashtag-two/"
+  ],
+  "ch_source": "https://ch.smart.com/de/models/hashtag-two/",
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "dr-dr-1-0-ev",
+  "brand": "DR",
+  "group": "DR Automobiles",
+  "model": "DR 1.0 EV",
+  "display": "DR 1.0 EV",
+  "other_names": [],
+  "row": "a-city",
+  "body": "city car (3-door)",
+  "generation": "I (2023–)",
+  "length_mm": 3200,
+  "platform": "Chery eQ1",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Italy, September 2026 price list: DR 1.0 EV 61 CV / 31 kWh / 210 km WLTP, EUR 18,900 (il Giornale Digitale, updated 2026-09-10).",
+  "status_sources": [
+   "https://www.ilgiornaledigitale.it/dr-tutti-modelli-prezzi-gamma-completa-italia-82371.html",
+   "https://www.alvolante.it/news/dr-automobiles-prezzi-nuove-dr5-dr6-dr7-2026-410647",
+   "https://www.autoblog.it/post/dr-automobiles-rinnova-la-gamma-ecco-le-nuove-dr-5-dr-6-e-dr-7"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "wey-wey-03",
+  "brand": "Wey",
+  "group": "Great Wall Motor",
+  "model": "Wey 03",
+  "display": "Wey 03",
+  "other_names": [
+   "Wey Latte / Wey Lanshan (China)"
+  ],
+  "row": "c-suv",
+  "body": "SUV",
+  "generation": "I (2023–)",
+  "length_mm": 4520,
+  "platform": "GWM L.E.M.O.N.",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "runout",
+  "status_note": "Offered in Germany (GWM leasing listings, Oct 2026)",
+  "status_sources": [
+   "https://www.goleasy.de/leasing/marken/gwm"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "xpeng-l03",
+  "brand": "XPeng",
+  "group": "XPeng",
+  "model": "L03",
+  "display": "L03",
+  "other_names": [],
+  "row": "c-suv",
+  "body": "SUV coupé",
+  "generation": "I (Europe 2026–)",
+  "length_mm": 4650,
+  "platform": "XPeng (800 V; BEV and 'PowerX' range-extender)",
+  "powertrains": [
+   "BEV",
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "German model page: 4,650 mm, wheelbase 2,850 mm, from EUR 35,600 UVP, 'Jetzt konfigurieren' configurator live, tagged NEU (xpeng.com/de/model/L03, Oct 2026)",
+  "status_sources": [
+   "https://www.xpeng.com/de/model/L03",
+   "https://www.xpeng.com/de",
+   "https://www.goingelectric.de/elektroautos/xpeng/"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "geely-starray-em-i",
+  "brand": "Geely",
+  "group": "Geely Holding",
+  "model": "Starray EM-i",
+  "display": "Starray EM-i",
+  "other_names": [
+   "Geely Galaxy Starship 7 EM-i (China)"
+  ],
+  "row": "d-suv",
+  "body": "5-door mid-size SUV (PHEV, 30 kWh, 136 km EV range)",
+  "generation": "I (2025–; Europe 2026–)",
+  "length_mm": 4740,
+  "platform": "GEA (EM-i hybrid)",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Launched with the E5 in ES/DE/NL/BE/LU March 2026 (Germany from May 2026 at EUR 32,990), Austria, and Switzerland (Zurich launch Sept 2026).",
+  "status_sources": [
+   "https://global.geely.com/en/news/2026/geely-e5-starray-em-i-debut-five-european-countries",
+   "https://www.electrive.com/2026/03/27/geely-rolls-out-e5-electric-suv-across-five-european-markets/",
+   "https://www.geely.de/",
+   "https://cnevpost.com/2026/09/21/geely-enters-switzerland/"
+  ],
+  "ch_source": "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "lepas-l8",
+  "brand": "Lepas",
+  "group": "Chery",
+  "model": "L8",
+  "display": "L8",
+  "other_names": [],
+  "row": "d-suv",
+  "body": "SUV (5-seat)",
+  "generation": "I (2025–; UK 2026–)",
+  "length_mm": 4690,
+  "platform": "Chery LEX (export version of the 2025 China Tiggo 8)",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK: pre-orders opened July 2026, order books open, Essence GBP 34,900 / Elevate GBP 37,900, customer deliveries and showrooms from September 2026 (EV Fleet World 2026-06-18; AM-online). Petrol/EV versions later (EV 2027).",
+  "status_sources": [
+   "https://evfleetworld.co.uk/lepas-confirms-full-uk-specification-and-pricing-for-flagship-l8-suv/",
+   "https://www.am-online.com/news/how-lepas-is-incentivising-test-drives-at-dealers-as-l8-phev-orders-open",
+   "https://www.carwow.co.uk/lepas",
+   "https://www.lepas.co.uk/"
+  ],
+  "ch_source": "https://www.omodajaecoo.ch/",
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "wey-wey-05",
+  "brand": "Wey",
+  "group": "Great Wall Motor",
+  "model": "Wey 05",
+  "display": "Wey 05",
+  "other_names": [
+   "Wey Coffee 01 (DE, 2022–23)",
+   "Wey Mocha (China)"
+  ],
+  "row": "d-suv",
+  "body": "SUV",
+  "generation": "I (2022–)",
+  "length_mm": 4871,
+  "platform": "GWM L.E.M.O.N.",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Germany: new-car offers from EUR 55,499 with configurator on carwow.de (Oct 2026); 2.0 PHEV 4WD. GWM's Aug 2026 German line-up articles do not mention Wey - weak but current.",
+  "status_sources": [
+   "https://www.goleasy.de/leasing/marken/gwm"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "denza-z9-gt",
+  "brand": "Denza",
+  "group": "BYD",
+  "model": "Z9 GT",
+  "display": "Z9 GT",
+  "other_names": [
+   "Z9GT"
+  ],
+  "row": "e-car",
+  "body": "shooting brake / estate",
+  "generation": "I (Europe 2026–)",
+  "length_mm": 5180,
+  "platform": "BYD e³ (PHEV) / e-Platform 3.0 Evo (BEV)",
+  "powertrains": [
+   "BEV",
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Pre-orders opened 8 Apr 2026 in seven European markets incl. FR/DE/IT/ES (EUR 101,000 PHEV / 115,000 BEV); UK orders open since Jul 2026 (GBP 95k/105k); German site offers a Z9GT configurator (Oct 2026)",
+  "status_sources": [
+   "https://chinaevhome.com/2026/04/09/denza-z9gt-hits-7-european-markets-at-101k-eur/",
+   "https://www.autoevolution.com/news/denza-z9-gt-executive-shooting-brake-lands-in-the-united-kingdom-with-arid-prices-for-phev-and-ev-273367.html",
+   "https://www.denza.com/de",
+   "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "byd-ti-7",
+  "brand": "BYD",
+  "group": "BYD",
+  "model": "Ti 7",
+  "display": "Ti 7 DM-p",
+  "other_names": [
+   "Fangchengbao Tai 7 / Ti7 (China)"
+  ],
+  "row": "e-suv",
+  "body": "boxy SUV, 5 seats ('Urban Box Family SUV')",
+  "generation": "I (China 2025–; UK 2026–)",
+  "length_mm": 4999,
+  "platform": "BYD/Fangchengbao Evo+ unibody, EREV",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK model page describes an 'Urban Box Family SUV' DM-p; finance offer applies to orders from 1/7 Oct 2026, so orders are open (byd.com/uk, Oct 2026)",
+  "status_sources": [
+   "https://www.byd.com/uk/hybrid-cars/ti-7",
+   "https://www.byd.com/uk",
+   "https://en.wikipedia.org/wiki/Fangchengbao_Tai_7"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "xpeng-g9l",
+  "brand": "XPeng",
+  "group": "XPeng",
+  "model": "G9L",
+  "display": "G9L",
+  "other_names": [],
+  "row": "e-suv",
+  "body": "SUV, 6/7 seats",
+  "generation": "I (Europe 2026–)",
+  "length_mm": 5120,
+  "platform": "XPeng SEPA 2.0 (800 V)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "German model page: 5,120 mm, wheelbase 3,100 mm, 6 or 7 seats, from EUR 85,600 UVP, configurator live, tagged NEU (xpeng.com/de/model/G9L, Oct 2026)",
+  "status_sources": [
+   "https://www.xpeng.com/de/model/G9L",
+   "https://www.xpeng.com/de",
+   "https://www.goingelectric.de/elektroautos/xpeng/"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "mhero-mhero-i",
+  "brand": "Mhero",
+  "group": "Dongfeng",
+  "model": "Mhero I",
+  "display": "Mhero I",
+  "other_names": [
+   "M-Hero 917 (China)"
+  ],
+  "row": "offroad",
+  "body": "ladder-frame luxury off-roader",
+  "generation": "I (2022–; NL 2025–)",
+  "length_mm": 4987,
+  "platform": "Dongfeng Mengshi M-Tech / MORA off-road architecture (M-Hero 917)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Dutch importer (voyah.nl/mhero, 2026-10-22): 'MHERO I nu in de showroom' in Alkmaar and Veghel, price-list PDF and test drives offered; no explicit order button. Treated as on sale (official price list live).",
+  "status_sources": [
+   "https://voyah.nl/mhero?hsLang=nl",
+   "https://www.voyah.nl/"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "morgan-plus-four",
+  "brand": "Morgan",
+  "group": "Morgan",
+  "model": "Plus Four",
+  "display": "Plus Four",
+  "other_names": [],
+  "row": "sports",
+  "body": "2-seat roadster (BMW 2.0 four-cylinder)",
+  "generation": "II (CX-generation, 2020–; 2024 update)",
+  "length_mm": 3830,
+  "platform": "Morgan CX bonded aluminium",
+  "powertrains": [
+   "petrol"
+  ],
+  "status": "on_sale",
+  "status_note": "morgan-motor.com (2026-10-21): Plus Four configurable; Supersport 400 press release (Jul 2026) lists Super 3, Plus Four, Supersport (400) as the four models.",
+  "status_sources": [
+   "https://www.morgan-motor.com/",
+   "https://media.morgan-motor.com/wp-content/uploads/2026/07/Morgan-Supersport-400-customer-deliveries-begin-Press-Release.pdf"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "levc-tx",
+  "brand": "LEVC",
+  "group": "Geely Holding",
+  "model": "TX",
+  "display": "TX",
+  "other_names": [],
+  "row": "mpv-large",
+  "body": "purpose-built 6-passenger taxi (range-extender electric); TX Access/TX Shuttle variants",
+  "generation": "I (2018–; successor 'Next Generation Taxi' due H2 2027)",
+  "length_mm": 4855,
+  "platform": "LEVC aluminium 'eCity' platform",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Current model on levc.com with UK and 11 European country sites (DE, ES, NL, FR, SE, PL, HU, GR, AT, BE, MT); Greece added 2025. Next Generation Taxi announced for UK launch H2 2027 (will take over from TX).",
+  "status_sources": [
+   "https://www.levc.com/",
+   "https://www.levc.com/new-models/tx-taxi-overview/",
+   "https://www.levc.com/new-models/nextgenerationtaxi/",
+   "https://www.automotiveworld.com/news/greece-welcomes-levc-as-tx-and-vn5-launch-in-new-european-market/"
+  ],
+  "ch_source": "https://www.levc.com/",
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "maxus-mifa-7",
+  "brand": "Maxus",
+  "group": "SAIC Motor",
+  "model": "Mifa 7",
+  "display": "Mifa 7",
+  "other_names": [
+   "LDV Mifa 7 (AU)",
+   "Maxus Dana 7 (China)"
+  ],
+  "row": "mpv-large",
+  "body": "7-seat electric MPV",
+  "generation": "I (2025–)",
+  "length_mm": 4907,
+  "platform": "SAIC Maxus Mifa (electric)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK Mifa 7 page (fetched 2026-10-22): electric MPV, 6 or 7 seats (2-1-3 / 2-2-3), up to 298 miles WLTP; length not published (~4.9 m from launch data). saicmaxus.eu is robots-blocked; the UK range page is the 2026 source.",
+  "status_sources": [
+   "https://www.saicmaxus.co.uk/",
+   "https://www.saicmaxus.co.uk/our-range/new-vans/mifa-7/",
+   "https://en.wikipedia.org/wiki/Maxus_Mifa_7"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "denza-d9",
+  "brand": "Denza",
+  "group": "BYD",
+  "model": "D9",
+  "display": "D9",
+  "other_names": [],
+  "row": "mpv-large",
+  "body": "luxury MPV (7 seats)",
+  "generation": "I (2023–; Europe 2026–)",
+  "length_mm": 5250,
+  "platform": "BYD DM-i (EU version); EV on e-Platform 3.0",
+  "powertrains": [
+   "PHEV",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Switzerland: D9 DM-i Elegance CHF 79,900 / Ultimate CHF 84,900, ordering from the end of April 2026 at Denza sales points, deliveries summer 2026 (moneycab 2026-04-22). Germany: 'vorbestellbar' EUR 80,000-90,000, configurator 'in Kürze' (denza.com/de, Oct 2026). BEV version not yet priced in CH.",
+  "status_sources": [
+   "https://www.moneycab.com/mobilitaet/e-mobility/denza-gibt-die-preise-in-der-schweiz-fuer-die-super-hybrid-dm-i-versionen-des-z9gt-und-d9-bekannt/amp/",
+   "https://www.denza.com/de/d9"
+  ],
+  "ch_source": "https://www.moneycab.com/mobilitaet/e-mobility/denza-gibt-die-preise-in-der-schweiz-fuer-die-super-hybrid-dm-i-versionen-des-z9gt-und-d9-bekannt/amp/",
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "voyah-dream",
+  "brand": "Voyah",
+  "group": "Dongfeng",
+  "model": "Dream",
+  "display": "Dream",
+  "other_names": [],
+  "row": "mpv-large",
+  "body": "MPV, 7 seats",
+  "generation": "I (2022–)",
+  "length_mm": 5315,
+  "platform": "Dongfeng ESSA",
+  "powertrains": [
+   "BEV",
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Netherlands: listed from EUR 91,857 (Flagship Edition EUR 86,857) on voyah.nl (Oct 2026); discontinued in Norway (voyah.no, Oct 2026)",
+  "status_sources": [
+   "https://www.voyah.nl/",
+   "https://voyah.no/",
+   "https://autonews.gasgoo.com/articles/market-industry/dongfeng-motors-voyah-expands-market-presence-in-more-european-countries-70023756"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "maxus-edeliver-3",
+  "brand": "Maxus",
+  "group": "SAIC Motor",
+  "model": "eDeliver 3",
+  "display": "eDeliver 3",
+  "other_names": [
+   "LDV eDeliver 3 (AU/NZ)"
+  ],
+  "row": "van-small",
+  "body": "electric panel van (SWB / LWB), chassis cab",
+  "generation": "I (2020–)",
+  "length_mm": 4555,
+  "platform": "SAIC Maxus EV30",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Listed in the UK electric range (saicmaxus.co.uk, fetched 2026-10-22). saicmaxus.eu is robots-blocked; the UK range page is the 2026 source.",
+  "status_sources": [
+   "https://www.saicmaxus.co.uk/",
+   "https://en.wikipedia.org/wiki/Maxus_eDeliver_3"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "piaggio-porter-np6",
+  "brand": "Piaggio",
+  "group": "Piaggio",
+  "model": "Porter NP6",
+  "display": "Porter NP6",
+  "other_names": [
+   "Porter NPE (electric chassis version)"
+  ],
+  "row": "van-small",
+  "body": "cab-forward micro truck: flatbed (fixed/tipping), chassis cab for upfits (N1, ≤2.8 t)",
+  "generation": "II (NP6, 2021–)",
+  "length_mm": 4300,
+  "platform": "Piaggio/Foton Gratour V3-derived ladder frame (RWD)",
+  "powertrains": [
+   "petrol",
+   "LPG",
+   "CNG",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Official Piaggio Commercial Vehicles site (commercial.piaggio.com, fetched 2026-10-22) presents the 'Porter NP6 range' (chassis, tipper, tipper with over sides, deck) and the electric 'Porter NPE' (chassis) as current models with brochure download; no prices/configurator (dealer sale). Kept as a fringe N1 tile (four wheels, <= 3.5 t) - merger may drop it if the chart is restricted to car-like vehicles.",
+  "status_sources": [
+   "https://commercial.piaggio.com/en_EN/",
+   "https://en.wikipedia.org/wiki/Piaggio_Porter"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "farizon-sv",
+  "brand": "Farizon",
+  "group": "Geely Holding",
+  "model": "SV",
+  "display": "SV",
+  "other_names": [
+   "Farizon SuperVan"
+  ],
+  "row": "van-mid",
+  "body": "electric panel van (L1 / L2 / L3; H1–H3), chassis cab",
+  "generation": "I (2024–)",
+  "length_mm": 4990,
+  "platform": "Geely GXA-M (drive-by-wire electric van architecture)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Wikipedia (fetched 2026-10-22): European launch 2025 via importer Jameel Motors (UK pricing ~£45,000–56,000, plug-in van grant eligible), UK reviews Jan–Feb 2026; L1H1–L3H3 bodies. farizonauto.eu could not be fetched.",
+  "status_sources": [
+   "https://en.wikipedia.org/wiki/Farizon_SV"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "farizon-v7e",
+  "brand": "Farizon",
+  "group": "Geely Holding",
+  "model": "V7E",
+  "display": "V7E",
+  "other_names": [],
+  "row": "van-mid",
+  "body": "electric medium panel van (2-seat, 6.95 m3, up to 1,338 kg payload)",
+  "generation": "I (2026–)",
+  "length_mm": 4990,
+  "platform": "Geely GXA-M (skateboard, drive-by-wire electric van architecture)",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK: on sale (Fleet World: 'Farizon V7E debuts as GBP 29k medium EV van'; Car Dealer Magazine 2026: 'Farizon hands over first V7E electric van to UK customer'); also launched in DE/FR per the Geely researcher; shown at IAA Transportation 2026.",
+  "status_sources": [
+   "https://vanreviewer.co.uk/news/farizon-reveals-smaller-new-v7e-with-matching-load-capacity/",
+   "https://theevreport.com/geely-farizon-electric-commercial-vehicles-iaa-2026",
+   "https://www.electrive.com/2026/09/21/geely-farizon-expands-partner-network-across-europe/"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "levc-vn5",
+  "brand": "LEVC",
+  "group": "Geely Holding",
+  "model": "VN5",
+  "display": "VN5",
+  "other_names": [],
+  "row": "van-mid",
+  "body": "range-extender panel van",
+  "generation": "I (2020–)",
+  "length_mm": 5233,
+  "platform": "LEVC/Geely eCity (TX taxi, aluminium)",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "levc.com (fetched 2026-10-22) still lists the 'VN5 Van' among its models (dealer pages for DE, ES, NL, FR, SE, PL, HU, GR, AT, BE, MT); Wikipedia: UK sales since Nov 2020, rest of Europe since July 2021, production 2020–present.",
+  "status_sources": [
+   "https://www.levc.com/",
+   "https://en.wikipedia.org/wiki/LEVC_VN5"
+  ],
+  "ch_source": "https://www.levc.com/",
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "maxus-edeliver-7",
+  "brand": "Maxus",
+  "group": "SAIC Motor",
+  "model": "eDeliver 7",
+  "display": "eDeliver 7 / Deliver 7",
+  "other_names": [
+   "eDeliver 7 (BEV)",
+   "LDV Deliver 7 (AU)"
+  ],
+  "row": "van-mid",
+  "body": "panel van (L1 / L2, H1 / H2): electric eDeliver 7 and diesel Deliver 7",
+  "generation": "I (2023–; diesel Deliver 7 2025–)",
+  "length_mm": 4998,
+  "platform": "SAIC Maxus",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK site lists both 'DELIVER 7' (diesel) and 'eDELIVER 7' (electric) (fetched 2026-10-22). saicmaxus.eu is robots-blocked; the UK range page is the 2026 source.",
+  "status_sources": [
+   "https://www.saicmaxus.co.uk/",
+   "https://en.wikipedia.org/wiki/Maxus_eDeliver_7"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "maxus-edeliver-9",
+  "brand": "Maxus",
+  "group": "SAIC Motor",
+  "model": "eDeliver 9",
+  "display": "eDeliver 9 / Deliver 9",
+  "other_names": [
+   "eDeliver 9 (BEV)",
+   "LDV Deliver 9 (AU)"
+  ],
+  "row": "van-large",
+  "body": "panel van (L2 / L3, H2 / H3), chassis cab (3.5 t class): electric eDeliver 9 and diesel Deliver 9",
+  "generation": "I (2020–)",
+  "length_mm": 5940,
+  "platform": "SAIC Maxus V90",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK site lists both 'DELIVER 9' (diesel) and 'eDELIVER 9' (fetched 2026-10-22). saicmaxus.eu is robots-blocked; the UK range page is the 2026 source.",
+  "status_sources": [
+   "https://www.saicmaxus.co.uk/",
+   "https://en.wikipedia.org/wiki/Maxus_eDeliver_9"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "iveco-daily",
+  "brand": "Iveco",
+  "group": "Iveco Group",
+  "model": "Daily",
+  "display": "Daily / eDaily",
+  "other_names": [
+   "eDaily (electric)",
+   "Daily Natural Power (CNG)"
+  ],
+  "row": "van-large",
+  "body": "panel van, chassis cab, minibus (3.3–7.2 t; 3.5 t versions)",
+  "generation": "VI (2014–; facelifts 2019, 2024 'MY24')",
+  "length_mm": 6000,
+  "platform": "Iveco Daily ladder frame (RWD)",
+  "powertrains": [
+   "diesel",
+   "CNG",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Wikipedia (fetched 2026-10-22): current Daily since July 2014, facelift April 2019 (MY2024 update not on the page), eDaily electric and eDaily FCEV (unveiled 19 Sep 2022). iveco.com global page lists no products — VERIFY CH listing on iveco.com/switzerland.",
+  "status_sources": [
+   "https://en.wikipedia.org/wiki/Iveco_Daily"
+  ],
+  "ch_source": "https://www.iveco.com/switzerland/",
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "mitsubishi-l200",
+  "brand": "Mitsubishi",
+  "group": "Mitsubishi Motors",
+  "model": "L200",
+  "display": "L200",
+  "other_names": [
+   "Triton (other markets)"
+  ],
+  "row": "pickup",
+  "body": "double-cab (and club-cab) pickup",
+  "generation": "VI (2024– in Europe)",
+  "length_mm": 5360,
+  "platform": "Mitsubishi (ladder frame, 2023 Triton)",
+  "powertrains": [
+   "diesel"
+  ],
+  "status": "on_sale",
+  "status_note": "On sale in the UK: order books opened 27 Feb 2026 (Car Dealer Magazine: 'The new L200 pick-up is now on sale, priced from £36,295', Double Cab Titan/Barbarian, deliveries from May 2026, plus two-seat 'Commercial' variant); not on the Swiss models page (2026-10-22). Also priced in Italy, DE 'coming soon' per researcher.",
+  "status_sources": [
+   "https://en.wikipedia.org/wiki/Mitsubishi_Triton"
+  ],
+  "ch_source": "https://www.mitsubishi-motors.ch/de/modelle",
+  "twin_tier": null,
+  "current_picture": "none"
+ },
+ {
+  "id": "maxus-t90-ev",
+  "brand": "Maxus",
+  "group": "SAIC Motor",
+  "model": "T90 EV",
+  "display": "T90 EV",
+  "other_names": [
+   "LDV eT60 (AU/NZ)"
+  ],
+  "row": "pickup",
+  "body": "double-cab pickup",
+  "generation": "I (Europe 2022–)",
+  "length_mm": 5365,
+  "platform": "SAIC Maxus T90",
+  "powertrains": [
+   "BEV"
+  ],
+  "status": "runout",
+  "status_note": "Not in the UK range on 2026-10-22 (saicmaxus.co.uk lists T60 MAX diesel and eTERRON 9 electric only). No official 2026 continental listing found yet; only dealer listings.",
+  "status_sources": [
+   "https://www.carwow.de/maxus"
+  ],
+  "ch_source": null,
+  "twin_tier": 1,
+  "current_picture": "none"
+ },
+ {
+  "id": "byd-shark",
+  "brand": "BYD",
+  "group": "BYD",
+  "model": "Shark",
+  "display": "Shark DMO",
+  "other_names": [
+   "BYD Shark 6 (AU)"
+  ],
+  "row": "pickup",
+  "body": "double-cab pickup",
+  "generation": "I (2024–; UK 2026)",
+  "length_mm": 5457,
+  "platform": "BYD DMO",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK: orders open from Oct 2026 (byd.com/uk Shark page: finance offer on orders 07/10/2026-31/12/2026; EV Fleet World: open for orders from GBP 47,290; Goodwood FoS 2026 debut). Not yet confirmed in DE/FR/IT/ES/NL/CH.",
+  "status_sources": [
+   "https://www.byd.com/uk/hybrid-cars/shark",
+   "https://www.byd.com/uk"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "front view only"
+ },
+ {
+  "id": "byd-sealion-5",
+  "brand": "BYD",
+  "group": "BYD",
+  "model": "Sealion 5",
+  "display": "Sealion 5 DM-i",
+  "other_names": [
+   "BYD Song Pro DM-i (China)"
+  ],
+  "row": "d-suv",
+  "body": "SUV",
+  "generation": "I (Europe 2026–)",
+  "length_mm": 4735,
+  "platform": "BYD DM-i",
+  "powertrains": [
+   "PHEV"
+  ],
+  "status": "on_sale",
+  "status_note": "UK 'BYD Super Hybrid SUV' - finance offer for orders 7 Oct-31 Dec 2026 'subject to availability at participating retailers' (byd.com/uk model page, Oct 2026); not on the German list",
+  "status_sources": [
+   "https://www.byd.com/uk/hybrid-cars/sealion-5-dm-i",
+   "https://www.byd.com/uk"
+  ],
+  "ch_source": null,
+  "twin_tier": null,
+  "current_picture": "outline/dimension drawing"
+ },
+ {
+  "id": "nissan-primastar-kombi",
+  "brand": "Nissan",
+  "group": "Nissan",
+  "model": "Primastar Kombi",
+  "display": "Primastar Kombi",
+  "other_names": [
+   "Primastar Combi (UK)"
+  ],
+  "row": "mpv-large",
+  "body": "8/9-seat people carrier",
+  "generation": "I (2022–)",
+  "length_mm": 5080,
+  "platform": "Renault X82",
+  "powertrains": [
+   "diesel"
+  ],
+  "status": "on_sale",
+  "status_note": "'Primastar Kombi' listed under Personenwagen on nissan.ch on 2026-10-21.",
+  "status_sources": [
+   "https://de.nissan.ch/fahrzeuge/neuwagen.html"
+  ],
+  "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar/primastar-kombi.html",
+  "twin_tier": 1,
+  "current_picture": "outline/dimension drawing"
+ },
+ {
+  "id": "nissan-townstar-van-small",
+  "brand": "Nissan",
+  "group": "Nissan",
+  "model": "Townstar",
+  "display": "Townstar",
+  "other_names": [
+   "Townstar Van",
+   "Townstar EV / Townstar Elektro"
+  ],
+  "row": "van-small",
+  "body": "panel van (L1/L2)",
+  "generation": "I (2022–)",
+  "length_mm": 4488,
+  "platform": "CMF-C/D (Alliance)",
+  "powertrains": [
+   "petrol",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "Townstar and Townstar Elektro listed under Nutzfahrzeuge on nissan.ch on 2026-10-21. Revealed Sept 2021 as the Kangoo III rebadge replacing NV200/NV250/e-NV200.",
+  "status_sources": [
+   "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+   "https://en.wikipedia.org/wiki/Nissan_Townstar"
+  ],
+  "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+  "twin_tier": 1,
+  "current_picture": "outline/dimension drawing"
+ },
+ {
+  "id": "nissan-primastar-van-mid",
+  "brand": "Nissan",
+  "group": "Nissan",
+  "model": "Primastar",
+  "display": "Primastar",
+  "other_names": [
+   "Primastar Van"
+  ],
+  "row": "van-mid",
+  "body": "panel van (L1/L2, H1/H2), crew van, platform cab",
+  "generation": "I (2022–; Trafic III based)",
+  "length_mm": 5080,
+  "platform": "Renault X82",
+  "powertrains": [
+   "diesel"
+  ],
+  "status": "on_sale",
+  "status_note": "Primastar listed under Nutzfahrzeuge on nissan.ch on 2026-10-21. Diesel only (no EV version in Europe).",
+  "status_sources": [
+   "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+   "https://en.wikipedia.org/wiki/Nissan_Primastar"
+  ],
+  "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar.html",
+  "twin_tier": 1,
+  "current_picture": "outline/dimension drawing"
+ },
+ {
+  "id": "renault-trucks-master",
+  "brand": "Renault Trucks",
+  "group": "Volvo Group",
+  "model": "Master",
+  "display": "Master",
+  "other_names": [
+   "Master Red Edition",
+   "Master E-Tech"
+  ],
+  "row": "van-large",
+  "body": "panel van, chassis cab, platform cab (3.5 t class)",
+  "generation": "IV (2024–)",
+  "length_mm": 5050,
+  "platform": "Renault Master IV",
+  "powertrains": [
+   "diesel",
+   "BEV"
+  ],
+  "status": "on_sale",
+  "status_note": "renault-trucks.com LCV page (fetched 2026-10-22) lists the 'Renault Trucks Master Red EDITION' (panel van, crew van, chassis/platform cab; dCi 2.0 110–170 hp diesel or 100 % electric; 3.5–4.5 t GVW) — the page does not state the generation, assumed to be the Master IV supplied since 2024.",
+  "status_sources": [
+   "https://www.renault-trucks.com/en/renault-trucks-light-commercial-vehicules",
+   "https://www.renault-trucks.com/en/newsroom/press-releases/new-renault-trucks-etech-trafic",
+   "https://en.wikipedia.org/wiki/Renault_Master"
+  ],
+  "ch_source": "https://www.renault-trucks.ch/de-ch/product/renault-trucks-master-red-edition",
+  "twin_tier": 1,
+  "current_picture": "outline/dimension drawing"
+ }
+]

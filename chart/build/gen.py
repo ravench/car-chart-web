@@ -105,7 +105,7 @@ def tile(m, s=0, place='', above=None):
     if m.get('status') == 'runout': flags += '<span class="tag warn">run-out</span>'
     if m.get('ch_on_sale') is False: flags += '<span class="tag off">not in CH</span>'
     imgs = ''
-    if side: imgs += f'<img class="v-side" loading="lazy" src="{E(side)}" alt="{E(full_name(m["brand"], m["display"]))}, side view">'
+    if side: imgs += f'<img class="v-side" loading="lazy" src="{E(side)}" data-sid="{E(m["id"])}" onerror="sideFallback(this)" alt="{E(full_name(m["brand"], m["display"]))}, side view">'
     if front: imgs += f'<img class="v-front" data-fid="{E(m["id"])}" alt="{E(full_name(m["brand"], m["display"]))}, front view">'
     if side and not front: cls.append('nofront')
     if side and m['id'] in PREV:
@@ -415,6 +415,10 @@ data_json = json.dumps({'ext': {i: {k: {kk: v.get(kk) for kk in ('page', 'source
 
 page = f'''<meta charset="utf-8">
 <title>Identical Car Chart</title>
+<script>/* side pictures that are not published as single files (artifact file limit) come from img/sides.json */
+window.__sidePack = null;
+window.sideFallback = async function (im) {{ try {{ if (!window.__sidePack) window.__sidePack = fetch('img/sides.json').then(r => {{ if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }}); const idx = await window.__sidePack; const b64 = idx[im.dataset.sid]; if (b64) {{ im.onerror = null; im.src = 'data:image/webp;base64,' + b64; return; }} }} catch (e) {{ console.warn('side pack not available', e); }} im.dataset.packFailed = '1'; im.dispatchEvent(new Event('error')); }};
+</script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap">
@@ -654,6 +658,7 @@ let pinned = null;
 
 // image fallbacks
 matrix.querySelectorAll('.tile img').forEach(im => im.addEventListener('error', () => {{
+  if (im.dataset.sid && !im.dataset.packFailed) return;  // a packed side view is being tried first (sideFallback)
   const box = im.closest('.img'); const other = box.querySelector('img:not([src="'+im.getAttribute('src')+'"])');
   im.remove(); if (!box.querySelector('img')) {{ box.classList.add('missing'); const s = document.createElement('span'); s.className='noimg'; s.textContent = im.alt.replace(/, (side|front) view$/,''); box.appendChild(s); }}
 }}));
