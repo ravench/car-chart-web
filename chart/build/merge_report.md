@@ -1,4 +1,4 @@
-Loaded 12 files, 629 model records, 45 announced, 168 discontinued notes.
+Loaded 13 files, 641 model records, 45 announced, 168 discontinued notes.
 discontinued: note replaced for Mercedes-Benz|Citan / eCitan / T-Class / EQT
 discontinued: note replaced for Mercedes-Benz|EQV
 discontinued: note replaced for Mercedes-Benz|EQV
@@ -52,19 +52,19 @@ edges_add target missing: {'a': 'mazda cx 6e|d-suv', 'b': 'Deepal S07|d-suv', 't
 edges_add target missing: {'a': 'bmw 3 series|d-car', 'b': 'bmw i4|d-car', 'tier': 2, 'source': 'https://en.wikipedia.org/wiki/BMW_i4', 'note': 'Same as above; drop if the i4 is merged into the 4 Series Gran Coupé tile.'}
 edges_add target missing: {'a': 'smart #3|c-suv', 'b': 'volvo ex30|b-suv', 'tier': 2, 'source': 'https://en.wikipedia.org/wiki/Zeekr_X', 'note': 'No tier change (tier 2 stays); row alignment only: smart #3 moves to b-suv so that the whole SEA group (EX30, smart #1, smart #3, Zeekr X, Lynk & Co 02) is in one row. Zeekr X and Lynk & Co 02 stay in b-suv despite 4.45-4.46 m (noted).'}
 edges_add target missing: {'a': 'smart 3|c-suv', 'b': 'Volvo EX30|b-suv', 'tier': 2, 'source': 'https://ch.smart.com/de/models/hashtag-three/', 'note': 'smart #3 moves to b-suv and joins the SEA group g-b-suv-1 (EX30, smart #1, Zeekr X, Lynk & Co 02), tier 2 as already recorded by the Geely scope; sources for the SEA platform sharing are in the existing records (InsideEVs, electrive).'}
-TIER CONFLICT lynk and co 01|c-suv ~ volvo xc40|c-suv: claims [(1, 'volvo xc40|c-suv'), (2, 'lynk and co 01|c-suv')]; using tier 2 (conservative)
+TIER CONFLICT volvo xc40|c-suv ~ lynk and co 01|c-suv: claims [(1, 'volvo xc40|c-suv'), (2, 'lynk and co 01|c-suv')]; using tier 2 (conservative)
 TIER CONFLICT bmw x1|c-suv ~ mini countryman|c-suv: claims [(1, 'bmw x1|c-suv'), (2, 'mini countryman|c-suv')]; using tier 2 (conservative)
-TIER CONFLICT mini countryman|c-suv ~ bmw x2|c-suv: claims [(1, 'bmw x2|c-suv'), (2, 'mini countryman|c-suv')]; using tier 2 (conservative)
-TIER CONFLICT fiat 600|b-suv ~ peugeot 2008|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT abarth 600e|b-suv ~ peugeot 2008|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT fiat 600|b-suv ~ ds ds 3|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT bmw x2|c-suv ~ mini countryman|c-suv: claims [(1, 'bmw x2|c-suv'), (2, 'mini countryman|c-suv')]; using tier 2 (conservative)
+TIER CONFLICT peugeot 2008|b-suv ~ fiat 600|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT peugeot 2008|b-suv ~ abarth 600e|b-suv: claims [(2, 'peugeot 2008|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT ds ds 3|b-suv ~ fiat 600|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT abarth 600e|b-suv ~ ds ds 3|b-suv: claims [(2, 'ds ds 3|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT fiat 600|b-suv ~ opel mokka|b-suv: claims [(2, 'opel mokka|b-suv'), (1, 'fiat 600|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT abarth 600e|b-suv ~ opel mokka|b-suv: claims [(2, 'opel mokka|b-suv'), (1, 'abarth 600e|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT jeep avenger|b-suv ~ fiat 600|b-suv: claims [(1, 'fiat 600|b-suv'), (2, 'jeep avenger|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT fiat 600|b-suv ~ alfa romeo junior|b-suv: claims [(1, 'fiat 600|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT jeep avenger|b-suv ~ abarth 600e|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'jeep avenger|b-suv')]; using tier 2 (conservative)
-TIER CONFLICT abarth 600e|b-suv ~ alfa romeo junior|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT alfa romeo junior|b-suv ~ fiat 600|b-suv: claims [(1, 'fiat 600|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT abarth 600e|b-suv ~ jeep avenger|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'jeep avenger|b-suv')]; using tier 2 (conservative)
+TIER CONFLICT alfa romeo junior|b-suv ~ abarth 600e|b-suv: claims [(1, 'abarth 600e|b-suv'), (2, 'alfa romeo junior|b-suv')]; using tier 2 (conservative)
 TIER CONFLICT seat leon|c-hatch ~ volkswagen golf|c-hatch: claims [(2, 'volkswagen golf|c-hatch'), (1, 'seat leon|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT cupra leon|c-hatch ~ volkswagen golf|c-hatch: claims [(2, 'volkswagen golf|c-hatch'), (1, 'cupra leon|c-hatch')]; using tier 2 (conservative)
 TIER CONFLICT audi a2 e tron|c-hatch ~ volkswagen id 3|c-hatch: claims [(1, 'volkswagen id 3|c-hatch'), (2, 'audi a2 e tron|c-hatch')]; using tier 2 (conservative)
@@ -84,10 +84,12 @@ SAME-BRAND group not shown: mercedes benz amg gt|sports | mercedes benz sl|sport
 SAME-BRAND group not shown: bmw 1 series|c-hatch | bmw 2 series gran coupe|c-hatch
 SAME-BRAND group not shown: bmw 3 series|d-car | bmw 4 series gran coupe|d-car
 SAME-BRAND group not shown: bmw ix3|d-suv | bmw ix4|d-suv
+SAME-BRAND group not shown: aixam easy|quadricycle | aixam city|quadricycle | aixam coupe|quadricycle | aixam crossover|quadricycle | aixam e scouty|quadricycle
+SAME-BRAND group not shown: ligier js50|quadricycle | ligier js60|quadricycle
 SAME-BRAND group not shown: audi q7|e-suv | audi q9|e-suv
 
-Models per row: quadricycle=5, a-city=14, b-hatch=30, b-suv=45, c-hatch=33, c-suv=89, d-car=19, d-suv=68, e-car=29, e-suv=44, offroad=8, sports=44, mpv-small=13, mpv-large=22, van-small=12, van-mid=21, van-large=15, pickup=14
-Models per brand: Abarth=2, Alfa Romeo=4, Alpine=3, Aston Martin=5, Audi=16, BMW=20, BYD=13, Bentley=3, Bugatti=1, Cadillac=3, Caterham=1, Chery=4, Chevrolet=1, Citroën=10, Cupra=7, DR=6, DS=5, Dacia=6, Deepal=2, Denza=2, Dongfeng=1, Ebro=4, Farizon=2, Ferrari=6, Fiat=10, Firefly=1, Ford=16, Geely=3, Genesis=4, Haval=2, Honda=7, Hongqi=4, Hyundai=15, Ineos=2, Isuzu=1, Iveco=3, Jaecoo=3, Jeep=4, KGM=8, Kia=16, Koenigsegg=3, LEVC=2, Lamborghini=3, Lancia=2, Land Rover=7, Leapmotor=5, Lepas=1, Lexus=7, Lotus=4, Lucid=2, Lynk & Co=3, MAN=1, MG=11, MINI=4, Maserati=3, Maxus=9, Mazda=10, McLaren=4, Mercedes-Benz=25, Mhero=1, Microlino=1, Mitsubishi=6, Mobilize=1, Morgan=2, NIO=5, Nissan=11, Omoda=3, Opel=11, Ora=2, Pagani=1, Peugeot=11, Piaggio=1, Polestar=4, Porsche=5, Renault=16, Renault Trucks=2, Rimac=1, Rolls-Royce=4, SEAT=4, Subaru=7, Suzuki=5, Tesla=2, Toyota=21, VinFast=2, Volkswagen=25, Volvo=8, Voyah=3, Wey=2, XPeng=6, Zeekr=5, smart=4, Škoda=11
+Models per row: quadricycle=17, a-city=14, b-hatch=30, b-suv=45, c-hatch=33, c-suv=89, d-car=19, d-suv=68, e-car=29, e-suv=44, offroad=8, sports=44, mpv-small=13, mpv-large=22, van-small=12, van-mid=21, van-large=15, pickup=14
+Models per brand: Abarth=2, Aixam=6, Alfa Romeo=4, Alpine=3, Aston Martin=5, Audi=16, BMW=20, BYD=13, Bentley=3, Bugatti=1, Cadillac=3, Casalini=1, Caterham=1, Chatenet=1, Chery=4, Chevrolet=1, Citroën=10, Cupra=7, DR=6, DS=5, Dacia=6, Deepal=2, Denza=2, Dongfeng=1, Ebro=4, Farizon=2, Ferrari=6, Fiat=10, Firefly=1, Ford=16, Geely=3, Genesis=4, Haval=2, Honda=7, Hongqi=4, Hyundai=15, Ineos=2, Isuzu=1, Iveco=3, Jaecoo=3, Jeep=4, KGM=8, Kia=16, Koenigsegg=3, LEVC=2, Lamborghini=3, Lancia=2, Land Rover=7, Leapmotor=5, Lepas=1, Lexus=7, Ligier=4, Lotus=4, Lucid=2, Lynk & Co=3, MAN=1, MG=11, MINI=4, Maserati=3, Maxus=9, Mazda=10, McLaren=4, Mercedes-Benz=25, Mhero=1, Microlino=1, Mitsubishi=6, Mobilize=1, Morgan=2, NIO=5, Nissan=11, Omoda=3, Opel=11, Ora=2, Pagani=1, Peugeot=11, Piaggio=1, Polestar=4, Porsche=5, Renault=16, Renault Trucks=2, Rimac=1, Rolls-Royce=4, SEAT=4, Subaru=7, Suzuki=5, Tesla=2, Toyota=21, VinFast=2, Volkswagen=25, Volvo=8, Voyah=3, Wey=2, XPeng=6, Zeekr=5, smart=4, Škoda=11
 Twin groups: 78
   g-c-suv-1 [Chery T1X] omoda-omoda-5 | omoda-omoda-7 | jaecoo-jaecoo-5 | jaecoo-jaecoo-7 | chery-tiggo-7 | ebro-s700 | dr-dr-6
   g-d-suv-1 [Chery T1X/M3X] omoda-omoda-9 | jaecoo-jaecoo-8 | chery-tiggo-9 | ebro-s900

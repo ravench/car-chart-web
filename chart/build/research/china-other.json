@@ -1,0 +1,3611 @@
+{
+ "agent": "china-other (SAIC/BYD/Chery/GWM/XPeng/NIO/Changan/Dongfeng/FAW/Xiaomi + minor Chinese brands)",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "MG3",
+   "display": "MG3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "II (2024–)",
+   "length_mm": 4113,
+   "platform": "SAIC SIGMA",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MG3 and MG3 Hybrid+ listed on the Swiss and EU model pages (Oct 2026)",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mg-mg3-2024-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/mg/mg3/d/2024/sm_254121086_mg-mg3-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:MG3 (2024)",
+   "commons_file": null,
+   "wikipedia_en": "MG3",
+   "notes": "Sold as MG3 (1.5 petrol) and MG3 Hybrid+. Shares the SIGMA platform with the ZS (different row, no group). Commons category name is a best guess, not verified."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "MG4",
+   "display": "MG4",
+   "other_names": [
+    "MG4 EV",
+    "MG4 Electric (DE)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "c-hatch",
+   "body": "5-door hatchback",
+   "generation": "I (2022–), updated 2026 MY",
+   "length_mm": 4287,
+   "platform": "SAIC MSP (Modular Scalable Platform)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Original RWD MG4 EV continues alongside the new MG4 Urban: Luxury 64 kWh, Trophy Extended Range 77 kWh and XPower remain (Austria price list Feb 2026; Germany from EUR 34,990 Jan 2026); still listed on mgmotor.ch and mgmotor.eu (Oct 2026)",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/",
+    "https://www.electrive.net/2026/02/13/neuer-mg4-ev-urban-startet-in-oesterreich-bei-unter-20-000-euro/",
+    "https://ecomento.de/2026/01/30/neuer-mg4-in-europa-zunaechst-nur-in-grossbritannien/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mg-mg4-2022-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/mg/mg4/d/2022/sm_256109102_mg-mg4-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-2025 (Gen. 1; carsized lists it as ended 2025 although the car is still sold in Europe)",
+   "commons_category": "Category:MG4 EV",
+   "commons_file": null,
+   "wikipedia_en": "MG4 EV",
+   "notes": "Two different MG4 generations are sold side by side in Europe since 2026 (see separate 'MG4 Urban' tile). XPower is a trim of this tile."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "MG4 Urban",
+   "display": "MG4 Urban",
+   "other_names": [
+    "MG4 EV Urban",
+    "MG4 (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "c-hatch",
+   "body": "5-door hatchback",
+   "generation": "II (China 2025–; Europe 2026–)",
+   "length_mm": 4395,
+   "platform": "new SAIC FWD platform (cell-to-body, solid-state ready)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Second-generation MG4 sold in Europe as 'MG4 EV Urban': UK orders from Jan 2026 (GBP 23,495), Austria orderable Feb 2026 (deliveries from Apr 2026); listed as NEW on mgmotor.ch and mgmotor.eu (Oct 2026)",
+   "status_sources": [
+    "https://www.electrive.net/2026/02/13/neuer-mg4-ev-urban-startet-in-oesterreich-bei-unter-20-000-euro/",
+    "https://ecomento.de/2026/01/30/neuer-mg4-in-europa-zunaechst-nur-in-grossbritannien/",
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:MG4 (2025)",
+   "commons_file": null,
+   "wikipedia_en": "MG4 EV",
+   "notes": "FWD, 43/54 kWh LFP, ~11 cm longer than the 2022 MG4; replaces the small-battery versions of the old car. Judgement call: treated as a separate tile because both generations are on sale at once under different names. Commons category name unverified."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "MGS5 EV",
+   "display": "MGS5 EV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4476,
+   "platform": "SAIC MSP",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Successor of the ZS EV; UK from spring 2025, Germany from Sept 2025; listed on mgmotor.ch and mgmotor.eu (Oct 2026)",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/",
+    "https://insideevs.de/news/758153/mg-5-zs-marvel-ausgelaufen/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:MG S5 EV",
+   "commons_file": null,
+   "wikipedia_en": "MG S5 EV",
+   "notes": "RWD, 49/64 kWh. Commons category unverified."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "ZS",
+   "display": "ZS",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "b-suv",
+   "body": "SUV",
+   "generation": "II (2024–)",
+   "length_mm": 4430,
+   "platform": "SAIC SIGMA",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ZS (petrol) and ZS Hybrid+ listed on mgmotor.ch and mgmotor.eu (Oct 2026); the ZS EV was dropped in 2025 (replaced by MGS5 EV)",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/",
+    "https://insideevs.de/news/758153/mg-5-zs-marvel-ausgelaufen/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mg-zs-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/mg/zs/d/2024/sl_277128116_mg-zs-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present (Gen. 2)",
+   "commons_category": "Category:MG ZS (2024)",
+   "commons_file": null,
+   "wikipedia_en": "MG ZS",
+   "notes": "4.43 m is long for the B-SUV row; kept in b-suv per MG's own small-SUV positioning (Captur/2008 rivals). Commons category unverified."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "HS",
+   "display": "HS",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "II (2024–)",
+   "length_mm": 4655,
+   "platform": "SAIC SIGMA",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "HS, HS Hybrid+ and HS PHEV listed on mgmotor.ch and mgmotor.eu (Oct 2026)",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "mg-hs-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/mg/hs/d/2024/sl_282126126_mg-hs-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/mg/hs/d/2024/fa_287000000_mg-hs-2024-front-view_4x.png",
+   "carsized_years": "2024-present (Gen. 2)",
+   "commons_category": "Category:MG HS (2024)",
+   "commons_file": null,
+   "wikipedia_en": "MG HS",
+   "notes": "4.66 m sits at the c-suv/d-suv boundary; MG positions it against Qashqai/Sportage, so c-suv. Commons category unverified."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "MGS6 EV",
+   "display": "MGS6 EV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "d-suv",
+   "body": "SUV (fastback)",
+   "generation": "I (2026–)",
+   "length_mm": 4708,
+   "platform": "SAIC MSP",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orderable in the UK since Nov 2025, Austria Feb 2026 (EUR 34,990), Germany from 16 Mar 2026 (EUR 49,990); listed as NEW on mgmotor.ch (Oct 2026)",
+   "status_sources": [
+    "https://insideevs.de/news/786425/mgs6-ev-2026-daten-preise/",
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:MG S6 EV",
+   "commons_file": null,
+   "wikipedia_en": "MG S6 EV",
+   "notes": "4,708 mm / 2,836 mm wheelbase, 74.3 kWh, RWD 180 kW or AWD 266 kW. MG calls it compact, press calls it mid-size; placed in d-suv by length (Enyaq-size). Commons category unverified. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "MGS9 PHEV",
+   "display": "MGS9 PHEV",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "e-suv",
+   "body": "SUV, 7 seats",
+   "generation": "I (Europe 2026–)",
+   "length_mm": 4983,
+   "platform": "SAIC (Roewe RX9 / MG QS)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed as NEW ('MGS9 Plug-in Hybrid') on mgmotor.ch and mgmotor.eu (Oct 2026); UK dealers announce arrival 2026",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/",
+    "https://www.auto-motor-und-sport.de/neuheiten/mg-qs9-phev-bei-euroncap-crashtest-enthuellt-neuen-fuenfmeter-suv-aus-china/",
+    "https://www.invictamotors.co.uk/mg/news/mgs9-phev-arrives"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Roewe RX9",
+   "commons_file": null,
+   "wikipedia_en": "Roewe RX9",
+   "notes": "European version of the Roewe RX9 (sold as MG QS in Australia); 4,983 mm, seven seats, HS-derived 1.5T PHEV. Exact European order date/price not verified (fetch budget). Commons: no MG-specific category known; parent Roewe RX9 given. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "Cyberster",
+   "display": "Cyberster",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "sports",
+   "body": "2-door roadster",
+   "generation": "I (2024–)",
+   "length_mm": 4535,
+   "platform": "SAIC MSP",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on mgmotor.ch and mgmotor.eu (Oct 2026); Swiss price from CHF 63,990 (carify, Apr 2026)",
+   "status_sources": [
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:MG Cyberster",
+   "commons_file": null,
+   "wikipedia_en": "MG Cyberster",
+   "notes": ""
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "IM5",
+   "display": "IM5",
+   "other_names": [
+    "MG IM5"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "d-car",
+   "body": "4-door saloon (fastback)",
+   "generation": "I (Europe 2025–)",
+   "length_mm": 4931,
+   "platform": "IM Motors 800 V platform",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Sold as 'MG IM5' through MG dealers: UK, Norway and Switzerland since July 2025; Germany, France, Belgium, Netherlands from July 2026; listed on mgmotor.ch from CHF 41,990 (Oct 2026)",
+   "status_sources": [
+    "https://www.electrive.com/2026/06/01/mg-brings-electric-premium-models-im5-and-im6-to-germany/",
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:IM L6",
+   "commons_file": null,
+   "wikipedia_en": "IM L6",
+   "notes": "= IM L6 (Zhiji L6). Brief lists 'IM' as its own SAIC column; in Europe it is marketed as 'MG IM5' under the MG umbrella, so filed under MG here — move to an IM column if preferred. 4.93 m is on the d/e boundary; placed d-car because MG prices/positions it against Model 3 / BYD Seal."
+  },
+  {
+   "brand": "MG",
+   "group": "SAIC Motor",
+   "model": "IM6",
+   "display": "IM6",
+   "other_names": [
+    "MG IM6"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mgmotor.ch/de",
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (Europe 2025–)",
+   "length_mm": 4904,
+   "platform": "IM Motors 800 V platform",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Sold as 'MG IM6' through MG dealers: UK, Norway and Switzerland since July 2025; Germany/France/Belgium/Netherlands from July 2026; listed on mgmotor.ch from CHF 49,990 (Oct 2026)",
+   "status_sources": [
+    "https://www.electrive.com/2026/06/01/mg-brings-electric-premium-models-im5-and-im6-to-germany/",
+    "https://www.mgmotor.ch/de",
+    "https://www.mgmotor.eu/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:IM LS6",
+   "commons_file": null,
+   "wikipedia_en": "IM LS6",
+   "notes": "= IM LS6. See IM5 note on the MG/IM column question. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "eDeliver 3",
+   "display": "eDeliver 3",
+   "other_names": [
+    "LDV eDeliver 3 (AU/NZ)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-small",
+   "body": "compact panel van (SWB/LWB)",
+   "generation": "I (2020–)",
+   "length_mm": 4555,
+   "platform": "SAIC Maxus EV30",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in the UK range (saicmaxus.co.uk, Oct 2026) and on the German dealer listings (carwow.de)",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/",
+    "https://www.carwow.de/maxus"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus EV30",
+   "commons_file": null,
+   "wikipedia_en": "Maxus EV30",
+   "notes": "4,555 mm (SWB) / 5,145 mm (LWB). Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "eDeliver 5",
+   "display": "eDeliver 5",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-small",
+   "body": "compact/medium panel van",
+   "generation": "I (2024–)",
+   "length_mm": 4800,
+   "platform": "SAIC Maxus",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in the UK range (saicmaxus.co.uk, Oct 2026)",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus eDeliver 5",
+   "commons_file": null,
+   "wikipedia_en": "Maxus eDeliver 5",
+   "notes": "4.8 m, 1-tonne-class FWD electric van sized between eDeliver 3 and 7 (Transit Connect L2 / Caddy Maxi length) - row is a judgement call (van-small). Commons category unverified. Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "Deliver 7",
+   "display": "Deliver 7 / eDeliver 7",
+   "other_names": [
+    "eDeliver 7 (BEV)",
+    "LDV Deliver 7 (AU)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-mid",
+   "body": "mid-size panel van (L1/L2)",
+   "generation": "I (2023–)",
+   "length_mm": 4998,
+   "platform": "SAIC Maxus",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "eDeliver 7 (BEV) and Deliver 7 (2.0 diesel) listed in the UK range (saicmaxus.co.uk, Oct 2026); eDeliver 7 on German listings",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/",
+    "https://www.carwow.de/maxus"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus Deliver 7",
+   "commons_file": null,
+   "wikipedia_en": "Maxus eDeliver 7",
+   "notes": "One tile for the diesel 'Deliver 7' and electric 'eDeliver 7' (same body, powertrain-variant naming). 4,998 mm (L1) / 5,366 mm (L2). Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "Deliver 9",
+   "display": "Deliver 9 / eDeliver 9",
+   "other_names": [
+    "eDeliver 9 (BEV)",
+    "LDV Deliver 9 (AU)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-large",
+   "body": "large panel van / chassis cab",
+   "generation": "I (2019–)",
+   "length_mm": 5546,
+   "platform": "SAIC Maxus V90",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "eDeliver 9 and Deliver 9 listed in the UK range (saicmaxus.co.uk, Oct 2026) and on German listings",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/",
+    "https://www.carwow.de/maxus"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus V90",
+   "commons_file": null,
+   "wikipedia_en": "Maxus V90",
+   "notes": "One tile for diesel 'Deliver 9' and electric 'eDeliver 9'. 5,546 mm (L2) / 5,940 mm (L3). Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "eTerron 9",
+   "display": "eTerron 9",
+   "other_names": [
+    "LDV eTerron 9 (AU)",
+    "Maxus Interstellar X (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "pickup",
+   "body": "double-cab pickup",
+   "generation": "I (2025–)",
+   "length_mm": 5500,
+   "platform": "SAIC Maxus (Interstellar X)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in the UK range (saicmaxus.co.uk, Oct 2026); UK launch 2025",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus Interstellar X",
+   "commons_file": null,
+   "wikipedia_en": "Maxus Interstellar X",
+   "notes": "Dual-motor electric pickup, 102 kWh. European markets beyond the UK not verified (fetch budget). Commons category unverified. Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "T90 EV",
+   "display": "T90 EV",
+   "other_names": [
+    "LDV eT60 (AU/NZ)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "pickup",
+   "body": "double-cab pickup",
+   "generation": "I (Europe 2022–)",
+   "length_mm": 5365,
+   "platform": "SAIC Maxus T90",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Still listed on German dealer listings (carwow.de, Oct 2026); not in the UK range any more (replaced there by eTerron 9)",
+   "status_sources": [
+    "https://www.carwow.de/maxus"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Maxus T60 Max"
+   ],
+   "twin_note": "Electric derivative of the T60 pickup (same cab/body).",
+   "twin_sources": [
+    "https://www.ultimatespecs.com/car-specs/Maxus-models"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus T90",
+   "commons_file": null,
+   "wikipedia_en": "Maxus T90",
+   "notes": "Status weak: only a dealer-listing source; could be runout in 2026. Verify. Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "T60 Max",
+   "display": "T60 Max",
+   "other_names": [
+    "LDV T60 Max (AU)",
+    "Maxus T60 (other markets)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "pickup",
+   "body": "double-cab pickup",
+   "generation": "I (facelift 2024–)",
+   "length_mm": 5365,
+   "platform": "SAIC Maxus T60",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in the UK range (saicmaxus.co.uk, Oct 2026)",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Maxus T90 EV"
+   ],
+   "twin_note": "T60 and T90 share body and cab; T90 EV is the electric derivative",
+   "twin_sources": [
+    "https://www.ultimatespecs.com/car-specs/Maxus-models"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus T60",
+   "commons_file": null,
+   "wikipedia_en": "Maxus T60",
+   "notes": "Diesel sister of the T90 EV (same cab/body) - treated as separate nameplates (two tiles), tier 1 twins of each other; verifier may merge. Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "Mifa 7",
+   "display": "Mifa 7",
+   "other_names": [
+    "LDV Mifa 7 (AU)",
+    "Maxus Dana 7 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "MPV, 7 seats",
+   "generation": "I (2024–)",
+   "length_mm": 4907,
+   "platform": "SAIC Maxus",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in the UK range (saicmaxus.co.uk, Oct 2026)",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus Mifa 7",
+   "commons_file": null,
+   "wikipedia_en": "Maxus Mifa 7",
+   "notes": "Commons category unverified. Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Maxus",
+   "group": "SAIC Motor",
+   "model": "Mifa 9",
+   "display": "Mifa 9",
+   "other_names": [
+    "LDV Mifa 9 (AU)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "MPV, 7 seats",
+   "generation": "I (2022–)",
+   "length_mm": 5270,
+   "platform": "SAIC Maxus",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed in the UK range (saicmaxus.co.uk) and German listings (carwow.de) (Oct 2026)",
+   "status_sources": [
+    "https://www.saicmaxus.co.uk/",
+    "https://www.carwow.de/maxus"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Maxus Mifa 9",
+   "commons_file": null,
+   "wikipedia_en": "Maxus Mifa 9",
+   "notes": "Swiss importer page (maxus.ch) could not be fetched in this session; Swiss status unknown. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Dolphin Surf",
+   "display": "Dolphin Surf",
+   "other_names": [
+    "BYD Seagull / Dolphin Mini (other markets)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/",
+   "row": "a-city",
+   "body": "5-door hatchback",
+   "generation": "I (2025–)",
+   "length_mm": 3780,
+   "platform": "BYD e-Platform 3.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on byd.com/uk (Oct 2026) and German price list (EUR 22,990, Sept 2026); Switzerland from CHF 20,990 (May 2025)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BYD Seagull",
+   "commons_file": null,
+   "wikipedia_en": "BYD Seagull",
+   "notes": "European version of the Seagull."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Dolphin",
+   "display": "Dolphin",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "I (2021–; Europe 2023–)",
+   "length_mm": 4290,
+   "platform": "BYD e-Platform 3.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on byd.com/uk (Oct 2026) and German price list (EUR 33,990, Sept 2026)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-dolphin-2021-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/byd/dolphin/d/2021/sl_263110097_byd-dolphin-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present",
+   "commons_category": "Category:BYD Dolphin",
+   "commons_file": null,
+   "wikipedia_en": "BYD Dolphin",
+   "notes": "Swiss status not verified (bydauto.ch blocks fetches)."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Dolphin G",
+   "display": "Dolphin G DM-i",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "b-hatch",
+   "body": "5-door hatchback / crossover",
+   "generation": "I (2026–)",
+   "length_mm": 4000,
+   "platform": "BYD DM-i",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK: 'The Long-Range Plug-in Hybrid Hatchback' - finance offer applies to orders placed 7 Oct-31 Dec 2026, so UK orders are open (byd.com/uk model page, Oct 2026); German press (Sept 2026) still lists it as coming, price pending, possibly built in Hungary",
+   "status_sources": [
+    "https://www.byd.com/uk/hybrid-cars/dolphin-g-dm-i",
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Length approx. (~4.0 m per German press; UK page gives no dimensions) - verify. No Commons category known yet. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Atto 2",
+   "display": "Atto 2",
+   "other_names": [
+    "BYD Yuan Up (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/",
+   "row": "b-suv",
+   "body": "SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4310,
+   "platform": "BYD e-Platform 3.0 Evo / DM-i",
+   "powertrains": [
+    "BEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Atto 2 (BEV) and Atto 2 DM-i (PHEV) listed on byd.com/uk (Oct 2026) and German price list (EUR 31,990 / 35,990, Sept 2026); Switzerland from CHF 30,990 (May 2025)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-atto-2-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/byd/atto-2/d/2024/sm_278113111_byd-atto-2-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:BYD Yuan Up",
+   "commons_file": null,
+   "wikipedia_en": "BYD Atto 2",
+   "notes": "BEV and DM-i versions in one tile."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Atto 3",
+   "display": "Atto 3",
+   "other_names": [
+    "BYD Yuan Plus (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2022–), 'Atto 3 Evo' facelift 2026",
+   "length_mm": 4455,
+   "platform": "BYD e-Platform 3.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Atto 3 Evo' listed on byd.com/uk (Oct 2026); Germany EUR 44,990 (Sept 2026); Switzerland from CHF 39,900 (carify, Apr 2026)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-atto-3-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/byd/atto-3/d/2022/sm_274116111_byd-atto-3-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:BYD Yuan Plus",
+   "commons_file": null,
+   "wikipedia_en": "BYD Atto 3",
+   "notes": ""
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Seal",
+   "display": "Seal",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "d-car",
+   "body": "4-door saloon",
+   "generation": "I (2022–; Europe 2023–)",
+   "length_mm": 4800,
+   "platform": "BYD e-Platform 3.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on byd.com/uk (Oct 2026); Germany EUR 47,990 (Sept 2026); Switzerland c. CHF 49,990 (carify, Apr 2026)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-seal-2022-sedan",
+   "carsized_side": "https://www.carsized.com/resources/byd/seal/d/2022/sl_244108126_byd-seal-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:BYD Seal",
+   "commons_file": null,
+   "wikipedia_en": "BYD Seal",
+   "notes": ""
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Seal 6",
+   "display": "Seal 6 DM-i",
+   "other_names": [
+    "BYD Qin L DM-i (China, saloon)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-car",
+   "body": "4-door saloon and 'Touring' estate",
+   "generation": "I (Europe 2025–)",
+   "length_mm": 4840,
+   "platform": "BYD DM-i",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Seal 6 DM-i saloon and Seal 6 DM-i Touring both listed on byd.com/uk (Oct 2026); Germany sells the Touring (EUR 42,990, Sept 2026)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BYD Seal 6",
+   "commons_file": null,
+   "wikipedia_en": "BYD Seal 6",
+   "notes": "Saloon 4,840 mm, Touring 4,850 mm - one tile. Swiss status unknown. Commons category unverified."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Seal U",
+   "display": "Seal U DM-i",
+   "other_names": [
+    "BYD Song Plus (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/",
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (Europe 2024–; facelift 2026)",
+   "length_mm": 4775,
+   "platform": "BYD DM-i",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on byd.com/uk (Oct 2026); Germany EUR 39,990 (Sept 2026); on sale in Switzerland (May 2025)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-seal-u-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/byd/seal-u/d/2023/sm_285135139_byd-seal-u-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present",
+   "commons_category": "Category:BYD Song Plus",
+   "commons_file": null,
+   "wikipedia_en": "BYD Song Plus",
+   "notes": "The BEV Seal U was dropped in Europe in 2025 (not on the UK/DE lists any more); only the DM-i PHEV remains. Facelift 2026 announced in Germany."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Sealion 5",
+   "display": "Sealion 5 DM-i",
+   "other_names": [
+    "BYD Song Pro DM-i (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (Europe 2026–)",
+   "length_mm": 4735,
+   "platform": "BYD DM-i",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK 'BYD Super Hybrid SUV' - finance offer for orders 7 Oct-31 Dec 2026 'subject to availability at participating retailers' (byd.com/uk model page, Oct 2026); not on the German list",
+   "status_sources": [
+    "https://www.byd.com/uk/hybrid-cars/sealion-5-dm-i",
+    "https://www.byd.com/uk"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BYD Song Pro",
+   "commons_file": null,
+   "wikipedia_en": "BYD Sealion 5",
+   "notes": "Length approx. (Song Pro 2024 = 4,735 mm; UK page gives no dimensions) - verify. Placed in d-suv by length (sits just below the Seal U). carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Sealion 7",
+   "display": "Sealion 7",
+   "other_names": [
+    "BYD Sealion 07 EV (China)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/",
+   "row": "d-suv",
+   "body": "SUV coupé",
+   "generation": "I (2024–; Europe 2025–)",
+   "length_mm": 4830,
+   "platform": "BYD e-Platform 3.0 Evo",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on byd.com/uk (Oct 2026); Germany EUR 44,990 (Sept 2026); on sale in Switzerland (May 2025)",
+   "status_sources": [
+    "https://www.byd.com/uk",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-sealion-7-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/byd/sealion-7/d/2024/sl_272114134_byd-sealion-7-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:BYD Sealion 07 EV",
+   "commons_file": null,
+   "wikipedia_en": "BYD Sealion 07 EV",
+   "notes": "Commons category unverified."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Ti 7",
+   "display": "Ti 7 DM-p",
+   "other_names": [
+    "Fangchengbao Tai 7 / Ti7 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "boxy SUV, 5 seats ('Urban Box Family SUV')",
+   "generation": "I (China 2025–; UK 2026–)",
+   "length_mm": 4999,
+   "platform": "BYD / Fangchengbao (range-extender)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK model page describes an 'Urban Box Family SUV' DM-p; finance offer applies to orders from 1/7 Oct 2026, so orders are open (byd.com/uk, Oct 2026)",
+   "status_sources": [
+    "https://www.byd.com/uk/hybrid-cars/ti-7",
+    "https://www.byd.com/uk",
+    "https://en.wikipedia.org/wiki/Fangchengbao_Tai_7"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Fangchengbao Tai 7",
+   "commons_file": null,
+   "wikipedia_en": "Fangchengbao Tai 7",
+   "notes": "= Fangchengbao Ti7 (production from Aug 2025, shown as 'BYD Ti7' global model in Bangkok 2025; 1.5T range-extender EREV, 5 seats; BEV version added 2026 in China). Length 4,999 mm is from general knowledge of the Chinese model, not from the fetched pages - verify; row e-suv by that length although BYD UK calls it a family SUV. Commons category unverified. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Tang",
+   "display": "Tang",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "e-suv",
+   "body": "SUV, 7 seats",
+   "generation": "II facelift (Europe 2021–, 2024 update)",
+   "length_mm": 4870,
+   "platform": "BYD",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Germany EUR 75,000 (price list Sept 2026); Switzerland from c. CHF 69,990 (carify, Apr 2026); not in the UK range",
+   "status_sources": [
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "byd-tang-2018-suv",
+   "carsized_side": "https://www.carsized.com/resources/byd/tang/d/2018/sl_284134142_byd-tang-2018-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/byd/tang/d/2018/fa_292000000_byd-tang-2018-front-view_4x.png",
+   "carsized_years": "2018-present (Gen. 2)",
+   "commons_category": "Category:BYD Tang (second generation)",
+   "commons_file": null,
+   "wikipedia_en": "BYD Tang",
+   "notes": "Commons category unverified."
+  },
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Shark",
+   "display": "Shark DMO",
+   "other_names": [
+    "BYD Shark 6 (AU)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "pickup",
+   "body": "double-cab pickup",
+   "generation": "I (2024–; UK 2026)",
+   "length_mm": 5457,
+   "platform": "BYD DMO",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK model page 'Dual Mode Off-Road Plug-in Hybrid' with a finance offer on orders 7 Oct-31 Dec 2026, i.e. orders open (byd.com/uk, Oct 2026)",
+   "status_sources": [
+    "https://www.byd.com/uk/hybrid-cars/shark",
+    "https://www.byd.com/uk"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:BYD Shark",
+   "commons_file": null,
+   "wikipedia_en": "BYD Shark",
+   "notes": "Continental availability not verified."
+  },
+  {
+   "brand": "Denza",
+   "group": "BYD",
+   "model": "Z9 GT",
+   "display": "Z9 GT",
+   "other_names": [
+    "Z9GT"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "shooting brake / estate",
+   "generation": "I (Europe 2026–)",
+   "length_mm": 5180,
+   "platform": "BYD e³ platform",
+   "powertrains": [
+    "BEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Pre-orders opened 8 Apr 2026 in seven European markets incl. FR/DE/IT/ES (EUR 101,000 PHEV / 115,000 BEV); UK orders open since Jul 2026 (GBP 95k/105k); German site offers a Z9GT configurator (Oct 2026)",
+   "status_sources": [
+    "https://chinaevhome.com/2026/04/09/denza-z9gt-hits-7-european-markets-at-101k-eur/",
+    "https://www.autoevolution.com/news/denza-z9-gt-executive-shooting-brake-lands-in-the-united-kingdom-with-arid-prices-for-phev-and-ev-273367.html",
+    "https://www.denza.com/de",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Denza Z9 GT",
+   "commons_file": null,
+   "wikipedia_en": "Denza Z9",
+   "notes": "Swiss status unknown. Commons category unverified."
+  },
+  {
+   "brand": "Omoda",
+   "group": "Chery",
+   "model": "Omoda 5",
+   "display": "Omoda 5",
+   "other_names": [
+    "Omoda E5 (BEV)",
+    "Chery Omoda 5",
+    "Chery Tiggo 5x High Energy (China, since late 2024)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2022–; Europe 2024–; facelift 2025)",
+   "length_mm": 4400,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Omoda 5 petrol, Omoda 5 SHS-H hybrid and Omoda 5 E5 (BEV) listed on omodaauto.co.uk (Oct 2026); on sale across DE/ES/IT/PL etc.",
+   "status_sources": [
+    "https://www.omodaauto.co.uk/",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+    "https://www.hibridosyelectricos.com/coches/grupo-chery-anuncia-como-sera-su-2026-mas-puntos-ventas-nuevos-modelos-electrificados-mas-marcas-chinas_83716_102.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Jaecoo 7",
+    "Omoda 7",
+    "Chery Tiggo 7"
+   ],
+   "twin_note": "Chery compact (T1X-family) group in c-suv: Omoda 7 is built on a stretched Omoda C5 platform (Wikipedia, Omoda 7); Jaecoo 7 = Chery Tansuo 06, which China also sells as 'Tiggo 7 High Energy' (Wikipedia, Jaecoo 7 / Tiggo 7); all share the 1.6T DCT and 1.5T SHS PHEV drivetrains with the European Tiggo 7. Distinct bodies -> tier 2. In China the Omoda 5 itself was renamed Tiggo 5x High Energy (cosmetic changes), i.e. it is closest to the Tiggo 4/5x line, which sits in b-suv here (cross-row, no group).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Omoda_7",
+    "https://en.wikipedia.org/wiki/Jaecoo_7",
+    "https://en.wikipedia.org/wiki/Chery_Omoda_5",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_7"
+   ],
+   "carsized_slug": "omoda-5-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/omoda/5/d/2022/sl_266115121_omoda-5-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-2025 (pre-facelift entry; 2025 facelift entry not found)",
+   "commons_category": "Category:Chery Omoda 5",
+   "commons_file": null,
+   "wikipedia_en": "Chery Omoda 5",
+   "notes": "Switzerland: omodajaecoo.ch shows only 'Coming soon' (Grand Automotive) as of Oct 2026."
+  },
+  {
+   "brand": "Omoda",
+   "group": "Chery",
+   "model": "Omoda 7",
+   "display": "Omoda 7",
+   "other_names": [
+    "Chery Tiggo 7L (China, from Apr 2026)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2025–; Europe 2026–)",
+   "length_mm": 4620,
+   "platform": "Chery T1X family (stretched Omoda C5 platform)",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Omoda 7 petrol and Omoda 7 SHS-P (PHEV) listed with finance offers on omodaauto.co.uk (Oct 2026); CarGurus Sept 2026 lists it on sale; European debut Feb 2026",
+   "status_sources": [
+    "https://www.omodaauto.co.uk/",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+    "https://www.hibridosyelectricos.com/coches/grupo-chery-anuncia-como-sera-su-2026-mas-puntos-ventas-nuevos-modelos-electrificados-mas-marcas-chinas_83716_102.html",
+    "https://en.wikipedia.org/wiki/Omoda_7"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Omoda 5",
+    "Jaecoo 7",
+    "Chery Tiggo 7"
+   ],
+   "twin_note": "Built on a stretched Omoda C5 platform; sold in China as Chery Tiggo 7L (Wikipedia). See Omoda 5 for the group.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Omoda_7",
+    "https://en.wikipedia.org/wiki/Chery_Omoda_5"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Omoda 7",
+   "commons_file": null,
+   "wikipedia_en": "Omoda 7",
+   "notes": "4.62 m, upper end of c-suv. Commons category unverified. Switzerland: omodajaecoo.ch shows only 'Coming soon' (Grand Automotive) as of Oct 2026."
+  },
+  {
+   "brand": "Omoda",
+   "group": "Chery",
+   "model": "Omoda 9",
+   "display": "Omoda 9",
+   "other_names": [
+    "Exeed RX / Exeed Yaoguang (China)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (Europe 2025–)",
+   "length_mm": 4775,
+   "platform": "Chery M3X (Exeed RX)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed with finance offer on omodaauto.co.uk (Oct 2026); 'renewed Omoda 9 PHEV' for Europe (Nov 2025)",
+   "status_sources": [
+    "https://www.omodaauto.co.uk/",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+    "https://www.hibridosyelectricos.com/coches/grupo-chery-anuncia-como-sera-su-2026-mas-puntos-ventas-nuevos-modelos-electrificados-mas-marcas-chinas_83716_102.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Exeed RX",
+   "commons_file": null,
+   "wikipedia_en": "Exeed RX",
+   "notes": "Rebadged Exeed RX (Exeed is not sold in Europe, so no European twin). 1.5T SHS PHEV 443 bhp. Switzerland: omodajaecoo.ch shows only 'Coming soon' (Grand Automotive) as of Oct 2026."
+  },
+  {
+   "brand": "Jaecoo",
+   "group": "Chery",
+   "model": "Jaecoo 5",
+   "display": "Jaecoo 5",
+   "other_names": [
+    "Jaecoo E5 (BEV)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4380,
+   "platform": null,
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed from GBP 24,555 on jaecoo.co.uk (Oct 2026) incl. Jaecoo 5 EV; UK deliveries since Oct 2025 (Wikipedia); CarGurus Sept 2026 lists it on sale",
+   "status_sources": [
+    "https://www.jaecoo.co.uk/",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+    "https://en.wikipedia.org/wiki/Jaecoo_5"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Jaecoo 5",
+   "commons_file": null,
+   "wikipedia_en": "Jaecoo 5",
+   "notes": "4.38 m: b-suv/c-suv boundary; kept with Omoda 5 in c-suv. No platform/sibling information found (Wikipedia gives none) - no tier. Commons category unverified. Switzerland: omodajaecoo.ch shows only 'Coming soon' (Grand Automotive) as of Oct 2026."
+  },
+  {
+   "brand": "Jaecoo",
+   "group": "Chery",
+   "model": "Jaecoo 7",
+   "display": "Jaecoo 7",
+   "other_names": [
+    "Chery Tansuo 06 / Tiggo 7 High Energy (China)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2023–; Europe 2024–)",
+   "length_mm": 4500,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "PHEV",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed from GBP 29,210 on jaecoo.co.uk (Oct 2026) with SHS PHEV/HEV; Jaecoo 7 SHS was the group's first official car in Germany (early 2026)",
+   "status_sources": [
+    "https://www.jaecoo.co.uk/",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+    "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Omoda 5",
+    "Omoda 7",
+    "Chery Tiggo 7"
+   ],
+   "twin_note": "Jaecoo 7 = Chery Tansuo 06 (China, 2,650 mm wheelbase; sold there also as Tiggo 7 High Energy PHEV) per Wikipedia; same T1X family as the Omoda 5 and the European Chery Tiggo 7 (different bodies) - tier 2.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Jaecoo_7",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+    "https://www.carwow.co.uk/chery"
+   ],
+   "carsized_slug": "jaecoo-7-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/jaecoo/7/d/2023/sl_280117131_jaecoo-7-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present",
+   "commons_category": "Category:Jaecoo 7",
+   "commons_file": null,
+   "wikipedia_en": "Jaecoo 7",
+   "notes": "Switzerland: omodajaecoo.ch shows only 'Coming soon' (Grand Automotive) as of Oct 2026."
+  },
+  {
+   "brand": "Jaecoo",
+   "group": "Chery",
+   "model": "Jaecoo 8",
+   "display": "Jaecoo 8",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.omodajaecoo.ch/",
+   "row": "d-suv",
+   "body": "SUV, 6/7 seats",
+   "generation": "I (Europe 2025–)",
+   "length_mm": 4820,
+   "platform": "Chery T1X/M3X (Tiggo 9)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed from GBP 45,500 on jaecoo.co.uk (Oct 2026); CarGurus Sept 2026 lists it on sale",
+   "status_sources": [
+    "https://www.jaecoo.co.uk/",
+    "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Chery Tiggo 9"
+   ],
+   "twin_note": "Wikipedia (Chery Tiggo 9): the Tiggo 9 'is also exported under the Jaecoo brand as the Jaecoo J8/8' (first shown as Jaecoo 9); T1X platform, 4,820 mm. Both are sold in the UK - tier 1 rebadge.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_9",
+    "https://www.carwow.co.uk/chery",
+    "https://www.jaecoo.co.uk/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Jaecoo 8",
+   "commons_file": null,
+   "wikipedia_en": "Chery Tiggo 9",
+   "notes": "Commons category unverified. Switzerland: omodajaecoo.ch shows only 'Coming soon' (Grand Automotive) as of Oct 2026."
+  },
+  {
+   "brand": "Chery",
+   "group": "Chery",
+   "model": "Tiggo 4",
+   "display": "Tiggo 4",
+   "other_names": [
+    "Chery Tiggo 4 Pro",
+    "Chery Tiggo 5x (China)",
+    "Ebro S400 (ES, unverified)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "b-suv",
+   "body": "SUV",
+   "generation": "II (2023–; UK 2025–)",
+   "length_mm": 4318,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK new from GBP 17,856 (carwow, Oct 2026); announced for Germany 1H 2027",
+   "status_sources": [
+    "https://www.carwow.co.uk/chery",
+    "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Spanish Ebro S400 is reported to be a Tiggo 4 rebadge (tier 1) - Ebro not covered here, unverified.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Chery Tiggo 4 Pro",
+   "commons_file": null,
+   "wikipedia_en": "Chery Tiggo 4",
+   "notes": "Chery-brand cars are sold in the UK (25+ dealers since 2025), Spain/Italy/Poland (official importers; Spain production with Ebro at the former Nissan Barcelona plant); Germany launch 1H 2027 (announced Aug 2026). No Swiss presence found."
+  },
+  {
+   "brand": "Chery",
+   "group": "Chery",
+   "model": "Tiggo 7",
+   "display": "Tiggo 7",
+   "other_names": [
+    "Chery Tiggo 7 Pro/Plus",
+    "Ebro S700 (ES)",
+    "DR 6.0 / Sportequipe 6 (IT)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "II facelift (2024–; UK 2025–)",
+   "length_mm": 4513,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "PHEV",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK new from GBP 20,732, petrol and PHEV (carwow, Oct 2026); announced for Germany 1H 2027",
+   "status_sources": [
+    "https://www.carwow.co.uk/chery",
+    "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_7"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ebro S700",
+    "DR 6.0",
+    "Sportequipe 6"
+   ],
+   "twin_note": "Second-generation Tiggo 7 (2020-, facelift 2024), in Europe since June 2025. Wikipedia: Ebro 'produced a licensed-built second-generation Tiggo 7' as the Ebro S700 (Spain); DR Automobiles 'marketed the second-generation Tiggo 7 in Italy as the DR 6.0' and Sportequipe 'sold a version ... as the Sportequipe 6' -> tier-1 rebadges (brands outside this assignment, 2026 availability not re-checked). Additionally a tier-2 platform sibling of Omoda 5 / Jaecoo 7 / Omoda 7 (see Omoda 5) - one tile can carry only one tier here, so the rebadge tier is recorded and the tier-2 link is noted.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_7",
+    "https://en.wikipedia.org/wiki/Omoda_7",
+    "https://en.wikipedia.org/wiki/Jaecoo_7"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Chery Tiggo 7 (second generation)",
+   "commons_file": null,
+   "wikipedia_en": "Chery Tiggo 7",
+   "notes": "Chery-brand cars are sold in the UK (25+ dealers since 2025), Spain/Italy/Poland (official importers; Spain production with Ebro at the former Nissan Barcelona plant); Germany launch 1H 2027 (announced Aug 2026). No Swiss presence found."
+  },
+  {
+   "brand": "Chery",
+   "group": "Chery",
+   "model": "Tiggo 8",
+   "display": "Tiggo 8",
+   "other_names": [
+    "Chery Tiggo 8 Pro/Plus II",
+    "Ebro S800 (ES)",
+    "DR 7.0 / Sportequipe 7 (IT)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV, 7 seats",
+   "generation": "II (2024–; UK 2025–)",
+   "length_mm": 4722,
+   "platform": "Chery T1X",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK new from GBP 23,959, petrol and PHEV (carwow, Oct 2026); announced for Germany 1H 2027",
+   "status_sources": [
+    "https://www.carwow.co.uk/chery",
+    "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_8"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ebro S800"
+   ],
+   "twin_note": "UK/European Tiggo 8 (debut Goodwood Jul 2025) uses Tiggo 8 Plus II styling (petrol) / 2024 export-facelift styling (Super Hybrid), 4,722 mm. Wikipedia: 'The Tiggo 8 is rebadged and sold in Spain by Ebro as the Ebro S800' -> tier 1 (Ebro outside this assignment). DR 7.0 / Sportequipe 7 (Italy) are listed as names of the same model without an explicit rebadging sentence. The Lepas L8 (4,670 mm) derives from the NEW second-generation Tiggo 8 (2025), a different body - no tier.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_8"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Chery Tiggo 8 Plus",
+   "commons_file": null,
+   "wikipedia_en": "Chery Tiggo 8",
+   "notes": "Chery-brand cars are sold in the UK (25+ dealers since 2025), Spain/Italy/Poland (official importers; Spain production with Ebro at the former Nissan Barcelona plant); Germany launch 1H 2027 (announced Aug 2026). No Swiss presence found."
+  },
+  {
+   "brand": "Chery",
+   "group": "Chery",
+   "model": "Tiggo 9",
+   "display": "Tiggo 9",
+   "other_names": [
+    "Chery Tiggo 9 PHEV"
+   ],
+   "ch_on_sale": false,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV, 7 seats",
+   "generation": "I (2023–; UK 2025–)",
+   "length_mm": 4820,
+   "platform": "Chery T1X/M3X",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK new from GBP 36,513, seven seats (carwow, Oct 2026); announced for Germany 1H 2027",
+   "status_sources": [
+    "https://www.carwow.co.uk/chery",
+    "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Jaecoo 8"
+   ],
+   "twin_note": "See Jaecoo 8 (export version of the Tiggo 9).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_9",
+    "https://www.carwow.co.uk/chery",
+    "https://www.jaecoo.co.uk/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Chery Tiggo 9",
+   "commons_file": null,
+   "wikipedia_en": "Chery Tiggo 9",
+   "notes": "Chery-brand cars are sold in the UK (25+ dealers since 2025), Spain/Italy/Poland (official importers; Spain production with Ebro at the former Nissan Barcelona plant); Germany launch 1H 2027 (announced Aug 2026). No Swiss presence found."
+  },
+  {
+   "brand": "Ora",
+   "group": "Great Wall Motor",
+   "model": "Ora 03",
+   "display": "Ora 03",
+   "other_names": [
+    "Ora Funky Cat (UK, 2022–24)",
+    "GWM Ora 03 (UK)",
+    "Ora Good Cat (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-hatch",
+   "body": "5-door hatchback",
+   "generation": "I (2022–)",
+   "length_mm": 4235,
+   "platform": "GWM L.E.M.O.N. (ME platform)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Offered in Germany (GWM leasing/dealer listings, Oct 2026); UK: carwow shows it as 'currently unavailable new' (Oct 2026), so UK may be runout",
+   "status_sources": [
+    "https://www.goleasy.de/leasing/marken/gwm",
+    "https://www.carwow.co.uk/gwm/poer300-lcv",
+    "https://autonotizen.de/neuigkeiten/gwm-haval-ora-wey-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ora Good Cat",
+   "commons_file": null,
+   "wikipedia_en": "Ora Good Cat",
+   "notes": "4.24 m: between b-hatch and c-hatch; placed c-hatch (ID.3/MG4 rival). No Swiss GWM presence found (gwm.ch could not be fetched); ch_on_sale unknown."
+  },
+  {
+   "brand": "Ora",
+   "group": "Great Wall Motor",
+   "model": "Ora 07",
+   "display": "Ora 07",
+   "other_names": [
+    "Ora Lightning Cat (China)",
+    "GWM Ora 07 (UK, announced)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-car",
+   "body": "5-door fastback saloon",
+   "generation": "I (2023–)",
+   "length_mm": 4871,
+   "platform": "GWM L.E.M.O.N.",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Offered in Germany (GWM leasing listings, Oct 2026)",
+   "status_sources": [
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Ora Lightning Cat",
+   "commons_file": null,
+   "wikipedia_en": "Ora Lightning Cat",
+   "notes": "Status based on a German leasing listing; official GWM Germany page not fetched. No Swiss GWM presence found (gwm.ch could not be fetched); ch_on_sale unknown."
+  },
+  {
+   "brand": "Wey",
+   "group": "Great Wall Motor",
+   "model": "Wey 03",
+   "display": "Wey 03",
+   "other_names": [
+    "Wey Latte / Wey Lanshan (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2023–)",
+   "length_mm": 4520,
+   "platform": "GWM L.E.M.O.N.",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Offered in Germany (GWM leasing listings, Oct 2026)",
+   "status_sources": [
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Wey Latte",
+   "commons_file": null,
+   "wikipedia_en": "Wey Latte",
+   "notes": "Status based on a German leasing listing; official page not fetched. No Swiss GWM presence found (gwm.ch could not be fetched); ch_on_sale unknown."
+  },
+  {
+   "brand": "Wey",
+   "group": "Great Wall Motor",
+   "model": "Wey 05",
+   "display": "Wey 05",
+   "other_names": [
+    "Wey Coffee 01 (DE, 2022–23)",
+    "Wey Mocha (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2022–)",
+   "length_mm": 4871,
+   "platform": "GWM L.E.M.O.N.",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Offered in Germany (GWM leasing listings, Oct 2026), 476 PS PHEV",
+   "status_sources": [
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Wey Mocha",
+   "commons_file": null,
+   "wikipedia_en": "Wey Mocha",
+   "notes": "4.87 m: d-suv (just under 4.9). No Swiss GWM presence found (gwm.ch could not be fetched); ch_on_sale unknown."
+  },
+  {
+   "brand": "Haval",
+   "group": "Great Wall Motor",
+   "model": "Jolion Pro",
+   "display": "Jolion Pro",
+   "other_names": [
+    "GWM Haval Jolion Pro (UK)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I facelift (2024–; Europe 2025/26–)",
+   "length_mm": 4470,
+   "platform": "GWM L.E.M.O.N.",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK from GBP 23,995 (carwow, Oct 2026, hybrid); Germany from EUR 24,990 (petrol 177 hp; autohaus.de, Mar 2026)",
+   "status_sources": [
+    "https://www.carwow.co.uk/gwm/poer300-lcv",
+    "https://www.autohaus.de/nachrichten/autohersteller/offensive-im-suv-volumensegment-gwm-bringt-haval-nach-deutschland-3785068",
+    "https://www.goleasy.de/leasing/marken/gwm"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "haval-jolion-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/haval/jolion/d/2021/sl_273120117_haval-jolion-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present (listed as 'Haval Jolion'; Jolion Pro is the facelift of the same generation)",
+   "commons_category": "Category:Haval Jolion",
+   "commons_file": null,
+   "wikipedia_en": "Haval Jolion",
+   "notes": "No Swiss GWM presence found (gwm.ch could not be fetched); ch_on_sale unknown."
+  },
+  {
+   "brand": "Haval",
+   "group": "Great Wall Motor",
+   "model": "H6",
+   "display": "H6",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "III facelift (2024–; Germany 2026–)",
+   "length_mm": 4703,
+   "platform": "GWM L.E.M.O.N.",
+   "powertrains": [
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Germany from EUR 31,990, full hybrid 243 hp, launch Jan 2026 (autohaus.de, Mar 2026); on German leasing listings (Oct 2026)",
+   "status_sources": [
+    "https://www.autohaus.de/nachrichten/autohersteller/offensive-im-suv-volumensegment-gwm-bringt-haval-nach-deutschland-3785068",
+    "https://www.goleasy.de/leasing/marken/gwm",
+    "https://autonotizen.de/neuigkeiten/gwm-haval-ora-wey-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Haval H6 (third generation)",
+   "commons_file": null,
+   "wikipedia_en": "Haval H6",
+   "notes": "UK availability not verified. No Swiss GWM presence found (gwm.ch could not be fetched); ch_on_sale unknown."
+  },
+  {
+   "brand": "XPeng",
+   "group": "XPeng",
+   "model": "G6",
+   "display": "G6",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "d-suv",
+   "body": "SUV coupé",
+   "generation": "I (2023–; 2025 update)",
+   "length_mm": 4753,
+   "platform": "XPeng SEPA 2.0 (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on xpeng.com/de (Oct 2026); UK updated version from GBP 39,990 (2026); Switzerland via Emil Frey (carify, Apr 2026)",
+   "status_sources": [
+    "https://www.xpeng.com/de",
+    "https://fleetworld.co.uk/xpeng-accelerates-2026-product-roadmap-for-uk/",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "xpeng-g6-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/xpeng/g6/d/2023/sl_276120129_xpeng-g6-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-2025 (pre-facelift entry; the 2025 facelift entry was not found)",
+   "commons_category": "Category:XPeng G6",
+   "commons_file": null,
+   "wikipedia_en": "XPeng G6",
+   "notes": ""
+  },
+  {
+   "brand": "XPeng",
+   "group": "XPeng",
+   "model": "G9",
+   "display": "G9",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2022–; 2025 update)",
+   "length_mm": 4891,
+   "platform": "XPeng SEPA 2.0 (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on xpeng.com/de (Oct 2026); Switzerland via Emil Frey (carify, Apr 2026)",
+   "status_sources": [
+    "https://www.xpeng.com/de",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "xpeng-g9-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/xpeng/g9/d/2022/sl_277115139_xpeng-g9-2022-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/xpeng/g9/d/2022/fa_285000000_xpeng-g9-2022-front-view_4x.png",
+   "carsized_years": "2022-2025 (pre-facelift entry)",
+   "commons_category": "Category:XPeng G9",
+   "commons_file": null,
+   "wikipedia_en": "XPeng G9",
+   "notes": ""
+  },
+  {
+   "brand": "XPeng",
+   "group": "XPeng",
+   "model": "P7+",
+   "display": "P7+",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "5-door fastback saloon",
+   "generation": "I (2024–; Europe 2025–)",
+   "length_mm": 5017,
+   "platform": "XPeng SEPA 2.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on xpeng.com/de with a EUR 2,500 bonus (Oct 2026); goingelectric.de from EUR 46,600",
+   "status_sources": [
+    "https://www.xpeng.com/de",
+    "https://www.goingelectric.de/elektroautos/xpeng/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:XPeng P7+",
+   "commons_file": null,
+   "wikipedia_en": "XPeng P7+",
+   "notes": "5.02 m, so e-car by length although priced like a D-car (the old P7 was 4.88 m). Swiss status unknown. Commons category unverified."
+  },
+  {
+   "brand": "XPeng",
+   "group": "XPeng",
+   "model": "X9",
+   "display": "X9",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "MPV, 7 seats",
+   "generation": "I (2024–; Europe 2025/26–)",
+   "length_mm": 5293,
+   "platform": "XPeng SEPA 2.0 (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on xpeng.com/de with a EUR 5,000 bonus and configurator (Oct 2026); UK arrival mid-2026 (Fleet World); goingelectric.de from EUR 77,600",
+   "status_sources": [
+    "https://www.xpeng.com/de",
+    "https://fleetworld.co.uk/xpeng-accelerates-2026-product-roadmap-for-uk/",
+    "https://www.goingelectric.de/elektroautos/xpeng/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:XPeng X9",
+   "commons_file": null,
+   "wikipedia_en": "XPeng X9",
+   "notes": "Swiss status unknown. Commons category unverified."
+  },
+  {
+   "brand": "XPeng",
+   "group": "XPeng",
+   "model": "L03",
+   "display": "L03",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV coupé",
+   "generation": "I (Europe 2026–)",
+   "length_mm": 4650,
+   "platform": "XPeng (800 V; BEV and 'PowerX' range-extender)",
+   "powertrains": [
+    "BEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "German model page: 4,650 mm, wheelbase 2,850 mm, from EUR 35,600 UVP, 'Jetzt konfigurieren' configurator live, tagged NEU (xpeng.com/de/model/L03, Oct 2026)",
+   "status_sources": [
+    "https://www.xpeng.com/de/model/L03",
+    "https://www.xpeng.com/de",
+    "https://www.goingelectric.de/elektroautos/xpeng/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "New European nameplate (Oct 2026). Range-extender 'PowerX' version counted as PHEV. 4.65 m -> c-suv (boundary with d-suv). Chinese source model and Commons category not identified - VERIFY. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "XPeng",
+   "group": "XPeng",
+   "model": "G9L",
+   "display": "G9L",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "SUV, 6/7 seats",
+   "generation": "I (Europe 2026–)",
+   "length_mm": 5120,
+   "platform": "XPeng SEPA 2.0 (800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "German model page: 5,120 mm, wheelbase 3,100 mm, 6 or 7 seats, from EUR 85,600 UVP, configurator live, tagged NEU (xpeng.com/de/model/G9L, Oct 2026)",
+   "status_sources": [
+    "https://www.xpeng.com/de/model/G9L",
+    "https://www.xpeng.com/de",
+    "https://www.goingelectric.de/elektroautos/xpeng/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Flagship 3-row SUV above the G9 (its Chinese name may differ, e.g. G01/'G7L' - not verified). No Commons category known. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "NIO",
+   "group": "NIO",
+   "model": "ET5",
+   "display": "ET5 / ET5 Touring",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "d-car",
+   "body": "4-door saloon and Touring estate",
+   "generation": "I (2022–; Touring 2023–)",
+   "length_mm": 4790,
+   "platform": "NIO NT2.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "ET5 Touring stock available in NO/NL; ET5 saloon sold out in NL and absent from the DE configurator. NIO's own European configurators (DE/NL/SE/NO) no longer offer factory orders - sales are from remaining stock with clearance discounts; Nio House Hamburg and the Weiterstadt hub closed in July 2026 (eletric-vehicles.com, 23 Aug 2026). Model still listed on nio.com/de_DE (Oct 2026).",
+   "status_sources": [
+    "https://www.nio.com/de_DE",
+    "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "nio-et5-2022-sedan",
+   "carsized_side": "https://www.carsized.com/resources/nio/et5/d/2022/sl_251121136_nio-et5-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:NIO ET5",
+   "commons_file": null,
+   "wikipedia_en": "NIO ET5",
+   "notes": "Saloon and Touring estate in one tile (body styles). Switzerland: carify (Apr 2026) lists ET5/ET7/EL7 'from around CHF 60,000' but NIO has no official Swiss network - treated as unknown."
+  },
+  {
+   "brand": "NIO",
+   "group": "NIO",
+   "model": "ET7",
+   "display": "ET7",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "e-car",
+   "body": "4-door saloon",
+   "generation": "I (2022–; 2025 update)",
+   "length_mm": 5101,
+   "platform": "NIO NT2.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "Appears sold out in NL; no new-build orders. NIO's own European configurators (DE/NL/SE/NO) no longer offer factory orders - sales are from remaining stock with clearance discounts; Nio House Hamburg and the Weiterstadt hub closed in July 2026 (eletric-vehicles.com, 23 Aug 2026). Model still listed on nio.com/de_DE (Oct 2026).",
+   "status_sources": [
+    "https://www.nio.com/de_DE",
+    "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "nio-et7-2022-sedan",
+   "carsized_side": "https://www.carsized.com/resources/nio/et7/d/2022/sl_254119153_nio-et7-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:NIO ET7",
+   "commons_file": null,
+   "wikipedia_en": "NIO ET7",
+   "notes": "Switzerland: carify (Apr 2026) lists ET5/ET7/EL7 'from around CHF 60,000' but NIO has no official Swiss network - treated as unknown."
+  },
+  {
+   "brand": "NIO",
+   "group": "NIO",
+   "model": "EL6",
+   "display": "EL6",
+   "other_names": [
+    "NIO ES6 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2023–)",
+   "length_mm": 4854,
+   "platform": "NIO NT2.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "Stock available in DE/NO/NL; no new-build orders. NIO's own European configurators (DE/NL/SE/NO) no longer offer factory orders - sales are from remaining stock with clearance discounts; Nio House Hamburg and the Weiterstadt hub closed in July 2026 (eletric-vehicles.com, 23 Aug 2026). Model still listed on nio.com/de_DE (Oct 2026).",
+   "status_sources": [
+    "https://www.nio.com/de_DE",
+    "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "nio-el6-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/nio/el6/d/2023/sl_285121136_nio-el6-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present",
+   "commons_category": "Category:NIO ES6 (second generation)",
+   "commons_file": null,
+   "wikipedia_en": "NIO ES6",
+   "notes": "Switzerland: carify (Apr 2026) lists ET5/ET7/EL7 'from around CHF 60,000' but NIO has no official Swiss network - treated as unknown."
+  },
+  {
+   "brand": "NIO",
+   "group": "NIO",
+   "model": "EL7",
+   "display": "EL7",
+   "other_names": [
+    "NIO ES7 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "SUV",
+   "generation": "I (2022–)",
+   "length_mm": 4912,
+   "platform": "NIO NT2.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "Appears sold out in NL; no new-build orders. NIO's own European configurators (DE/NL/SE/NO) no longer offer factory orders - sales are from remaining stock with clearance discounts; Nio House Hamburg and the Weiterstadt hub closed in July 2026 (eletric-vehicles.com, 23 Aug 2026). Model still listed on nio.com/de_DE (Oct 2026).",
+   "status_sources": [
+    "https://www.nio.com/de_DE",
+    "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "nio-el7-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/nio/el7/d/2022/sl_282123138_nio-el7-2022-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2022-present",
+   "commons_category": "Category:NIO ES7",
+   "commons_file": null,
+   "wikipedia_en": "NIO ES7",
+   "notes": "Switzerland: carify (Apr 2026) lists ET5/ET7/EL7 'from around CHF 60,000' but NIO has no official Swiss network - treated as unknown."
+  },
+  {
+   "brand": "NIO",
+   "group": "NIO",
+   "model": "EL8",
+   "display": "EL8",
+   "other_names": [
+    "NIO ES8 (China, 2nd gen)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "SUV, 6/7 seats",
+   "generation": "II (2024–)",
+   "length_mm": 5099,
+   "platform": "NIO NT2.0",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "Stock available in DE/NO/NL/SE; no new-build orders. NIO's own European configurators (DE/NL/SE/NO) no longer offer factory orders - sales are from remaining stock with clearance discounts; Nio House Hamburg and the Weiterstadt hub closed in July 2026 (eletric-vehicles.com, 23 Aug 2026). Model still listed on nio.com/de_DE (Oct 2026).",
+   "status_sources": [
+    "https://www.nio.com/de_DE",
+    "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "nio-el8-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/nio/el8/d/2023/sl_286120150_nio-el8-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present (Gen. 2)",
+   "commons_category": "Category:NIO ES8 (second generation)",
+   "commons_file": null,
+   "wikipedia_en": "NIO ES8",
+   "notes": "Switzerland: carify (Apr 2026) lists ET5/ET7/EL7 'from around CHF 60,000' but NIO has no official Swiss network - treated as unknown."
+  },
+  {
+   "brand": "Firefly",
+   "group": "NIO",
+   "model": "Firefly",
+   "display": "Firefly",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "I (2025–)",
+   "length_mm": 4003,
+   "platform": "NIO (Firefly platform)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Deliveries since Aug 2025 in NL (EUR 29,900) and Norway; also Belgium, Denmark, Greece, Austria, Portugal by Dec 2025; UK debut 2026 with RHD in production (evpowered, Nov 2025)",
+   "status_sources": [
+    "https://www.electrive.com/2025/08/15/first-firefly-evs-delivered-in-europe",
+    "https://carnewschina.com/2025/12/10/nios-firefly-enters-greece-denmark-austria-and-portugal-as-it-pushes-its-overseas-strategy/",
+    "https://evpowered.co.uk/news/nio-firefly-rhd-squares-up-to-renault-5-ahead-of-uk-2026-debut/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Firefly (car)",
+   "commons_file": null,
+   "wikipedia_en": "Firefly (car)",
+   "notes": "4.0 m: a-city/b-hatch boundary; b-hatch (Renault 5 rival). Germany/Switzerland status not verified. Commons category unverified."
+  },
+  {
+   "brand": "Deepal",
+   "group": "Changan",
+   "model": "S07",
+   "display": "S07",
+   "other_names": [
+    "Changan Deepal S07",
+    "Deepal S7 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2023–; Europe 2025–)",
+   "length_mm": 4750,
+   "platform": "Changan EPA1",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On sale in Germany (EUR 44,990), Italy, Spain, UK, Norway (electrive, Dec 2025); PHEV/REEV version announced for 2026",
+   "status_sources": [
+    "https://www.electrive.com/2025/12/17/changan-expands-into-italy-spain-and-denmark",
+    "https://www.electrive.com/2025/12/05/changan-to-bring-avatr-and-nevo-to-europe-by-2027"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Mazda CX-6e"
+   ],
+   "twin_note": "Mazda CX-6e (= Mazda EZ-60, built by Changan Mazda, European launch Brussels Jan 2026) is 'heavily based on the Deepal S07' and shares its BEV/EREV powertrains on the EPA1 platform, with its own body (Wikipedia) - tier 2. The Mazda 6e (= EZ-6) is likewise an EPA1 sibling of the Deepal L07/SL03, which is not sold in Europe, so no European twin for the 6e.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mazda_EZ-60",
+    "https://www.electrive.com/2025/12/05/changan-to-bring-avatr-and-nevo-to-europe-by-2027"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Deepal S7",
+   "commons_file": null,
+   "wikipedia_en": "Deepal S07",
+   "notes": "Swiss status unknown (no Changan Switzerland found)."
+  },
+  {
+   "brand": "Deepal",
+   "group": "Changan",
+   "model": "S05",
+   "display": "S05",
+   "other_names": [
+    "Changan Deepal S05"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2024–; Europe 2025–)",
+   "length_mm": 4620,
+   "platform": "Changan EPA1",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Germany from EUR 38,990, Italy EUR 39,990, Spain; Denmark from Mar 2026 (electrive, Dec 2025); PHEV version announced for 2026",
+   "status_sources": [
+    "https://www.electrive.com/2025/12/17/changan-expands-into-italy-spain-and-denmark"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Deepal S05",
+   "commons_file": null,
+   "wikipedia_en": "Deepal S05",
+   "notes": "Commons category unverified. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Voyah",
+   "group": "Dongfeng",
+   "model": "Free",
+   "display": "Free",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "row": "e-suv",
+   "body": "SUV",
+   "generation": "I (2021–; facelift 2024)",
+   "length_mm": 4905,
+   "platform": "Dongfeng ESSA",
+   "powertrains": [
+    "BEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Netherlands: Limited Edition EUR 53,990 'direct uit voorraad' (voyah.nl, Oct 2026); Switzerland: Noyo Mobility from CHF 69,900 (carify, Apr 2026); discontinued in Norway (voyah.no, Oct 2026)",
+   "status_sources": [
+    "https://www.voyah.nl/",
+    "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+    "https://voyah.no/",
+    "https://autonews.gasgoo.com/articles/market-industry/dongfeng-motors-voyah-expands-market-presence-in-more-european-countries-70023756"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "voyah-free-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/voyah/free/d/2021/sl_278120137_voyah-free-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Voyah Free",
+   "commons_file": null,
+   "wikipedia_en": "Voyah Free",
+   "notes": "Offered as BEV and range-extender (EREV counted as PHEV). 4.9 m -> e-suv. NL sells from stock, so possibly late in its run. Voyah sells through importers with official brand sites in Norway (Electric Way), the Netherlands (Gomes), Switzerland (Noyo Mobility), Finland, Sweden, Denmark; voyah.eu blocks fetches. On voyah.no (Oct 2026) only the Courage is current; Free and Dream are marked 'Utgatt modell' (discontinued) in Norway."
+  },
+  {
+   "brand": "Voyah",
+   "group": "Dongfeng",
+   "model": "Dream",
+   "display": "Dream",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "MPV, 7 seats",
+   "generation": "I (2022–)",
+   "length_mm": 5315,
+   "platform": "Dongfeng ESSA",
+   "powertrains": [
+    "BEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Netherlands: listed from EUR 91,857 (Flagship Edition EUR 86,857) on voyah.nl (Oct 2026); discontinued in Norway (voyah.no, Oct 2026)",
+   "status_sources": [
+    "https://www.voyah.nl/",
+    "https://voyah.no/",
+    "https://autonews.gasgoo.com/articles/market-industry/dongfeng-motors-voyah-expands-market-presence-in-more-european-countries-70023756"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Voyah Dream",
+   "commons_file": null,
+   "wikipedia_en": "Voyah Dream",
+   "notes": "Only the Dutch importer still lists it (with price). Voyah sells through importers with official brand sites in Norway (Electric Way), the Netherlands (Gomes), Switzerland (Noyo Mobility), Finland, Sweden, Denmark; voyah.eu blocks fetches. On voyah.no (Oct 2026) only the Courage is current; Free and Dream are marked 'Utgatt modell' (discontinued) in Norway."
+  },
+  {
+   "brand": "Voyah",
+   "group": "Dongfeng",
+   "model": "Courage",
+   "display": "Courage",
+   "other_names": [
+    "Voyah Zhiyin (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4725,
+   "platform": "Dongfeng ESSA",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Netherlands: 'Nu verkrijgbaar', Business Edition EUR 39,990 (voyah.nl, Oct 2026); Norway from NOK 299,990 via Electric Way (voyah.no, Oct 2026); launched Oct 2024 in NO/SE/FI",
+   "status_sources": [
+    "https://www.voyah.nl/",
+    "https://voyah.no/",
+    "https://autonews.gasgoo.com/articles/market-industry/voyah-launches-courage-suv-model-in-norway-sweden-finland-70034976"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Voyah Courage",
+   "commons_file": null,
+   "wikipedia_en": "Voyah Courage",
+   "notes": "Voyah sells through importers with official brand sites in Norway (Electric Way), the Netherlands (Gomes), Switzerland (Noyo Mobility), Finland, Sweden, Denmark; voyah.eu blocks fetches. On voyah.no (Oct 2026) only the Courage is current; Free and Dream are marked 'Utgatt modell' (discontinued) in Norway."
+  },
+  {
+   "brand": "Dongfeng",
+   "group": "Dongfeng",
+   "model": "Box",
+   "display": "Box",
+   "other_names": [
+    "Dongfeng Nammi 01 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "I (2023–; NL 2024–)",
+   "length_mm": 4030,
+   "platform": "Dongfeng (Nammi 01)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed by the Dutch Dongfeng/Voyah importer (voyah.nl, Oct 2026: 42.3 kWh, 70 kW, 310 km WLTP, own site dongfengbox.nl); the page gives no price or explicit order status",
+   "status_sources": [
+    "https://voyah.nl/dongfeng-box?hsLang=nl",
+    "https://www.voyah.nl/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Dongfeng Nammi 01",
+   "commons_file": null,
+   "wikipedia_en": "Dongfeng Nammi 01",
+   "notes": "Length 4,030 mm from general knowledge of the Nammi 01 (not on the fetched page). Only Dutch evidence found; status should be confirmed on dongfengbox.nl. Dongfeng brand column = group 'Dongfeng'. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Mhero",
+   "group": "Dongfeng",
+   "model": "Mhero I",
+   "display": "Mhero I",
+   "other_names": [
+    "M-Hero 917 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "offroad",
+   "body": "ladder-frame luxury off-roader",
+   "generation": "I (2022–; NL 2025–)",
+   "length_mm": 4987,
+   "platform": "Dongfeng M-Hero (MORA)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed by the Dutch Dongfeng/Voyah importer with a price-list PDF and showroom cars in Alkmaar and Veghel (voyah.nl/mhero, Oct 2026): four motors, 142.7 kWh, 480 km WLTP",
+   "status_sources": [
+    "https://voyah.nl/mhero?hsLang=nl",
+    "https://www.voyah.nl/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mengshi 917",
+   "commons_file": null,
+   "wikipedia_en": "Mengshi 917",
+   "notes": "Length 4,987 mm from general knowledge of the M-Hero 917 (not on the fetched page). Extra brand found during research: Mhero is Dongfeng's off-road luxury brand (group label 'Dongfeng'). Order status not explicitly confirmed - VERIFY. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Hongqi",
+   "group": "FAW",
+   "model": "EHS5",
+   "display": "EHS5",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2025–; Norway 2026)",
+   "length_mm": 4750,
+   "platform": "FAW FMEs",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "New model ('nyheten EHS5') on hongqi.no, in stock, from NOK 439,900 (Oct 2026); 4,750 mm, wheelbase 2,900 mm, 85 kWh LFP, AWD 563 hp",
+   "status_sources": [
+    "https://www.hongqi.no/",
+    "https://hongqi.no/biler",
+    "https://hongqi.no/biler/ehs5/spesifikasjoner/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hongqi EHS5",
+   "commons_file": null,
+   "wikipedia_en": "Hongqi EHS5",
+   "notes": "Commons category unverified. Hongqi sells via importers with official sites in Norway (HBI Norge / Motor Gruppen), Netherlands, Sweden, Denmark; Switzerland has service centres (Hongqi, 2024) but no Swiss sales site was found. Norwegian line-up (hongqi.no/biler, Oct 2026): EHS5, EH7, EHS7, E-HS9. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Hongqi",
+   "group": "FAW",
+   "model": "EH7",
+   "display": "EH7",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "4-door saloon",
+   "generation": "I (2024–)",
+   "length_mm": 4980,
+   "platform": "FAW FMEs",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed from NOK 499,900 on hongqi.no/biler (Oct 2026); European launch via Norway (Motor Gruppen, 2024) at EUR 49,999",
+   "status_sources": [
+    "https://hongqi.no/biler",
+    "https://autonews.gasgoo.com/articles/news/faws-hongqi-brand-to-foray-into-norwegian-market-70033334",
+    "https://fleetworld.co.uk/hongqi-reveals-prices-for-luxury-evs-in-europe-ahead-of-uk-arrival/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hongqi EH7",
+   "commons_file": null,
+   "wikipedia_en": "Hongqi EH7",
+   "notes": "Hongqi sells via importers with official sites in Norway (HBI Norge / Motor Gruppen), Netherlands, Sweden, Denmark; Switzerland has service centres (Hongqi, 2024) but no Swiss sales site was found. Norwegian line-up (hongqi.no/biler, Oct 2026): EHS5, EH7, EHS7, E-HS9."
+  },
+  {
+   "brand": "Hongqi",
+   "group": "FAW",
+   "model": "EHS7",
+   "display": "EHS7",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4995,
+   "platform": "FAW FMEs",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed from NOK 544,900 on hongqi.no/biler (Oct 2026); European launch via Norway (2024) at EUR 53,999",
+   "status_sources": [
+    "https://hongqi.no/biler",
+    "https://autonews.gasgoo.com/articles/news/faws-hongqi-brand-to-foray-into-norwegian-market-70033334",
+    "https://fleetworld.co.uk/hongqi-reveals-prices-for-luxury-evs-in-europe-ahead-of-uk-arrival/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hongqi EHS7",
+   "commons_file": null,
+   "wikipedia_en": "Hongqi EHS7",
+   "notes": "Hongqi sells via importers with official sites in Norway (HBI Norge / Motor Gruppen), Netherlands, Sweden, Denmark; Switzerland has service centres (Hongqi, 2024) but no Swiss sales site was found. Norwegian line-up (hongqi.no/biler, Oct 2026): EHS5, EH7, EHS7, E-HS9."
+  },
+  {
+   "brand": "Hongqi",
+   "group": "FAW",
+   "model": "E-HS9",
+   "display": "E-HS9",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "SUV, 6/7 seats",
+   "generation": "I (2020–; Europe 2021–)",
+   "length_mm": 5209,
+   "platform": "FAW",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed from NOK 1,299,990 on hongqi.no/biler (Oct 2026)",
+   "status_sources": [
+    "https://hongqi.no/biler"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Hongqi E-HS9",
+   "commons_file": null,
+   "wikipedia_en": "Hongqi E-HS9",
+   "notes": "Only Norwegian evidence; Dutch/Swedish availability not checked. Hongqi sells via importers with official sites in Norway (HBI Norge / Motor Gruppen), Netherlands, Sweden, Denmark; Switzerland has service centres (Hongqi, 2024) but no Swiss sales site was found. Norwegian line-up (hongqi.no/biler, Oct 2026): EHS5, EH7, EHS7, E-HS9. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  }
+ ],
+ "announced": [
+  {
+   "brand": "BYD",
+   "group": "BYD",
+   "model": "Seal U facelift",
+   "display": "Seal U DM-i (facelift)",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I facelift (2026)",
+   "length_mm": 4775,
+   "platform": "BYD DM-i",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "Facelift announced for Germany during 2026 (same technical base) - not a new tile, just a note",
+   "status_sources": [
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Informational only; the current Seal U tile stays. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Denza",
+   "group": "BYD",
+   "model": "D9",
+   "display": "D9",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "MPV, 7 seats (2+2+3)",
+   "generation": "I (Europe 2026/27)",
+   "length_mm": 5250,
+   "platform": "BYD DM-i",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "German site: 'Vorbestellbar ab Preisbereich 80.000-90.000 EUR', configurator 'in Kürze verfügbar' (pre-orders open, not yet orderable; denza.com/de/d9, Oct 2026); introduced at the Apr 2026 Paris launch",
+   "status_sources": [
+    "https://www.denza.com/de/d9",
+    "https://chinaevhome.com/2026/04/09/denza-z9gt-hits-7-european-markets-at-101k-eur/",
+    "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Denza D9",
+   "commons_file": null,
+   "wikipedia_en": "Denza D9",
+   "notes": "DM-i AWD, ~210 km EV / 950 km combined. Expected on sale late 2026/2027. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Denza",
+   "group": "BYD",
+   "model": "BAO 5",
+   "display": "BAO 5",
+   "other_names": [
+    "Denza B5",
+    "Fangchengbao Bao 5 (China)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "offroad",
+   "body": "ladder-frame off-road SUV",
+   "generation": "I (Europe 2026/27)",
+   "length_mm": 4890,
+   "platform": "BYD DMO (Fangchengbao)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "German model page offers a 'Gestalten Sie Ihren BAO 5' configurator (400 kW, 760 Nm, 0-100 in 4.8 s) but states there is no EU type approval yet and emission values are pending (denza.com/de/modelle/bao-5, Oct 2026); announced for Europe at the Apr 2026 Paris launch as 'B5'",
+   "status_sources": [
+    "https://www.denza.com/de/modelle/bao-5",
+    "https://www.denza.com/de",
+    "https://chinaevhome.com/2026/04/09/denza-z9gt-hits-7-european-markets-at-101k-eur/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Fangchengbao Bao 5",
+   "commons_file": null,
+   "wikipedia_en": "Fangchengbao Bao 5",
+   "notes": "Treated as 'announced' because no EU type approval yet; may become orderable within months. Commons category unverified. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Denza",
+   "group": "BYD",
+   "model": "Z",
+   "display": "Z",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door sports car",
+   "generation": "I (2026/27)",
+   "length_mm": null,
+   "platform": "BYD e³",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Listed on denza.com/de ('Geboren für Performance') without configurator (Oct 2026); production/order status unknown",
+   "status_sources": [
+    "https://www.denza.com/de"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Verify whether this is a production model for Europe. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Omoda",
+   "group": "Chery",
+   "model": "Omoda 4",
+   "display": "Omoda 4",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "b-suv",
+   "body": "SUV",
+   "generation": "I (2027)",
+   "length_mm": null,
+   "platform": "Chery",
+   "powertrains": [
+    "petrol",
+    "HEV",
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "European motor-show debut in Paris (Oct 2026) ahead of a 2027 UK launch (omodaauto.co.uk news, Oct 2026)",
+   "status_sources": [
+    "https://www.omodaauto.co.uk/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Chery",
+   "group": "Chery",
+   "model": "Q",
+   "display": "Q",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-hatch",
+   "body": "compact EV",
+   "generation": "I (2027)",
+   "length_mm": null,
+   "platform": "Chery",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Compact EV to be unveiled at the Paris Motor Show Oct 2026, German launch after the 1H 2027 hybrid launch (electrive, Aug 2026)",
+   "status_sources": [
+    "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Name/segment provisional. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Lepas",
+   "group": "Chery",
+   "model": "L8",
+   "display": "L8",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2025–; Europe 2026)",
+   "length_mm": 4670,
+   "platform": "Chery (second-generation Tiggo 8 family)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "European expansion starts Q3/Q4 2026 (UK first, then IT/ES/GR/HR/SI/RO; auto.it 27 Aug 2026); a UK dealer page ('Bassetts Lepas', lepas.co.uk) already exists (Oct 2026); Italian production from mid-2026, Italian dealers expected 2026 at c. EUR 40,000; no price list / order confirmation found",
+   "status_sources": [
+    "https://www.auto.it/news/anteprime/2026/08/27-9056932/lepas_debutta_l8_pronti_altri_tre_modelli/3",
+    "https://www.fleetmagazine.com/nuovi-brand-auto-cinesi-in-italia-chery-lepas-icaur-ed-exlantix/",
+    "https://www.lepas.co.uk/",
+    "https://en.wikipedia.org/wiki/Chery_Tiggo_8",
+    "https://www.autohaus.de/nachrichten/autohersteller/chery-fuehrt-vierte-marke-in-europa-ein-lepas-startet-in-grossbritannien-3765830"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lepas L8",
+   "commons_file": null,
+   "wikipedia_en": "Chery Tiggo 8",
+   "notes": "4,670 mm (Wikipedia, Tiggo 8 article: L8 is the export-only derivative of the 2025 second-generation Tiggo 8). 4.67 m -> d-suv boundary. Probably orderable in the UK by Nov 2026 - verify; L6 (EV/PHEV) and L4 (EV) to follow. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Ora",
+   "group": "Great Wall Motor",
+   "model": "Ora 05",
+   "display": "Ora 05",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2026)",
+   "length_mm": null,
+   "platform": "GWM",
+   "powertrains": [
+    "BEV",
+    "PHEV",
+    "petrol"
+   ],
+   "status": "announced",
+   "status_note": "German leasing listing (Oct 2026) shows an Ora 05 'from EUR 262/month' but states it is not yet on sale in Germany; autonotizen (Oct 2025): 'Ora 5' compact SUV from EUR 24,990 in 2026 as petrol/hybrid/electric",
+   "status_sources": [
+    "https://www.goleasy.de/leasing/marken/gwm",
+    "https://autonotizen.de/neuigkeiten/gwm-haval-ora-wey-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "VERIFY - could be on sale by now. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Haval",
+   "group": "Great Wall Motor",
+   "model": "H7",
+   "display": "H7",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2026/27)",
+   "length_mm": null,
+   "platform": "GWM",
+   "powertrains": [
+    "PHEV",
+    "HEV"
+   ],
+   "status": "announced",
+   "status_note": "Due in Germany end of 2026 together with the Jolion Max (autonotizen, Oct 2025)",
+   "status_sources": [
+    "https://autonotizen.de/neuigkeiten/gwm-haval-ora-wey-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Haval",
+   "group": "Great Wall Motor",
+   "model": "Jolion Max",
+   "display": "Jolion Max",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "c-suv",
+   "body": "SUV",
+   "generation": "I (2026/27)",
+   "length_mm": null,
+   "platform": "GWM",
+   "powertrains": [
+    "HEV",
+    "petrol"
+   ],
+   "status": "announced",
+   "status_note": "Due in Germany end of 2026 (autonotizen, Oct 2025)",
+   "status_sources": [
+    "https://autonotizen.de/neuigkeiten/gwm-haval-ora-wey-2026"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Deepal",
+   "group": "Changan",
+   "model": "S07 PHEV",
+   "display": "S07 (PHEV/REEV)",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "d-suv",
+   "body": "SUV",
+   "generation": "I (2026)",
+   "length_mm": 4750,
+   "platform": "Changan EPA1",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "Plug-in/range-extender versions of S05 and S07 due in Italy/Spain in 2026 (electrive, Dec 2025) - powertrain additions, not new tiles",
+   "status_sources": [
+    "https://www.electrive.com/2025/12/17/changan-expands-into-italy-spain-and-denmark"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Informational. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Avatr",
+   "group": "Changan",
+   "model": "Avatr (brand)",
+   "display": "Avatr 11 / 12",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "SUV / saloon",
+   "generation": "(2027)",
+   "length_mm": null,
+   "platform": "Changan CHN",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Changan plans to launch Avatr and Nevo in Europe by 2027 (electrive, Dec 2025); no European sales yet",
+   "status_sources": [
+    "https://www.electrive.com/2025/12/05/changan-to-bring-avatr-and-nevo-to-europe-by-2027"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Brand not yet on sale; listed for completeness. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  },
+  {
+   "brand": "Xiaomi",
+   "group": "Xiaomi",
+   "model": "SU7 / YU7",
+   "display": "SU7 / YU7",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "saloon / SUV",
+   "generation": "(2027)",
+   "length_mm": null,
+   "platform": "Xiaomi Modena",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Xiaomi confirmed Europe as first export market with a 2027 launch (SU7, YU7); nothing on sale in 2026",
+   "status_sources": [
+    "https://fr.motor1.com/news/769666/xiaomi-voitures-electriques-lancement-europe-2027/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": null,
+   "notes": "Brand not yet on sale. carsized: carsized entry not fetched/verified (web-fetch budget exhausted in this session)"
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "MG",
+   "model": "MG5 Electric (estate)",
+   "note": "Removed from the German configurator by May 2025; no successor",
+   "source": "https://insideevs.de/news/758153/mg-5-zs-marvel-ausgelaufen/"
+  },
+  {
+   "brand": "MG",
+   "model": "ZS EV",
+   "note": "Dropped 2025, replaced by the MGS5 EV",
+   "source": "https://insideevs.de/news/758153/mg-5-zs-marvel-ausgelaufen/"
+  },
+  {
+   "brand": "MG",
+   "model": "Marvel R",
+   "note": "Removed from the German configurator by May 2025",
+   "source": "https://insideevs.de/news/758153/mg-5-zs-marvel-ausgelaufen/"
+  },
+  {
+   "brand": "Maxus",
+   "model": "Euniq 6 (SUV) / Euniq 5 (MPV)",
+   "note": "No longer in the UK range (Oct 2026); Euniq 6 still appears on carwow.de without offers - treated as discontinued",
+   "source": "https://www.saicmaxus.co.uk/"
+  },
+  {
+   "brand": "BYD",
+   "model": "Han",
+   "note": "Not in the UK or German line-ups any more (Oct 2026)",
+   "source": "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/"
+  },
+  {
+   "brand": "BYD",
+   "model": "Seal U (BEV)",
+   "note": "Only the Seal U DM-i remains on UK/DE lists (2026)",
+   "source": "https://www.byd.com/uk"
+  },
+  {
+   "brand": "Ora",
+   "model": "Ora 03 (UK)",
+   "note": "carwow UK shows 'currently unavailable new' (Oct 2026) - UK runout; still offered in Germany",
+   "source": "https://www.carwow.co.uk/gwm/poer300-lcv"
+  },
+  {
+   "brand": "NIO",
+   "model": "ET5 saloon / ET7 / EL7 (NL)",
+   "note": "Sold out in the Netherlands, no factory orders anywhere in Europe (Aug 2026) - whole NIO range is runout",
+   "source": "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/"
+  },
+  {
+   "brand": "XPeng",
+   "model": "P7 (first generation)",
+   "note": "Replaced in Europe by the P7+ (not on xpeng.com/de, Oct 2026)",
+   "source": "https://www.xpeng.com/de"
+  },
+  {
+   "brand": "Aiways",
+   "model": "U5 / U6",
+   "note": "Company collapsed 2023-24; no official European sales in 2026 (not re-verified - search budget)",
+   "source": null
+  },
+  {
+   "brand": "Voyah",
+   "model": "Free / Dream (Norway)",
+   "note": "Both marked 'Utgatt modell' (discontinued) on voyah.no (Oct 2026); both still listed with prices by the Dutch importer and the Free by the Swiss importer",
+   "source": "https://voyah.no/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.mgmotor.ch/de",
+   "what": "MG Switzerland model overview (15 models, Oct 2026)"
+  },
+  {
+   "url": "https://www.mgmotor.eu/",
+   "what": "MG Europe model overview (Oct 2026)"
+  },
+  {
+   "url": "https://www.electrive.net/2026/02/13/neuer-mg4-ev-urban-startet-in-oesterreich-bei-unter-20-000-euro/",
+   "what": "MG4 EV Urban = 2nd-gen MG4, Austria launch, old MG4 continues (Feb 2026)"
+  },
+  {
+   "url": "https://ecomento.de/2026/01/30/neuer-mg4-in-europa-zunaechst-nur-in-grossbritannien/",
+   "what": "New MG4 UK-first, old MG4 continues (Jan 2026)"
+  },
+  {
+   "url": "https://insideevs.de/news/786425/mgs6-ev-2026-daten-preise/",
+   "what": "MGS6 EV data, DE order start 16 Mar 2026"
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/neuheiten/mg-qs9-phev-bei-euroncap-crashtest-enthuellt-neuen-fuenfmeter-suv-aus-china/",
+   "what": "MGS9 PHEV = Roewe RX9, 4,983 mm, 7 seats"
+  },
+  {
+   "url": "https://www.electrive.com/2026/06/01/mg-brings-electric-premium-models-im5-and-im6-to-germany/",
+   "what": "MG IM5/IM6 markets and dates (Jun 2026)"
+  },
+  {
+   "url": "https://insideevs.de/news/758153/mg-5-zs-marvel-ausgelaufen/",
+   "what": "MG5/ZS EV/Marvel R dropped (May 2025)"
+  },
+  {
+   "url": "https://www.saicmaxus.co.uk/",
+   "what": "Maxus UK range (10 models, Oct 2026)"
+  },
+  {
+   "url": "https://www.carwow.de/maxus",
+   "what": "Maxus Germany listings"
+  },
+  {
+   "url": "https://www.byd.com/uk",
+   "what": "BYD UK model navigation (14 models, Oct 2026)"
+  },
+  {
+   "url": "https://elektronik-zeit.de/byd-e-autos-2026/byd-modelle/",
+   "what": "BYD Germany line-up and prices (Sept 2026)"
+  },
+  {
+   "url": "https://www.moneycab.com/mobilitaet/byd-startet-mit-kleinwagen-in-der-schweiz/",
+   "what": "BYD Switzerland: Dolphin Surf/Atto 2 launch, Seal/Sealion 7/Seal U on sale (May 2025)"
+  },
+  {
+   "url": "https://www.carify.com/en/blog/chinesische-elektroautos-in-der-schweiz",
+   "what": "Chinese brands/models available in Switzerland (Apr 2026)"
+  },
+  {
+   "url": "https://www.denza.com/de",
+   "what": "Denza Germany site: Z9GT, D9, Z, BAO 5 (Oct 2026)"
+  },
+  {
+   "url": "https://chinaevhome.com/2026/04/09/denza-z9gt-hits-7-european-markets-at-101k-eur/",
+   "what": "Denza European launch, Z9GT pre-orders in 7 markets (Apr 2026)"
+  },
+  {
+   "url": "https://www.autoevolution.com/news/denza-z9-gt-executive-shooting-brake-lands-in-the-united-kingdom-with-arid-prices-for-phev-and-ev-273367.html",
+   "what": "Denza Z9 GT UK prices, orders open (Jul 2026)"
+  },
+  {
+   "url": "https://www.omodajaecoo.ch/",
+   "what": "Omoda & Jaecoo Switzerland: coming soon (Oct 2026)"
+  },
+  {
+   "url": "https://www.omodaauto.co.uk/",
+   "what": "Omoda UK range (Oct 2026)"
+  },
+  {
+   "url": "https://www.jaecoo.co.uk/",
+   "what": "Jaecoo UK range (Oct 2026)"
+  },
+  {
+   "url": "https://www.cargurus.co.uk/research/articles/best-jaecoo-and-omoda-cars-and-suvs",
+   "what": "Omoda/Jaecoo UK models overview (Sept 2026)"
+  },
+  {
+   "url": "https://www.carwow.co.uk/chery",
+   "what": "Chery UK: Tiggo 4/7/8/9 prices (Oct 2026)"
+  },
+  {
+   "url": "https://www.electrive.com/2026/08/chery-makes-its-german-market-debut-with-four-hybrids/",
+   "what": "Chery Germany launch 1H 2027, Chery Q (Aug 2026)"
+  },
+  {
+   "url": "https://www.hibridosyelectricos.com/coches/grupo-chery-anuncia-como-sera-su-2026-mas-puntos-ventas-nuevos-modelos-electrificados-mas-marcas-chinas_83716_102.html",
+   "what": "Chery Group 2026 Europe plan (Nov 2025)"
+  },
+  {
+   "url": "https://www.auto.it/news/anteprime/2026/08/27-9056932/lepas_debutta_l8_pronti_altri_tre_modelli/3",
+   "what": "Lepas L8 European expansion Q3/Q4 2026 (Aug 2026)"
+  },
+  {
+   "url": "https://www.fleetmagazine.com/nuovi-brand-auto-cinesi-in-italia-chery-lepas-icaur-ed-exlantix/",
+   "what": "Lepas/iCaur/Exlantix Italy timing (Nov 2025)"
+  },
+  {
+   "url": "https://www.goleasy.de/leasing/marken/gwm",
+   "what": "GWM Germany model list via leasing portal (Oct 2026)"
+  },
+  {
+   "url": "https://www.autohaus.de/nachrichten/autohersteller/offensive-im-suv-volumensegment-gwm-bringt-haval-nach-deutschland-3785068",
+   "what": "Haval Jolion Pro / H6 Germany prices (Mar 2026)"
+  },
+  {
+   "url": "https://autonotizen.de/neuigkeiten/gwm-haval-ora-wey-2026",
+   "what": "GWM 2026 plans: Ora 5, Haval H6/H7/Jolion (Oct 2025)"
+  },
+  {
+   "url": "https://www.carwow.co.uk/gwm/poer300-lcv",
+   "what": "GWM UK: Haval Jolion Pro on sale, Ora 03 unavailable new (Oct 2026)"
+  },
+  {
+   "url": "https://www.xpeng.com/de",
+   "what": "XPeng Germany line-up: L03, G6, G9, G9L, P7+, X9 (Oct 2026)"
+  },
+  {
+   "url": "https://www.goingelectric.de/elektroautos/xpeng/",
+   "what": "XPeng Germany prices/availability"
+  },
+  {
+   "url": "https://fleetworld.co.uk/xpeng-accelerates-2026-product-roadmap-for-uk/",
+   "what": "XPeng UK 2026 roadmap (G6 update, X9)"
+  },
+  {
+   "url": "https://www.nio.com/de_DE",
+   "what": "NIO Germany model list (Oct 2026)"
+  },
+  {
+   "url": "https://eletric-vehicles.com/nio/nio-running-out-of-vehicles-to-sell-in-its-direct-eu-markets/",
+   "what": "NIO Europe runout/restructuring (Aug 2026)"
+  },
+  {
+   "url": "https://www.electrive.com/2025/08/15/first-firefly-evs-delivered-in-europe",
+   "what": "Firefly first European deliveries (Aug 2025)"
+  },
+  {
+   "url": "https://carnewschina.com/2025/12/10/nios-firefly-enters-greece-denmark-austria-and-portugal-as-it-pushes-its-overseas-strategy/",
+   "what": "Firefly markets Dec 2025"
+  },
+  {
+   "url": "https://eletric-vehicles.com/nio/onvo/nio-delays-onvo-europe-launch-to-2028-2029/",
+   "what": "Onvo Europe delayed to 2028-29 (Sept 2026)"
+  },
+  {
+   "url": "https://www.electrive.com/2025/12/17/changan-expands-into-italy-spain-and-denmark",
+   "what": "Deepal S05/S07 in DE/IT/ES/DK (Dec 2025)"
+  },
+  {
+   "url": "https://www.electrive.com/2025/12/05/changan-to-bring-avatr-and-nevo-to-europe-by-2027",
+   "what": "Changan Europe plan, Avatr/Nevo by 2027 (Dec 2025)"
+  },
+  {
+   "url": "https://autonews.gasgoo.com/articles/market-industry/voyah-launches-courage-suv-model-in-norway-sweden-finland-70034976",
+   "what": "Voyah Courage launch NO/SE/FI (Oct 2024)"
+  },
+  {
+   "url": "https://autonews.gasgoo.com/articles/market-industry/dongfeng-motors-voyah-expands-market-presence-in-more-european-countries-70023756",
+   "what": "Voyah importers NL/CH/Nordics (Jul 2023)"
+  },
+  {
+   "url": "https://www.hongqi.no/",
+   "what": "Hongqi Norway: EHS5 new, in stock (Oct 2026)"
+  },
+  {
+   "url": "https://autonews.gasgoo.com/articles/news/faws-hongqi-brand-to-foray-into-norwegian-market-70033334",
+   "what": "Hongqi Norway agreement, EH7/EHS7 (Jun 2024)"
+  },
+  {
+   "url": "https://fleetworld.co.uk/hongqi-reveals-prices-for-luxury-evs-in-europe-ahead-of-uk-arrival/",
+   "what": "Hongqi EH7/EHS7 European prices (Oct 2024)"
+  },
+  {
+   "url": "https://fr.motor1.com/news/769666/xiaomi-voitures-electriques-lancement-europe-2027/",
+   "what": "Xiaomi Europe launch 2027 (Aug 2025)"
+  },
+  {
+   "url": "https://hongqi.no/biler",
+   "what": "Hongqi Norway line-up with prices: EHS5, EH7, EHS7, E-HS9 (Oct 2026)"
+  },
+  {
+   "url": "https://hongqi.no/biler/ehs5/spesifikasjoner/",
+   "what": "Hongqi EHS5 dimensions"
+  },
+  {
+   "url": "https://www.denza.com/de/d9",
+   "what": "Denza D9 Germany pre-order, configurator coming soon (Oct 2026)"
+  },
+  {
+   "url": "https://www.denza.com/de/modelle/bao-5",
+   "what": "Denza BAO 5 Germany page, no EU type approval yet (Oct 2026)"
+  },
+  {
+   "url": "https://www.xpeng.com/de/model/L03",
+   "what": "XPeng L03 Germany: 4,650 mm, from EUR 35,600, configurator (Oct 2026)"
+  },
+  {
+   "url": "https://www.xpeng.com/de/model/G9L",
+   "what": "XPeng G9L Germany: 5,120 mm, from EUR 85,600, configurator (Oct 2026)"
+  },
+  {
+   "url": "https://voyah.no/",
+   "what": "Voyah Norway: Courage on sale, Free/Dream discontinued (Oct 2026)"
+  },
+  {
+   "url": "https://www.byd.com/uk/hybrid-cars/ti-7",
+   "what": "BYD Ti 7 DM-p UK page, orders from Oct 2026"
+  },
+  {
+   "url": "https://www.byd.com/uk/hybrid-cars/dolphin-g-dm-i",
+   "what": "BYD Dolphin G DM-i UK page, orders from 7 Oct 2026"
+  },
+  {
+   "url": "https://www.byd.com/uk/hybrid-cars/sealion-5-dm-i",
+   "what": "BYD Sealion 5 DM-i UK page"
+  },
+  {
+   "url": "https://www.byd.com/uk/hybrid-cars/shark",
+   "what": "BYD Shark DMO UK page, orders from 7 Oct 2026"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jaecoo_7",
+   "what": "Jaecoo 7 = Chery Tansuo 06 (twin source)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_9",
+   "what": "Tiggo 9 exported as Jaecoo J8/8, T1X platform (twin source)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Mazda_EZ-60",
+   "what": "Mazda EZ-60 / CX-6e heavily based on Deepal S07, EPA1 (twin source)"
+  },
+  {
+   "url": "https://evpowered.co.uk/news/nio-firefly-rhd-squares-up-to-renault-5-ahead-of-uk-2026-debut/",
+   "what": "Firefly UK debut 2026, RHD in production (Nov 2025)"
+  },
+  {
+   "url": "https://commercial-vehicles.mgmotor.eu/model/iev12",
+   "what": "MG iEV12 = 12 m electric bus (out of scope)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Fangchengbao_Tai_7",
+   "what": "Fangchengbao Ti7 = BYD Ti7 global model (EREV, 5 seats)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Omoda_7",
+   "what": "Omoda 7 on stretched Omoda C5 platform, = Chery Tiggo 7L (twin source)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Chery_Omoda_5",
+   "what": "Omoda 5 names/facelifts, = Tiggo 5x High Energy in China"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_7",
+   "what": "Tiggo 7 II rebadges: Ebro S700, DR 6.0, Sportequipe 6; Europe since Jun 2025 (twin source)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_8",
+   "what": "Tiggo 8 rebadged as Ebro S800; Lepas L8 = 2nd-gen derivative, 4,670 mm (twin source)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jaecoo_5",
+   "what": "Jaecoo 5 UK deliveries from Oct 2025; no platform info"
+  },
+  {
+   "url": "https://www.voyah.nl/",
+   "what": "Voyah Netherlands: Courage/Free/Dream prices, Dongfeng Box and Mhero I listed (Oct 2026)"
+  },
+  {
+   "url": "https://voyah.nl/dongfeng-box?hsLang=nl",
+   "what": "Dongfeng Box NL page (42.3 kWh, 310 km)"
+  },
+  {
+   "url": "https://voyah.nl/mhero?hsLang=nl",
+   "what": "Mhero I NL page (142.7 kWh, showroom cars)"
+  },
+  {
+   "url": "https://www.lepas.co.uk/",
+   "what": "lepas.co.uk = 'Bassetts Lepas' UK dealer page (Oct 2026)"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/trending/car-comparisons/",
+   "what": "carsized slug conventions (make-model-year-body)"
+  }
+ ]
+}

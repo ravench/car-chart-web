@@ -1,0 +1,3740 @@
+{
+ "agent": "vw-group research agent (Claude)",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Polo",
+   "display": "Polo",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/polo.html",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "VI (AW, 2017–; facelift 2021)",
+   "length_mm": 4074,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed with price on volkswagen.de (ab 20'380 EUR, 'Neu') and on volkswagen.ch (Sondermodell UNITED), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "SEAT Ibiza",
+    "Škoda Fabia",
+    "Audi A1"
+   ],
+   "twin_note": "MQB A0 B-segment siblings (Polo/Ibiza/Fabia built on the same platform generation; Audi A1 in runout).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk6"
+   ],
+   "carsized_slug": "volkswagen-polo-2021-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/polo/h5/2021/sl_244112093_volkswagen-polo-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present (facelift entry)",
+   "commons_category": "Category:Volkswagen Polo VI",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Polo Mk6",
+   "notes": "GTI is the same tile. carsized slug (confirmed, see fields; earlier guess (not yet fetched – fetch budget): volkswagen-polo-2017-5-door-hatchback."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID. Polo",
+   "display": "ID. Polo",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/id-polo.html",
+   "row": "b-hatch",
+   "body": "5-door hatchback (BEV)",
+   "generation": "I (2026–)",
+   "length_mm": 4053,
+   "platform": "MEB+",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders opened end of April 2026 (DE, from 24'995 EUR); volkswagen.de shows 'Jetzt erhältlich'; ID. Polo GTI pre-sale from 2026-10-07 (VW newsroom); 'Neuheit' on volkswagen.ch.",
+   "status_sources": [
+    "https://www.elektroquatsch.de/artikel/vw-id-polo-nachfrage-lieferzeit-bestellungen",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen-newsroom.com/de/id-familie-5002",
+    "https://www.volkswagen.ch/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Cupra Raval"
+   ],
+   "twin_note": "MEB+ B-segment siblings built on the same line in Martorell; distinct bodies (verifier may judge tier 1 – shared doors/glasshouse not confirmed).",
+   "twin_sources": [
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/",
+    "https://theevreport.com/skoda-epiq-uk-pricing-specification"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID. Polo",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID. Polo",
+   "notes": "Length approx. (4.05 m per VW; exact figure not re-verified). ID. Polo GTI same tile. Commons category name not verified (fetch budget). carsized slug guess: volkswagen-id-polo-2026-5-door-hatchback."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Taigo",
+   "display": "Taigo",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/taigo.html",
+   "row": "b-suv",
+   "body": "coupé-crossover",
+   "generation": "I (2021–)",
+   "length_mm": 4266,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch (Sondermodell UNITED) and volkswagen.de (ab 23'560 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen T-Cross",
+    "SEAT Arona",
+    "Škoda Kamiq",
+    "Audi Q2"
+   ],
+   "twin_note": "MQB A0 small-SUV siblings; Taigo is the coupé derivative of the T-Cross (same wheelbase, built in Pamplona).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Volkswagen_Taigo"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Taigo",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Taigo",
+   "notes": "carsized slug guess: volkswagen-taigo-2021-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "T-Cross",
+   "display": "T-Cross",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/t-cross.html",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (2019–; facelift 2024)",
+   "length_mm": 4127,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch (Sondermodell UNITED) and volkswagen.de (ab 25'280 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Taigo",
+    "SEAT Arona",
+    "Škoda Kamiq",
+    "Audi Q2"
+   ],
+   "twin_note": "MQB A0 small-SUV siblings (T-Cross/Taigo/Arona/Kamiq; Q2 MQB-based, in runout).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Volkswagen_T-Cross"
+   ],
+   "carsized_slug": "volkswagen-t-cross-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/t-cross/d/2024/sm_267110100_volkswagen-t-cross-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Volkswagen T-Cross",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen T-Cross",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: volkswagen-t-cross-2019-suv (check that carsized has the 2024 facelift entry)."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID. Cross",
+   "display": "ID. Cross",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/id-cross.html",
+   "row": "b-suv",
+   "body": "small SUV (BEV)",
+   "generation": "I (2026–)",
+   "length_mm": 4161,
+   "platform": "MEB+",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurator/orders opened July 2026 (initially from 34'025 EUR, electrive 2026-07-23); volkswagen.de now lists ab 27'995 EUR; 'Neuheit' on volkswagen.ch; VW newsroom release 2026-10-11 (Paris) on market entry.",
+   "status_sources": [
+    "https://www.electrive.net/2026/07/23/vw-id-cross-startet-zunaechst-ab-34-025-euro/",
+    "https://newmobility.news/en/2026/03/18/volkswagens-id-cross-will-start-at-e28000/",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen-newsroom.com/de/id-familie-5002"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Škoda Epiq"
+   ],
+   "twin_note": "MEB+ small electric SUVs (ID. Cross = electric T-Cross counterpart; Epiq is the first Škoda on MEB+).",
+   "twin_sources": [
+    "https://theevreport.com/skoda-epiq-uk-pricing-specification",
+    "https://newmobility.news/en/2026/03/18/volkswagens-id-cross-will-start-at-e28000/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID. Cross",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID. Cross",
+   "notes": "Length 4.15–4.16 m (press). Commons category not verified. carsized slug guess: volkswagen-id-cross-2026-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "T-Roc",
+   "display": "T-Roc",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/der-neue-t-roc.html",
+   "row": "c-suv",
+   "body": "compact SUV (2nd gen); 1st-gen Cabriolet continues",
+   "generation": "II (2025–); Cabriolet still gen I (2020–2027)",
+   "length_mm": 4373,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "MHEV",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "2nd generation launched Nov 2025 (from 30'845 EUR); full hybrid added 2026; no diesel. T-Roc Cabriolet (gen I) remains on sale until 2027 (ab 37'995 EUR on volkswagen.de).",
+   "status_sources": [
+    "https://autonotizen.de/neuigkeiten/vw-t-roc-2026",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.motor1.com/news/798952/vw-t-roc-cabrio-production-cut/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Tiguan",
+    "Audi Q3",
+    "Cupra Formentor",
+    "Cupra Terramar"
+   ],
+   "twin_note": "MQB evo compact-SUV siblings (same architecture as Tiguan III/Q3 III/Formentor/Terramar).",
+   "twin_sources": [
+    "https://autonotizen.de/neuigkeiten/vw-t-roc-2026",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": "volkswagen-t-roc-2025-suv",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/t-roc/d/2025/sl_263121117_volkswagen-t-roc-2025-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2025-present (Gen. 2)",
+   "commons_category": "Category:Volkswagen T-Roc II",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen T-Roc",
+   "notes": "Row judgement: 4.37 m / MQB evo -> c-suv (gen I was b-suv). T-Roc Cabriolet is a body style of the same nameplate -> same tile. Commons category name for gen II not verified. carsized slug (confirmed, see fields; earlier guess: volkswagen-t-roc-2025-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Golf",
+   "display": "Golf",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/golf.html",
+   "row": "c-hatch",
+   "body": "5-door hatchback / estate (Variant)",
+   "generation": "VIII (2019–; facelift 2024)",
+   "length_mm": 4282,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch (Golf and Golf Variant, Sondermodell UNITED) and volkswagen.de (ab 29'835 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "SEAT Leon",
+    "Cupra Leon",
+    "Škoda Octavia",
+    "Audi A3"
+   ],
+   "twin_note": "MQB evo C-segment siblings (Golf 8 / Leon 4 / Octavia 4 / A3 8Y).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk8"
+   ],
+   "carsized_slug": "volkswagen-golf-2019-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/golf/d/2019/sl_245118108_volkswagen-golf-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2024 (Gen. 8; pre-facelift entry)",
+   "commons_category": "Category:Volkswagen Golf VIII",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Golf Mk8",
+   "notes": "Golf Variant, GTI, GTE, R are the same tile. carsized slug (confirmed, see fields; earlier guess: volkswagen-golf-2019-5-door-hatchback."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID.3",
+   "display": "ID.3 Neo",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/id3-neo.html",
+   "row": "c-hatch",
+   "body": "5-door hatchback (BEV)",
+   "generation": "I (2020–; major 'Neo' update 2026)",
+   "length_mm": 4264,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ID.3 Neo world premiere 2026-04-15; orders from ~34'000 EUR (volkswagen.de ab 33'995 EUR); 'Neuheit' on volkswagen.ch.",
+   "status_sources": [
+    "https://www.electrive.net/2026/04/15/weltpremiere-des-vw-id-3-neo-mehr-als-nur-ein-facelift/",
+    "https://www.autohaus.de/nachrichten/autohersteller/vw-id-3-neo-start-fuer-34-000-euro-3792498",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Cupra Born",
+    "Audi A2 e-tron"
+   ],
+   "twin_note": "Tier 1 with the Cupra Born (Cupra derivative of the ID.3: same MEB body structure, doors and glasshouse, Zwickau-built; own front/rear styling – verifier may downgrade to tier 2); tier 2 with the Audi A2 e-tron (MEB, same 2,770 mm wheelbase, own body).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Cupra_Born"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID.3",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID.3",
+   "notes": "VW now markets the car as 'ID.3 Neo'; nameplate kept as ID.3. ID.3 GTI same tile. carsized slug guess: volkswagen-id-3-2020-5-door-hatchback (check for a 2026 entry)."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Tiguan",
+   "display": "Tiguan",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/tiguan.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "III (2024–)",
+   "length_mm": 4539,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch (Sondermodell UNITED) and volkswagen.de (ab 39'385 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen T-Roc",
+    "Audi Q3",
+    "Cupra Formentor",
+    "Cupra Terramar"
+   ],
+   "twin_note": "MQB evo compact-SUV siblings; Cupra Terramar shares the Tiguan III wheelbase (2,681 mm) and is built in Győr next to the Q3.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Volkswagen_Tiguan"
+   ],
+   "carsized_slug": "volkswagen-tiguan-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/tiguan/d/2024/sl_278123133_volkswagen-tiguan-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present (Gen. 3)",
+   "commons_category": "Category:Volkswagen Tiguan III",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Tiguan",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: volkswagen-tiguan-2024-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID.4",
+   "display": "ID.4",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "c-suv",
+   "body": "compact SUV (BEV)",
+   "generation": "I (2020–; facelift 2024)",
+   "length_mm": 4584,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Still listed with price on volkswagen.de (ab 40'580 EUR, 'Lagerfahrzeuge' hint) and on volkswagen.ch (Sondermodell UNITED). Successor ID. Tiguan premiered 2026-10-09, deliveries from early 2027 -> ID.4 in its runout year.",
+   "status_sources": [
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen-newsroom.com/de/id-familie-5002",
+    "https://www.meinauto.de/news/2026/09/vw-id-tiguan-kuendigt-sich-an-nachfolger-von-id-4-und-id-5-kommt-2027"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.5",
+    "Volkswagen ID. Tiguan",
+    "Škoda Enyaq",
+    "Škoda Elroq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "MEB compact-SUV family (ID.4/ID.5/Enyaq/Elroq/Q4 e-tron/Tavascan; Ford Explorer and Capri are MEB-based, built in Cologne). ID. Tiguan is on MEB+ (see its note).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Ford_Explorer_EV"
+   ],
+   "carsized_slug": "volkswagen-id4-2020-suv",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/id4/d/2020/sl_272111131_volkswagen-id4-2020-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2020-present",
+   "commons_category": "Category:Volkswagen ID.4",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID.4",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: volkswagen-id-4-2020-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID.5",
+   "display": "ID.5",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "c-suv",
+   "body": "coupé-SUV (BEV)",
+   "generation": "I (2022–; facelift 2024)",
+   "length_mm": 4599,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Still listed with price on volkswagen.de (ab 43'360 EUR) in Oct 2026; NOT on the Swiss model list. Reports (Autocar via evpowered, Aug 2025) say production ends end-2026 with no direct successor besides the ID. Tiguan.",
+   "status_sources": [
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://evpowered.co.uk/news/volkswagen-id-5-rumoured-to-be-discontinued-for-2027/",
+    "https://www.volkswagen-newsroom.com/de/id-familie-5002"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.4",
+    "Volkswagen ID. Tiguan",
+    "Škoda Enyaq",
+    "Škoda Elroq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "MEB compact-SUV family; ID.5 is the coupé body of the ID.4.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID.5",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID.5",
+   "notes": "Verifier: confirm order books still open in DE (configurator). carsized slug guess: volkswagen-id-5-2021-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID. Tiguan",
+   "display": "ID. Tiguan",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/id-tiguan.html",
+   "row": "c-suv",
+   "body": "compact SUV (BEV)",
+   "generation": "I (2026/27–)",
+   "length_mm": 4620,
+   "platform": "MEB+",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "World premiere 2026-10-09; pre-sale/orders opened 2026-10-13 in DE (ab 42'695 EUR) and NL (from 40'990 EUR); deliveries/market launch early 2027 (built in Emden). Counted as on sale because it is orderable; verifier may prefer 'announced'.",
+   "status_sources": [
+    "https://www.monsterdealz.de/magazin/vw-id-tiguan",
+    "https://www.autozine.nl/volkswagen/idtiguan/nieuws/volkswagen-prijst-id-tiguan",
+    "https://www.volkswagen-newsroom.com/de/id-familie-5002",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Škoda Enyaq",
+    "Škoda Elroq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "Direct ID.4/ID.5 successor on MEB+ (evolution of MEB, 58 kWh LFP / 77 kWh NMC). Grouped with the MEB family for the chart; verifier may split MEB+ from MEB.",
+   "twin_sources": [
+    "https://www.monsterdealz.de/magazin/vw-id-tiguan",
+    "https://en.wikipedia.org/wiki/Volkswagen_ID._Tiguan",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID. Tiguan",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID. Tiguan",
+   "notes": "Wikipedia stub confirms MEB+ and ID.4/ID.5 as predecessors. Commons category not verified. carsized entry probably not yet available."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Tayron",
+   "display": "Tayron",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/tayron.html",
+   "row": "d-suv",
+   "body": "mid-size SUV (5/7 seats)",
+   "generation": "I (Europe, 2024–)",
+   "length_mm": 4792,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch (Sondermodell UNITED) and volkswagen.de (ab 47'470 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Škoda Kodiaq"
+   ],
+   "twin_note": "MQB evo long-wheelbase siblings (Tayron 2,791 mm / Kodiaq II 2,791 mm wheelbase), developed together.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Volkswagen_Tayron"
+   ],
+   "carsized_slug": "volkswagen-tayron-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/tayron/d/2024/sm_277124149_volkswagen-tayron-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Volkswagen Tayron",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Tayron",
+   "notes": "Commons may split the European Tayron from the Chinese one – verify. carsized slug (confirmed, see fields; earlier guess: volkswagen-tayron-2024-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Passat",
+   "display": "Passat",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/passat.html",
+   "row": "d-car",
+   "body": "estate (Variant only)",
+   "generation": "B9 (2024–)",
+   "length_mm": 4917,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch and volkswagen.de (ab 42'930 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Škoda Superb"
+   ],
+   "twin_note": "Passat B9 and Superb IV were developed together and are both built in Bratislava (MQB evo).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Passat_(B9)",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Passat B9",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Passat (B9)",
+   "notes": "carsized slug guess: volkswagen-passat-2024-station-wagon."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID.7",
+   "display": "ID.7",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/id7.html",
+   "row": "d-car",
+   "body": "fastback saloon / estate (Tourer) (BEV)",
+   "generation": "I (2023–)",
+   "length_mm": 4961,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "ID.7 and ID.7 Tourer listed on volkswagen.ch (Sondermodell UNITED) and volkswagen.de (ab 54'505 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No same-row sibling (MEB family sits in c-suv/mpv rows).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID.7",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID.7",
+   "notes": "ID.7 Tourer is a body style -> same tile. Row d-car per brief list (4.96 m). carsized slug guess: volkswagen-id-7-2023-5-door-hatchback."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Touareg",
+   "display": "Touareg",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle/touareg.html",
+   "row": "e-suv",
+   "body": "large SUV",
+   "generation": "III (2018–2026; facelift 2023)",
+   "length_mm": 4902,
+   "platform": "MLB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "Final Edition announced Oct 2025; orders accepted until end of March 2026, production of the combustion Touareg ends in 2026; still shown on volkswagen.ch, no longer on volkswagen.de model list (Oct 2026).",
+   "status_sources": [
+    "https://www.automotiveworld.com/news/volkswagen-current-touareg-generation-ends-with-a-final-edition/",
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Cayenne",
+    "Audi Q7",
+    "Audi Q8",
+    "Lamborghini Urus",
+    "Bentley Bentayga"
+   ],
+   "twin_note": "MLB evo large-SUV family (Cayenne/Q7/Q8/Touareg/Urus/Bentayga).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform",
+    "https://www.automotiveworld.com/news/audi-announces-third-generation-q7-for-summer-2026-debut/"
+   ],
+   "carsized_slug": "volkswagen-touareg-2018-suv",
+   "carsized_side": "https://www.carsized.com/resources/volkswagen/touareg/d/2018/sm_281128141_volkswagen-touareg-2018-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2018-2023 (Gen. 3; pre-facelift entry)",
+   "commons_category": "Category:Volkswagen Touareg III",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Touareg",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: volkswagen-touareg-2018-suv."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Caddy",
+   "display": "Caddy",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "mpv-small",
+   "body": "leisure activity vehicle (5/7 seats; Maxi; Caddy California camper)",
+   "generation": "V (2020–; facelift 2026)",
+   "length_mm": 4500,
+   "platform": "MQB",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Facelift (new front, new interior) announced March 2026, pre-sale started ('Der neue Caddy', Neu, ab 34'200 EUR on VWN DE / volkswagen.de). Caddy and Caddy California listed in the Vans section of volkswagen.ch.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://vanreviewer.co.uk/news/volkswagen-previews-new-caddy-and-multivan-facelifts/",
+    "https://www.autozeitung.de/vw-caddy-facelift-2026-news-300368.html",
+    "https://www.volkswagen.ch/de/modelle.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ford Tourneo Connect"
+   ],
+   "twin_note": "Ford announced the Tourneo Connect (2021) as a rebadged Caddy, the first product of the Ford–VW alliance, deliveries from early 2022 (Wikipedia); built by VW in Poznań.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Caddy",
+    "https://en.wikipedia.org/wiki/Ford_Tourneo_Connect"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Caddy V",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Caddy",
+   "notes": "'Caddy California' (camper trim) folded into this tile. Wikipedia counts the 2020 Caddy as the 4th generation (Typ SB; VW markets it as 'Caddy 5'), so the Commons category may be 'Category:Volkswagen Caddy IV' or '(SB)' – verify. Swiss VWN site (vw-nutzfahrzeuge.ch) blocks fetching; Swiss status taken from volkswagen.ch 'Vans' section or partner.vw-nutzfahrzeuge.ch pages found via search. carsized slug guess: volkswagen-caddy-2020-5-door-van."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Caddy Cargo",
+   "display": "Caddy Cargo",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-small",
+   "body": "panel van (Caddy Cargo / Cargo Maxi)",
+   "generation": "V (2020–; facelift 2026)",
+   "length_mm": 4500,
+   "platform": "MQB",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on VWN DE model page as 'Caddy Cargo / Caddy Flexible' (Neu, ab 31'511 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://www.autozeitung.de/vw-caddy-facelift-2026-news-300368.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ford Transit Connect"
+   ],
+   "twin_note": "Ford Transit Connect III is the rebadged Caddy Cargo (Poznań-built).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Caddy",
+    "https://en.wikipedia.org/wiki/Ford_Transit_Connect"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Caddy V",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Caddy",
+   "notes": "Same nameplate family as Caddy but a separate van tile per brief (Citan/T-Class logic). Swiss VWN site (vw-nutzfahrzeuge.ch) blocks fetching; Swiss status taken from volkswagen.ch 'Vans' section or partner.vw-nutzfahrzeuge.ch pages found via search. carsized: same entry as Caddy (van)."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Transporter",
+   "display": "Transporter",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.partner.vw-nutzfahrzeuge.ch/vw-truck-chur/de/der-transporter/inhalt",
+   "row": "van-mid",
+   "body": "panel van / Kombi / chassis (Pritsche, DoKa)",
+   "generation": "T7 (2025–)",
+   "length_mm": 5050,
+   "platform": "Ford Transit Custom (Ford–VW alliance)",
+   "powertrains": [
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Transporter Kasten/Kombi/Pritsche and e-Transporter listed with prices on VWN DE (Kasten ab 45'416 EUR); Swiss partner pages advertise 'Der neue Transporter'.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://www.partner.vw-nutzfahrzeuge.ch/vw-truck-chur/de/der-transporter/inhalt",
+    "https://partner.vw-nutzfahrzeuge.ch/schmidgarage/de/new-transporter"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ford Transit Custom"
+   ],
+   "twin_note": "T7 Transporter is based on the Ford Transit Custom (Wikipedia; built by Ford in Kocaeli, Turkey) with VW-specific front/rear and interior trim; the Multivan T7 is MQB-based and unrelated.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)",
+    "https://ecomento.de/2023/12/12/vw-kuendigt-e-transporter-und-e-caravelle-an/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Transporter (T7)",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Transporter (T7)",
+   "notes": "e-Transporter (BEV, 63.8 kWh) and eHybrid (PHEV, 16.5 kWh) are powertrain variants of the same tile. Wikipedia links the Commons category as 'Volkswagen T7 Transporter' – check against 'Category:Volkswagen Transporter (T7)'. carsized slug guess: volkswagen-transporter-2024-van."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Caravelle",
+   "display": "Caravelle",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "mpv-large",
+   "body": "people carrier (up to 9 seats)",
+   "generation": "T7 (2025–)",
+   "length_mm": 5050,
+   "platform": "Ford Transit Custom (Ford–VW alliance)",
+   "powertrains": [
+    "diesel",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Caravelle (ab 53'830 EUR) and e-Caravelle listed on VWN DE, Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ford Tourneo Custom"
+   ],
+   "twin_note": "Passenger version of the Ford-built T7 Transporter; Ford Tourneo Custom is the twin.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)",
+    "https://ecomento.de/2023/12/12/vw-kuendigt-e-transporter-und-e-caravelle-an/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Transporter (T7)",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Transporter (T7)",
+   "notes": "Swiss VWN site (vw-nutzfahrzeuge.ch) blocks fetching; Swiss status taken from volkswagen.ch 'Vans' section or partner.vw-nutzfahrzeuge.ch pages found via search. carsized: likely the same Transporter entry (van/minivan)."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Multivan",
+   "display": "Multivan",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "mpv-large",
+   "body": "MPV (5–8 seats; standard/long)",
+   "generation": "T7 (2021–; facelift 2026)",
+   "length_mm": 4973,
+   "platform": "MQB",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Der neue Multivan' (facelift, Neu) listed on VWN DE / volkswagen.de (ab 57'465 EUR) and on volkswagen.ch, Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://vanreviewer.co.uk/news/volkswagen-previews-new-caddy-and-multivan-facelifts/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen California"
+   ],
+   "twin_note": "California (T7) is the camper conversion of the Multivan T7 (same body).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Multivan_(T7)",
+    "https://vanreviewer.co.uk/news/volkswagen-previews-new-caddy-and-multivan-facelifts/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Multivan (T7)",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Multivan (T7)",
+   "notes": "carsized slug guess: volkswagen-multivan-2021-minivan."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "California",
+   "display": "California",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "mpv-large",
+   "body": "camper van (Multivan-based)",
+   "generation": "T7 (2024–; facelift 2026)",
+   "length_mm": 5173,
+   "platform": "MQB",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Der neue California' (Neu, ab 66'087 EUR) on VWN DE / volkswagen.de; listed in volkswagen.ch Vans section.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Multivan"
+   ],
+   "twin_note": "Camper conversion of the Multivan T7 long-wheelbase body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_California_(camper_van)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen California (T7)",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen California (camper van)",
+   "notes": "Separate nameplate on VW's model list, hence its own tile. Commons category name not verified. carsized: probably no separate entry (use Multivan long)."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Grand California",
+   "display": "Grand California",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "van-large",
+   "body": "motorhome (Crafter-based, 600/680)",
+   "generation": "I (2019–; update 2026)",
+   "length_mm": 5986,
+   "platform": "Crafter / MAN TGE",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "'Der neue Grand California' (ab 83'110 EUR) on volkswagen.de / VWN DE; listed in volkswagen.ch Vans section.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen.ch/de/modelle.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Crafter",
+    "MAN TGE"
+   ],
+   "twin_note": "Factory motorhome built on the Crafter (= MAN TGE) body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Grand_California",
+    "https://vanreviewer.co.uk/news/man-tge-celebrates-10-years-with-special-anniversary-edition/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Grand California",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Grand California",
+   "notes": "Row judgement: Crafter-based -> van-large (campers have no own row). carsized: probably no entry; use Crafter."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Crafter",
+   "display": "Crafter",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://partner.vw-nutzfahrzeuge.ch/schaerer/de/modelle/crafter-kastenwagen",
+   "row": "van-large",
+   "body": "panel van / chassis cab / Kombi (3.0–5.5 t)",
+   "generation": "II (2017–; facelift 2024)",
+   "length_mm": 5986,
+   "platform": "Crafter/TGE (own LCV platform)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on VWN DE (ab 52'295 EUR), Oct 2026; Swiss partner page 'Der neue Crafter Kastenwagen'. New e-Crafter (BEV) part of the 2024 update – verify availability.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://partner.vw-nutzfahrzeuge.ch/schaerer/de/modelle/crafter-kastenwagen"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "MAN TGE",
+    "Volkswagen Grand California"
+   ],
+   "twin_note": "MAN TGE is the rebadged Crafter, built in Września (Poland) by VW; Grand California is the Crafter motorhome.",
+   "twin_sources": [
+    "https://vanreviewer.co.uk/news/man-tge-celebrates-10-years-with-special-anniversary-edition/",
+    "https://en.wikipedia.org/wiki/MAN_TGE"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Crafter II",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Crafter",
+   "notes": "carsized slug guess: volkswagen-crafter-2017-van."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID. Buzz",
+   "display": "ID. Buzz",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.volkswagen.ch/de/modelle.html",
+   "row": "mpv-large",
+   "body": "electric MPV (SWB 5-seat / LWB 7-seat)",
+   "generation": "I (2022–)",
+   "length_mm": 4712,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on volkswagen.ch (Vans) and volkswagen.de / VWN DE (ab 52'271 EUR), Oct 2026; 2026 updates (V2L, camp mode).",
+   "status_sources": [
+    "https://www.volkswagen.ch/de/modelle.html",
+    "https://www.volkswagen.de/de/modelle.html",
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+    "https://vanreviewer.co.uk/news/volkswagen-previews-new-caddy-and-multivan-facelifts/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "MEB-based but no same-row sibling (ID. Buzz Cargo is in van-mid).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID. Buzz",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID. Buzz",
+   "notes": "carsized slug guess: volkswagen-id-buzz-2022-minivan."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "ID. Buzz Cargo",
+   "display": "ID. Buzz Cargo",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "van-mid",
+   "body": "electric panel van",
+   "generation": "I (2022–)",
+   "length_mm": 4712,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on VWN DE (ab 48'368 EUR), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Van version of the ID. Buzz (other row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen ID. Buzz",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen ID. Buzz",
+   "notes": "Swiss VWN site (vw-nutzfahrzeuge.ch) blocks fetching; Swiss status taken from volkswagen.ch 'Vans' section or partner.vw-nutzfahrzeuge.ch pages found via search. carsized: likely same entry as ID. Buzz."
+  },
+  {
+   "brand": "Volkswagen",
+   "group": "Volkswagen Group",
+   "model": "Amarok",
+   "display": "Amarok",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "pickup",
+   "body": "double-cab pickup",
+   "generation": "II (2022–)",
+   "length_mm": 5350,
+   "platform": "Ford T6.2 (Ranger)",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on VWN DE (ab 63'642 EUR, 10.2–10.7 l/100 km), Oct 2026.",
+   "status_sources": [
+    "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Ford Ranger"
+   ],
+   "twin_note": "Amarok II is built by Ford in Silverton (South Africa) on the Ranger T6.2 body with VW-specific styling.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Amarok",
+    "https://en.wikipedia.org/wiki/Ford_Ranger_(T6)"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Volkswagen Amarok II",
+   "commons_file": null,
+   "wikipedia_en": "Volkswagen Amarok",
+   "notes": "Europe: diesel only (2.0 TDI / 3.0 V6 TDI). Swiss VWN site (vw-nutzfahrzeuge.ch) blocks fetching; Swiss status taken from volkswagen.ch 'Vans' section or partner.vw-nutzfahrzeuge.ch pages found via search. carsized slug guess: volkswagen-amarok-2022-pickup-double-cab."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A1",
+   "display": "A1",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=a1",
+   "row": "b-hatch",
+   "body": "5-door hatchback (Sportback) / allstreet",
+   "generation": "II (GB, 2018–2026)",
+   "length_mm": 4029,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "Audi confirmed in April 2026 that A1 and Q2 production has been discontinued (no successor). audi.ch new-car search (Oct 2026) still lists 294 new A1 Sportback and 1 A1 allstreet in Swiss stock -> runout/stock sales.",
+   "status_sources": [
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/",
+    "https://www.motor1.com/news/793928/audi-a1-q2-production-ends/",
+    "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=a1"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Polo",
+    "SEAT Ibiza",
+    "Škoda Fabia"
+   ],
+   "twin_note": "MQB A0 B-segment sibling of Polo/Ibiza/Fabia (A1 was built in Martorell).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi A1 GB",
+   "commons_file": null,
+   "wikipedia_en": "Audi A1",
+   "notes": "Verifier: check whether A1 is still configurable in any EU market; if not, move to discontinued. carsized slug guess: audi-a1-2018-5-door-hatchback."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q2",
+   "display": "Q2",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (GA, 2016–2026; facelift 2020)",
+   "length_mm": 4208,
+   "platform": "MQB (A1)",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "runout",
+   "status_note": "Production in Ingolstadt discontinued (Audi, April 2026); no direct successor; stock sell-off. Q2 still appears in the audi.ch new-car model filter (Oct 2026); stock count not checked.",
+   "status_sources": [
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/",
+    "https://www.motor1.com/news/793928/audi-a1-q2-production-ends/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen T-Cross",
+    "Volkswagen Taigo",
+    "SEAT Arona",
+    "Škoda Kamiq"
+   ],
+   "twin_note": "MQB-based small SUV (A1-size MQB rather than A0; grouped with the other VW Group B-SUVs – verifier may drop).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi Q2",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q2",
+   "notes": "carsized slug guess: audi-q2-2016-suv."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A2 e-tron",
+   "display": "A2 e-tron",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "c-hatch",
+   "body": "5-door compact hatchback with MPV-like silhouette (BEV)",
+   "generation": "I (2026–)",
+   "length_mm": 4321,
+   "platform": "MEB (rear motor)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Revealed 2026-09-07; order start 2026-09-10 (DE, 38'200–51'200 EUR; 52/61 kWh LFP, 84 kWh NMC); first deliveries December 2026; production in Ingolstadt from late 2026; listed in the audi.ch new-car model filter (Oct 2026).",
+   "status_sources": [
+    "https://theevreport.com/audi-a2-e-tron-lineup-pricing-range",
+    "https://en.wikipedia.org/wiki/Audi_A2_e-tron",
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/",
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.3",
+    "Cupra Born"
+   ],
+   "twin_note": "MEB compact hatchback on the ID.3/Born wheelbase (2,770 mm); own body -> tier 2 with the ID.3/Born pair.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Audi_A2_e-tron",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi A2 e-tron",
+   "commons_file": null,
+   "wikipedia_en": "Audi A2 e-tron",
+   "notes": "Dimensions 4,321 x 1,791 x 1,549 mm (Wikipedia). Commons category unverified."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A3",
+   "display": "A3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen/a3.html",
+   "row": "c-hatch",
+   "body": "Sportback / Limousine / allstreet",
+   "generation": "IV (8Y, 2020–; facelift 2024)",
+   "length_mm": 4352,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model on audi.ch (A3 Modelle page) and audi.de, Oct 2026.",
+   "status_sources": [
+    "https://audi.ch/ch/web/de/neuwagen/a3.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Golf",
+    "SEAT Leon",
+    "Cupra Leon",
+    "Škoda Octavia"
+   ],
+   "twin_note": "MQB evo C-segment sibling of Golf 8 / Leon 4 / Octavia 4.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Audi_A3"
+   ],
+   "carsized_slug": "audi-a3-2020-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/audi/a3/d/2020/sm_244123112_audi-a3-2020-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2020-2024 (Gen. 4; pre-facelift entry)",
+   "commons_category": "Category:Audi A3 8Y",
+   "commons_file": null,
+   "wikipedia_en": "Audi A3",
+   "notes": "S3/RS 3 same tile. carsized slug (confirmed, see fields; earlier guess: audi-a3-2020-5-door-hatchback."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A5",
+   "display": "A5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.audi.ch/de/neuwagen/a5/",
+   "row": "d-car",
+   "body": "saloon (Limousine) / Avant",
+   "generation": "II (B10, 2024–)",
+   "length_mm": 4829,
+   "platform": "PPC",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Replaced the A4 in 2024; RS 5 (PHEV) added 2026. On audi.ch (A5 Modelle page), Oct 2026.",
+   "status_sources": [
+    "https://www.audi.ch/de/neuwagen/a5/",
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "PPC sibling of Q5 (d-suv) and A6 (e-car) – cross-row only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Audi_A5"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi A5 B10",
+   "commons_file": null,
+   "wikipedia_en": "Audi A5",
+   "notes": "carsized slug guess: audi-a5-2024-sedan (Avant: station-wagon)."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A6",
+   "display": "A6",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "e-car",
+   "body": "saloon / Avant",
+   "generation": "C9 (2025–)",
+   "length_mm": 4999,
+   "platform": "PPC",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "New-generation combustion A6 (C9) launched 2025; current on Audi sites, Oct 2026 (Swiss list fetch failed – inferred from audi.ch model pages found by search).",
+   "status_sources": [
+    "https://www.motor1.com/news/795224/new-audi-models-2026/",
+    "https://www.audi.ch/de/neuwagen/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "PPC; no same-row sibling.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Audi_A6"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi A6 C9",
+   "commons_file": null,
+   "wikipedia_en": "Audi A6",
+   "notes": "S6/RS 6 same tile. carsized slug guess: audi-a6-2025-sedan."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A6 e-tron",
+   "display": "A6 e-tron",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen/a6-e-tron.html",
+   "row": "e-car",
+   "body": "Sportback / Avant (BEV)",
+   "generation": "I (2024–)",
+   "length_mm": 4928,
+   "platform": "PPE",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On audi.ch (A6 e-tron Modelle page), Oct 2026.",
+   "status_sources": [
+    "https://audi.ch/ch/web/de/neuwagen/a6-e-tron.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "PPE sibling of Q6 e-tron / Porsche Macan (d-suv) – cross-row only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Premium_Platform_Electric"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi A6 e-tron",
+   "commons_file": null,
+   "wikipedia_en": "Audi A6 e-tron",
+   "notes": "carsized slug guess: audi-a6-e-tron-2024-5-door-hatchback."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "A8",
+   "display": "A8",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "e-car",
+   "body": "luxury saloon (standard / L)",
+   "generation": "IV (D5, 2017–2026; facelift 2021)",
+   "length_mm": 5190,
+   "platform": "MLB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "runout",
+   "status_note": "Audi stopped taking new A8 orders in Germany from 18 Feb 2026 (reports cited on Wikipedia, March 2026); D5 production span given as 2017–2026; absent from the audi.ch new-car filter (Oct 2026) -> remaining inventory only. Successor in development (no date); the Q9 takes over as flagship.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Audi_A8",
+    "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "MLB evo saloon; no same-row sibling.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi A8 D5",
+   "commons_file": null,
+   "wikipedia_en": "Audi A8",
+   "notes": "Verifier: confirm whether any EU market still configures the A8; if none, move to discontinued. carsized slug guess: audi-a8-2017-sedan."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q3",
+   "display": "Q3",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.audi.ch/ch/web/de/neuwagen/q3.html",
+   "row": "c-suv",
+   "body": "SUV / Sportback",
+   "generation": "III (2025–)",
+   "length_mm": 4530,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Third generation on sale since 2025 (Győr; Ingolstadt assembly added summer 2026); on audi.ch Q3 page, Oct 2026.",
+   "status_sources": [
+    "https://www.audi.ch/ch/web/de/neuwagen/q3.html",
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Tiguan",
+    "Volkswagen T-Roc",
+    "Cupra Formentor",
+    "Cupra Terramar"
+   ],
+   "twin_note": "MQB evo compact-SUV sibling of Tiguan III / Terramar / Formentor / T-Roc II.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Audi_Q3"
+   ],
+   "carsized_slug": "audi-q3-2025-suv",
+   "carsized_side": "https://www.carsized.com/resources/audi/q3/d/2025/sl_270125124_audi-q3-2025-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2025-present (Gen. 3)",
+   "commons_category": "Category:Audi Q3 (2025)",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q3",
+   "notes": "Commons category name for gen III not verified. carsized slug (confirmed, see fields; earlier guess: audi-q3-2025-suv."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q4 e-tron",
+   "display": "Q4 e-tron",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "c-suv",
+   "body": "SUV / Sportback (BEV)",
+   "generation": "I (2021–; MY2027 refresh 2026)",
+   "length_mm": 4588,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "MY2027 refresh (SUV and Sportback, Europe only) on sale from May 2026 per Motor1; listed in the audi.ch new-car model filter (Oct 2026).",
+   "status_sources": [
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Volkswagen ID. Tiguan",
+    "Škoda Enyaq",
+    "Škoda Elroq",
+    "Cupra Tavascan",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "MEB compact-SUV family (built in Zwickau alongside ID.4/ID.5).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Audi_Q4_e-tron"
+   ],
+   "carsized_slug": "audi-q4-e-tron-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/audi/q4-e-tron/d/2021/sl_272113134_audi-q4-e-tron-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-2026",
+   "commons_category": "Category:Audi Q4 e-tron",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q4 e-tron",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: audi-q4-e-tron-2021-suv."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q5",
+   "display": "Q5",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.audi.ch/de/neuwagen/q5/",
+   "row": "d-suv",
+   "body": "SUV / Sportback",
+   "generation": "III (2024–)",
+   "length_mm": 4717,
+   "platform": "PPC",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On audi.ch (Q5 Modelle page), Oct 2026.",
+   "status_sources": [
+    "https://www.audi.ch/de/neuwagen/q5/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "PPC; A5 (d-car) and A6 (e-car) are cross-row siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Audi_Q5"
+   ],
+   "carsized_slug": "audi-q5-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/audi/q5/d/2024/sl_276124129_audi-q5-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present (Gen. 3)",
+   "commons_category": "Category:Audi Q5 (2024)",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q5",
+   "notes": "Commons category name for gen III not verified. carsized slug (confirmed, see fields; earlier guess: audi-q5-2024-suv."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q6 e-tron",
+   "display": "Q6 e-tron",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "d-suv",
+   "body": "SUV / Sportback (BEV)",
+   "generation": "I (2024–)",
+   "length_mm": 4771,
+   "platform": "PPE",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current PPE model (2024–); listed in the audi.ch new-car model filter (Oct 2026).",
+   "status_sources": [
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Macan"
+   ],
+   "twin_note": "PPE siblings: Q6 e-tron (Ingolstadt) and Macan Electric (Leipzig) share the Premium Platform Electric and 800-V drivetrain.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Premium_Platform_Electric"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi Q6 e-tron",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q6 e-tron",
+   "notes": "carsized slug guess: audi-q6-e-tron-2024-suv."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q7",
+   "display": "Q7",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.audi.ch/de/neuwagen/q7/",
+   "row": "e-suv",
+   "body": "large SUV (5/7 seats)",
+   "generation": "II (4M, 2015–2026; facelifts 2019, 2024) -> III (2026–, unveiled 2026-06-09)",
+   "length_mm": 5072,
+   "platform": "MLB evo (II) / PPC (III)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Third-generation Q7 (PPC; 2.9 V6 TFSI, SQ7 4.0 V8, diesel V6 for some markets) unveiled 2026-06-09 (Wikipedia); audi.ch new-car search (Oct 2026) lists 'Q7 SUV Diesel' with 12 cars in stock. Which generation the European configurators sell in Oct 2026 could not be verified (audi.ch model pages blocked) – most likely gen III orderable with gen II stock running out.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Audi_Q7",
+    "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q7",
+    "https://www.audi-mediacenter.com/en/press-releases/audi-announces-third-generation-of-the-q7-17993"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Cayenne",
+    "Audi Q8",
+    "Volkswagen Touareg",
+    "Lamborghini Urus",
+    "Bentley Bentayga",
+    "Audi Q9"
+   ],
+   "twin_note": "Q7 II shares MLB evo with Q8/Cayenne/Touareg/Urus/Bentayga; Q7 III and the new Q9 share PPC. Verifier: once gen III is confirmed as the car on sale, move the Q7 to a PPC group with the Q9 only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform",
+    "https://en.wikipedia.org/wiki/Audi_Q7",
+    "https://en.wikipedia.org/wiki/Audi_Q9"
+   ],
+   "carsized_slug": "audi-q7-2015-suv",
+   "carsized_side": "https://www.carsized.com/resources/audi/q7/d/2015/sm_283130150_audi-q7-2015-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2015-2019 (Gen. 2; pre-facelift entry)",
+   "commons_category": "Category:Audi Q7 4M",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q7",
+   "notes": "Length 5,072 mm is gen II (gen III length not published on Wikipedia). carsized entry found is the gen II (2015-2019) one. Verifier: check Audi MediaCenter for the Q7 III order start."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q8",
+   "display": "Q8",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "e-suv",
+   "body": "coupé-SUV",
+   "generation": "I (2018–; facelift 2023)",
+   "length_mm": 4995,
+   "platform": "MLB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model (facelift 2023); listed in the audi.ch new-car model filter (Oct 2026); stock count not checked.",
+   "status_sources": [
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Cayenne",
+    "Audi Q7",
+    "Volkswagen Touareg",
+    "Lamborghini Urus",
+    "Bentley Bentayga"
+   ],
+   "twin_note": "MLB evo large-SUV family.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform"
+   ],
+   "carsized_slug": "audi-q8-2018-suv",
+   "carsized_side": "https://www.carsized.com/resources/audi/q8/d/2018/sl_280128139_audi-q8-2018-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2018-2022 (pre-facelift entry)",
+   "commons_category": "Category:Audi Q8",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q8",
+   "notes": "SQ8/RS Q8 same tile. Q8 e-tron (BEV) was discontinued in Feb 2025 (Brussels plant closure). carsized slug (confirmed, see fields; earlier guess: audi-q8-2018-suv."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "e-tron GT",
+   "display": "e-tron GT",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "row": "e-car",
+   "body": "4-door GT (BEV)",
+   "generation": "I (2021–; facelift 2024)",
+   "length_mm": 4989,
+   "platform": "J1",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Current model (S / RS / RS performance since 2024 facelift); listed in the audi.ch new-car model filter (Oct 2026).",
+   "status_sources": [
+    "https://www.motor1.com/news/795224/new-audi-models-2026/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Taycan"
+   ],
+   "twin_note": "J1 platform siblings (e-tron GT built in Neckarsulm, Taycan in Zuffenhausen).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_J1_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi e-tron GT",
+   "commons_file": null,
+   "wikipedia_en": "Audi e-tron GT",
+   "notes": "carsized slug guess: audi-e-tron-gt-2021-sedan."
+  },
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Q9",
+   "display": "Q9",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q9",
+   "row": "e-suv",
+   "body": "full-size 3-row SUV (flagship above Q8)",
+   "generation": "I (2026–; MY2027)",
+   "length_mm": null,
+   "platform": "PPC",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Prototype shown 2026-05-12, full reveal 2026-07-29, production from 2026 (MY2027) on PPC, flagship succeeding the A8 (Wikipedia). audi.ch new-car search (Oct 2026) lists 'Q9 SUV (Diesel)' with a configurator link and 0 cars in stock -> treated as orderable (pre-sale); explicit DE/UK order-start source not found (search budget) – verifier may demote to 'announced'.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Audi_Q9",
+    "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q9",
+    "https://www.audi-mediacenter.com/en/press-releases/audi-announces-third-generation-of-the-q7-17993"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Audi Q7"
+   ],
+   "twin_note": "PPC sibling of the third-generation Q7 (same platform generation, longitudinal engine, quattro).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Audi_Q9",
+    "https://en.wikipedia.org/wiki/Audi_Q7"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Audi Q9",
+   "commons_file": null,
+   "wikipedia_en": "Audi Q9",
+   "notes": "Length not published on Wikipedia (expected > 5.1 m). Powertrains: diesel confirmed by the Swiss listing; petrol V6/V8 expected as on the Q7 III. Commons category unverified. carsized: no entry expected yet."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Fabia",
+   "display": "Fabia",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/fabia-/fabia",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "IV (2021–)",
+   "length_mm": 4108,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range) with Dynamic special model, Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Polo",
+    "SEAT Ibiza",
+    "Audi A1"
+   ],
+   "twin_note": "MQB A0 B-segment siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Fabia"
+   ],
+   "carsized_slug": "skoda-fabia-2021-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/skoda/fabia/d/2021/sl_243108097_skoda-fabia-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-present (Gen. 4)",
+   "commons_category": "Category:Škoda Fabia IV",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Fabia",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: skoda-fabia-2021-5-door-hatchback."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Scala",
+   "display": "Scala",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/scala/scala",
+   "row": "c-hatch",
+   "body": "5-door hatchback",
+   "generation": "I (2019–; facelift 2023)",
+   "length_mm": 4362,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "MQB A0 (shares platform/wheelbase with Kamiq, b-suv row) – no same-row sibling.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Škoda Scala",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Scala",
+   "notes": "carsized slug guess: skoda-scala-2019-5-door-hatchback."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Kamiq",
+   "display": "Kamiq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/kamiq/kamiq",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (2019–; facelift 2023)",
+   "length_mm": 4241,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen T-Cross",
+    "Volkswagen Taigo",
+    "SEAT Arona",
+    "Audi Q2"
+   ],
+   "twin_note": "MQB A0 small-SUV siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Kamiq"
+   ],
+   "carsized_slug": "skoda-kamiq-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/skoda/kamiq/d/2019/sl_262110103_skoda-kamiq-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2024 (pre-facelift entry)",
+   "commons_category": "Category:Škoda Kamiq",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Kamiq",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: skoda-kamiq-2019-suv."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Epiq",
+   "display": "Epiq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/epiq/epiq",
+   "row": "b-suv",
+   "body": "small SUV-crossover (BEV)",
+   "generation": "I (2026–)",
+   "length_mm": 4171,
+   "platform": "MEB+",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Market entry 2026 (Czech launch, UK order books July 2026 from 24'950 GBP); skoda.ch: 'NEW Epiq' ab CHF 25'900, configurable, stock cars available.",
+   "status_sources": [
+    "https://www.skoda.ch/models/epiq/epiq",
+    "https://theevreport.com/skoda-epiq-uk-pricing-specification",
+    "https://www.skoda.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID. Cross"
+   ],
+   "twin_note": "First Škoda on MEB+; sibling of the VW ID. Cross (and of ID. Polo/Raval in the b-hatch row).",
+   "twin_sources": [
+    "https://theevreport.com/skoda-epiq-uk-pricing-specification"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Škoda Epiq",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Epiq",
+   "notes": "Commons category not verified. carsized slug guess: skoda-epiq-2026-suv."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Octavia",
+   "display": "Octavia",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/octavia/octavia",
+   "row": "c-hatch",
+   "body": "liftback / Combi",
+   "generation": "IV (2019–; facelift 2024)",
+   "length_mm": 4698,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range; RS 30 Years Edition), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Golf",
+    "SEAT Leon",
+    "Cupra Leon",
+    "Audi A3"
+   ],
+   "twin_note": "MQB evo C-segment siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Octavia"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Škoda Octavia IV",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Octavia",
+   "notes": "Length 4.70 m – at the top of c-hatch; kept with Golf/Leon/A3 per brief. carsized slug guess: skoda-octavia-2020-5-door-liftback (check naming)."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Karoq",
+   "display": "Karoq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/karoq/karoq",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2017–; facelift 2022)",
+   "length_mm": 4390,
+   "platform": "MQB A1",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "SEAT Ateca",
+    "Cupra Ateca"
+   ],
+   "twin_note": "Karoq and Ateca share the MQB A1 platform/wheelbase (2,638 mm) and were developed together (2016/17); both Atecas now in runout.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Karoq"
+   ],
+   "carsized_slug": "skoda-karoq-2017-suv",
+   "carsized_side": "https://www.carsized.com/resources/skoda/karoq/d/2017/sl_274115119_skoda-karoq-2017-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2017-2021 (pre-facelift entry)",
+   "commons_category": "Category:Škoda Karoq",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Karoq",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: skoda-karoq-2017-suv."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Elroq",
+   "display": "Elroq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/elroq/elroq",
+   "row": "c-suv",
+   "body": "compact SUV (BEV)",
+   "generation": "I (2025–)",
+   "length_mm": 4488,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (ELEKTRO), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Volkswagen ID. Tiguan",
+    "Škoda Enyaq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "MEB compact-SUV family (Elroq = short-wheelbase Enyaq derivative).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Elroq"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Škoda Elroq",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Elroq",
+   "notes": "carsized slug guess: skoda-elroq-2024-suv."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Enyaq",
+   "display": "Enyaq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/enyaq/enyaq",
+   "row": "c-suv",
+   "body": "SUV / Coupé (BEV)",
+   "generation": "I (2021–; facelift 2025)",
+   "length_mm": 4658,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (ELEKTRO, Dynamic special model), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Volkswagen ID. Tiguan",
+    "Škoda Elroq",
+    "Audi Q4 e-tron",
+    "Cupra Tavascan",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "MEB compact-SUV family.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Enyaq"
+   ],
+   "carsized_slug": "skoda-enyaq-iv-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/skoda/enyaq-iv/d/2021/sl_270118141_skoda-enyaq-iv-2021-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2021-2024 (pre-facelift entry)",
+   "commons_category": "Category:Škoda Enyaq",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Enyaq",
+   "notes": "Enyaq Coupé same tile. carsized slug (confirmed, see fields; earlier guess: skoda-enyaq-2021-suv."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Kodiaq",
+   "display": "Kodiaq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/kodiaq/kodiaq",
+   "row": "d-suv",
+   "body": "mid-size SUV (5/7 seats)",
+   "generation": "II (2024–)",
+   "length_mm": 4758,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Tayron"
+   ],
+   "twin_note": "MQB evo LWB siblings (Kodiaq II / Tayron).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Škoda_Kodiaq"
+   ],
+   "carsized_slug": "skoda-kodiaq-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/skoda/kodiaq/d/2024/sl_278125146_skoda-kodiaq-2024-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2024-present (Gen. 2)",
+   "commons_category": "Category:Škoda Kodiaq II",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Kodiaq",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: skoda-kodiaq-2024-suv."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Superb",
+   "display": "Superb",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/superb/superb",
+   "row": "d-car",
+   "body": "liftback / Combi",
+   "generation": "IV (2024–)",
+   "length_mm": 4912,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Listed on skoda.ch (range), Oct 2026.",
+   "status_sources": [
+    "https://www.skoda.ch/",
+    "https://www.skoda.ch/models/range"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Passat"
+   ],
+   "twin_note": "Developed together with the Passat B9; both built in Bratislava.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Škoda_Superb",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Škoda Superb IV",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Superb",
+   "notes": "carsized slug guess: skoda-superb-2024-5-door-liftback (check naming)."
+  },
+  {
+   "brand": "Škoda",
+   "group": "Volkswagen Group",
+   "model": "Peaq",
+   "display": "Peaq",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.skoda.ch/models/peaq/peaq",
+   "row": "d-suv",
+   "body": "large 7-seat SUV (BEV)",
+   "generation": "I (2026–)",
+   "length_mm": 4870,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Škoda's new electric flagship SUV (MEB, 91/63 kWh gross, built in Mladá Boleslav): unveiled 2026-06-23, on sale August 2026 (Wikipedia); UK order books Sept 2026 (from 51'980 GBP); skoda.ch: 'Ab sofort bestellbar – ab November beim Škoda Partner', configurator live (Oct 2026).",
+   "status_sources": [
+    "https://www.skoda.ch/models/peaq/peaq",
+    "https://en.wikipedia.org/wiki/%C5%A0koda_Peaq",
+    "https://www.greencarguide.co.uk/2026/06/skoda-peaq-electric-seven-seat-suv-from-51980/",
+    "https://www.skoda.ch/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Large MEB SUV (production Vision 7S); no same-row sibling (MEB family is in c-suv/mpv rows).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/%C5%A0koda_Peaq",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Škoda Peaq",
+   "commons_file": null,
+   "wikipedia_en": "Škoda Peaq",
+   "notes": "Row judgement: 4,870 mm -> d-suv by the brief's length bands although Škoda markets it as its flagship 7-seater (verifier may move it to e-suv next to EV9/Ioniq 9). Commons category not verified. carsized: probably no entry yet."
+  },
+  {
+   "brand": "SEAT",
+   "group": "Volkswagen Group",
+   "model": "Ibiza",
+   "display": "Ibiza",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.seat.ch/de/modelle/ibiza/uebersicht",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "V (2017–; facelifts 2021, 2025)",
+   "length_mm": 4059,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "2025 facelift launched January 2026 (configurators open in 9 markets from Dec 2025); 'New Ibiza' on seat.ch with 0% leasing, Oct 2026.",
+   "status_sources": [
+    "https://www.seat-cupra-mediacenter.com/SEAT-Brand/seat-news/2025/seat-starts-production-of-new-ibiza-arona-its-factory-in-martorell",
+    "https://www.seat.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Polo",
+    "Škoda Fabia",
+    "Audi A1"
+   ],
+   "twin_note": "MQB A0 B-segment siblings (Ibiza/Polo/Fabia; A1 in runout).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/SEAT_Ibiza"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:SEAT Ibiza V",
+   "commons_file": null,
+   "wikipedia_en": "SEAT Ibiza",
+   "notes": "carsized slug guess: seat-ibiza-2017-5-door-hatchback."
+  },
+  {
+   "brand": "SEAT",
+   "group": "Volkswagen Group",
+   "model": "Arona",
+   "display": "Arona",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.seat.ch/de/modelle/arona/uebersicht",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "I (2017–; facelifts 2021, 2025)",
+   "length_mm": 4138,
+   "platform": "MQB A0",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "2025 facelift launched January 2026; 'New Arona' on seat.ch, Oct 2026.",
+   "status_sources": [
+    "https://www.seat-cupra-mediacenter.com/SEAT-Brand/seat-news/2025/seat-starts-production-of-new-ibiza-arona-its-factory-in-martorell",
+    "https://www.seat.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen T-Cross",
+    "Volkswagen Taigo",
+    "Škoda Kamiq",
+    "Audi Q2"
+   ],
+   "twin_note": "MQB A0 small-SUV siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/SEAT_Arona"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:SEAT Arona",
+   "commons_file": null,
+   "wikipedia_en": "SEAT Arona",
+   "notes": "carsized slug guess: seat-arona-2017-suv."
+  },
+  {
+   "brand": "SEAT",
+   "group": "Volkswagen Group",
+   "model": "Leon",
+   "display": "Leon",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.seat.ch/de/modelle/leon/uebersicht",
+   "row": "c-hatch",
+   "body": "5-door hatchback / Sportstourer estate",
+   "generation": "IV (2020–; facelift 2024)",
+   "length_mm": 4368,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Leon and Leon Sportstourer (e-HYBRID) on seat.ch, Oct 2026; SEAT plans a full-hybrid Leon for 2028.",
+   "status_sources": [
+    "https://www.seat.ch/",
+    "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Cupra Leon",
+    "Volkswagen Golf",
+    "Škoda Octavia",
+    "Audi A3"
+   ],
+   "twin_note": "Tier 1 with Cupra Leon (same body, brand-specific fascias/trim, both built in Martorell); tier 2 with Golf 8 / Octavia 4 / A3 8Y (MQB evo).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/SEAT_León",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": "seat-leon-2020-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/seat/leon/d/2020/sm_244120108_seat-leon-2020-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2020-present (Gen. 4)",
+   "commons_category": "Category:SEAT León IV",
+   "commons_file": null,
+   "wikipedia_en": "SEAT León",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: seat-leon-2020-5-door-hatchback."
+  },
+  {
+   "brand": "SEAT",
+   "group": "Volkswagen Group",
+   "model": "Ateca",
+   "display": "Ateca",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.seat.ch/de/modelle/ateca",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2016–2026; facelift 2020)",
+   "length_mm": 4381,
+   "platform": "MQB A1",
+   "powertrains": [
+    "petrol",
+    "diesel"
+   ],
+   "status": "runout",
+   "status_note": "SEAT: Ateca 'no longer available to configure in selected markets by the beginning of 2026'; withdrawn from UK sale March 2026; still shown on seat.ch with 'Offerte anfragen' (stock) in Oct 2026.",
+   "status_sources": [
+    "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run",
+    "https://www.seat.ch/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Cupra Ateca",
+    "Škoda Karoq"
+   ],
+   "twin_note": "Tier 1 with Cupra Ateca (rebadge); tier 2 with Škoda Karoq (MQB A1, same wheelbase).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/SEAT_Ateca",
+    "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:SEAT Ateca",
+   "commons_file": null,
+   "wikipedia_en": "SEAT Ateca",
+   "notes": "carsized slug guess: seat-ateca-2016-suv."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Raval",
+   "display": "Raval",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/raval",
+   "row": "b-hatch",
+   "body": "5-door hatchback (BEV)",
+   "generation": "I (2026–)",
+   "length_mm": 4046,
+   "platform": "MEB+",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK order books opened May 2026; cupraofficial.ch: 'New Raval' ab CHF 24'900, Plus/Endurance/VZ trims configurable (Oct 2026); production in Martorell with the ID. Polo.",
+   "status_sources": [
+    "https://www.electrive.com/2026/05/22/cupra-opens-uk-order-books-for-raval/",
+    "https://www.cupraofficial.ch/de/modelle/raval",
+    "https://www.cupraofficial.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID. Polo"
+   ],
+   "twin_note": "MEB+ B-segment sibling of the ID. Polo (same Martorell line).",
+   "twin_sources": [
+    "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/",
+    "https://evpowered.co.uk/news/cupra-raval-and-vw-id-polo-production-starts-in-martorell-spain/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cupra Raval",
+   "commons_file": null,
+   "wikipedia_en": "Cupra Raval",
+   "notes": "Commons category not verified. carsized slug guess: cupra-raval-2026-5-door-hatchback."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Born",
+   "display": "Born",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/born",
+   "row": "c-hatch",
+   "body": "5-door hatchback (BEV)",
+   "generation": "I (2021–; facelift 2026)",
+   "length_mm": 4324,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Facelifted 'New Born' (2026) on cupraofficial.ch ab CHF 42'350, Oct 2026; UK pricing 36–46k GBP (Top Gear).",
+   "status_sources": [
+    "https://www.cupraofficial.ch/",
+    "https://www.topgear.com/car-news/electric/new-facelifted-cupra-born-and-itll-cost-between-ps36k-ps46k",
+    "https://www.auto-motor-und-sport.de/elektroauto/cupra-born-facelift-schaerferer-look-und-mehr-reichweite/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen ID.3",
+    "Audi A2 e-tron"
+   ],
+   "twin_note": "Tier 1: Cupra derivative of the ID.3 (MEB, Zwickau-built); tier 2 with the Audi A2 e-tron (MEB, same wheelbase). See ID.3 note.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Cupra_Born"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cupra Born",
+   "commons_file": null,
+   "wikipedia_en": "Cupra Born",
+   "notes": "carsized slug guess: cupra-born-2021-5-door-hatchback."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Leon",
+   "display": "Leon",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/leon",
+   "row": "c-hatch",
+   "body": "5-door hatchback / Sportstourer",
+   "generation": "I (2020–; facelift 2024)",
+   "length_mm": 4398,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Leon ab CHF 39'450 and Leon Sportstourer ab CHF 39'950 on cupraofficial.ch, Oct 2026.",
+   "status_sources": [
+    "https://www.cupraofficial.ch/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "SEAT Leon",
+    "Volkswagen Golf",
+    "Škoda Octavia",
+    "Audi A3"
+   ],
+   "twin_note": "Tier 1 with SEAT Leon (rebadge with Cupra fascias); tier 2 with Golf/Octavia/A3 (MQB evo).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Cupra_León",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cupra León",
+   "commons_file": null,
+   "wikipedia_en": "Cupra León",
+   "notes": "carsized slug guess: cupra-leon-2020-5-door-hatchback."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Formentor",
+   "display": "Formentor",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/formentor",
+   "row": "c-suv",
+   "body": "crossover coupé-SUV",
+   "generation": "I (2020–; facelift 2024)",
+   "length_mm": 4451,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Formentor ab CHF 40'450 on cupraofficial.ch, Oct 2026.",
+   "status_sources": [
+    "https://www.cupraofficial.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Tiguan",
+    "Volkswagen T-Roc",
+    "Audi Q3",
+    "Cupra Terramar"
+   ],
+   "twin_note": "MQB evo compact-SUV family (Formentor shares the Leon/Golf wheelbase).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Cupra_Formentor"
+   ],
+   "carsized_slug": "cupra-formentor-2020-suv",
+   "carsized_side": "https://www.carsized.com/resources/cupra/formentor/d/2020/sm_258122122_cupra-formentor-2020-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2020-2024 (pre-facelift entry)",
+   "commons_category": "Category:Cupra Formentor",
+   "commons_file": null,
+   "wikipedia_en": "Cupra Formentor",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: cupra-formentor-2020-suv."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Terramar",
+   "display": "Terramar",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/terramar",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4519,
+   "platform": "MQB evo",
+   "powertrains": [
+    "petrol",
+    "MHEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Terramar ab CHF 42'950 on cupraofficial.ch, Oct 2026.",
+   "status_sources": [
+    "https://www.cupraofficial.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen Tiguan",
+    "Volkswagen T-Roc",
+    "Audi Q3",
+    "Cupra Formentor"
+   ],
+   "twin_note": "MQB evo; built in Győr alongside the Audi Q3, same wheelbase as Tiguan III.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+    "https://en.wikipedia.org/wiki/Cupra_Terramar"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cupra Terramar",
+   "commons_file": null,
+   "wikipedia_en": "Cupra Terramar",
+   "notes": "carsized slug guess: cupra-terramar-2024-suv."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Tavascan",
+   "display": "Tavascan",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/tavascan",
+   "row": "c-suv",
+   "body": "coupé-SUV (BEV)",
+   "generation": "I (2024–)",
+   "length_mm": 4644,
+   "platform": "MEB",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Tavascan ab CHF 38'800 on cupraofficial.ch, Oct 2026.",
+   "status_sources": [
+    "https://www.cupraofficial.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Volkswagen ID.4",
+    "Volkswagen ID.5",
+    "Volkswagen ID. Tiguan",
+    "Škoda Enyaq",
+    "Škoda Elroq",
+    "Audi Q4 e-tron",
+    "Ford Explorer",
+    "Ford Capri"
+   ],
+   "twin_note": "MEB compact-SUV family (built in Anhui, China).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "https://en.wikipedia.org/wiki/Cupra_Tavascan"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cupra Tavascan",
+   "commons_file": null,
+   "wikipedia_en": "Cupra Tavascan",
+   "notes": "carsized slug guess: cupra-tavascan-2024-suv."
+  },
+  {
+   "brand": "Cupra",
+   "group": "Volkswagen Group",
+   "model": "Ateca",
+   "display": "Ateca",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.cupraofficial.ch/de/modelle/ateca",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2018–2026; facelift 2020)",
+   "length_mm": 4386,
+   "platform": "MQB A1",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "Withdrawn from UK sale March 2026 together with the SEAT Ateca; cupraofficial.ch still lists it ab CHF 38'900 as 'attraktive Lagerfahrzeuge' (stock only), Oct 2026.",
+   "status_sources": [
+    "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run",
+    "https://www.cupraofficial.ch/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "SEAT Ateca",
+    "Škoda Karoq"
+   ],
+   "twin_note": "Tier 1 with SEAT Ateca; tier 2 with Karoq.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Cupra_Ateca",
+    "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Cupra Ateca",
+   "commons_file": null,
+   "wikipedia_en": "Cupra Ateca",
+   "notes": "carsized slug guess: cupra-ateca-2018-suv."
+  },
+  {
+   "brand": "Porsche",
+   "group": "Volkswagen Group",
+   "model": "911",
+   "display": "911",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.porsche.com/swiss/de/models/911/configure",
+   "row": "sports",
+   "body": "coupé / cabriolet / Targa",
+   "generation": "992 (2019–; 992.2 update 2024)",
+   "length_mm": 4533,
+   "platform": "Porsche 992",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurable on porsche.com/swiss (Benzin), Oct 2026; 'Mission S' concept (Oct 2026) previews a future model above the 911.",
+   "status_sources": [
+    "https://www.porsche.com/swiss/de/",
+    "https://www.evo.co.uk/porsche/209198/porsche-mission-s-pictures"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": "porsche-911-2019-coupe",
+   "carsized_side": "https://www.carsized.com/resources/porsche/911/c/2019/sl_221129147_porsche-911-2019-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2019-2024 (992; pre-992.2 entry)",
+   "commons_category": "Category:Porsche 992",
+   "commons_file": null,
+   "wikipedia_en": "Porsche 992",
+   "notes": "GTS T-Hybrid counted as HEV. carsized slug (confirmed, see fields; earlier guess: porsche-911-2019-coupe."
+  },
+  {
+   "brand": "Porsche",
+   "group": "Volkswagen Group",
+   "model": "Taycan",
+   "display": "Taycan",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.porsche.com/swiss/de/models/taycan/configure",
+   "row": "e-car",
+   "body": "saloon / Sport Turismo / Cross Turismo (BEV)",
+   "generation": "I (2019–; facelift 2024)",
+   "length_mm": 4963,
+   "platform": "J1",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurable on porsche.com/swiss (Elektro), Oct 2026.",
+   "status_sources": [
+    "https://www.porsche.com/swiss/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Audi e-tron GT"
+   ],
+   "twin_note": "J1 platform siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_J1_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Porsche Taycan",
+   "commons_file": null,
+   "wikipedia_en": "Porsche Taycan",
+   "notes": "carsized slug guess: porsche-taycan-2019-sedan."
+  },
+  {
+   "brand": "Porsche",
+   "group": "Volkswagen Group",
+   "model": "Panamera",
+   "display": "Panamera",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.porsche.com/swiss/de/models/panamera/configure",
+   "row": "e-car",
+   "body": "4-door GT",
+   "generation": "III (G3, 2024–)",
+   "length_mm": 5052,
+   "platform": "MSB (evo)",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Configurable on porsche.com/swiss (Hybrid, Benzin), Oct 2026.",
+   "status_sources": [
+    "https://www.porsche.com/swiss/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Bentley Flying Spur"
+   ],
+   "twin_note": "Both on the Porsche-developed MSB platform (Flying Spur III shares its structure with the Panamera); Continental GT is the sports-row sibling.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MSB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Porsche Panamera III",
+   "commons_file": null,
+   "wikipedia_en": "Porsche Panamera",
+   "notes": "Commons category name for G3 not verified. carsized slug guess: porsche-panamera-2024-5-door-hatchback."
+  },
+  {
+   "brand": "Porsche",
+   "group": "Volkswagen Group",
+   "model": "Macan",
+   "display": "Macan",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.porsche.com/swiss/de/models/macan/configure",
+   "row": "d-suv",
+   "body": "SUV (BEV)",
+   "generation": "II (electric, 2024–)",
+   "length_mm": 4784,
+   "platform": "PPE",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Electric Macan configurable on porsche.com/swiss (Elektro only), Oct 2026; the combustion Macan I was withdrawn from the EU in 2024.",
+   "status_sources": [
+    "https://www.porsche.com/swiss/de/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Audi Q6 e-tron"
+   ],
+   "twin_note": "PPE siblings (Macan Electric / Q6 e-tron).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Premium_Platform_Electric"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Porsche Macan (electric)",
+   "commons_file": null,
+   "wikipedia_en": "Porsche Macan",
+   "notes": "Commons category name for the electric Macan not verified. carsized slug guess: porsche-macan-2024-suv."
+  },
+  {
+   "brand": "Porsche",
+   "group": "Volkswagen Group",
+   "model": "Cayenne",
+   "display": "Cayenne",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.porsche.com/swiss/de/models/cayenne/configure",
+   "row": "e-suv",
+   "body": "SUV / Coupé; combustion (MLB evo) and Cayenne Electric (PPE)",
+   "generation": "III (PO536, 2018–; facelift 2023) + Cayenne Electric (2025–)",
+   "length_mm": 4930,
+   "platform": "MLB evo (combustion); PPE (Cayenne Electric)",
+   "powertrains": [
+    "petrol",
+    "PHEV",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "porsche.com/swiss lists Cayenne with Elektro, Hybrid and Benzin (Oct 2026); Cayenne Electric launched Nov 2025, deliveries from late summer 2026; combustion/PHEV Cayenne continues.",
+   "status_sources": [
+    "https://www.porsche.com/swiss/de/",
+    "https://news.dealershipguy.com/p/porsche-launches-all-electric-cayenne-reaffirms-multi-powertrain-strategy-2025-11-20"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Audi Q7",
+    "Audi Q8",
+    "Volkswagen Touareg",
+    "Lamborghini Urus",
+    "Bentley Bentayga"
+   ],
+   "twin_note": "Combustion Cayenne shares MLB evo with Q7/Q8/Touareg/Urus/Bentayga (Cayenne Electric is PPE-based).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform"
+   ],
+   "carsized_slug": "porsche-cayenne-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/porsche/cayenne/d/2023/sl_278134133_porsche-cayenne-2023-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2023-present (Gen. 3.1 facelift)",
+   "commons_category": "Category:Porsche Cayenne III",
+   "commons_file": null,
+   "wikipedia_en": "Porsche Cayenne",
+   "notes": "One tile for both powertrains (same nameplate). Commons category name not verified. carsized slug (confirmed, see fields; earlier guess: porsche-cayenne-2018-suv."
+  },
+  {
+   "brand": "Bentley",
+   "group": "Volkswagen Group",
+   "model": "Continental GT",
+   "display": "Continental GT",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door coupé / GTC convertible",
+   "generation": "IV (2024–)",
+   "length_mm": 4895,
+   "platform": "MSB",
+   "powertrains": [
+    "PHEV",
+    "petrol"
+   ],
+   "status": "on_sale",
+   "status_note": "Continental GT / GTC (Ultra Performance Hybrid) on bentleymotors.com models page, Oct 2026; limited 'Supersports' (500 units, non-hybrid V8, RWD) announced 2026 for specified markets.",
+   "status_sources": [
+    "https://www.bentleymotors.com/en/models.html",
+    "https://www.bentleymotors.com/en/models/supersports.html"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "MSB; Panamera/Flying Spur are e-car-row siblings (cross-row).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MSB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Bentley Continental GT IV",
+   "commons_file": null,
+   "wikipedia_en": "Bentley Continental GT",
+   "notes": "GTC is a body style -> same tile; Supersports is a performance derivative -> same tile. Swiss availability via Bentley dealers (Zürich/Geneva) not fetched. Commons name not verified. carsized slug guess: bentley-continental-gt-2024-coupe."
+  },
+  {
+   "brand": "Bentley",
+   "group": "Volkswagen Group",
+   "model": "Flying Spur",
+   "display": "Flying Spur",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-car",
+   "body": "luxury saloon",
+   "generation": "III (2019–; hybrid-only update 2024)",
+   "length_mm": 5316,
+   "platform": "MSB",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'New Flying Spur' (S, Azure, Speed, Mulliner) on bentleymotors.com models page, Oct 2026.",
+   "status_sources": [
+    "https://www.bentleymotors.com/en/models.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Panamera"
+   ],
+   "twin_note": "MSB platform siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MSB_platform"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Bentley Flying Spur III",
+   "commons_file": null,
+   "wikipedia_en": "Bentley Flying Spur (2019)",
+   "notes": "carsized slug guess: bentley-flying-spur-2019-sedan."
+  },
+  {
+   "brand": "Bentley",
+   "group": "Volkswagen Group",
+   "model": "Bentayga",
+   "display": "Bentayga",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "large SUV (standard / EWB)",
+   "generation": "I (2015–; facelift 2020; EWB 2022)",
+   "length_mm": 5125,
+   "platform": "MLB evo",
+   "powertrains": [
+    "petrol",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Bentayga and Bentayga EWB (Azure, Speed, Mulliner, Artenara Edition) on bentleymotors.com models page, Oct 2026.",
+   "status_sources": [
+    "https://www.bentleymotors.com/en/models.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Cayenne",
+    "Audi Q7",
+    "Audi Q8",
+    "Volkswagen Touareg",
+    "Lamborghini Urus"
+   ],
+   "twin_note": "MLB evo large-SUV family.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform"
+   ],
+   "carsized_slug": "bentley-bentayga-2015-suv",
+   "carsized_side": "https://www.carsized.com/resources/bentley/bentayga/d/2015/sl_292127157_bentley-bentayga-2015-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2015-2020 (pre-facelift entry)",
+   "commons_category": "Category:Bentley Bentayga",
+   "commons_file": null,
+   "wikipedia_en": "Bentley Bentayga",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: bentley-bentayga-2015-suv."
+  },
+  {
+   "brand": "Lamborghini",
+   "group": "Volkswagen Group",
+   "model": "Revuelto",
+   "display": "Revuelto",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door supercar (V12 PHEV)",
+   "generation": "I (2023–)",
+   "length_mm": 4947,
+   "platform": "Lamborghini monofuselage",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "In production since 2023; lamborghini.com models page (Oct 2026) lists Revuelto, Revuelto SV and Revuelto Miura 60° Homage (same tile).",
+   "status_sources": [
+    "https://www.motor1.com/news/790458/lamborghini-new-cars-confirmed-2026/",
+    "https://www.lamborghini.com/en-en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lamborghini Revuelto",
+   "commons_file": null,
+   "wikipedia_en": "Lamborghini Revuelto",
+   "notes": "Fenomeno (29-unit few-off, 2025) excluded. carsized slug guess: lamborghini-revuelto-2023-coupe."
+  },
+  {
+   "brand": "Lamborghini",
+   "group": "Volkswagen Group",
+   "model": "Temerario",
+   "display": "Temerario",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "sports",
+   "body": "2-door supercar (V8 PHEV)",
+   "generation": "I (2025–)",
+   "length_mm": 4706,
+   "platform": "Lamborghini (new aluminium spaceframe)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Deliveries began late 2025 (UK Dec 2025); Temerario Tricolore special shown at Monterey Aug 2026 (newsroom); on lamborghini.com models page Oct 2026.",
+   "status_sources": [
+    "https://www.motor1.com/news/790458/lamborghini-new-cars-confirmed-2026/",
+    "https://www.lamborghini.com/en-en/models"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Lamborghini Temerario",
+   "commons_file": null,
+   "wikipedia_en": "Lamborghini Temerario",
+   "notes": "carsized slug guess: lamborghini-temerario-2025-coupe."
+  },
+  {
+   "brand": "Lamborghini",
+   "group": "Volkswagen Group",
+   "model": "Urus",
+   "display": "Urus SE",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "large SUV",
+   "generation": "I (2018–; Urus SE PHEV 2024)",
+   "length_mm": 5137,
+   "platform": "MLB evo",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Urus SE (789 hp PHEV) and the new Urus SE Performante are the Urus versions on lamborghini.com's models page (Oct 2026).",
+   "status_sources": [
+    "https://www.motor1.com/news/790458/lamborghini-new-cars-confirmed-2026/",
+    "https://www.lamborghini.com/en-en/models",
+    "https://www.lamborghini.com/en-en/newsroom"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Cayenne",
+    "Audi Q7",
+    "Audi Q8",
+    "Volkswagen Touareg",
+    "Bentley Bentayga"
+   ],
+   "twin_note": "MLB evo large-SUV family.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform"
+   ],
+   "carsized_slug": "lamborghini-urus-2018-suv",
+   "carsized_side": "https://www.carsized.com/resources/lamborghini/urus/d/2018/sl_276120140_lamborghini-urus-2018-side-view_4x.png",
+   "carsized_front": null,
+   "carsized_years": "2018-2022 (pre-Urus S/SE entry)",
+   "commons_category": "Category:Lamborghini Urus",
+   "commons_file": null,
+   "wikipedia_en": "Lamborghini Urus",
+   "notes": "carsized slug (confirmed, see fields; earlier guess: lamborghini-urus-2018-suv."
+  },
+  {
+   "brand": "MAN",
+   "group": "Volkswagen Group",
+   "model": "TGE",
+   "display": "TGE",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.man.eu/ch/de/transporter/man-tge/modelluebersicht/man-tge-modelluebersicht.html",
+   "row": "van-large",
+   "body": "panel van / Kombi / single & double cab chassis (3.0–5.5 t)",
+   "generation": "I (2017–; 'Next Level' update MY2025)",
+   "length_mm": 5986,
+   "platform": "Volkswagen Crafter",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "man.eu/ch model overview lists Kastenwagen, Kombi, Einzel-/Doppelkabine, Minibus, Reisemobil (Oct 2026); '10 Years Edition' orderable in UK and other European markets (July 2026); eTGE (BEV) in range.",
+   "status_sources": [
+    "https://www.man.eu/ch/de/transporter/man-tge/modelluebersicht/man-tge-modelluebersicht.html",
+    "https://vanreviewer.co.uk/news/man-tge-celebrates-10-years-with-special-anniversary-edition/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Volkswagen Crafter",
+    "Volkswagen Grand California"
+   ],
+   "twin_note": "TGE is the Crafter built on the same platform/line in Września (VW), sold through MAN's truck network.",
+   "twin_sources": [
+    "https://vanreviewer.co.uk/news/man-tge-celebrates-10-years-with-special-anniversary-edition/",
+    "https://en.wikipedia.org/wiki/MAN_TGE"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:MAN TGE",
+   "commons_file": null,
+   "wikipedia_en": "MAN TGE",
+   "notes": "carsized slug guess: man-tge-2017-van."
+  }
+ ],
+ "announced": [
+  {
+   "brand": "Audi",
+   "group": "Volkswagen Group",
+   "model": "Nuvolari",
+   "display": "Nuvolari",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=nuvolari",
+   "row": "sports",
+   "body": "2-door mid-engine supercar (PHEV, 499 units)",
+   "generation": "I (revealed 2026-06-04)",
+   "length_mm": null,
+   "platform": "Lamborghini Temerario-derived (L411 4.0 V8 twin-turbo + 3 e-motors, 1,001 PS) – platform sharing not confirmed",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "announced",
+   "status_note": "Limited-series (499 units) R8 successor revealed 2026-06-04 with Concept C design language; production to start late 2026 (Wikipedia); listed in the audi.ch new-car filter (PHEV, 0 stock) in Oct 2026. No public order/price information found -> 'announced' (limited allocation).",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Audi_Nuvolari",
+    "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=nuvolari"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Uses the Lamborghini L411 V8 hybrid drivetrain of the Temerario; if the chassis is shared too (as R8/Huracán were) it would be a tier-2 sibling of the Lamborghini Temerario in the sports row – not verified.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Audi_Nuvolari"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Audi Nuvolari",
+   "notes": "Verifier: confirm Temerario platform sharing and whether the 499 cars are sold out / orderable."
+  },
+  {
+   "brand": "Bentley",
+   "group": "Volkswagen Group",
+   "model": "Torcal",
+   "display": "Torcal",
+   "other_names": [],
+   "ch_on_sale": null,
+   "ch_source": null,
+   "row": "e-suv",
+   "body": "luxury SUV (BEV); Torcal (810 hp) and Torcal S (876 hp)",
+   "generation": "I (revealed 2026-09-23)",
+   "length_mm": 5008,
+   "platform": "PPE",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Bentley's first EV and fourth model line, revealed in London on 23 Sept 2026 (teased 6 July 2026); PPE platform closely related to the Porsche Cayenne Electric, 113 kWh, ~600 km WLTP; production 'upcoming' at Crewe; bentleymotors.com shows a configurator and 'Enquire to buy' but no on-sale date, EU figures pending type approval -> 'announced'.",
+   "status_sources": [
+    "https://en.wikipedia.org/wiki/Bentley_Torcal",
+    "https://www.bentleymotors.com/en/models/torcal.html",
+    "https://www.bentleymedia.com/fr/newsitem/1811-torcal-the-next-extraordinary-bentley",
+    "https://www.bentleymotors.com/en/models.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Porsche Cayenne"
+   ],
+   "twin_note": "PPE sibling of the Cayenne Electric (which shares the 'Cayenne' tile with the MLB-evo combustion Cayenne).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Bentley_Torcal"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Bentley Torcal",
+   "commons_file": null,
+   "wikipedia_en": "Bentley Torcal",
+   "notes": "Verifier: confirm whether order books are open (would make it on_sale). Commons category unverified."
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "Volkswagen",
+   "model": "Touran",
+   "note": "Production ended 29 April 2026 (Wolfsburg) because of GSR2 stage C; no successor.",
+   "source": "https://www.motor1.com/news/795449/vw-touran-production-ends/"
+  },
+  {
+   "brand": "Volkswagen",
+   "model": "Arteon / Arteon Shooting Brake",
+   "note": "Production ended 2024; not on 2026 model lists.",
+   "source": "https://www.volkswagen.de/de/modelle.html"
+  },
+  {
+   "brand": "Volkswagen",
+   "model": "up! / e-up!",
+   "note": "Ended 2023; not on 2026 model lists.",
+   "source": "https://www.volkswagen.de/de/modelle.html"
+  },
+  {
+   "brand": "Volkswagen",
+   "model": "Tiguan Allspace",
+   "note": "Replaced by the Tayron (2024).",
+   "source": "https://www.volkswagen.de/de/modelle.html"
+  },
+  {
+   "brand": "Volkswagen",
+   "model": "Transporter T6.1 / Caravelle T6.1 / California T6.1",
+   "note": "Replaced by Ford-based T7 Transporter/Caravelle (2025) and Multivan-based California (2024).",
+   "source": "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html"
+  },
+  {
+   "brand": "Audi",
+   "model": "A4 (B9)",
+   "note": "Replaced by the A5 (B10) in 2024; A4 allroad withdrawn 2025.",
+   "source": "https://www.motor.es/noticias/audi-a4-allroad-quattro-cese-produccion-2024103251.html"
+  },
+  {
+   "brand": "Audi",
+   "model": "A7 Sportback (C8)",
+   "note": "Ended with the launch of the A6 C9 (2025); audi.ch (Oct 2026) lists only used RS 7 Sportback, 0 new cars.",
+   "source": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=a7"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q8 e-tron",
+   "note": "Production ended February 2025 (Brussels plant closure).",
+   "source": "https://www.motor1.com/news/795224/new-audi-models-2026/"
+  },
+  {
+   "brand": "Audi",
+   "model": "TT",
+   "note": "Ended 2023; successor (Concept C) not before 2027.",
+   "source": "https://www.motor1.com/news/795224/new-audi-models-2026/"
+  },
+  {
+   "brand": "Audi",
+   "model": "R8",
+   "note": "Ended 2024.",
+   "source": "https://www.motor1.com/news/795224/new-audi-models-2026/"
+  },
+  {
+   "brand": "Audi",
+   "model": "A1 / Q2",
+   "note": "Production discontinued April 2026 – kept in `models` as runout (stock) pending confirmation.",
+   "source": "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/"
+  },
+  {
+   "brand": "SEAT",
+   "model": "Tarraco",
+   "note": "Ended 2024.",
+   "source": "https://www.seat.ch/"
+  },
+  {
+   "brand": "SEAT",
+   "model": "Ateca",
+   "note": "Removed from configurators in selected markets early 2026 (kept as runout).",
+   "source": "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run"
+  },
+  {
+   "brand": "Cupra",
+   "model": "Ateca",
+   "note": "Removed from UK sale March 2026 (kept as runout; stock cars in CH).",
+   "source": "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run"
+  },
+  {
+   "brand": "Porsche",
+   "model": "718 Boxster / 718 Cayman (982)",
+   "note": "Combustion 718 order books closed (EU 2024, globally Sept 2025); porsche.com/swiss shows '718 – Modell aktuell nicht bestellbar' (Oct 2026). Electric successor not yet revealed; production planned 2027.",
+   "source": "https://www.elektroquatsch.de/artikel/porsche-718-elektro-boxster-fast-serienreif"
+  },
+  {
+   "brand": "Porsche",
+   "model": "Macan (combustion, 95B)",
+   "note": "Withdrawn from EU sale 2024 (cybersecurity rules); electric Macan only.",
+   "source": "https://www.porsche.com/swiss/de/"
+  },
+  {
+   "brand": "Lamborghini",
+   "model": "Huracán",
+   "note": "Ended 2024, replaced by Temerario.",
+   "source": "https://www.motor1.com/news/790458/lamborghini-new-cars-confirmed-2026/"
+  },
+  {
+   "brand": "Bentley",
+   "model": "Mulliner Batur / Bacalar",
+   "note": "Coachbuilt limited runs, completed; not on the 2026 models page.",
+   "source": "https://www.bentleymotors.com/en/models.html"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.volkswagen.ch/de/modelle.html",
+   "what": "Volkswagen Switzerland model overview (passenger cars + Vans section), fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.volkswagen.de/de/modelle.html",
+   "what": "Volkswagen Germany model overview with prices (incl. ID.5, ID. Tiguan, Touran absent), fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.volkswagen-nutzfahrzeuge.de/de/modelle.html",
+   "what": "Volkswagen Nutzfahrzeuge Germany model overview with prices (Caddy, Transporter, Caravelle, Multivan, California, Grand California, Crafter, ID. Buzz, Amarok)"
+  },
+  {
+   "url": "https://www.volkswagen-newsroom.com/de/id-familie-5002",
+   "what": "VW newsroom ID. family page: ID. Polo GTI pre-sale 2026-10-07, ID. Tiguan premiere 2026-10-09 / sales start early 2027, Paris release 2026-10-11"
+  },
+  {
+   "url": "https://www.monsterdealz.de/magazin/vw-id-tiguan",
+   "what": "ID. Tiguan: DE pre-order start 2026-10-13, 42'695 EUR, 4,620 mm, MEB+"
+  },
+  {
+   "url": "https://www.autozine.nl/volkswagen/idtiguan/nieuws/volkswagen-prijst-id-tiguan",
+   "what": "ID. Tiguan NL prices and order start 2026-10-13"
+  },
+  {
+   "url": "https://www.elektroquatsch.de/artikel/vw-id-polo-nachfrage-lieferzeit-bestellungen",
+   "what": "ID. Polo orders open since end April 2026, 24'995 EUR"
+  },
+  {
+   "url": "https://www.electrive.net/2026/07/23/vw-id-cross-startet-zunaechst-ab-34-025-euro/",
+   "what": "ID. Cross configurator opened July 2026"
+  },
+  {
+   "url": "https://www.electrive.net/2026/04/15/weltpremiere-des-vw-id-3-neo-mehr-als-nur-ein-facelift/",
+   "what": "ID.3 Neo world premiere 2026-04-15"
+  },
+  {
+   "url": "https://www.autohaus.de/nachrichten/autohersteller/vw-id-3-neo-start-fuer-34-000-euro-3792498",
+   "what": "ID.3 Neo sales start ~34'000 EUR"
+  },
+  {
+   "url": "https://evpowered.co.uk/news/volkswagen-id-5-rumoured-to-be-discontinued-for-2027/",
+   "what": "ID.5 and Touareg production reportedly end end-2026 (Aug 2025)"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/volkswagen-current-touareg-generation-ends-with-a-final-edition/",
+   "what": "Touareg Final Edition; orders until end March 2026; production ends 2026"
+  },
+  {
+   "url": "https://www.motor1.com/news/795449/vw-touran-production-ends/",
+   "what": "Touran production ended 2026-04-29"
+  },
+  {
+   "url": "https://autonotizen.de/neuigkeiten/vw-t-roc-2026",
+   "what": "T-Roc II: launch Nov 2025, 4,370 mm, MQB evo, no diesel; Cabriolet until 2027"
+  },
+  {
+   "url": "https://www.motor1.com/news/798952/vw-t-roc-cabrio-production-cut/",
+   "what": "T-Roc Cabriolet still on sale 2026 (production cut)"
+  },
+  {
+   "url": "https://vanreviewer.co.uk/news/volkswagen-previews-new-caddy-and-multivan-facelifts/",
+   "what": "Caddy/Multivan/California facelifts 2026, ID. Buzz updates, Transporter PHEV"
+  },
+  {
+   "url": "https://www.autozeitung.de/vw-caddy-facelift-2026-news-300368.html",
+   "what": "Caddy facelift 2026 pre-sale"
+  },
+  {
+   "url": "https://www.partner.vw-nutzfahrzeuge.ch/vw-truck-chur/de/der-transporter/inhalt",
+   "what": "Swiss VWN partner page: new Transporter"
+  },
+  {
+   "url": "https://partner.vw-nutzfahrzeuge.ch/schaerer/de/modelle/crafter-kastenwagen",
+   "what": "Swiss VWN partner page: new Crafter"
+  },
+  {
+   "url": "https://ecomento.de/2023/12/12/vw-kuendigt-e-transporter-und-e-caravelle-an/",
+   "what": "e-Transporter/e-Caravelle on Ford Transit Custom basis"
+  },
+  {
+   "url": "https://www.electrive.com/2026/04/27/audi-discontinues-internal-combustion-engine-models-a1-and-q2/",
+   "what": "Audi discontinues A1 and Q2 production (2026-04-27); Q3 Győr/Ingolstadt; A2 e-tron production from autumn 2026"
+  },
+  {
+   "url": "https://www.motor1.com/news/793928/audi-a1-q2-production-ends/",
+   "what": "Audi A1/Q2 production ends ahead of A2 e-tron"
+  },
+  {
+   "url": "https://theevreport.com/audi-a2-e-tron-lineup-pricing-range",
+   "what": "Audi A2 e-tron prices, order start 2026-09-10, deliveries Dec 2026"
+  },
+  {
+   "url": "https://www.automotiveworld.com/news/audi-announces-third-generation-q7-for-summer-2026-debut/",
+   "what": "Audi Q7 III summer-2026 debut; Q9 debut H2 2026"
+  },
+  {
+   "url": "https://www.motor1.com/news/795224/new-audi-models-2026/",
+   "what": "New Audi models 2026 (Q4 e-tron MY27 refresh, RS5 PHEV, A2 e-tron, Q7, Q9, RS6, Q8 e-tron end, TT/R8/A8 outlook)"
+  },
+  {
+   "url": "https://audi.ch/ch/web/de/neuwagen/a3.html",
+   "what": "Audi Switzerland A3 model page (search result; Swiss list page itself could not be fetched)"
+  },
+  {
+   "url": "https://www.audi.ch/de/neuwagen/",
+   "what": "Audi Switzerland 'Alle Audi Modelle' (fetch failed – client error)"
+  },
+  {
+   "url": "https://www.skoda.ch/",
+   "what": "Škoda Switzerland homepage: 11 models incl. NEW Peaq and NEW Epiq, fetched 2026-10-21"
+  },
+  {
+   "url": "https://www.skoda.ch/models/range",
+   "what": "Škoda Switzerland range page (11 models)"
+  },
+  {
+   "url": "https://www.skoda.ch/models/peaq/peaq",
+   "what": "Škoda Peaq CH: 'Ab sofort bestellbar – ab November beim Škoda Partner'"
+  },
+  {
+   "url": "https://www.skoda.ch/models/epiq/epiq",
+   "what": "Škoda Epiq CH: ab CHF 25'900, configurable"
+  },
+  {
+   "url": "https://www.greencarguide.co.uk/2026/06/skoda-peaq-electric-seven-seat-suv-from-51980/",
+   "what": "Škoda Peaq UK pricing; order books Sept 2026"
+  },
+  {
+   "url": "https://theevreport.com/skoda-epiq-uk-pricing-specification",
+   "what": "Škoda Epiq: MEB+, 4,171 mm, UK orders July 2026"
+  },
+  {
+   "url": "https://www.seat.ch/",
+   "what": "SEAT Switzerland site: Ibiza, Arona, Leon, Leon Sportstourer, Ateca (offer request only)"
+  },
+  {
+   "url": "https://www.seat-cupra-mediacenter.com/SEAT-Brand/seat-news/2025/seat-starts-production-of-new-ibiza-arona-its-factory-in-martorell",
+   "what": "SEAT media: new Ibiza/Arona production start Dec 2025, launch Jan 2026; electrification roadmap"
+  },
+  {
+   "url": "https://www.expressandstar.com/news/motors/2026/03/19/seat-and-cupra-ateca-removed-from-sale-after-10-year-run",
+   "what": "SEAT and Cupra Ateca removed from sale (UK, March 2026; 'selected markets')"
+  },
+  {
+   "url": "https://www.cupraofficial.ch/",
+   "what": "Cupra Switzerland: Raval, Born, Tavascan, Leon, Leon ST, Formentor, Terramar, Ateca (stock) with CHF prices"
+  },
+  {
+   "url": "https://www.cupraofficial.ch/de/modelle/raval",
+   "what": "Cupra Raval CH page: 4,046 mm, CHF prices, configurable trims"
+  },
+  {
+   "url": "https://www.electrive.com/2026/05/22/cupra-opens-uk-order-books-for-raval/",
+   "what": "Cupra Raval UK order books May 2026"
+  },
+  {
+   "url": "https://www.topgear.com/car-news/electric/new-facelifted-cupra-born-and-itll-cost-between-ps36k-ps46k",
+   "what": "Cupra Born facelift 2026 UK pricing"
+  },
+  {
+   "url": "https://www.porsche.com/swiss/de/",
+   "what": "Porsche Switzerland: 911 (Benzin), 718 (nicht bestellbar), Taycan, Panamera, Macan (Elektro), Cayenne (Elektro/Hybrid/Benzin), Mission S"
+  },
+  {
+   "url": "https://www.autoguide.com/auto/manufacturers/porsche/sad-day-porsche-stops-taking-orders-for-the-718-boxster-and-cayman-44624701",
+   "what": "Porsche closed 718 order books (Sept 2025)"
+  },
+  {
+   "url": "https://www.elektroquatsch.de/artikel/porsche-718-elektro-boxster-fast-serienreif",
+   "what": "Electric 718: production planned 2027, no order date (Sept 2026)"
+  },
+  {
+   "url": "https://www.evo.co.uk/porsche/209198/porsche-mission-s-pictures",
+   "what": "Porsche Mission S concept, 2026-10-15"
+  },
+  {
+   "url": "https://news.dealershipguy.com/p/porsche-launches-all-electric-cayenne-reaffirms-multi-powertrain-strategy-2025-11-20",
+   "what": "Cayenne Electric launch Nov 2025, deliveries late summer 2026, combustion continues"
+  },
+  {
+   "url": "https://www.bentleymotors.com/en/models.html",
+   "what": "Bentley models page: Torcal, Bentayga/EWB, Flying Spur, Supersports, Continental GT/GTC"
+  },
+  {
+   "url": "https://www.bentleymotors.com/en/models/torcal.html",
+   "what": "Bentley Torcal page (EV SUV, configurator, EU data pending)"
+  },
+  {
+   "url": "https://www.bentleymedia.com/fr/newsitem/1811-torcal-the-next-extraordinary-bentley",
+   "what": "Bentley media: Torcal reveal 2026-09-23"
+  },
+  {
+   "url": "https://www.bentleymotors.com/en/models/supersports.html",
+   "what": "Bentley Supersports: 500 units, specified markets"
+  },
+  {
+   "url": "https://www.motor1.com/news/790458/lamborghini-new-cars-confirmed-2026/",
+   "what": "Lamborghini 2026 range: Revuelto, Temerario, Urus SE; new derivatives at Goodwood/Monterey 2026"
+  },
+  {
+   "url": "https://www.lamborghini.com/en-en/models",
+   "what": "Lamborghini models page (dynamic; Range/Few-off/Concept tabs)"
+  },
+  {
+   "url": "https://www.man.eu/ch/de/transporter/man-tge/modelluebersicht/man-tge-modelluebersicht.html",
+   "what": "MAN Switzerland TGE model overview"
+  },
+  {
+   "url": "https://vanreviewer.co.uk/news/man-tge-celebrates-10-years-with-special-anniversary-edition/",
+   "what": "MAN TGE 10 Years Edition (July 2026); Crafter platform; Next Level update"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Peaq",
+   "what": "Wikipedia: Škoda Peaq (MEB, 4,870 mm, on sale Aug 2026)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_ID._Tiguan",
+   "what": "Wikipedia: Volkswagen ID. Tiguan (MEB+, replaces ID.4/ID.5)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Audi_Q9",
+   "what": "Wikipedia: Audi Q9 (reveal 2026-07-29, PPC, MY2027)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Audi_Nuvolari",
+   "what": "Wikipedia: Audi Nuvolari (2026 limited PHEV supercar)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Audi_Q7",
+   "what": "Wikipedia: Audi Q7 (gen III unveiled 2026-06-09, PPC)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Audi_A8",
+   "what": "Wikipedia: Audi A8 (German order books closed 2026-02-18)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Audi_A2_e-tron",
+   "what": "Wikipedia: Audi A2 e-tron (MEB, 4,321 mm, reveal 2026-09-07)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Bentley_Torcal",
+   "what": "Wikipedia: Bentley Torcal (PPE, 5,008 mm, reveal 2026-09-23)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_ID.5",
+   "what": "Wikipedia: ID.5 (no discontinuation date given)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)",
+   "what": "Wikipedia: T7 Transporter based on Ford Transit Custom"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Caddy",
+   "what": "Wikipedia: Caddy (2020, Typ SB) / Ford Tourneo Connect rebadge"
+  },
+  {
+   "url": "https://audi.ch/ch/web/de/neuwagen.html?bycarlinegroup=q3",
+   "what": "Audi Switzerland new-car search: model filter list (A1, A2 e-tron, A3, A5, A6, A6 e-tron, A7, e-tron GT, Q2, Q3, Q4 e-tron, Q5, Q6 e-tron, Q7, Q8, Q9, Nuvolari) – no A8"
+  },
+  {
+   "url": "https://www.lamborghini.com/en-en/newsroom",
+   "what": "Lamborghini newsroom (Temerario Tricolore, Aug 2026)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+   "what": "Wikipedia: MEB platform (twin relationships)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Group_MQB_platform",
+   "what": "Wikipedia: MQB platform (twin relationships)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Group_MLB_platform",
+   "what": "Wikipedia: MLB platform (twin relationships)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Premium_Platform_Electric",
+   "what": "Wikipedia: PPE platform (twin relationships)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Group_MSB_platform",
+   "what": "Wikipedia: MSB platform (twin relationships)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Volkswagen_Group_J1_platform",
+   "what": "Wikipedia: J1 platform (twin relationships)"
+  }
+ ]
+}

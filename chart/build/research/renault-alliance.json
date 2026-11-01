@@ -1,0 +1,2393 @@
+{
+ "agent": "renault-alliance (Renault Group / Nissan / Mitsubishi Motors)",
+ "checked_on": "2026-10-21",
+ "models": [
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Twingo",
+   "display": "Twingo E-Tech",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/elektroautos/twingo-e-tech-electric.html",
+   "row": "a-city",
+   "body": "5-door city hatchback",
+   "generation": "IV (2026–)",
+   "length_mm": 3789,
+   "platform": "AmpR Small / RGEV Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Orders open since Dec 2025 (FR/DE from EUR 21,090/21,590); Swiss configurator live Oct 2026",
+   "status_sources": [
+    "https://www.electrive.net/2025/12/16/renault-twingo-ab-21-090-euro-bestellbar/",
+    "https://www.electrive.net/2026/01/06/renault-twingo-startet-in-deutschland-bei-21-590-euro/",
+    "https://de.renault.ch/personenwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Nissan Pixo"
+   ],
+   "twin_note": "Nissan Pixo (revealed 23 Sep 2026, prices Dec 2026) is a Renault-developed and Renault-built (Novo Mesto) derivative of the Twingo; Pixo is still 'announced'. Dacia Spring II shares the RGEV Small platform (cross-row sibling, distinct body).",
+   "twin_sources": [
+    "https://www.electrive.com/2026/09/09/twingo-inspired-nissan-pixo-set-for-september-reveal/",
+    "https://en.wikipedia.org/wiki/Dacia_Spring"
+   ],
+   "carsized_slug": "renault-twingo-2026-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/renault/twingo/d/2026/sm_254096077_renault-twingo-2026-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/twingo/d/2026/fa_263000000_renault-twingo-2026-front-view_4x.png",
+   "carsized_years": "2026-present",
+   "commons_category": "Category:Renault Twingo IV",
+   "commons_file": null,
+   "wikipedia_en": "Renault Twingo",
+   "notes": "Length 3.79 m per Renault. Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Renault 5",
+   "display": "Renault 5 E-Tech",
+   "other_names": [
+    "Renault 5 E-Tech Electric"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/elektroautos/renault-5-htb-ph1-my26.html",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "2024– (R5 E-Tech)",
+   "length_mm": 3922,
+   "platform": "AmpR Small / RGEV Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On sale across Europe since late 2024; MY26 on Swiss site",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Alpine A290",
+    "Nissan Micra"
+   ],
+   "twin_note": "A290 = hot version with widened R5 body shell; Nissan Micra (2025) is an AmpR Small sibling built on the same line in Douai with the R5's wheelbase, battery, motors and interior but restyled exterior panels (press: 'Renault 5 twin'). Renault 4 (b-suv) and Twingo (a-city) are cross-row platform siblings.",
+   "twin_sources": [
+    "https://www.autocar.co.uk/car-news/new-cars/reinvented-nissan-micra-matches-renault-5-price-£22995",
+    "https://newmobility.news/2025/08/08/nissan-launches-new-micra-ev-first-in-the-uk/",
+    "https://en.wikipedia.org/wiki/Alpine_A290"
+   ],
+   "carsized_slug": "renault-5-2024-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/renault/5/d-electric/2024/sl_259096086_renault-5-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/5/d-electric/2024/fa_267000000_renault-5-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Renault 5 E-Tech",
+   "commons_file": null,
+   "wikipedia_en": "Renault 5 E-Tech",
+   "notes": "Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Renault 4",
+   "display": "Renault 4 E-Tech",
+   "other_names": [
+    "Renault 4 E-Tech Electric"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/elektroautos/renault-4.html",
+   "row": "b-suv",
+   "body": "small crossover",
+   "generation": "2025– (R4 E-Tech)",
+   "length_mm": 4144,
+   "platform": "AmpR Small / RGEV Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On sale in Europe since 2025; on CH/DE/FR sites Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No same-row sibling. Shares AmpR Small with Renault 5 / Alpine A290 / Nissan Micra (b-hatch) — cross-row only.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Renault_4_E-Tech"
+   ],
+   "carsized_slug": "renault-4-2025-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/renault/4/d-electric/2025/sm_266104106_renault-4-2025-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/4/d-electric/2025/fa_275000000_renault-4-2025-front-view_4x.png",
+   "carsized_years": "2025-present",
+   "commons_category": "Category:Renault 4 E-Tech",
+   "commons_file": null,
+   "wikipedia_en": "Renault 4 E-Tech",
+   "notes": "Commons category name unverified (budget). carsized classes the R4 as '5-door hatchback' (slug renault-4-2025-5-door-hatchback, 'Gen. 2 | 2025-present'); renault-4-2024/2025-suv do not exist."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Clio",
+   "display": "Clio",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/hybrid/neuer-clio.html",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "VI (2025–)",
+   "length_mm": 4116,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "petrol",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "New Clio VI launched Sept 2025 (IAA); CH site 'Neuer Clio' with configurator; FR site lists 'Nouvelle Clio' (and runout stock of Clio V)",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.fr/",
+    "https://www.renault.de/modelle.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Mitsubishi Colt",
+    "Dacia Sandero"
+   ],
+   "twin_note": "Mitsubishi Colt is a tier-1 rebadge of the PREVIOUS Clio V (built by Oyak-Renault, ended end-2025); the Clio VI is a new body on the evolved CMF-B platform, so Clio VI/Colt and Clio/Sandero (CMF-B LS) are platform siblings (tier 2).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Colt",
+    "https://www.motor1.com/news/729729/mitsubishi-space-star-discontinued/",
+    "https://en.wikipedia.org/wiki/Dacia_Sandero"
+   ],
+   "carsized_slug": "renault-clio-2025-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/renault/clio/d/2025/sl_247114089_renault-clio-2025-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/clio/d/2025/fa_261000000_renault-clio-2025-front-view_4x.png",
+   "carsized_years": "2025-present",
+   "commons_category": "Category:Renault Clio VI",
+   "commons_file": null,
+   "wikipedia_en": "Renault Clio",
+   "notes": "Length 4.116 m (Clio VI). Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Captur",
+   "display": "Captur",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/hybrid/captur-etech-full-hybrid.html",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "II (2019–, facelift 2024)",
+   "length_mm": 4239,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "petrol",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR sites with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mitsubishi ASX"
+   ],
+   "twin_note": "Mitsubishi ASX (2023–) is a rebadged Captur II built by Renault in Valladolid. Nissan Juke (CMF-B) is a tier-2 platform sibling in the same row.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_ASX",
+    "https://www.mitsubishi-motors.de/asx"
+   ],
+   "carsized_slug": "renault-captur-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/renault/captur/d/2024/sm_266121093_renault-captur-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/captur/d/2024/fa_278000000_renault-captur-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Renault Captur II",
+   "commons_file": null,
+   "wikipedia_en": "Renault Captur",
+   "notes": ""
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Symbioz",
+   "display": "Symbioz",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/hybrid/symbioz.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4413,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "HEV",
+    "MHEV",
+    "LPG"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR sites with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mitsubishi Grandis"
+   ],
+   "twin_note": "Mitsubishi Grandis (2025–) is a rebadged Symbioz built by Renault in Valladolid.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Grandis",
+    "https://www.mitsubishi-motors.de/grandis"
+   ],
+   "carsized_slug": "renault-symbioz-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/renault/symbioz/d/2024/sm_263118121_renault-symbioz-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/symbioz/d/2024/fa_277000000_renault-symbioz-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Renault Symbioz",
+   "commons_file": null,
+   "wikipedia_en": "Renault Symbioz",
+   "notes": "Stretched Captur II (same wheelbase 2.64 m); Captur is in b-suv so no cross-row group."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Austral",
+   "display": "Austral",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/hybrid/renault-austral-2025.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "I (2022–, facelift 2025)",
+   "length_mm": 4510,
+   "platform": "CMF-CD (Alliance)",
+   "powertrains": [
+    "HEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Facelifted 2025 model on CH/DE/FR sites, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Nissan Qashqai"
+   ],
+   "twin_note": "Austral and Qashqai (J12) share the CMF-CD platform (2.67 m wheelbase) and the 1.2/1.3 mild-hybrid engine family; distinct bodies.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Renault_Austral",
+    "https://en.wikipedia.org/wiki/Nissan_Qashqai"
+   ],
+   "carsized_slug": "renault-austral-2025-suv",
+   "carsized_side": "https://www.carsized.com/resources/renault/austral/d/2025/sm_275131124_renault-austral-2025-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/austral/d/2025/fa_283000000_renault-austral-2025-front-view_4x.png",
+   "carsized_years": "2025-present",
+   "commons_category": "Category:Renault Austral",
+   "commons_file": null,
+   "wikipedia_en": "Renault Austral",
+   "notes": ""
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Espace",
+   "display": "Espace",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/hybrid/renault-espace-2025.html",
+   "row": "d-suv",
+   "body": "7-seat SUV",
+   "generation": "VI (2023–, facelift 2025)",
+   "length_mm": 4722,
+   "platform": "CMF-CD (Alliance)",
+   "powertrains": [
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR sites with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Rafale",
+    "Nissan X-Trail",
+    "Mitsubishi Outlander"
+   ],
+   "twin_note": "Espace VI, Rafale (same long-wheelbase CMF-CD, 2.74 m), Nissan X-Trail T33 and Mitsubishi Outlander IV (CMF-CD) are platform siblings with distinct bodies.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Renault_Espace",
+    "https://en.wikipedia.org/wiki/Renault_Rafale",
+    "https://en.wikipedia.org/wiki/Mitsubishi_Outlander"
+   ],
+   "carsized_slug": "renault-espace-2025-suv",
+   "carsized_side": "https://www.carsized.com/resources/renault/espace/d/2025/sl_278125150_renault-espace-2025-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/espace/d/2025/fa_284000000_renault-espace-2025-front-view_4x.png",
+   "carsized_years": "2025-present",
+   "commons_category": "Category:Renault Espace VI",
+   "commons_file": null,
+   "wikipedia_en": "Renault Espace",
+   "notes": "Espace VI shares its front structure with the Austral (c-suv) — cross-row."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Rafale",
+   "display": "Rafale",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/hybrid/rafale-e-tech-hybrid.html",
+   "row": "d-suv",
+   "body": "coupé SUV",
+   "generation": "I (2024–)",
+   "length_mm": 4710,
+   "platform": "CMF-CD (Alliance)",
+   "powertrains": [
+    "HEV",
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR sites with configurator, Oct 2026 (incl. 300 hp PHEV 4x4)",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Espace",
+    "Nissan X-Trail",
+    "Mitsubishi Outlander"
+   ],
+   "twin_note": "See Espace.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Renault_Rafale",
+    "https://en.wikipedia.org/wiki/Renault_Espace"
+   ],
+   "carsized_slug": "renault-rafale-2024-coupe-suv",
+   "carsized_side": "https://www.carsized.com/resources/renault/rafale/d/2024/sm_269128144_renault-rafale-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/rafale/d/2024/fa_280000000_renault-rafale-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Renault Rafale",
+   "commons_file": null,
+   "wikipedia_en": "Renault Rafale",
+   "notes": ""
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Mégane E-Tech",
+   "display": "Mégane E-Tech",
+   "other_names": [
+    "Megane E-Tech Electric"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/elektroautos/neuer-megane.html",
+   "row": "c-hatch",
+   "body": "5-door hatchback / crossover",
+   "generation": "2022– (facelift 2026 'Nouvelle Mégane')",
+   "length_mm": 4200,
+   "platform": "CMF-EV / AmpR Medium (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "2026 facelift ('Neuer Megane' / 'Nouvelle Mégane') on CH/DE/FR sites with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.fr/",
+    "https://www.motoringresearch.com/car-news/updated-2026-renault-megane-e-tech-electric/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Nissan Leaf"
+   ],
+   "twin_note": "Nissan Leaf (ZE2, 2025) uses the same CMF-EV/AmpR Medium platform and a near-identical wheelbase (2.69 m) with a distinct body. Scenic E-Tech, Eclipse Cross, Ariya, A390 are cross-row (c-suv) CMF-EV siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Leaf",
+    "https://www.electrive.com/2025/10/15/nissan-leaf-launches-at-under-e37000/"
+   ],
+   "carsized_slug": "renault-megane-2022-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/renault/megane/h5/2022/sl_253107096_renault-megane-2022-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/megane/h5/2022/fa_267000000_renault-megane-2022-front-view_4x.png",
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Renault Mégane E-Tech",
+   "commons_file": null,
+   "wikipedia_en": "Renault Mégane E-Tech",
+   "notes": "Row: 4.20 m hatchback/crossover (brief places it in c-hatch). Commons category name unverified (budget). carsized: entry renault-megane-2022-5-door-hatchback ('2022-present') = pre-facelift image; no 2026-facelift entry found."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Scenic E-Tech",
+   "display": "Scenic E-Tech",
+   "other_names": [
+    "Scénic E-Tech Electric"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/elektroautos/scenic-etech-electric.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "V (2024–)",
+   "length_mm": 4470,
+   "platform": "CMF-EV / AmpR Medium (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR sites with configurator, Oct 2026 (MY26 up to 642 km)",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mitsubishi Eclipse Cross"
+   ],
+   "twin_note": "Mitsubishi Eclipse Cross (BEV, 2025–) is a rebadged Scenic E-Tech built by Renault in Douai. Nissan Ariya and Alpine A390 (CMF-EV) are tier-2 siblings in the same row; Mégane E-Tech/Leaf are cross-row siblings.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Eclipse_Cross",
+    "https://www.mitsubishi-motors.ch/de/modelle/eclipse-cross-bev",
+    "https://www.motor.es/noticias/mitsubishi-eclipse-cross-primeros-precios-europa-francia-2025110227.html"
+   ],
+   "carsized_slug": "renault-scenic-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/renault/scenic/suv/2024/sl_266115116_renault-scenic-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/scenic/suv/2024/fa_277000000_renault-scenic-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Renault Scénic E-Tech",
+   "commons_file": null,
+   "wikipedia_en": "Renault Scénic E-Tech",
+   "notes": "Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Kangoo",
+   "display": "Kangoo",
+   "other_names": [
+    "Grand Kangoo (LWB 7-seat)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/personenwagen/kangoo.html",
+   "row": "mpv-small",
+   "body": "leisure activity vehicle (passenger)",
+   "generation": "III (2021–)",
+   "length_mm": 4486,
+   "platform": "CMF-C/D (Alliance)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Kangoo and Grand Kangoo (petrol/diesel/E-Tech) on CH/DE/FR sites, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Nissan Townstar",
+    "Mercedes-Benz T-Class"
+   ],
+   "twin_note": "Kangoo III built by Renault (Maubeuge); Nissan Townstar Combi and Mercedes-Benz T-Class (and EQT) are rebadges with brand-specific fascias.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Townstar",
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_T-Class",
+    "https://de.nissan.ch/fahrzeuge/neuwagen/townstar-combi.html"
+   ],
+   "carsized_slug": "renault-kangoo-2021-5-door-van",
+   "carsized_side": "https://www.carsized.com/resources/renault/kangoo/d/2021/sm_311134115_renault-kangoo-2021-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/renault/kangoo/d/2021/fa_311000000_renault-kangoo-2021-front-view_4x.png",
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Renault Kangoo III",
+   "commons_file": null,
+   "wikipedia_en": "Renault Kangoo",
+   "notes": "Grand Kangoo = 4.91 m LWB, same nameplate/tile. carsized entry verified ('Gen. 3 | 2021 - present')."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Kangoo Van",
+   "display": "Kangoo Van",
+   "other_names": [
+    "Kangoo Van E-Tech"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.business.renault.ch/nutzfahrzeuge/kangoo-van-ev.html",
+   "row": "van-small",
+   "body": "panel van (L1/L2)",
+   "generation": "III (2021–)",
+   "length_mm": 4486,
+   "platform": "CMF-C/D (Alliance)",
+   "powertrains": [
+    "petrol",
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Kangoo Van from CHF 20,900 (ICE) / 24,453 (E-Tech) with configurator on renault.ch vans page, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/vans.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Nissan Townstar",
+    "Mercedes-Benz Citan"
+   ],
+   "twin_note": "Same body as Nissan Townstar van and Mercedes-Benz Citan (eCitan); all built in Maubeuge.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Citan",
+    "https://en.wikipedia.org/wiki/Nissan_Townstar"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Renault Kangoo III",
+   "commons_file": null,
+   "wikipedia_en": "Renault Kangoo",
+   "notes": "Separate tile from the passenger Kangoo (brief rule: Citan/T-Class analogy). carsized panel-van slug unverified; the verified passenger slug renault-kangoo-2021-5-door-van can be reused as fallback. carsized: no panel-van entry found (tried renault-kangoo-2021-panel-van, renault-kangoo-2021-van, renault-kangoo-van-2021-panel-van); FALLBACK = passenger Kangoo entry renault-kangoo-2021-5-door-van (sm_311134115 side / fa_311000000 front)."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Trafic",
+   "display": "Trafic",
+   "other_names": [
+    "Trafic Combi (DE)",
+    "Trafic Passenger (UK/CH)",
+    "Trafic SpaceClass",
+    "Trafic Escapade / SpaceNomad (FR campers)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.renault.ch/personenwagen/trafic.html",
+   "row": "mpv-large",
+   "body": "passenger van (9-seat / SpaceClass)",
+   "generation": "III (2014–, facelifts 2019 & 2021)",
+   "length_mm": 4999,
+   "platform": "Renault X82 (own)",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Trafic Passenger and SpaceClass on CH/DE/FR sites with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/personenwagen.html",
+    "https://www.renault.de/modelle.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Nissan Primastar",
+    "Renault Trucks Trafic"
+   ],
+   "twin_note": "Nissan Primastar Combi is a rebadged Trafic III (built by Renault, Sandouville); Renault Trucks (Volvo Group) also retails the Trafic ('Trafic Red EDITION').",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Primastar",
+    "https://www.renault-trucks.fr/product/renault-trucks-trafic-red-edition"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Renault Trafic III",
+   "commons_file": null,
+   "wikipedia_en": "Renault Trafic",
+   "notes": "L1 4.999 m / L2 5.399 m. The new-generation electric Trafic (2026) is a different vehicle — see 'Trafic E-Tech' entry. carsized: no entry found (tried renault-trafic-2021-van, renault-trafic-2021-panel-van; 2014/2019 variants not reachable before budget ran out) -> use Commons."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Trafic Van",
+   "display": "Trafic Van",
+   "other_names": [
+    "Trafic Fourgon (FR)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.business.renault.ch/nutzfahrzeuge/trafic-van.html",
+   "row": "van-mid",
+   "body": "panel van / crew van / platform cab",
+   "generation": "III (2014–, facelifts 2019 & 2021)",
+   "length_mm": 4999,
+   "platform": "Renault X82 (own)",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Trafic Van (diesel) from CHF 33,800 with configurator on renault.ch vans page, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/vans.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Nissan Primastar",
+    "Renault Trucks Trafic"
+   ],
+   "twin_note": "See Trafic (passenger).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Primastar",
+    "https://www.renault-trucks.fr/product/renault-trucks-trafic-red-edition"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Renault Trafic III",
+   "commons_file": null,
+   "wikipedia_en": "Renault Trafic",
+   "notes": "The current-gen Trafic E-Tech (electric, 2022) no longer appears on the CH vans page; the diesel X82 Trafic Van continues alongside the new-generation electric Trafic (separate entry). carsized: no entry found (see Trafic) -> use Commons."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Trafic E-Tech",
+   "display": "Trafic E-Tech (new gen)",
+   "other_names": [
+    "Trafic E-Tech Electric",
+    "Renault Trucks E-Tech Trafic"
+   ],
+   "ch_on_sale": null,
+   "ch_source": "https://de.business.renault.ch/trafic-van-range/trafic-pcx-ph1.html",
+   "row": "van-mid",
+   "body": "electric panel van (L1/L2)",
+   "generation": "IV (2026–)",
+   "length_mm": 4870,
+   "platform": "Flexis SDV skateboard (Renault/Volvo/CMA CGM JV)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Listed on renault.ch as 'Neuer Trafic Van E-Tech' with no price/configurator ('Händler kontaktieren', homologation pending); market launch 2026 per Renault; UK business site (fetched 2026-10-22) lists 'New Trafic Van E-Tech' with 'stay informed' only, no price/'build yours' (specs pending homologation) — not yet orderable",
+   "status_sources": [
+    "https://de.business.renault.ch/trafic-van-range/trafic-pcx-ph1.html",
+    "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424",
+    "https://www.renault-trucks.fr/nouveau-renault-trucks-e-tech-trafic"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Estafette",
+    "Renault Goelette",
+    "Renault Trucks Trafic"
+   ],
+   "twin_note": "Trafic E-Tech, Estafette and Goelette share the Flexis SDV skateboard (same cab architecture, different bodies). Renault Trucks lists a 'Nouveau E-Tech Trafic'. A Nissan version has not been announced.",
+   "twin_sources": [
+    "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424",
+    "https://www.renault-trucks.fr/nouveau-renault-trucks-e-tech-trafic"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Renault Trafic",
+   "notes": "Separate entry because it is a different vehicle sold alongside the diesel Trafic III; builder may merge into one 'Trafic' tile. Length 4.87 m (L1), height <1.90 m, payload up to 1,250 kg, range up to 470 km (renault.ch). No carsized entry expected yet; Commons: none known."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Master",
+   "display": "Master",
+   "other_names": [
+    "Master E-Tech",
+    "Master Kastenwagen / Fahrgestell (CH)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.business.renault.ch/business-range-master/kastenwagen.html",
+   "row": "van-large",
+   "body": "large van / chassis cab / platform cab",
+   "generation": "IV (2024–)",
+   "length_mm": 5050,
+   "platform": "Renault 'Aventure' platform (own)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Master van (diesel from CHF 42,550, E-Tech from 62,100), chassis/platform cab, tipper, box body all on renault.ch vans page with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.renault.ch/vans.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Nissan Interstar",
+    "Renault Trucks Master"
+   ],
+   "twin_note": "Nissan Interstar (2024–) is a rebadged Master IV (built by Renault, Batilly); Renault Trucks (Volvo Group) sells the same van as 'Renault Trucks Master' (Red EDITION, E-Tech Master).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Interstar",
+    "https://www.renault-trucks.fr/product/renault-trucks-master-red-edition",
+    "https://de.nissan.ch/fahrzeuge/neuwagen/neuer-interstar.html"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Renault Master IV",
+   "commons_file": null,
+   "wikipedia_en": "Renault Master",
+   "notes": "Length 5.05 m (L2) to ~6.3 m (L4). Commons category name unverified (budget). carsized: no entry found (tried renault-master-2024-van, renault-master-2024-panel-van) -> use Commons."
+  },
+  {
+   "brand": "Dacia",
+   "group": "Renault Group",
+   "model": "Spring",
+   "display": "Spring",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.dacia.ch/hybrid-and-electric-range/spring.html",
+   "row": "a-city",
+   "body": "5-door city car",
+   "generation": "II (2026–)",
+   "length_mm": 3850,
+   "platform": "RGEV Small / AmpR Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Second-generation, Europe-built (Novo Mesto) Spring revealed 8 Sep 2026; CH site: 'Bestellungen werden ab sofort entgegengenommen', from CHF 16,790; DE site EUR 17,900 with configurator. First-gen (China-built) Spring still listed on DE/ES sites as runout.",
+   "status_sources": [
+    "https://de.dacia.ch/hybrid-and-electric-range/spring.html",
+    "https://www.dacia.de/hybrid-und-elektromodelle/neuer-spring.html",
+    "https://en.wikipedia.org/wiki/Dacia_Spring"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Shares the RGEV Small architecture with Renault Twingo E-Tech (a-city) but has its own body — a tier-2 relation to Twingo is defensible (same platform, same 27.5 kWh LFP battery and 60 kW motor); left at null pending verifier decision.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Dacia_Spring",
+    "https://www.electrive.com/2026/09/09/twingo-inspired-nissan-pixo-set-for-september-reveal/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Dacia Spring",
+   "commons_file": null,
+   "wikipedia_en": "Dacia Spring",
+   "notes": "Length 3.85 m per dacia.ch. carsized probably only has the 2021 first generation (dacia-spring-2021-...). Commons: generation subcategory unverified. carsized: 2nd-gen Spring (Sep 2026) not on carsized yet (tried dacia-spring-2026-5-door-hatchback, -2026-suv) -> use Commons; do NOT use the 2021 first-gen entry."
+  },
+  {
+   "brand": "Dacia",
+   "group": "Renault Group",
+   "model": "Sandero",
+   "display": "Sandero",
+   "other_names": [
+    "Sandero Stepway (crossover version, same tile)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.dacia.ch/modelle/sandero.html",
+   "row": "b-hatch",
+   "body": "5-door hatchback (+ Stepway)",
+   "generation": "III (2020–, facelifts 2022/2025)",
+   "length_mm": 4088,
+   "platform": "CMF-B LS (Alliance)",
+   "powertrains": [
+    "petrol",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/ES sites with configurator (petrol, ECO-G LPG, full hybrid), Oct 2026",
+   "status_sources": [
+    "https://de.dacia.ch/",
+    "https://www.dacia.de/modelle.html",
+    "https://www.dacia.es/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Clio",
+    "Mitsubishi Colt"
+   ],
+   "twin_note": "CMF-B LS platform shared with Clio (and the Clio-based Colt); distinct body. Dacia Logan (saloon) is the same car but is not sold in DE/FR/UK/IT/ES/NL.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Dacia_Sandero"
+   ],
+   "carsized_slug": "dacia-sandero-2020-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/dacia/sandero/d/2020/sm_252114085_dacia-sandero-2020-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/dacia/sandero/d/2020/fa_268000000_dacia-sandero-2020-front-view_4x.png",
+   "carsized_years": "2020-present",
+   "commons_category": "Category:Dacia Sandero III",
+   "commons_file": null,
+   "wikipedia_en": "Dacia Sandero",
+   "notes": "Stepway 4.099 m."
+  },
+  {
+   "brand": "Dacia",
+   "group": "Renault Group",
+   "model": "Jogger",
+   "display": "Jogger",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.dacia.ch/modelle/jogger.html",
+   "row": "mpv-small",
+   "body": "7-seat estate/MPV",
+   "generation": "I (2021–)",
+   "length_mm": 4547,
+   "platform": "CMF-B LS (Alliance)",
+   "powertrains": [
+    "petrol",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/ES sites with configurator (TCe, ECO-G, Hybrid 140), Oct 2026",
+   "status_sources": [
+    "https://de.dacia.ch/",
+    "https://www.dacia.de/modelle.html",
+    "https://www.dacia.es/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No sibling in the row; CMF-B LS shared with Sandero (b-hatch) and Striker (c-suv) — cross-row.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Dacia_Jogger"
+   ],
+   "carsized_slug": "dacia-jogger-2021-minivan",
+   "carsized_side": "https://www.carsized.com/resources/dacia/jogger/d/2021/sl_281110112_dacia-jogger-2021-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/dacia/jogger/d/2021/fa_283000000_dacia-jogger-2021-front-view_4x.png",
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Dacia Jogger",
+   "commons_file": null,
+   "wikipedia_en": "Dacia Jogger",
+   "notes": "Row per brief example list (mpv-small). carsized body type unknown (estate vs minivan)."
+  },
+  {
+   "brand": "Dacia",
+   "group": "Renault Group",
+   "model": "Duster",
+   "display": "Duster",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.dacia.ch/hybrid-and-electric-range/duster-suv.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "III (2024–)",
+   "length_mm": 4343,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "MHEV",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/ES sites with configurator (TCe 130 mild hybrid, ECO-G, Hybrid 140, Hybrid-G 150 4x4), Oct 2026",
+   "status_sources": [
+    "https://de.dacia.ch/",
+    "https://www.dacia.de/modelle.html",
+    "https://www.dacia.es/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Dacia Bigster",
+    "Dacia Striker"
+   ],
+   "twin_note": "Bigster is a lengthened CMF-B derivative of Duster III with the same front structure and powertrains; Striker uses the same platform/powertrains with a crossover-estate body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Dacia_Bigster",
+    "https://en.wikipedia.org/wiki/Dacia_Striker"
+   ],
+   "carsized_slug": "dacia-duster-2023-suv",
+   "carsized_side": "https://www.carsized.com/resources/dacia/duster/d/2023/sm_276121109_dacia-duster-2023-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/dacia/duster/d/2023/fa_288000000_dacia-duster-2023-front-view_4x.png",
+   "carsized_years": "2023-present",
+   "commons_category": "Category:Dacia Duster III",
+   "commons_file": null,
+   "wikipedia_en": "Dacia Duster",
+   "notes": "4.34 m is at the b-suv/c-suv boundary; brief explicitly lists Duster in c-suv."
+  },
+  {
+   "brand": "Dacia",
+   "group": "Renault Group",
+   "model": "Bigster",
+   "display": "Bigster",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.dacia.ch/hybrid-and-electric-range/bigster.html",
+   "row": "c-suv",
+   "body": "compact/mid SUV",
+   "generation": "I (2025–)",
+   "length_mm": 4570,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "MHEV",
+    "LPG",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/ES sites with configurator, Oct 2026",
+   "status_sources": [
+    "https://de.dacia.ch/",
+    "https://www.dacia.de/modelle.html",
+    "https://www.dacia.es/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Dacia Duster",
+    "Dacia Striker"
+   ],
+   "twin_note": "See Duster.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Dacia_Bigster",
+    "https://en.wikipedia.org/wiki/Dacia_Striker"
+   ],
+   "carsized_slug": "dacia-bigster-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/dacia/bigster/d/2024/sm_289118143_dacia-bigster-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/dacia/bigster/d/2024/fa_293000000_dacia-bigster-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Dacia Bigster",
+   "commons_file": null,
+   "wikipedia_en": "Dacia Bigster",
+   "notes": ""
+  },
+  {
+   "brand": "Dacia",
+   "group": "Renault Group",
+   "model": "Striker",
+   "display": "Striker",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.dacia.ch/hybrid-and-electric-range/striker.html",
+   "row": "c-suv",
+   "body": "crossover estate (raised 5-door estate, 190–200 mm clearance)",
+   "generation": "I (2026–)",
+   "length_mm": 4620,
+   "platform": "CMF-B LS (Alliance)",
+   "powertrains": [
+    "HEV",
+    "LPG"
+   ],
+   "status": "on_sale",
+   "status_note": "New model announced 8 Jul 2026 (first look 10 Mar 2026); CH site 'Bestellungen sind ab sofort möglich' from CHF 27,890; listed on DE/ES sites (ES 'configúralo y resérvalo')",
+   "status_sources": [
+    "https://de.dacia.ch/hybrid-and-electric-range/striker.html",
+    "https://en.wikipedia.org/wiki/Dacia_Striker",
+    "https://www.dacia.de/modelle.html",
+    "https://www.dacia.es/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Dacia Duster",
+    "Dacia Bigster"
+   ],
+   "twin_note": "CMF-B LS platform; same Hybrid 155 / Hybrid 150 4x4 powertrains as Bigster; built in Bursa.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Dacia_Striker"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Dacia Striker",
+   "commons_file": null,
+   "wikipedia_en": "Dacia Striker",
+   "notes": "ROW JUDGEMENT CALL: Dacia calls it a crossover (estate body, 1.53 m tall, 4.62 m long); placed in c-suv with its platform siblings Duster/Bigster; alternative is c-hatch (estate). No carsized entry expected yet (revealed Jul 2026). Commons: Commons category page could not be fetched (fetcher returned url_not_found for every Commons URL incl. Category:Renault_Master, which certainly exists) -> name unverified. Best parent = Category:Dacia automobiles. carsized: not tried (revealed Jul 2026, unlikely listed) -> use Commons."
+  },
+  {
+   "brand": "Alpine",
+   "group": "Renault Group",
+   "model": "A110",
+   "display": "A110",
+   "other_names": [
+    "A110 GTS",
+    "A110 R 70 (final edition)"
+   ],
+   "ch_on_sale": null,
+   "ch_source": "https://de.alpinecars.ch/modellreihe.html",
+   "row": "sports",
+   "body": "2-seat mid-engined coupé",
+   "generation": "II (2017–2026)",
+   "length_mm": 4178,
+   "platform": "Alpine aluminium platform (own)",
+   "powertrains": [
+    "petrol"
+   ],
+   "status": "runout",
+   "status_note": "Final A110 (28,701 built) left the Dieppe line in early July 2026 after a last run of 1,750 units; alpinecars.fr still shows configurator/stock for A110, A110 GTS (EUR 79,900) and A110 R 70 (EUR 122,900) in Oct 2026 — stock/runout only",
+   "status_sources": [
+    "https://www.autocar.co.uk/node/375412",
+    "https://www.electrive.com/2025/10/27/alpine-confirms-electric-successor-to-the-a110",
+    "https://www.alpinecars.fr/",
+    "https://de.alpinecars.ch/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "No twin.",
+   "twin_sources": [],
+   "carsized_slug": "alpine-a110-2017-coupe",
+   "carsized_side": "https://www.carsized.com/resources/alpine/a110/d/2017/sm_216117117_alpine-a110-2017-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/alpine/a110/d/2017/fa_229000000_alpine-a110-2017-front-view_4x.png",
+   "carsized_years": "2017-present",
+   "commons_category": "Category:Alpine A110 (2017)",
+   "commons_file": null,
+   "wikipedia_en": "Alpine A110 (2017)",
+   "notes": "Electric successor (3rd gen, Alpine Performance Platform) is in the 'announced' list."
+  },
+  {
+   "brand": "Alpine",
+   "group": "Renault Group",
+   "model": "A290",
+   "display": "A290",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.alpinecars.ch/elektromodelle/a290.html",
+   "row": "b-hatch",
+   "body": "5-door hot hatch",
+   "generation": "I (2024–)",
+   "length_mm": 3997,
+   "platform": "AmpR Small / RGEV Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/FR sites (FR from EUR 34,670 after bonus), Oct 2026",
+   "status_sources": [
+    "https://de.alpinecars.ch/",
+    "https://www.alpinecars.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault 5",
+    "Nissan Micra"
+   ],
+   "twin_note": "Widened Renault 5 body shell, built on the same Douai line.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Alpine_A290"
+   ],
+   "carsized_slug": "alpine-a290-2024-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/alpine/a290/d/2024/sl_261101093_alpine-a290-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/alpine/a290/d/2024/fa_271000000_alpine-a290-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Alpine A290",
+   "commons_file": null,
+   "wikipedia_en": "Alpine A290",
+   "notes": "Hot hatch stays in the hatch row per brief."
+  },
+  {
+   "brand": "Alpine",
+   "group": "Renault Group",
+   "model": "A390",
+   "display": "A390",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.alpinecars.ch/elektromodelle/a390.html",
+   "row": "c-suv",
+   "body": "5-door 'sport fastback' crossover",
+   "generation": "I (2025–)",
+   "length_mm": 4615,
+   "platform": "CMF-EV / AmpR Medium (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "FR from EUR 67,100; UK order books open from Jan 2026 (GBP 61,390); CH site lists A390 GT",
+   "status_sources": [
+    "https://www.alpinecars.fr/",
+    "https://evpowered.co.uk/news/alpine-a390-pricing-starts-from-61390-with-order-books-now-open/",
+    "https://www.electrive.com/2026/01/06/alpine-announces-uk-prices-for-the-a390",
+    "https://de.alpinecars.ch/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Scenic E-Tech",
+    "Mitsubishi Eclipse Cross",
+    "Nissan Ariya"
+   ],
+   "twin_note": "AmpR Medium (CMF-EV) platform shared with Scenic E-Tech / Eclipse Cross / Ariya; unique tri-motor body.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Alpine_A390"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Alpine A390",
+   "commons_file": null,
+   "wikipedia_en": "Alpine A390",
+   "notes": "4.615 m -> c-suv (d-suv starts ~4.65 m). Alternative: d-suv. Commons: Commons category page could not be fetched (fetcher returned url_not_found for every Commons URL incl. Category:Renault_Master, which certainly exists) -> name unverified. Best parent = Category:Alpine automobiles. carsized: no entry found (tried alpine-a390-2025-suv, alpine-a390-2025-coupe-suv) -> use Commons."
+  },
+  {
+   "brand": "Mobilize",
+   "group": "Renault Group",
+   "model": "Duo",
+   "display": "Duo",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://de.renault.ch/old-models-hub/old-models-mobilize-duo.html",
+   "row": "quadricycle",
+   "body": "2-seat L6e/L7e quadricycle",
+   "generation": "I (2024–2025)",
+   "length_mm": 2430,
+   "platform": "Mobilize (own, Twizy successor)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "runout",
+   "status_note": "Renault announced the end of the Mobilize brand in Dec 2025; Duo/Bento production ceased end-Dec 2025 (Tangier). renault.fr still links 'Mobilize Duo – voir le stock' (remaining stock); renault.ch lists it under 'old models'. Treat as runout/stock only.",
+   "status_sources": [
+    "https://www.inovev.com/index.php/en/market-analyses/category-blog/21723-2025-29-2",
+    "https://www.renault.fr/",
+    "https://de.renault.ch/old-models-hub/old-models-mobilize-duo.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Mobilize Bento"
+   ],
+   "twin_note": "Bento = cargo version of the Duo (same body); production never really started.",
+   "twin_sources": [
+    "https://www.inovev.com/index.php/en/market-analyses/category-blog/21723-2025-29-2"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mobilize Duo",
+   "commons_file": null,
+   "wikipedia_en": "Mobilize Duo",
+   "notes": "Verifier: decide whether a wound-down brand gets a column; if yes, show Duo as runout. Commons category unverified. carsized: not tried (runout quadricycle) -> use Commons."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Micra",
+   "display": "Micra",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/new-micra.html",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "VI / K15 (2025–)",
+   "length_mm": 3974,
+   "platform": "AmpR Small / RGEV Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Launched Aug 2025 (UK GBP 22,995, EU EUR 29,250); 'Neuer Micra' on CH/DE sites Oct 2026",
+   "status_sources": [
+    "https://newmobility.news/2025/08/08/nissan-launches-new-micra-ev-first-in-the-uk/",
+    "https://www.autocar.co.uk/car-news/new-cars/reinvented-nissan-micra-matches-renault-5-price-£22995",
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault 5",
+    "Alpine A290"
+   ],
+   "twin_note": "Developed by Renault/Ampere from the Renault 5 (same AmpR Small platform, wheelbase, 40/52 kWh batteries, motors and dashboard), built on the same Douai line; Nissan Design Europe restyled the exterior. TIER JUDGEMENT: press call it a 'Renault 5 twin'; if the verifier treats the restyled panels as a distinct shell, downgrade to tier 2.",
+   "twin_sources": [
+    "https://www.autocar.co.uk/car-news/new-cars/reinvented-nissan-micra-matches-renault-5-price-£22995",
+    "https://newmobility.news/2025/08/08/nissan-launches-new-micra-ev-first-in-the-uk/"
+   ],
+   "carsized_slug": "nissan-micra-2025-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/nissan/micra/d/2025/sl_256101088_nissan-micra-2025-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/nissan/micra/d/2025/fa_267000000_nissan-micra-2025-front-view_4x.png",
+   "carsized_years": "2025-present",
+   "commons_category": "Category:Nissan Micra K15",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Micra",
+   "notes": "Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Juke",
+   "display": "Juke",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/juke.html",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "II / F16 (2019–, facelift 2024)",
+   "length_mm": 4210,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE sites (DIG-T 114, Hybrid), Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Captur",
+    "Mitsubishi ASX"
+   ],
+   "twin_note": "Juke F16 shares CMF-B with Captur II (and thus the Captur-based ASX) and uses Renault's E-Tech hybrid system; distinct body (built in Sunderland).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Juke",
+    "https://en.wikipedia.org/wiki/Renault_Captur"
+   ],
+   "carsized_slug": "nissan-juke-2019-suv",
+   "carsized_side": "https://www.carsized.com/resources/nissan/juke/d/2019/sm_264112099_nissan-juke-2019-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/nissan/juke/d/2019/fa_278000000_nissan-juke-2019-front-view_4x.png",
+   "carsized_years": "2019-2024",
+   "commons_category": "Category:Nissan Juke F16",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Juke",
+   "notes": "Commons category name unverified (budget). carsized: entry is the pre-facelift F16 (2019-2024 shown); a 2024 facelift slug (nissan-juke-2024-suv) does not exist. Image is same generation, pre-facelift front."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Qashqai",
+   "display": "Qashqai",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/qashqai.html",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "III / J12 (2021–, facelift 2024)",
+   "length_mm": 4425,
+   "platform": "CMF-CD (Alliance)",
+   "powertrains": [
+    "MHEV",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE sites (mild hybrid, new e-POWER 2025), Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Austral"
+   ],
+   "twin_note": "See Austral.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Qashqai",
+    "https://en.wikipedia.org/wiki/Renault_Austral"
+   ],
+   "carsized_slug": "nissan-qashqai-2024-suv",
+   "carsized_side": "https://www.carsized.com/resources/nissan/qashqai/d/2024/sl_273124120_nissan-qashqai-2024-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/nissan/qashqai/d/2024/fa_282000000_nissan-qashqai-2024-front-view_4x.png",
+   "carsized_years": "2024-present",
+   "commons_category": "Category:Nissan Qashqai J12",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Qashqai",
+   "notes": "Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "X-Trail",
+   "display": "X-Trail",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/x-trail.html",
+   "row": "d-suv",
+   "body": "5/7-seat SUV",
+   "generation": "IV / T33 (2022–)",
+   "length_mm": 4680,
+   "platform": "CMF-CD (Alliance)",
+   "powertrains": [
+    "HEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Neuer X-Trail' on DE site (e-POWER 204 PS, 2WD/e-4ORCE), on CH site, Oct 2026; DE site lists only e-POWER (mild hybrid may have been dropped)",
+   "status_sources": [
+    "https://nissan.de/cf/fahrzeuge/neuwagen/x-trail",
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Espace",
+    "Renault Rafale",
+    "Mitsubishi Outlander"
+   ],
+   "twin_note": "X-Trail T33 and Mitsubishi Outlander IV share the CMF-CD platform (Outlander developed with the Rogue/X-Trail); Espace VI / Rafale use the LWB CMF-CD.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+    "https://en.wikipedia.org/wiki/Mitsubishi_Outlander"
+   ],
+   "carsized_slug": "nissan-x-trail-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/nissan/x-trail/d/2021/sl_287124146_nissan-x-trail-2021-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/nissan/x-trail/d/2021/fa_293000000_nissan-x-trail-2021-front-view_4x.png",
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Nissan X-Trail T33",
+   "commons_file": null,
+   "wikipedia_en": "Nissan X-Trail",
+   "notes": "Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Leaf",
+   "display": "Leaf",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/nissan-leaf.html",
+   "row": "c-hatch",
+   "body": "5-door crossover hatchback",
+   "generation": "III / ZE2 (2025–)",
+   "length_mm": 4350,
+   "platform": "CMF-EV / AmpR Medium (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "UK orders opened Oct 2025 (GBP 32,249), DE orders open Feb 2026 (EUR 35,950); 'Neuer Leaf' on CH/DE sites",
+   "status_sources": [
+    "https://www.electrive.net/2026/02/19/nissan-leaf-ab-35-950-euro-bestellbar/",
+    "https://www.electrive.com/2025/10/15/nissan-leaf-launches-at-under-e37000/",
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Mégane E-Tech"
+   ],
+   "twin_note": "Same CMF-EV platform and ~2.69 m wheelbase as Mégane E-Tech; distinct body (built in Sunderland). ROW: 4.35 m, 1.55 m tall — Nissan calls it a crossover; placed in c-hatch with its sibling (alt.: c-suv).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Leaf"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Nissan Leaf ZE2",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Leaf",
+   "notes": "Commons category name unverified (budget). carsized: no entry for the 2025 Leaf found (tried nissan-leaf-2025-5-door-hatchback, nissan-leaf-2025-suv) -> use Commons."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Ariya",
+   "display": "Ariya",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/ariya.html",
+   "row": "c-suv",
+   "body": "coupé-style SUV",
+   "generation": "I (2022–, MY26 update)",
+   "length_mm": 4595,
+   "platform": "CMF-EV / AmpR Medium (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Neuer Ariya' (MY26) on DE site from EUR 63,840 with configurator; on CH site, Oct 2026",
+   "status_sources": [
+    "https://www.nissan.de/cf/fahrzeuge/neuwagen/ariya",
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Scenic E-Tech",
+    "Mitsubishi Eclipse Cross",
+    "Alpine A390"
+   ],
+   "twin_note": "CMF-EV platform sibling of Scenic E-Tech / Eclipse Cross / A390 (distinct body, built in Tochigi).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Ariya",
+    "https://en.wikipedia.org/wiki/Renault_Scénic_E-Tech"
+   ],
+   "carsized_slug": "nissan-ariya-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/nissan/ariya/d/2022/sl_274115133_nissan-ariya-2022-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/nissan/ariya/d/2022/fa_282000000_nissan-ariya-2022-front-view_4x.png",
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Nissan Ariya",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Ariya",
+   "notes": "4.595 m -> c-suv by length (d-suv from ~4.65 m)."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Townstar",
+   "display": "Townstar Combi",
+   "other_names": [
+    "Townstar Kombi (DE/CH)",
+    "Townstar EV Kombi"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar-combi.html",
+   "row": "mpv-small",
+   "body": "leisure activity vehicle (passenger)",
+   "generation": "I (2021–)",
+   "length_mm": 4486,
+   "platform": "CMF-C/D (Alliance)",
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Townstar Kombi (petrol/EV) on CH/DE sites, Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Kangoo",
+    "Mercedes-Benz T-Class"
+   ],
+   "twin_note": "Rebadged Renault Kangoo III (built in Maubeuge).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Townstar"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Nissan Townstar",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Townstar",
+   "notes": "Commons: Commons category page could not be fetched (fetcher returned url_not_found for every Commons URL incl. Category:Renault_Master, which certainly exists) -> name unverified. Fallback parent = Category:Nissan vans; same body as Category:Renault Kangoo III. Two tiles for the Townstar nameplate (Combi / Van), mirroring Kangoo and Citan/T-Class. carsized: no Townstar entry found (tried nissan-townstar-2021-5-door-van, -2022-5-door-van); FALLBACK = twin Renault Kangoo entry renault-kangoo-2021-5-door-van (same body shell, different fascia)."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Townstar",
+   "display": "Townstar Van",
+   "other_names": [
+    "Townstar Elektro (CH)",
+    "Townstar EV"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/townstar.html",
+   "row": "van-small",
+   "body": "panel van (L1/L2)",
+   "generation": "I (2021–)",
+   "length_mm": 4486,
+   "platform": "CMF-C/D (Alliance)",
+   "powertrains": [
+    "petrol",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "Townstar / Townstar Elektro vans on CH/DE sites, Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Kangoo Van",
+    "Mercedes-Benz Citan"
+   ],
+   "twin_note": "Rebadged Renault Kangoo Van III.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Townstar",
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Citan"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Nissan Townstar",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Townstar",
+   "notes": "Commons: Commons category page could not be fetched (fetcher returned url_not_found for every Commons URL incl. Category:Renault_Master, which certainly exists) -> name unverified. Fallback parent = Category:Nissan vans / Category:Renault Kangoo III (same body). carsized: no entry found; FALLBACK = Kangoo passenger entry (same shell) or Commons."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Primastar",
+   "display": "Primastar Combi",
+   "other_names": [
+    "Primastar Kombi (DE/CH)",
+    "Primastar Seaside (camper)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar/primastar-kombi.html",
+   "row": "mpv-large",
+   "body": "9-seat passenger van",
+   "generation": "I (2021–)",
+   "length_mm": 4999,
+   "platform": "Renault X82 (Trafic III)",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Primastar Kombi on CH/DE sites, Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Trafic",
+    "Renault Trucks Trafic"
+   ],
+   "twin_note": "Rebadged Renault Trafic III (replaced NV300 in 2021).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Primastar"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Nissan Primastar (2021)",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Primastar",
+   "notes": "Commons category name unverified (budget). carsized: not tried (van slug pattern unknown; Trafic/Master attempts failed) -> use Commons."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Primastar",
+   "display": "Primastar Van",
+   "other_names": [
+    "NV300 (predecessor name, until 2021)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/primastar.html",
+   "row": "van-mid",
+   "body": "panel van / crew van / platform cab",
+   "generation": "I (2021–)",
+   "length_mm": 4999,
+   "platform": "Renault X82 (Trafic III)",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "Primastar van on CH/DE sites, Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Trafic Van",
+    "Renault Trucks Trafic"
+   ],
+   "twin_note": "Rebadged Renault Trafic Van III.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Primastar"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Nissan Primastar (2021)",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Primastar",
+   "notes": "carsized: not tried (see Primastar Combi) -> use Commons."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Interstar",
+   "display": "Interstar",
+   "other_names": [
+    "Interstar-e (electric)",
+    "NV400 (predecessor name)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen/neuer-interstar.html",
+   "row": "van-large",
+   "body": "large van / chassis cab",
+   "generation": "II (2024–)",
+   "length_mm": 5050,
+   "platform": "Renault 'Aventure' platform (Master IV)",
+   "powertrains": [
+    "diesel",
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "'Neuer Interstar' on CH/DE sites, Oct 2026",
+   "status_sources": [
+    "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+    "https://www.nissan.de/fahrzeuge/neuwagen.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Master",
+    "Renault Trucks Master"
+   ],
+   "twin_note": "Rebadged Renault Master IV (built in Batilly).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Nissan_Interstar"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Nissan Interstar (2024)",
+   "commons_file": null,
+   "wikipedia_en": "Nissan Interstar",
+   "notes": "Commons category name unverified (budget). carsized: not tried (see Master) -> use Commons."
+  },
+  {
+   "brand": "Mitsubishi",
+   "group": "Mitsubishi Motors",
+   "model": "Colt",
+   "display": "Colt",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mitsubishi-motors.ch/de/modelle/colt",
+   "row": "b-hatch",
+   "body": "5-door hatchback",
+   "generation": "VII (2023–2025)",
+   "length_mm": 4070,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "petrol",
+    "HEV"
+   ],
+   "status": "runout",
+   "status_note": "Production (Oyak-Renault, Bursa) ended end-2025 with the Clio V; DE site: 'Auslaufmodell — als Neuwagen nicht mehr erhältlich' (only day-registered stock); still listed on FR and CH sites in Oct 2026 (stock)",
+   "status_sources": [
+    "https://www.mitsubishi-motors.de/colt",
+    "https://en.wikipedia.org/wiki/Mitsubishi_Colt",
+    "https://www.mitsubishi-motors.fr/",
+    "https://www.mitsubishi-motors.ch/de/modelle"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Clio",
+    "Dacia Sandero"
+   ],
+   "twin_note": "Tier-1 rebadge of the previous Renault Clio V (no longer sold new); relative to the current Clio VI it is a CMF-B platform sibling (tier 2).",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Colt",
+    "https://www.motor1.com/news/729729/mitsubishi-space-star-discontinued/"
+   ],
+   "carsized_slug": "mitsubishi-colt-2023-5-door-hatchback",
+   "carsized_side": "https://www.carsized.com/resources/mitsubishi/colt/d/2023/sl_247110087_mitsubishi-colt-2023-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/mitsubishi/colt/d/2023/fa_260000000_mitsubishi-colt-2023-front-view_4x.png",
+   "carsized_years": "2023-present",
+   "commons_category": "Category:Mitsubishi Colt (2023)",
+   "commons_file": null,
+   "wikipedia_en": "Mitsubishi Colt",
+   "notes": "Verifier may drop it (runout). Commons category name unverified (budget)."
+  },
+  {
+   "brand": "Mitsubishi",
+   "group": "Mitsubishi Motors",
+   "model": "ASX",
+   "display": "ASX",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mitsubishi-motors.ch/de/modelle/asx",
+   "row": "b-suv",
+   "body": "small SUV",
+   "generation": "III (2023–, facelift 2024)",
+   "length_mm": 4239,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "petrol",
+    "MHEV",
+    "HEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR sites with prices, Oct 2026 (not UK)",
+   "status_sources": [
+    "https://www.mitsubishi-motors.ch/de/modelle",
+    "https://www.mitsubishi-motors.de/modelle",
+    "https://www.mitsubishi-motors.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Captur"
+   ],
+   "twin_note": "Rebadged Renault Captur II, built by Renault in Valladolid.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_ASX",
+    "https://www.mitsubishi-motors.de/asx"
+   ],
+   "carsized_slug": "mitsubishi-asx-2022-suv",
+   "carsized_side": "https://www.carsized.com/resources/mitsubishi/asx/d/2022/sl_266119093_mitsubishi-asx-2022-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/mitsubishi/asx/d/2022/fa_278000000_mitsubishi-asx-2022-front-view_4x.png",
+   "carsized_years": "2022-present",
+   "commons_category": "Category:Mitsubishi ASX (2023)",
+   "commons_file": null,
+   "wikipedia_en": "Mitsubishi ASX",
+   "notes": "Commons category name unverified (budget). carsized: entry mitsubishi-asx-2022-suv shows '2022-present' (pre-facelift ASX; the 2024 facelift has no separate entry; mitsubishi-asx-2023/2024-suv do not exist)."
+  },
+  {
+   "brand": "Mitsubishi",
+   "group": "Mitsubishi Motors",
+   "model": "Grandis",
+   "display": "Grandis",
+   "other_names": [],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mitsubishi-motors.ch/de/modelle/grandis",
+   "row": "c-suv",
+   "body": "compact SUV",
+   "generation": "II (2025–)",
+   "length_mm": 4413,
+   "platform": "CMF-B (Alliance)",
+   "powertrains": [
+    "HEV",
+    "MHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR ('Nouveau Grandis') sites with prices, Oct 2026",
+   "status_sources": [
+    "https://www.mitsubishi-motors.ch/de/modelle",
+    "https://www.mitsubishi-motors.de/modelle",
+    "https://www.mitsubishi-motors.fr/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Symbioz"
+   ],
+   "twin_note": "Rebadged Renault Symbioz, built by Renault in Valladolid.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Grandis",
+    "https://www.mitsubishi-motors.de/grandis"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mitsubishi Grandis (2025)",
+   "commons_file": null,
+   "wikipedia_en": "Mitsubishi Grandis",
+   "notes": "Commons category name unverified (budget). carsized: no entry found (tried mitsubishi-grandis-2025-suv, -2026-suv); FALLBACK = twin Renault Symbioz entry renault-symbioz-2024-suv (identical body, Mitsubishi grille differs)."
+  },
+  {
+   "brand": "Mitsubishi",
+   "group": "Mitsubishi Motors",
+   "model": "Eclipse Cross",
+   "display": "Eclipse Cross",
+   "other_names": [
+    "Eclipse Cross BEV (CH)",
+    "Nouvel Eclipse Cross (FR)"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mitsubishi-motors.ch/de/modelle/eclipse-cross-bev",
+   "row": "c-suv",
+   "body": "compact SUV (electric)",
+   "generation": "II (2025–)",
+   "length_mm": 4470,
+   "platform": "CMF-EV / AmpR Medium (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "on_sale",
+   "status_note": "CH site: 'Jetzt kaufen ab CHF 40,998' with configurator (Inform/Intense/Intense+/Instyle, 87 kWh, 600 km); on DE/FR sites, Oct 2026",
+   "status_sources": [
+    "https://www.mitsubishi-motors.ch/de/modelle/eclipse-cross-bev",
+    "https://www.mitsubishi-motors.de/modelle",
+    "https://www.mitsubishi-motors.fr/",
+    "https://www.motor.es/noticias/mitsubishi-eclipse-cross-primeros-precios-europa-francia-2025110227.html"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Scenic E-Tech"
+   ],
+   "twin_note": "Rebadged Renault Scenic E-Tech, built by Renault in Douai.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Eclipse_Cross",
+    "https://www.mitsubishi-motors.ch/de/modelle/eclipse-cross-bev"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mitsubishi Eclipse Cross (2025)",
+   "commons_file": null,
+   "wikipedia_en": "Mitsubishi Eclipse Cross",
+   "notes": "Commons category name unverified (budget). carsized: no entry found (tried mitsubishi-eclipse-cross-2025-suv, -2026-suv); FALLBACK = twin Renault Scenic entry renault-scenic-2024-suv (identical body)."
+  },
+  {
+   "brand": "Mitsubishi",
+   "group": "Mitsubishi Motors",
+   "model": "Outlander",
+   "display": "Outlander PHEV",
+   "other_names": [
+    "Outlander Plug-in Hybrid"
+   ],
+   "ch_on_sale": true,
+   "ch_source": "https://www.mitsubishi-motors.ch/de/modelle/outlander-phev",
+   "row": "d-suv",
+   "body": "7-seat SUV",
+   "generation": "IV (2021–; Europe from 2025)",
+   "length_mm": 4720,
+   "platform": "CMF-CD (Alliance)",
+   "powertrains": [
+    "PHEV"
+   ],
+   "status": "on_sale",
+   "status_note": "On CH/DE/FR/UK sites (UK 'All-New Outlander PHEV' from GBP 46,995), Oct 2026",
+   "status_sources": [
+    "https://www.mitsubishi-motors.ch/de/modelle",
+    "https://www.mitsubishi-motors.de/modelle",
+    "https://www.mitsubishi-motors.fr/",
+    "https://www.mitsubishi-motors.co.uk/"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Nissan X-Trail",
+    "Renault Espace",
+    "Renault Rafale"
+   ],
+   "twin_note": "Outlander IV shares the CMF-CD platform with the Nissan Rogue/X-Trail T33; Mitsubishi's own PHEV drivetrain.",
+   "twin_sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Outlander",
+    "https://en.wikipedia.org/wiki/Nissan_X-Trail"
+   ],
+   "carsized_slug": "mitsubishi-outlander-2021-suv",
+   "carsized_side": "https://www.carsized.com/resources/mitsubishi/outlander/d/2021/sl_285130145_mitsubishi-outlander-2021-side-view_4x.png",
+   "carsized_front": "https://www.carsized.com/resources/mitsubishi/outlander/d/2021/fa_291000000_mitsubishi-outlander-2021-front-view_4x.png",
+   "carsized_years": "2021-present",
+   "commons_category": "Category:Mitsubishi Outlander IV",
+   "commons_file": null,
+   "wikipedia_en": "Mitsubishi Outlander",
+   "notes": "Commons category name unverified (budget). carsized: entry is the 2021 Outlander IV ('2021-present'); the 2024/25 facelift sold in Europe has no separate entry (mitsubishi-outlander-2024-suv does not exist)."
+  },
+  {
+   "brand": "Mitsubishi",
+   "group": "Mitsubishi Motors",
+   "model": "L200",
+   "display": "L200",
+   "other_names": [
+    "Triton (non-European name)",
+    "L200 Commercial (UK 2-seat)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://www.mitsubishi-motors.ch/de/modelle",
+   "row": "pickup",
+   "body": "double-cab pickup",
+   "generation": "VI (2023–; Europe from 2026)",
+   "length_mm": 5320,
+   "platform": "Mitsubishi ladder frame (Triton), shared with Nissan Navara D27",
+   "powertrains": [
+    "diesel"
+   ],
+   "status": "on_sale",
+   "status_note": "UK: 'All-New L200' from GBP 36,295 with configurator, first deliveries May 2026 (CV Show, 5 Mar 2026); Italy from EUR 39,990; DE site lists it as 'Coming Soon'; not on CH site",
+   "status_sources": [
+    "https://news.cvshow.com/news/new-mitsubishi-l200-prices-and-spec-revealed",
+    "https://www.mitsubishi-motors.co.uk/",
+    "https://www.mitsubishi-motors.de/l200",
+    "https://www.motorionline.com/mitsubishi-l200-torna-in-europa-prezzi-da-39-990-euro/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "The 2026 Nissan Navara (D27) is a Triton/L200 rebadge (identical doors, bonnet, roof, tray) but is sold only in Australia/Asia/Africa — not in Europe, so no European twin.",
+   "twin_sources": [
+    "https://www.auto-motor-und-sport.de/neuheiten/nissan-navara-2026-weltpremiere-der-neue-nissan-pick-up-ist-ein-mitsubishi/"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Mitsubishi Triton (2023)",
+   "commons_file": null,
+   "wikipedia_en": "Mitsubishi Triton",
+   "notes": "Commons category name unverified (budget). carsized: no entry found (tried mitsubishi-l200-2023-pickup-double-cab, mitsubishi-l200-2024-pickup-double-cab, mitsubishi-triton-2023-pickup-double-cab, mitsubishi-triton-2023-pickup) -> use Commons."
+  }
+ ],
+ "announced": [
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Renault 5 Turbo 3E",
+   "display": "5 Turbo 3E",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://de.renault.ch/elektroautos/r5-turbo-3e.html",
+   "row": "sports",
+   "body": "2-door wide-body 'mini-supercar' (in-wheel motors)",
+   "generation": "2025– (1,980 units)",
+   "length_mm": 4080,
+   "platform": "bespoke aluminium/carbon platform (Alpine-developed)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Reservations open (1,980 units worldwide) on CH/DE/FR sites, but DE site states 'noch nicht zum Verkauf angeboten' (not yet homologated); no price/configurator; deliveries expected 2027",
+   "status_sources": [
+    "https://www.renault.de/elektromodelle/r5-turbo-3e.html",
+    "https://de.renault.ch/elektroautos/r5-turbo-3e.html",
+    "https://www.renault.fr/"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "Distinct nameplate and platform; shares only styling cues with the Renault 5.",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": "Category:Renault 5 Turbo 3E",
+   "commons_file": null,
+   "wikipedia_en": "Renault 5 Turbo 3E",
+   "notes": "Could alternatively be treated as on_sale (reservable). Commons category unverified."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Estafette",
+   "display": "Estafette E-Tech",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://de.renault.ch/vans.html",
+   "row": "van-mid",
+   "body": "tall urban delivery van (2.60 m high, walk-through)",
+   "generation": "2026–",
+   "length_mm": 5270,
+   "platform": "Flexis SDV skateboard",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Revealed Apr 2025 for a 2026 launch (first of the three Flexis vans); not on the CH vans page and no order-book opening confirmed by a fetched source as of 2026-10-21",
+   "status_sources": [
+    "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424",
+    "https://de.renault.ch/vans.html"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Trafic E-Tech",
+    "Renault Goelette"
+   ],
+   "twin_note": "Flexis SDV sibling of the new Trafic E-Tech.",
+   "twin_sources": [
+    "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Renault Estafette",
+   "notes": "Row per brief (van-mid). Length ~5.27 m (Renault reveal data; verify)."
+  },
+  {
+   "brand": "Renault",
+   "group": "Renault Group",
+   "model": "Goelette",
+   "display": "Goelette E-Tech",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://de.renault.ch/vans.html",
+   "row": "van-mid",
+   "body": "electric chassis cab / platform (bodybuilder base)",
+   "generation": "2026–",
+   "length_mm": null,
+   "platform": "Flexis SDV skateboard",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Revealed Apr 2025; due 2026 after Estafette and Trafic; no European order opening confirmed by a fetched source as of 2026-10-21",
+   "status_sources": [
+    "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424"
+   ],
+   "twin_tier": 2,
+   "twin_members": [
+    "Renault Trafic E-Tech",
+    "Renault Estafette"
+   ],
+   "twin_note": "Flexis SDV sibling.",
+   "twin_sources": [
+    "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Renault Goelette",
+   "notes": "Kept in van-mid with its siblings (could be van-large as a 3.5 t chassis cab)."
+  },
+  {
+   "brand": "Alpine",
+   "group": "Renault Group",
+   "model": "A110 (new)",
+   "display": "A110 (3rd gen, electric)",
+   "other_names": [
+    "A110 Future (website name)"
+   ],
+   "ch_on_sale": false,
+   "ch_source": "https://de.alpinecars.ch/alpine-vision/a110-future.html",
+   "row": "sports",
+   "body": "2-seat electric coupé",
+   "generation": "III (2027–)",
+   "length_mm": null,
+   "platform": "Alpine Performance Platform (APP, 800 V)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Prototype shown (Goodwood Jul 2026); Alpine said more details at the Paris show Oct 2026; production in Dieppe from 2027; waiting list ('Warteliste') on CH/FR sites",
+   "status_sources": [
+    "https://de.alpinecars.ch/alpine-vision/a110-future.html",
+    "https://www.autocar.co.uk/node/375412",
+    "https://www.electrive.com/2025/10/27/alpine-confirms-electric-successor-to-the-a110"
+   ],
+   "twin_tier": null,
+   "twin_members": [],
+   "twin_note": "",
+   "twin_sources": [],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Alpine A110",
+   "notes": "Not yet orderable."
+  },
+  {
+   "brand": "Nissan",
+   "group": "Nissan",
+   "model": "Pixo",
+   "display": "Pixo",
+   "other_names": [],
+   "ch_on_sale": false,
+   "ch_source": "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+   "row": "a-city",
+   "body": "5-door city car",
+   "generation": "I (2027–)",
+   "length_mm": 3790,
+   "platform": "RGEV Small / AmpR Small (Alliance)",
+   "powertrains": [
+    "BEV"
+   ],
+   "status": "announced",
+   "status_note": "Revealed 23 Sep 2026; DE site: 'noch nicht bestellbar', prices from Dec 2026; built by Renault in Novo Mesto; 27.5 kWh, 60 kW, 259 km",
+   "status_sources": [
+    "https://www.nissan.de/cf/fahrzeuge/neuwagen/pixo",
+    "https://www.electrive.com/2026/09/09/twingo-inspired-nissan-pixo-set-for-september-reveal/"
+   ],
+   "twin_tier": 1,
+   "twin_members": [
+    "Renault Twingo"
+   ],
+   "twin_note": "Renault-developed and -built derivative of the Twingo E-Tech with Nissan styling.",
+   "twin_sources": [
+    "https://www.electrive.com/2026/09/09/twingo-inspired-nissan-pixo-set-for-september-reveal/",
+    "https://www.nissan.de/cf/fahrzeuge/neuwagen/pixo"
+   ],
+   "carsized_slug": null,
+   "carsized_side": null,
+   "carsized_front": null,
+   "carsized_years": null,
+   "commons_category": null,
+   "commons_file": null,
+   "wikipedia_en": "Nissan Pixo",
+   "notes": "Length not yet published; Twingo is 3.79 m."
+  }
+ ],
+ "discontinued_recently": [
+  {
+   "brand": "Renault",
+   "model": "Arkana",
+   "note": "Production and sales for Europe ended late 2025 (configurator deactivated, stock only); no successor",
+   "source": "https://www.planeterenault.com/1-gamme/7-gamme-2019/1597-actualite-automobile/13031-renault-a-stoppe-production-larkana/"
+  },
+  {
+   "brand": "Renault",
+   "model": "Express Van",
+   "note": "European production in Tangier stopped July 2024 (GSR2); stock sold out; continues only in Maghreb",
+   "source": "https://www.largus.fr/actualite-automobile/scoop-le-renault-express-van-tire-sa-reverence-en-europe-30035010.html"
+  },
+  {
+   "brand": "Renault",
+   "model": "Clio V",
+   "note": "Replaced by Clio VI (Sept 2025); runout stock still on renault.fr ('CLIO – voir le stock'); Oyak-Renault production ended end-2025",
+   "source": "https://www.renault.fr/"
+  },
+  {
+   "brand": "Renault",
+   "model": "Koleos",
+   "note": "Not sold in Europe; Renault ceased importing Korean-built cars (Arkana, Koleos) into Europe",
+   "source": "https://www.inovev.com/index.php/en/market-analyses/category-blog/21777-2026-02-10"
+  },
+  {
+   "brand": "Renault",
+   "model": "Trafic E-Tech Electric (X82, 2022)",
+   "note": "Current-generation electric Trafic no longer listed on renault.ch vans page; replaced by the new-generation Trafic E-Tech (2026)",
+   "source": "https://de.renault.ch/vans.html"
+  },
+  {
+   "brand": "Dacia",
+   "model": "Spring (1st gen, China-built)",
+   "note": "Replaced by the Novo Mesto-built 2nd generation (revealed Sep 2026); still listed as runout on DE/ES sites",
+   "source": "https://en.wikipedia.org/wiki/Dacia_Spring"
+  },
+  {
+   "brand": "Dacia",
+   "model": "Logan",
+   "note": "Not sold in DE/FR/UK/IT/ES/NL/CH (only Romania/Eastern Europe) — excluded under the brief's criterion",
+   "source": "https://www.dacia.es/"
+  },
+  {
+   "brand": "Alpine",
+   "model": "A110 (2017)",
+   "note": "Production ended Jul 2026 (28,701 built); listed as runout in models[]",
+   "source": "https://www.autocar.co.uk/node/375412"
+  },
+  {
+   "brand": "Mobilize",
+   "model": "Bento",
+   "note": "Cargo quadricycle; production never really started; Mobilize brand ended Dec 2025",
+   "source": "https://www.inovev.com/index.php/en/market-analyses/category-blog/21723-2025-29-2"
+  },
+  {
+   "brand": "Mobilize",
+   "model": "Duo",
+   "note": "Brand ended Dec 2025, production stopped; remaining stock on renault.fr — listed as runout in models[]",
+   "source": "https://www.inovev.com/index.php/en/market-analyses/category-blog/21723-2025-29-2"
+  },
+  {
+   "brand": "Mobilize",
+   "model": "Limo",
+   "note": "Subscription saloon cancelled Nov 2023",
+   "source": "https://en.wikipedia.org/wiki/Mobilize_(marque)"
+  },
+  {
+   "brand": "Nissan",
+   "model": "Leaf (ZE1)",
+   "note": "Replaced by 3rd-gen Leaf (2025)",
+   "source": "https://www.electrive.com/2025/10/15/nissan-leaf-launches-at-under-e37000/"
+  },
+  {
+   "brand": "Nissan",
+   "model": "Navara",
+   "note": "Withdrawn from Europe 2021/22; new 2026 Navara (Triton-based) is not planned for Europe",
+   "source": "https://www.auto-motor-und-sport.de/neuheiten/nissan-navara-2026-weltpremiere-der-neue-nissan-pick-up-ist-ein-mitsubishi/"
+  },
+  {
+   "brand": "Mitsubishi",
+   "model": "Space Star",
+   "note": "Withdrawn around end-2024/early 2025 (GSR2 costs); CH site 'nicht mehr bestellbar'",
+   "source": "https://www.motor1.com/news/729729/mitsubishi-space-star-discontinued/"
+  },
+  {
+   "brand": "Mitsubishi",
+   "model": "Colt (2023)",
+   "note": "Production ended end-2025 with Clio V; DE 'Auslaufmodell'; listed as runout in models[]",
+   "source": "https://www.mitsubishi-motors.de/colt"
+  },
+  {
+   "brand": "Mitsubishi",
+   "model": "Eclipse Cross PHEV (1st gen)",
+   "note": "Replaced by the electric Eclipse Cross (2025)",
+   "source": "https://www.mitsubishi-motors.ch/de/modelle/eclipse-cross-bev"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://de.renault.ch/personenwagen.html",
+   "what": "Renault CH passenger-car model list (fetched 2026-10-21)"
+  },
+  {
+   "url": "https://de.renault.ch/vans.html",
+   "what": "Renault CH vans page: Kangoo Van, Trafic Van, 'Neuer Trafic Van E-Tech', Master variants with CHF prices"
+  },
+  {
+   "url": "https://de.renault.ch/",
+   "what": "Renault CH homepage model menu incl. old-models hub (Mobilize Duo)"
+  },
+  {
+   "url": "https://www.renault.de/modelle.html",
+   "what": "Renault DE model list"
+  },
+  {
+   "url": "https://www.renault.fr/",
+   "what": "Renault FR model list (Nouvelle Clio, Clio V stock, Mobilize Duo stock, Trafic campers)"
+  },
+  {
+   "url": "https://de.business.renault.ch/trafic-van-range/trafic-pcx-ph1.html",
+   "what": "New Trafic Van E-Tech CH page: specs, no price/configurator"
+  },
+  {
+   "url": "https://de.renault.ch/elektroautos/r5-turbo-3e.html",
+   "what": "R5 Turbo 3E CH: reservation only, 1,980 units"
+  },
+  {
+   "url": "https://www.renault.de/elektromodelle/r5-turbo-3e.html",
+   "what": "R5 Turbo 3E DE: 'noch nicht zum Verkauf angeboten'"
+  },
+  {
+   "url": "https://de.dacia.ch/",
+   "what": "Dacia CH model list incl. Striker"
+  },
+  {
+   "url": "https://de.dacia.ch/hybrid-and-electric-range/striker.html",
+   "what": "Dacia Striker CH: orders open, CHF 27,890"
+  },
+  {
+   "url": "https://de.dacia.ch/hybrid-and-electric-range/spring.html",
+   "what": "Dacia Spring II CH: orders open, 3.85 m, CHF 16,790"
+  },
+  {
+   "url": "https://www.dacia.de/modelle.html",
+   "what": "Dacia DE model list"
+  },
+  {
+   "url": "https://www.dacia.es/",
+   "what": "Dacia ES model list (no Logan)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Dacia_Striker",
+   "what": "Striker facts: CMF-B LS, 4,620 mm, hybrid 155 / 150 4x4, Bursa"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Dacia_Spring",
+   "what": "Spring II: RGEV Small shared with Twingo, Novo Mesto, 27.5 kWh, revealed 8 Sep 2026"
+  },
+  {
+   "url": "https://de.alpinecars.ch/",
+   "what": "Alpine CH model list"
+  },
+  {
+   "url": "https://www.alpinecars.fr/",
+   "what": "Alpine FR: A110/GTS/R 70 still configurable (stock), A290, A390 prices"
+  },
+  {
+   "url": "https://de.alpinecars.ch/alpine-vision/a110-future.html",
+   "what": "New electric A110 prototype / waiting list"
+  },
+  {
+   "url": "https://www.autocar.co.uk/node/375412",
+   "what": "Final A110 produced (Jul 2026), successor details"
+  },
+  {
+   "url": "https://www.electrive.com/2025/10/27/alpine-confirms-electric-successor-to-the-a110",
+   "what": "A110 production ends mid-2026 after 1,750 final units"
+  },
+  {
+   "url": "https://www.inovev.com/index.php/en/market-analyses/category-blog/21723-2025-29-2",
+   "what": "Mobilize brand ended Dec 2025; Duo/Bento production stopped (2026-01-08)"
+  },
+  {
+   "url": "https://www.planeterenault.com/1-gamme/7-gamme-2019/1597-actualite-automobile/13031-renault-a-stoppe-production-larkana/",
+   "what": "Arkana production/sales ended (2025-12-11)"
+  },
+  {
+   "url": "https://www.largus.fr/actualite-automobile/scoop-le-renault-express-van-tire-sa-reverence-en-europe-30035010.html",
+   "what": "Express Van leaves Europe (Jul 2024)"
+  },
+  {
+   "url": "https://www.whatcar.com/news/new-renault-trafic-leads-reinvented-electric-van-range/n27424",
+   "what": "Trafic E-Tech / Estafette / Goelette: Flexis SDV, due 2026"
+  },
+  {
+   "url": "https://www.renault-trucks.fr/",
+   "what": "Renault Trucks sells Master Red EDITION, E-Tech Master, Trafic Red EDITION, new E-Tech Trafic"
+  },
+  {
+   "url": "https://www.electrive.net/2025/12/16/renault-twingo-ab-21-090-euro-bestellbar/",
+   "what": "Twingo orderable from EUR 21,090 (search-result title, 2025-12-16)"
+  },
+  {
+   "url": "https://www.motoringresearch.com/car-news/updated-2026-renault-megane-e-tech-electric/",
+   "what": "2026 Mégane E-Tech facelift (search result)"
+  },
+  {
+   "url": "https://de.nissan.ch/fahrzeuge/neuwagen.html",
+   "what": "Nissan CH model list"
+  },
+  {
+   "url": "https://www.nissan.de/fahrzeuge/neuwagen.html",
+   "what": "Nissan DE model list incl. 'Neuer Pixo'"
+  },
+  {
+   "url": "https://www.nissan.de/cf/fahrzeuge/neuwagen/pixo",
+   "what": "Pixo not yet orderable; prices Dec 2026"
+  },
+  {
+   "url": "https://www.electrive.com/2026/09/09/twingo-inspired-nissan-pixo-set-for-september-reveal/",
+   "what": "Pixo = Twingo derivative, Novo Mesto"
+  },
+  {
+   "url": "https://www.nissan.de/cf/fahrzeuge/neuwagen/ariya",
+   "what": "Ariya MY26 DE price/specs"
+  },
+  {
+   "url": "https://nissan.de/cf/fahrzeuge/neuwagen/x-trail",
+   "what": "X-Trail DE price/specs (e-POWER only)"
+  },
+  {
+   "url": "https://www.electrive.net/2026/02/19/nissan-leaf-ab-35-950-euro-bestellbar/",
+   "what": "Leaf orderable in DE (search-result title)"
+  },
+  {
+   "url": "https://www.electrive.com/2025/10/15/nissan-leaf-launches-at-under-e37000/",
+   "what": "Leaf European launch"
+  },
+  {
+   "url": "https://www.autocar.co.uk/car-news/new-cars/reinvented-nissan-micra-matches-renault-5-price-£22995",
+   "what": "Micra = Renault 5 twin, UK price (search result)"
+  },
+  {
+   "url": "https://newmobility.news/2025/08/08/nissan-launches-new-micra-ev-first-in-the-uk/",
+   "what": "Micra EU launch EUR 29,250"
+  },
+  {
+   "url": "https://www.auto-motor-und-sport.de/neuheiten/nissan-navara-2026-weltpremiere-der-neue-nissan-pick-up-ist-ein-mitsubishi/",
+   "what": "2026 Navara = Triton rebadge, not for Europe"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.ch/de/modelle",
+   "what": "Mitsubishi CH model list (Space Star 'nicht mehr bestellbar')"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.ch/de/modelle/eclipse-cross-bev",
+   "what": "Eclipse Cross BEV CH: buy now from CHF 40,998"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.de/modelle",
+   "what": "Mitsubishi DE model list (Colt Auslaufmodell, L200 listed)"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.de/colt",
+   "what": "Colt no longer available new in DE"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.de/l200",
+   "what": "L200 DE 'Coming Soon'"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.fr/",
+   "what": "Mitsubishi FR model list"
+  },
+  {
+   "url": "https://www.mitsubishi-motors.co.uk/",
+   "what": "Mitsubishi UK: L200, L200 Commercial, Outlander PHEV only"
+  },
+  {
+   "url": "https://news.cvshow.com/news/new-mitsubishi-l200-prices-and-spec-revealed",
+   "what": "UK L200 prices, deliveries May 2026 (2026-03-05)"
+  },
+  {
+   "url": "https://www.motor1.com/news/729729/mitsubishi-space-star-discontinued/",
+   "what": "Space Star withdrawn end-2024/early 2025; Colt = Clio-based"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Mitsubishi_Colt",
+   "what": "Colt (2023) discontinued end-2025 with Clio V"
+  },
+  {
+   "url": "https://www.carsized.com/en-us/cars/compare/renault-kangoo-2021-5-door-van-vs-ford-f/front/",
+   "what": "carsized recipe verified (Kangoo side+front URLs, '2021 - present')"
+  }
+ ]
+}

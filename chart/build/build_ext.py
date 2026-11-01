@@ -224,6 +224,35 @@ def process(src, treat):
     info['crop'] = crop; info['size'] = out.size
     return out, info
 
+# v1.11 (2026-11-01): new-body pictures replacing old-generation carsized entries, plus quadricycle makers
+BMW2GC = 'https://www.bmw.co.uk/en/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe-technical-data.html'
+NEXO = 'https://www.hyundai.com/de/de/modelle/nexo.html'
+AMG4D = 'https://www.mercedes-benz.ch/de/passengercars/models/coupe/amg-gt-4-door/overview.html'
+HILUX = 'https://de.toyota.ch/neuwagen-kaufen/hilux/build'
+ACROSS = 'https://www.suzuki.ch/de/modelle/across'
+SELTOS = 'https://www.kia.com/de/modelle/seltos/technische-daten/'
+SEL.update({
+ 'bmw-2-series-gran-coupe': {'side': ('v111/bmw-2-series-gran-coupe-0', 'a', False, 'configurator render (BMW CoSy) of the 2025 2 Series Gran Coupe (F74)', BMW2GC), 'front': ('v111/bmw-2-series-gran-coupe-1', 'a', False, 'configurator render (BMW CoSy)', BMW2GC)},
+ 'bmw-x5': {'side': ('v111/bmw-x5-0', 'a', False, 'configurator render (BMW CoSy) of the 2026 X5 (G65)', 'https://www.bmw.ch/de/bmw-neuwagen/x/suv/bmw-x5-technische-daten.html'), 'front': ('v111/bmw-x5-3', 'R', False, 'scene photo of the iX5 (same G65 body), background removed', 'https://www.bmw.de/de/neufahrzeuge/x/suv/bmw-ix5.html')},
+ 'hyundai-nexo': {'side': ('v111/hyundai-nexo-0', 'r', False, 'studio product shot of the 2025 Nexo, near-side view, background removed', NEXO), 'front': ('v111/hyundai-nexo-1', 'r', False, 'studio product shot, background removed', NEXO)},
+ 'mercedes-benz-amg-gt-4-door-coupe': {'side': ('v111/mercedes-benz-amg-gt-4-door-coupe-0', 'a', False, 'configurator image (BE270)', AMG4D), 'front': ('v111/mercedes-benz-amg-gt-4-door-coupe-1', 'a', False, 'configurator image (BE000)', AMG4D)},
+ 'toyota-hilux': {'side': ('v111/toyota-hilux-0', 'a', False, 'configurator render (Toyota CCIS frame 27) of the 2026 Hilux', HILUX), 'front': ('v111/toyota-hilux-1', 'a', False, 'configurator render (Toyota CCIS frame 00)', HILUX)},
+ 'suzuki-across': {'side': ('v111/suzuki-across-1', 'a', False, 'configurator gallery render of the 2026 Across, near-side view (slight angle from above)', ACROSS), 'front': ('v111/suzuki-across-11', 'a', False, 'configurator gallery render', ACROSS)},
+ 'kia-seltos': {'side': ('v111/kia-seltos-0', 'c:0.14,0.06,0.88,0.52|w', False, 'render cut from the manufacturer dimension sheet (2027 Seltos)', SELTOS), 'front': ('v111/kia-seltos-1', 'c:0.27,0.06,0.73,0.75|w', False, 'render cut from the manufacturer dimension sheet', SELTOS)},
+ 'mini-cooper-cabrio': {'side': ('v111/mini-cooper-cabrio-0', 'c:0.03,0.18,0.93,0.70|w', False, 'render cut from the manufacturer dimension sheet (F67, roof down)', 'https://www.mini.co.uk/en_GB/home/range/mini-cooper-convertible/technical-data.html')},
+ 'aixam-d-truck-e-truck': {'side': ('v111/aixam-d-truck-e-truck-0', 'a', True, 'product cut-out of the D-Truck pickup (plateau ridelles), mirrored', 'https://www.aixam-pro.com/fr/d-truck/plateau-ridelles')},
+ 'dr-dr-6': {'side': ('v111/dr-dr-6-0', 'a', False, 'product cut-out from the DR website (2026 DR 6), tightly cropped', 'https://drautomobiles.com/dr-6-collection/')},
+ 'aixam-easy': {'side': ('v111/aixam-easy-cfgside', 'r', True, '3D configurator render (Easy Access), grey studio background removed, mirrored', 'https://www.aixam.com/en/aixam-configurator')},
+ 'aixam-crossover': {'side': ('v111/aixam-crossover-cfg-2', 'r', True, '3D configurator render (Crossover Pack), grey studio background removed, mirrored', 'https://www.aixam.com/en/aixam-configurator')},
+ 'aixam-e-scouty': {'side': ('v111/aixam-e-scouty-cfg40-5', 'r', True, '3D configurator render (Mega e-Scouty Evo), grey studio background removed, mirrored', 'https://www.aixam.com/en/aixam-configurator')},
+ 'aixam-city': {'side': ('v111/aixam-city-cfg1-02', 'r', True, '3D configurator render (City Pack), grey studio background removed, mirrored', 'https://www.aixam.com/en/aixam-configurator')},
+ 'aixam-coupe': {'side': ('v111/aixam-coupe-cfg16-02', 'r', True, '3D configurator render (Coupe Sport), grey studio background removed, mirrored', 'https://www.aixam.com/en/aixam-configurator')},
+ 'lexus-es': {'side': ('v111/lexus-es-f27', 'a', False, 'configurator render (Lexus CCIS frame 27) of the 2026 ES', 'https://de.lexus.ch/modelle/es/build'), 'front': ('v111/lexus-es-f0', 'a', False, 'configurator render (Lexus CCIS frame 0)', 'https://de.lexus.ch/modelle/es/build')},
+ 'jeep-compass': {'side': ('v111/jeep-compass-16-full', 'R', False, 'press photo of the 2026 Compass (quarry scene), true side view, background removed', 'https://www.media.stellantis.com/em-en/jeep/media-library/press-images/637335'), 'front': ('v111/jeep-compass-11-full', 'R', False, 'press photo (driving), straight front, background removed', 'https://www.media.stellantis.com/em-en/jeep/media-library/press-images/637335')},
+ 'lancia-ypsilon': {'side': ('v111/lancia-ypsilon-h19-full', 'c:0.20,0.30,0.70,0.64|R', False, 'press photo of the 2025 Ypsilon HF (driving), near-side view seen slightly from the rear, background removed', 'https://www.media.stellantis.com/em-en/lancia/media-library/press-images/623277')},
+ 'casalini-650': {'front': ('v111/casalini-650-2', 'r', False, 'studio product shot of the 650 Starter, background removed', 'https://www.casalini.eu/')},
+})
+
 if __name__ == '__main__':
     ids = sys.argv[1:] or list(SEL)
     os.makedirs('xfer/in', exist_ok=True); os.makedirs('ext/out', exist_ok=True)

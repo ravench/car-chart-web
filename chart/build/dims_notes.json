@@ -1,82 +1,55 @@
 {
- "pairs": {
-  "citroen-ami|fiat-topolino": {
-   "cat": "design",
-   "text": "The Topolino's longer bumper covers add 125 mm to the Ami's length; wheelbase, width and height are the same."
+  "pairs": {
+    "citroen-ami|fiat-topolino": {
+      "cat": "design",
+      "text": "The Topolino's longer bumper covers add 125 mm to the Ami's length; wheelbase, width and height are the same."
+    },
+    "subaru-solterra|toyota-bz4x": {
+      "cat": "design",
+      "text": "The Solterra sits 50 mm higher (raised ride height and roof rails); wheelbase, length and width are identical."
+    },
+    "ford-tourneo-connect|volkswagen-caddy": {
+      "cat": "variant",
+      "text": "carsized's Tourneo Connect entry is the long-wheelbase Grand version, the Caddy entry the standard one; both exist for both badges and share the body shell."
+    },
+    "ford-transit-connect|volkswagen-caddy-cargo": {
+      "cat": "variant",
+      "text": "carsized's Transit Connect entry is the long-wheelbase version, the Caddy Cargo entry the standard one; both exist for both badges and share the body shell."
+    },
+    "ford-tourneo-custom|volkswagen-caravelle": {
+      "cat": "variant",
+      "text": "carsized's two entries are different wheelbase versions (L1 vs L2) of the same Ford-built vehicle."
+    },
+    "bmw-x1|bmw-x2": {
+      "cat": "info",
+      "text": "Same wheelbase and width; the X2 is the 52 mm lower coupé-SUV body on the X1's platform, so the pair is shown as platform siblings."
+    }
   },
-  "subaru-solterra|toyota-bz4x": {
-   "cat": "design",
-   "text": "The Solterra sits 50 mm higher (raised ride height and roof rails); wheelbase, length and width are identical."
+  "img_notes": {
+    "mercedes-benz-gla": "Image and measurements show the outgoing H247 GLA (still sold in run-out); the new MMA-based GLA is not on carsized yet.",
+    "citroen-berlingo": "carsized entry is the long-body (XL) version.",
+    "opel-combo": "carsized entry is the long-body (XL) version.",
+    "peugeot-rifter": "carsized entry is the long-body (L2) version.",
+    "toyota-proace-city-verso": "carsized entry is the long-body (L2) version.",
+    "peugeot-partner": "carsized entry is the long-body (L2) version.",
+    "opel-combo-cargo": "carsized entry is the long-body (XL) version.",
+    "toyota-proace-city": "carsized entry is the long-body (L2) version.",
+    "ford-tourneo-connect": "carsized entry is the long-wheelbase (Grand) version.",
+    "ford-transit-connect": "carsized entry is the long-wheelbase version.",
+    "citroen-spacetourer": "carsized entry is the XL version.",
+    "citroen-jumpy": "carsized entry is the XL version.",
+    "opel-zafira": "carsized entry is the long (L) version.",
+    "opel-vivaro": "carsized entry is the long (L) version.",
+    "toyota-proace-verso": "carsized entry is the L2 version.",
+    "toyota-proace": "carsized entry is the L2 version.",
+    "ford-tourneo-custom": "carsized entry is the L2 version.",
+    "cupra-leon": "carsized entry is the estate (Sportstourer).",
+    "skoda-octavia": "carsized entry is the estate (Combi).",
+    "volkswagen-passat": "carsized entry is the Variant (estate).",
+    "skoda-superb": "carsized entry is the estate (Combi).",
+    "volvo-v60": "carsized entry is the estate.",
+    "byd-seal-6": "carsized entry is the estate (Touring).",
+    "zeekr-7-gt": "carsized entry is the shooting brake."
   },
-  "ford-tourneo-connect|volkswagen-caddy": {
-   "cat": "variant",
-   "text": "carsized's Tourneo Connect entry is the long-wheelbase Grand version, the Caddy entry the standard one; both exist for both badges and share the body shell."
-  },
-  "ford-transit-connect|volkswagen-caddy-cargo": {
-   "cat": "variant",
-   "text": "carsized's Transit Connect entry is the long-wheelbase version, the Caddy Cargo entry the standard one; both exist for both badges and share the body shell."
-  },
-  "ford-tourneo-custom|volkswagen-caravelle": {
-   "cat": "variant",
-   "text": "carsized's two entries are different wheelbase versions (L1 vs L2) of the same Ford-built vehicle."
-  },
-  "bmw-x1|bmw-x2": {
-   "cat": "info",
-   "text": "Same wheelbase and width; the X2 is the 52 mm lower coupé-SUV body on the X1's platform, so the pair is shown as platform siblings."
-  }
- },
- "img_notes": {
-  "mercedes-benz-gla": "Image and measurements show the outgoing H247 GLA (still sold in run-out); the new MMA-based GLA is not on carsized yet.",
-  "citroen-berlingo": "carsized entry is the long-body (XL) version.",
-  "opel-combo": "carsized entry is the long-body (XL) version.",
-  "peugeot-rifter": "carsized entry is the long-body (L2) version.",
-  "toyota-proace-city-verso": "carsized entry is the long-body (L2) version.",
-  "peugeot-partner": "carsized entry is the long-body (L2) version.",
-  "opel-combo-cargo": "carsized entry is the long-body (XL) version.",
-  "toyota-proace-city": "carsized entry is the long-body (L2) version.",
-  "ford-tourneo-connect": "carsized entry is the long-wheelbase (Grand) version.",
-  "ford-transit-connect": "carsized entry is the long-wheelbase version.",
-  "citroen-spacetourer": "carsized entry is the XL version.",
-  "citroen-jumpy": "carsized entry is the XL version.",
-  "opel-zafira": "carsized entry is the long (L) version.",
-  "opel-vivaro": "carsized entry is the long (L) version.",
-  "toyota-proace-verso": "carsized entry is the L2 version.",
-  "toyota-proace": "carsized entry is the L2 version.",
-  "ford-tourneo-custom": "carsized entry is the L2 version.",
-  "cupra-leon": "carsized entry is the estate (Sportstourer).",
-  "skoda-octavia": "carsized entry is the estate (Combi).",
-  "volkswagen-passat": "carsized entry is the Variant (estate).",
-  "skoda-superb": "carsized entry is the estate (Combi).",
-  "volvo-v60": "carsized entry is the estate.",
-  "byd-seal-6": "carsized entry is the estate (Touring).",
-  "zeekr-7-gt": "carsized entry is the shooting brake.",
-  "jeep-compass": "2025 model: the picture and measurements show the previous second-generation Compass, carsized entry 2021–2025; the third generation is not on carsized yet.",
-  "suzuki-across": "2025 model: the picture and measurements show the first-generation Across, carsized entry 2020–present; the second generation is not on carsized yet.",
-  "kia-seltos": "2025 model: the picture and measurements show the first-generation Seltos (2023 facelift, a version sold outside Europe), carsized entry 2023–2025; the second generation, the first sold in Europe, is not on carsized yet.",
-  "dr-dr-6": "2025 model: the picture and measurements show the previous DR 6.0, carsized entry 2020–present; the new DR 6 is not on carsized yet. carsized lists this entry as 1,550 mm wide, which is implausible for a 4.5 m SUV, so the width is left out.",
-  "hyundai-nexo": "2025 model: the picture and measurements show the first-generation Nexo, carsized entry 2018–present; the second generation is not on carsized yet.",
-  "mercedes-benz-amg-gt-4-door-coupe": "2025 model: the picture and measurements show the previous AMG GT 4-Door Coupé (X290, 63 S version), carsized entry 2021–present; the new generation is not on carsized yet.",
-  "bmw-x5": "2025 model: the picture and measurements show the previous G05 X5 (2023 facelift), carsized entry 2023–2026; the new G65 is not on carsized yet.",
-  "mini-cooper-cabrio": "2025 model: the picture and measurements show the previous F57 Cooper S Cabrio, carsized entry 2021–present; the current F67 is not on carsized yet.",
-  "bmw-2-series-gran-coupe": "2024 model: the picture and measurements show the previous F44 2 Series Gran Coupé, carsized entry 2019–2024; the current generation is not on carsized yet.",
-  "lexus-es": "2021 model: the picture and measurements show the previous seventh-generation ES (pre-facelift), carsized entry 2018–2021; the current generation is not on carsized yet.",
-  "toyota-hilux": "2024 model: the picture and measurements show the previous eighth-generation Hilux (2020 facelift, extra cab), carsized entry 2020–2024; the current generation is not on carsized yet.",
-  "lancia-ypsilon": "2017 model: the picture and measurements show the previous third-generation Ypsilon (2015 facelift), carsized entry 2015–2017; the current generation is not on carsized yet.",
-  "mitsubishi-l200": "2024 model: the picture and measurements show the previous fifth-generation L200 (2019 facelift), carsized entry 2019–present; the current generation is not on carsized yet."
- },
- "prev_model": [
-  "bmw-2-series-gran-coupe",
-  "bmw-x5",
-  "dr-dr-6",
-  "hyundai-nexo",
-  "jeep-compass",
-  "kia-seltos",
-  "lancia-ypsilon",
-  "lexus-es",
-  "mercedes-benz-amg-gt-4-door-coupe",
-  "mini-cooper-cabrio",
-  "mitsubishi-l200",
-  "suzuki-across",
-  "toyota-hilux"
- ]
+  "prev_model": []
 }

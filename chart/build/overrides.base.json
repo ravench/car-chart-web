@@ -255,7 +255,9 @@
    "platform": "Chery T1X"
   },
   "ora ora 5|c-suv": {
-   "platform": "GWM ONE (Guiyuan)"
+   "platform": "GWM ONE (Guiyuan)",
+   "length_mm": 4471,
+   "length_note": "4,471 × 1,833 × 1,641 mm, wheelbase 2,720 mm (Wikipedia, Ora 5 SUV)"
   },
   "zeekr 7 gt|d-car": {
    "platform": "SEA (PMA2+)",
@@ -282,7 +284,9 @@
    "platform": "Chery T1X/M3X"
   },
   "lepas l8|d-suv": {
-   "platform": "Chery LEX (export version of the 2025 China Tiggo 8)"
+   "platform": "Chery LEX (export version of the 2025 China Tiggo 8)",
+   "length_mm": 4690,
+   "length_note": "4,690 mm, wheelbase 2,800 mm (km77.com, Lepas L8 2025)"
   },
   "land rover range rover velar|d-suv": {
    "platform": "JLR iQ[Al] (D7a, ex-Jaguar F-Pace architecture)"
@@ -704,6 +708,18 @@
   },
   "hyundai tucson|c-suv": {
    "twin_note": "Tucson NX4 and Sportage NQ5 share the N3 platform (identical 2,680 mm wheelbase in the European short-wheelbase Sportage) and the same 1.6 T-GDi MHEV/HEV/PHEV powertrains; distinct bodies → tier 2 (brief example). Note: en.wikipedia 'Hyundai-Kia N3 platform' URL returned not-found on 2026-10-22; the Staria article (fetched) names N3 as 'Hyundai-Kia's mid-size FWD platform'. The Kia EV5 (N3-derived 400 V EV) joined the family in the Oct 2026 plausibility check."
+  },
+  "mercedes benz amg gt 4 door coupe|e-car": {
+   "length_mm": 5094,
+   "length_note": "5,094 mm (auto-data.net, AMG GT 63 4-Door Coupé C590, 2026); the chart had no length"
+  },
+  "mercedes benz amg gt suv|e-suv": {
+   "length_mm": 5084,
+   "length_note": "5,084 × 2,001 × 1,656 mm, wheelbase 3,040 mm (Mercedes-AMG figures quoted by autoblog.com.uy, Oct 2026)"
+  },
+  "dr dr 6|c-suv": {
+   "length_mm": 4553,
+   "length_note": "4,553 mm per DR Automobiles (official DR 6 page); the earlier chart value 4,500 was rounded"
   }
  },
  "discontinued_notes": {

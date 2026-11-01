@@ -42,6 +42,12 @@ mid = {m['id']: m for m in models}
 rowmax = defaultdict(int)
 for m in models:
     if m.get('length_mm'): rowmax[m['row']] = max(rowmax[m['row']], m['length_mm'])
+import statistics
+_wr = defaultdict(list)
+for m in models:
+    dd = DIMS.get(m['id']) or {}
+    if (dd.get('widm') or dd.get('wid')) and dd.get('len'): _wr[m['row']].append((dd.get('widm') or dd.get('wid')) / dd['len'])
+ROWRATIO = {r: statistics.median(v) for r, v in _wr.items() if v}   # width (with mirrors) / length per class: front-view scale for models without a carsized width
 
 PT_MAP = [('BEV','EV'),('PHEV','PHEV'),('HEV','HEV'),('MHEV','MHEV'),('FCEV','H₂'),('petrol','ICE'),('diesel','ICE'),('LPG','ICE'),('CNG','ICE')]
 def pt_tags(pts):
@@ -77,9 +83,16 @@ def tile(m, s=0, place=''):
     if st: attrs.append(f'style="{";".join(st)}"')
     L = ((DIMS.get(m['id']) or {}).get('len') if MANIFEST.get(m['id']) else None) or m.get('length_mm')
     if L: attrs.append(f'data-len="{L}"')
+    if L:   # real width for the front-view scale modes (carsized width with mirrors, else the class ratio)
+        dd = DIMS.get(m['id']) or {}
+        W = (dd.get('widm') or dd.get('wid')) if MANIFEST.get(m['id']) else None
+        if not W and ROWRATIO.get(m['row']): W = round(L * ROWRATIO[m['row']])
+        if W: attrs.append(f'data-wid="{W}"')
     attrs.append(f'data-pt="{" ".join(pt_keys(m.get("powertrains")))}"'); attrs.append(f'data-drive="{" ".join(drive_keys(m))}"')
     img = MANIFEST.get(m['id'], {})
     side = img.get('side'); front = img.get('front')
+    if side and img.get('sw') and img.get('sh'): attrs.append(f'data-sar="{img["sw"] / img["sh"]:.3f}"')
+    if front and img.get('fw') and img.get('fh'): attrs.append(f'data-far="{img["fw"] / img["fh"]:.3f}"')
     chip = f'<span class="chip" title="{E(tgs[g]["label"])}">{E(tgs[g]["label"])}</span>' if g else ''
     tags = ' '.join(f'<span class="tag">{E(t)}</span>' for t in pt_tags(m.get('powertrains')))
     dv = DRIVE.get(m['id']) or {}
@@ -374,7 +387,7 @@ a {{ color:inherit }}
 .compact .tile .name {{ font-size:11px }}
 .compact .tile .tags {{ display:none }}
 .compact .tile {{ width:calc(var(--colw) - 6px); margin:3px 3px }}
-.scale .tile img {{ left:0; right:auto; width:var(--sc,100%) }}
+.scale .tile img {{ left:0; right:auto; top:auto; bottom:0; height:auto; max-height:100%; width:var(--sc,100%) }}
 .hidetags .tile .tags {{ display:none }}
 .hide {{ display:none !important }}
 
@@ -442,7 +455,7 @@ details summary {{ cursor:pointer; font-weight:600 }}
       <span class="seg"><label><input type="radio" name="size" id="size-normal" value="normal" checked>Normal</label><label><input type="radio" name="size" id="size-compact" value="compact">Compact</label></span>
       <label class="tog"><input type="checkbox" id="only-twins"> Only vehicles with a twin or sibling</label>
       <label class="tog"><input type="checkbox" id="show-t2" checked> Show platform siblings</label>
-      <label class="tog"><input type="checkbox" id="true-scale"> Images to scale (by length, per row)</label>
+      <span class="seg" title="Size the pictures to each other: by real length in the side view, by real width in the front view; the largest vehicle of the class (or of the whole chart) fills its tile"><label><input type="radio" name="scale" id="scale-fill" value="fill" checked>Fill tile</label><label><input type="radio" name="scale" id="scale-row" value="row">To scale in class</label><label><input type="radio" name="scale" id="scale-global" value="global">To scale globally</label></span>
       <input class="search" id="search" type="search" placeholder="Find a model…" aria-label="Find a model">
     </div>
   </fieldset>
@@ -466,7 +479,7 @@ details summary {{ cursor:pointer; font-weight:600 }}
   {coming}
   {gone}
   <h2>Sources and method</h2>
-  <p>Line-ups were compiled from the brands' official Swiss and German model pages and press releases, then cross-checked against European trade press and verified a second time by an independent pass. Twin and platform relationships cite manufacturer statements or trade-press reporting; each tile's sources are listed in its detail panel. In October 2026 every unframed tile was checked once more against the other brands in the chart; that check added the CMF-B Dacias, the Kia EV3/EV4/EV5 and Hyundai Ioniq 3, Polestar 4, Jaecoo 5, Omoda 9 and the Lotus–Zeekr pairs to their families, took the Changan-based DR 5 out of the Chery family and corrected 25 platform descriptions; a plausibility check on 27 October 2026 then moved the EV3, EV5 and Ioniq 3 out of the E-GMP family into the K3 and N3 families of the Kona and Tucson and their Kia twins, following Hyundai's own Ioniq 3 press kit (400 V, front-wheel drive). Where a model's platform relatives sit in other vehicle classes, the detail panel lists them. Images and the measurements of the measurement check are from <a href="https://www.carsized.com/" target="_blank" rel="noopener">carsized.com</a> (the pictured version is named in each detail panel). Where carsized has no entry for the current generation, a tile shows the newest previous model of the same line that carsized has, badged with that model's year ({len(PREV)} models); where carsized has no entry of the model line at all, the picture comes from the manufacturer's website, press site or configurator, or for a few models from a third-party catalogue site ({len(EXT)} models; the source, its terms and the editing applied are given in the detail panel) and was cut out, mirrored where it faced the wrong way and scaled to match; a few vans are shown as the manufacturer's outline drawing; the remaining tiles show the name only. Drive layouts (front-, rear- or all-wheel drive) were researched from the brands' Swiss and German configurators, price lists and press pages in October 2026; the detail panel gives the versions an all-wheel-drive option is limited to and the page checked, and says so where an entry rests on trade press or product knowledge rather than a manufacturer page ({sum(1 for v in DRIVE.values() if v.get('confidence') != 'high')} of {len(DRIVE)} models). Data were checked on {E(meta.get('checked_on',''))}. Errors are possible, especially for models launched or withdrawn in the weeks before that date.</p>
+  <p>Line-ups were compiled from the brands' official Swiss and German model pages and press releases, then cross-checked against European trade press and verified a second time by an independent pass. Twin and platform relationships cite manufacturer statements or trade-press reporting; each tile's sources are listed in its detail panel. In October 2026 every unframed tile was checked once more against the other brands in the chart; that check added the CMF-B Dacias, the Kia EV3/EV4/EV5 and Hyundai Ioniq 3, Polestar 4, Jaecoo 5, Omoda 9 and the Lotus–Zeekr pairs to their families, took the Changan-based DR 5 out of the Chery family and corrected 25 platform descriptions; a plausibility check on 27 October 2026 then moved the EV3, EV5 and Ioniq 3 out of the E-GMP family into the K3 and N3 families of the Kona and Tucson and their Kia twins, following Hyundai's own Ioniq 3 press kit (400 V, front-wheel drive). Where a model's platform relatives sit in other vehicle classes, the detail panel lists them. Images and the measurements of the measurement check are from <a href="https://www.carsized.com/" target="_blank" rel="noopener">carsized.com</a> (the pictured version is named in each detail panel). Where carsized has no entry for the current generation, a tile shows the newest previous model of the same line that carsized has, badged with that model's year ({len(PREV)} models); where carsized has no entry of the model line at all, the picture comes from the manufacturer's website, press site or configurator, or for a few models from a third-party catalogue site ({len(EXT)} models; the source, its terms and the editing applied are given in the detail panel) and was cut out, mirrored where it faced the wrong way and scaled to match; a few vans are shown as the manufacturer's outline drawing; the remaining tiles show the name only. By default every picture fills its tile; the "To scale" options in the View box size the pictures by real length (side view) or real width (front view) relative to the largest vehicle of the class or of the whole chart (widths come from carsized.com where available, otherwise from the class's typical width-to-length ratio). Drive layouts (front-, rear- or all-wheel drive) were researched from the brands' Swiss and German configurators, price lists and press pages in October 2026; the detail panel gives the versions an all-wheel-drive option is limited to and the page checked, and says so where an entry rests on trade press or product knowledge rather than a manufacturer page ({sum(1 for v in DRIVE.values() if v.get('confidence') != 'high')} of {len(DRIVE)} models). Data were checked on {E(meta.get('checked_on',''))}. Errors are possible, especially for models launched or withdrawn in the weeks before that date.</p>
   {srcs}
 </section>
 
@@ -543,13 +556,23 @@ function layout() {{
   scaleImages();
 }}
 function scaleImages() {{
-  const on = document.getElementById('true-scale').checked; matrix.classList.toggle('scale', on);
-  if (!on) return;
-  const maxByRow = {{}};
-  tiles.forEach(t => {{ const l = +t.dataset.len || 0; maxByRow[t.dataset.row] = Math.max(maxByRow[t.dataset.row] || 0, l); }});
-  tiles.forEach(t => {{ const l = +t.dataset.len || 0; const mx = maxByRow[t.dataset.row] || 1; t.querySelectorAll('img').forEach(im => im.style.setProperty('--sc', l ? (100 * l / mx).toFixed(1) + '%' : '100%')); }});
+  const mode = (document.querySelector('input[name="scale"]:checked') || {{}}).value || 'fill';
+  matrix.classList.toggle('scale', mode !== 'fill');
+  if (mode === 'fill') {{ tiles.forEach(t => t.querySelectorAll('img').forEach(im => im.style.removeProperty('--sc'))); return; }}
+  // Side view: pictures are sized by real length; front view: by real width (a tile that falls back to its side view uses its length).
+  // One scale per scope (class or whole chart): the largest vehicle fills the tile width, unless a tall picture would then
+  // overflow the tile height, in which case that picture sets the scale. Hidden tiles count too, so filtering does not rescale.
+  const front = matrix.classList.contains('view-front');
+  const box = matrix.querySelector('.tile:not(.hide) .img'); const ratio = box && box.clientHeight ? box.clientWidth / box.clientHeight : (front ? 1.5 : 2.3);
+  const useSide = t => !front || t.classList.contains('nofront');
+  const dimOf = t => +(useSide(t) ? t.dataset.len : t.dataset.wid) || 0;
+  const arOf = t => +(useSide(t) ? t.dataset.sar : t.dataset.far) || 0;
+  const scopeOf = t => mode === 'global' ? 'all' : t.dataset.row;
+  const k = {{}};
+  tiles.forEach(t => {{ const d = dimOf(t), ar = arOf(t); if (!d || !ar) return; const sc = scopeOf(t); const lim = Math.min(1 / d, ar / (ratio * d)); k[sc] = Math.min(k[sc] || Infinity, lim); }});
+  tiles.forEach(t => {{ const d = dimOf(t), ar = arOf(t), kk = k[scopeOf(t)]; t.querySelectorAll('img').forEach(im => im.style.setProperty('--sc', d && ar && kk ? (100 * d * kk).toFixed(1) + '%' : '100%')); }});
 }}
-[...gInputs, ...rInputs, ...pInputs, ...dInputs, document.getElementById('only-twins'), document.getElementById('show-t2'), document.getElementById('true-scale')].forEach(i => i.addEventListener('change', layout));
+[...gInputs, ...rInputs, ...pInputs, ...dInputs, document.getElementById('only-twins'), document.getElementById('show-t2'), ...document.querySelectorAll('input[name=scale]')].forEach(i => i.addEventListener('change', layout));
 document.getElementById('p-all').onclick = () => {{ pInputs.forEach(i => i.checked = true); layout(); }};
 document.getElementById('p-none').onclick = () => {{ pInputs.forEach(i => i.checked = false); layout(); }};
 document.getElementById('d-all').onclick = () => {{ dInputs.forEach(i => i.checked = true); layout(); }};
@@ -566,7 +589,7 @@ async function loadFronts() {{
     document.querySelectorAll('img.v-front[data-fid]').forEach(im => {{ const b64 = idx[im.dataset.fid]; if (!b64) return; im.src = 'data:image/webp;base64,' + b64; }});
   }} catch (e) {{ console.warn('front views not available', e); document.querySelectorAll('.tile:not(.nofront) img.v-front').forEach(im => im.closest('.tile').classList.add('nofront')); }}
 }}
-document.querySelectorAll('input[name=view]').forEach(i => i.addEventListener('change', () => {{ const f = document.getElementById('view-front').checked; matrix.classList.toggle('view-front', f); if (f) loadFronts(); }}));
+document.querySelectorAll('input[name=view]').forEach(i => i.addEventListener('change', () => {{ const f = document.getElementById('view-front').checked; matrix.classList.toggle('view-front', f); if (f) loadFronts(); scaleImages(); }}));
 document.querySelectorAll('input[name=size]').forEach(i => i.addEventListener('change', () => wrap.classList.toggle('compact', document.getElementById('size-compact').checked)));
 
 // ---- highlighting ----

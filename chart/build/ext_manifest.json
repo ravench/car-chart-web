@@ -1838,5 +1838,379 @@
    "mirrored": false,
    "harvested": true
   }
+ },
+ "bmw-2-series-gran-coupe": {
+  "side": {
+   "url": null,
+   "page": "https://www.bmw.co.uk/en/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe-technical-data.html",
+   "source": "manufacturer website (bmw.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (BMW CoSy) of the 2025 2 Series Gran Coupe (F74)",
+   "angle": "side",
+   "src": "v111/bmw-2-series-gran-coupe-0",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.bmw.co.uk/en/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe-technical-data.html",
+   "source": "manufacturer website (bmw.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (BMW CoSy)",
+   "angle": "front",
+   "src": "v111/bmw-2-series-gran-coupe-1",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "bmw-x5": {
+  "side": {
+   "url": null,
+   "page": "https://www.bmw.ch/de/bmw-neuwagen/x/suv/bmw-x5-technische-daten.html",
+   "source": "manufacturer website (bmw.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (BMW CoSy) of the 2026 X5 (G65)",
+   "angle": "side",
+   "src": "v111/bmw-x5-0",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.bmw.de/de/neufahrzeuge/x/suv/bmw-ix5.html",
+   "source": "manufacturer website (bmw.de)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "scene photo of the iX5 (same G65 body), background removed",
+   "angle": "front",
+   "src": "v111/bmw-x5-3",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "hyundai-nexo": {
+  "side": {
+   "url": null,
+   "page": "https://www.hyundai.com/de/de/modelle/nexo.html",
+   "source": "manufacturer website (hyundai.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio product shot of the 2025 Nexo, near-side view, background removed",
+   "angle": "side",
+   "src": "v111/hyundai-nexo-0",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.hyundai.com/de/de/modelle/nexo.html",
+   "source": "manufacturer website (hyundai.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio product shot, background removed",
+   "angle": "front",
+   "src": "v111/hyundai-nexo-1",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mercedes-benz-amg-gt-4-door-coupe": {
+  "side": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/de/passengercars/models/coupe/amg-gt-4-door/overview.html",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image (BE270)",
+   "angle": "side",
+   "src": "v111/mercedes-benz-amg-gt-4-door-coupe-0",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.mercedes-benz.ch/de/passengercars/models/coupe/amg-gt-4-door/overview.html",
+   "source": "manufacturer website (mercedes-benz.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator image (BE000)",
+   "angle": "front",
+   "src": "v111/mercedes-benz-amg-gt-4-door-coupe-1",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "toyota-hilux": {
+  "side": {
+   "url": null,
+   "page": "https://de.toyota.ch/neuwagen-kaufen/hilux/build",
+   "source": "manufacturer website (de.toyota.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (Toyota CCIS frame 27) of the 2026 Hilux",
+   "angle": "side",
+   "src": "v111/toyota-hilux-0",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://de.toyota.ch/neuwagen-kaufen/hilux/build",
+   "source": "manufacturer website (de.toyota.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (Toyota CCIS frame 00)",
+   "angle": "front",
+   "src": "v111/toyota-hilux-1",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "suzuki-across": {
+  "side": {
+   "url": null,
+   "page": "https://www.suzuki.ch/de/modelle/across",
+   "source": "manufacturer website (suzuki.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator gallery render of the 2026 Across, near-side view (slight angle from above)",
+   "angle": "side",
+   "src": "v111/suzuki-across-1",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.suzuki.ch/de/modelle/across",
+   "source": "manufacturer website (suzuki.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator gallery render",
+   "angle": "front",
+   "src": "v111/suzuki-across-11",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "kia-seltos": {
+  "side": {
+   "url": null,
+   "page": "https://www.kia.com/de/modelle/seltos/technische-daten/",
+   "source": "manufacturer website (kia.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "render cut from the manufacturer dimension sheet (2027 Seltos)",
+   "angle": "side",
+   "src": "v111/kia-seltos-0",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.kia.com/de/modelle/seltos/technische-daten/",
+   "source": "manufacturer website (kia.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "render cut from the manufacturer dimension sheet",
+   "angle": "front",
+   "src": "v111/kia-seltos-1",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "mini-cooper-cabrio": {
+  "side": {
+   "url": null,
+   "page": "https://www.mini.co.uk/en_GB/home/range/mini-cooper-convertible/technical-data.html",
+   "source": "manufacturer website (mini.co.uk)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "render cut from the manufacturer dimension sheet (F67, roof down)",
+   "angle": "side",
+   "src": "v111/mini-cooper-cabrio-0",
+   "treatment": "flood",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "aixam-d-truck-e-truck": {
+  "side": {
+   "url": null,
+   "page": "https://www.aixam-pro.com/fr/d-truck/plateau-ridelles",
+   "source": "manufacturer website (aixam-pro.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "product cut-out of the D-Truck pickup (plateau ridelles), mirrored",
+   "angle": "side",
+   "src": "v111/aixam-d-truck-e-truck-0",
+   "treatment": "alpha",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "dr-dr-6": {
+  "side": {
+   "url": null,
+   "page": "https://drautomobiles.com/dr-6-collection/",
+   "source": "manufacturer website (drautomobiles.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "product cut-out from the DR website (2026 DR 6), tightly cropped",
+   "angle": "side",
+   "src": "v111/dr-dr-6-0",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "casalini-650": {
+  "front": {
+   "url": null,
+   "page": "https://www.casalini.eu/",
+   "source": "manufacturer website (casalini.eu)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "studio product shot of the 650 Starter, background removed",
+   "angle": "front",
+   "src": "v111/casalini-650-2",
+   "treatment": "rembg",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "aixam-easy": {
+  "side": {
+   "url": null,
+   "page": "https://www.aixam.com/en/aixam-configurator",
+   "source": "manufacturer website (aixam.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "3D configurator render (Easy Access), grey studio background removed, mirrored",
+   "angle": "side",
+   "src": "v111/aixam-easy-cfgside",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "aixam-crossover": {
+  "side": {
+   "url": null,
+   "page": "https://www.aixam.com/en/aixam-configurator",
+   "source": "manufacturer website (aixam.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "3D configurator render (Crossover Pack), grey studio background removed, mirrored",
+   "angle": "side",
+   "src": "v111/aixam-crossover-cfg-2",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "aixam-e-scouty": {
+  "side": {
+   "url": null,
+   "page": "https://www.aixam.com/en/aixam-configurator",
+   "source": "manufacturer website (aixam.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "3D configurator render (Mega e-Scouty Evo), grey studio background removed, mirrored",
+   "angle": "side",
+   "src": "v111/aixam-e-scouty-cfg40-5",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "aixam-city": {
+  "side": {
+   "url": null,
+   "page": "https://www.aixam.com/en/aixam-configurator",
+   "source": "manufacturer website (aixam.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "3D configurator render (City Pack), grey studio background removed, mirrored",
+   "angle": "side",
+   "src": "v111/aixam-city-cfg1-02",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "aixam-coupe": {
+  "side": {
+   "url": null,
+   "page": "https://www.aixam.com/en/aixam-configurator",
+   "source": "manufacturer website (aixam.com)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "3D configurator render (Coupe Sport), grey studio background removed, mirrored",
+   "angle": "side",
+   "src": "v111/aixam-coupe-cfg16-02",
+   "treatment": "rembg",
+   "mirrored": true,
+   "harvested": true
+  }
+ },
+ "lexus-es": {
+  "side": {
+   "url": null,
+   "page": "https://de.lexus.ch/modelle/es/build",
+   "source": "manufacturer website (de.lexus.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (Lexus CCIS frame 27) of the 2026 ES",
+   "angle": "side",
+   "src": "v111/lexus-es-f27",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://de.lexus.ch/modelle/es/build",
+   "source": "manufacturer website (de.lexus.ch)",
+   "licence": "manufacturer copyright; editorial use",
+   "notes": "configurator render (Lexus CCIS frame 0)",
+   "angle": "front",
+   "src": "v111/lexus-es-f0",
+   "treatment": "alpha",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "jeep-compass": {
+  "side": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/em-en/jeep/media-library/press-images/637335",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo of the 2026 Compass (quarry scene), true side view, background removed",
+   "angle": "side",
+   "src": "v111/jeep-compass-16-full",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  },
+  "front": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/em-en/jeep/media-library/press-images/637335",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo (driving), straight front, background removed",
+   "angle": "front",
+   "src": "v111/jeep-compass-11-full",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
+ },
+ "lancia-ypsilon": {
+  "side": {
+   "url": null,
+   "page": "https://www.media.stellantis.com/em-en/lancia/media-library/press-images/623277",
+   "source": "manufacturer press site (media.stellantis.com)",
+   "licence": "manufacturer copyright; press/editorial use",
+   "notes": "press photo of the 2025 Ypsilon HF (driving), near-side view seen slightly from the rear, background removed",
+   "angle": "side",
+   "src": "v111/lancia-ypsilon-h19-full",
+   "treatment": "rembg+clean",
+   "mirrored": false,
+   "harvested": true
+  }
  }
 }

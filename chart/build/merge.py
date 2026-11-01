@@ -80,6 +80,10 @@ GROUPS = OrderedDict([
  ('VinFast', ['VinFast']),
  ('Micro Mobility', ['Microlino']),
  ('Piaggio', ['Piaggio']),
+ ('Polaris', ['Aixam']),
+ ('Ligier Group', ['Ligier']),
+ ('Chatenet', ['Chatenet']),
+ ('Casalini', ['Casalini']),
 ])
 BRAND2GROUP = {b: g for g, bs in GROUPS.items() for b in bs}
 
@@ -95,7 +99,7 @@ BRAND_ALIASES = {
  'lynk&co': 'Lynk & Co', 'lynk & co.': 'Lynk & Co', 'lynk and co': 'Lynk & Co', 'maxus (saic)': 'Maxus', 'saic maxus': 'Maxus',
  'im motors': 'IM', 'mg motor': 'MG', 'omoda & jaecoo': 'Omoda', 'ora (gwm)': 'Ora', 'great wall': 'GWM', 'gwm ora': 'Ora',
  'xpeng motors': 'XPeng', 'nio': 'NIO', 'ineos automotive': 'Ineos', 'ineos grenadier': 'Ineos', 'renault trucks': 'Renault Trucks',
- 'micro': 'Microlino', 'micro mobility': 'Microlino', 'microlino': 'Microlino', 'bugatti rimac': 'Bugatti',
+ 'micro': 'Microlino', 'micro mobility': 'Microlino', 'microlino': 'Microlino', 'bugatti rimac': 'Bugatti', 'automobiles chatenet': 'Chatenet', 'polaris': 'Aixam', 'ligier group': 'Ligier',
  'cadillac europe': 'Cadillac', 'genesis motor': 'Genesis', 'honda motor': 'Honda', 'tesla motors': 'Tesla',
  'alpine cars': 'Alpine', 'dacia': 'Dacia', 'mobilize': 'Mobilize', 'lexus': 'Lexus', 'levc': 'LEVC', 'farizon auto': 'Farizon',
  'geely auto': 'Geely', 'byd auto': 'BYD', 'denza': 'Denza', 'deepal': 'Deepal', 'changan auto': 'Changan',
