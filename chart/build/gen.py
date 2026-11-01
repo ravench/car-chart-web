@@ -15,6 +15,9 @@ DRIVE = json.load(open(DRIVE_PATH)) if os.path.exists(DRIVE_PATH) else {}   # id
 PREV = set(FLAGS.get('prev_model', []))   # models pictured with a previous model because carsized has no entry for the current one
 for _i in [k for k, v in DIMS.items() if v.get('prev_model') and k not in PREV]: DIMS.pop(_i)   # carsized has only a previous model and the tile no longer shows it: drop its measurements and attribution
 PREV_YEAR = {k: int(v) for k, v in (FLAGS.get('prev_year') or {}).items()}   # id -> badge year (last year of carsized's range, capped at 2025)
+COUNTRIES_PATH = sys.argv[8] if len(sys.argv) > 8 else os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'research', 'countries', 'brand_countries.json')
+COUNTRIES = json.load(open(COUNTRIES_PATH)) if os.path.exists(COUNTRIES_PATH) else {'brands': {}, 'groups': {}}   # brand -> {country, hq, built_in, second_flag, note, sources}
+import random, math
 def full_name(brand, display):
     """'DR' + 'DR 6' -> 'DR 6'; 'Polestar' + 'Polestar 4' -> 'Polestar 4'; 'BMW' + 'X5' -> 'BMW X5'."""
     b, d = brand.lower(), display.lower()
@@ -72,7 +75,7 @@ def awd_title(d):
     if d.get('note'): t += ' — ' + d['note']
     return t
 
-def tile(m, s=0, place=''):
+def tile(m, s=0, place='', above=None):
     g = m.get('twin_group'); style = m.get('twin_style')
     cls = ['tile']
     attrs = [f'data-id="{E(m["id"])}"', f'data-row="{E(m["row"])}"', f'data-brand="{E(m["brand"])}"', f'data-s="{s}"']
@@ -80,6 +83,7 @@ def tile(m, s=0, place=''):
     if g:
         cls.append('t1' if style == 1 else 't2'); attrs.append(f'data-g="{E(g)}"')
         st.append(f'--gc:var(--c{tgs[g]["slot"]+1})')
+    if above: cls.append('stack'); attrs.append(f'data-above="{E(above)}"')   # second member of the same family in this brand column: stub up to the member above
     if st: attrs.append(f'style="{";".join(st)}"')
     L = ((DIMS.get(m['id']) or {}).get('len') if MANIFEST.get(m['id']) else None) or m.get('length_mm')
     if L: attrs.append(f'data-len="{L}"')
@@ -113,23 +117,113 @@ def tile(m, s=0, place=''):
             f'<span class="name">{E(m["display"])}</span>'
             f'<span class="tags">{tags}{flags}</span></button>')
 
+# ---------- brand countries (flags) ----------
+COUNTRY_NAME = {'DE':'Germany','FR':'France','IT':'Italy','ES':'Spain','GB':'United Kingdom','CZ':'Czechia','RO':'Romania','SE':'Sweden','CH':'Switzerland','HR':'Croatia','US':'United States','JP':'Japan','KR':'South Korea','CN':'China','VN':'Vietnam','NL':'Netherlands','IN':'India','TH':'Thailand','TR':'Türkiye','BE':'Belgium','PL':'Poland','SK':'Slovakia','HU':'Hungary','PT':'Portugal','MA':'Morocco','MX':'Mexico','AT':'Austria','ZA':'South Africa','MY':'Malaysia','ID':'Indonesia','TW':'Taiwan','BR':'Brazil','AR':'Argentina','CA':'Canada','RS':'Serbia','SI':'Slovenia','FI':'Finland','NO':'Norway','DK':'Denmark','IE':'Ireland','AU':'Australia','UZ':'Uzbekistan','EG':'Egypt','RU':'Russia','UA':'Ukraine','BG':'Bulgaria','GR':'Greece','LU':'Luxembourg','PH':'Philippines','PK':'Pakistan','SA':'Saudi Arabia','AE':'United Arab Emirates','IR':'Iran','KZ':'Kazakhstan','NG':'Nigeria','GH':'Ghana','ET':'Ethiopia','KE':'Kenya','CL':'Chile','CO':'Colombia','PE':'Peru','UY':'Uruguay','VE':'Venezuela','NZ':'New Zealand','SG':'Singapore','HK':'Hong Kong','MO':'Macau','KH':'Cambodia','LA':'Laos','MM':'Myanmar','BD':'Bangladesh','LK':'Sri Lanka','NP':'Nepal','IL':'Israel','JO':'Jordan','QA':'Qatar','KW':'Kuwait','OM':'Oman','BH':'Bahrain','DZ':'Algeria','TN':'Tunisia','LY':'Libya','SD':'Sudan','LT':'Lithuania','LV':'Latvia','EE':'Estonia','BY':'Belarus','MD':'Moldova','MK':'North Macedonia','AL':'Albania','BA':'Bosnia and Herzegovina','ME':'Montenegro','XK':'Kosovo','IS':'Iceland','MT':'Malta','CY':'Cyprus','LI':'Liechtenstein','MC':'Monaco','AD':'Andorra','SM':'San Marino'}
+def _h(*cols):
+    n = len(cols); h = 40 / n
+    return ''.join(f'<rect y="{k*h:.2f}" width="60" height="{h+0.05:.2f}" fill="{c}"/>' for k, c in enumerate(cols))
+def _v(*cols):
+    n = len(cols); w = 60 / n
+    return ''.join(f'<rect x="{k*w:.2f}" width="{w+0.05:.2f}" height="40" fill="{c}"/>' for k, c in enumerate(cols))
+def _star(cx, cy, r, fill, rot=-90, stroke=None):
+    pts = []
+    for k in range(10):
+        ang = math.radians(rot + k * 36); rr = r if k % 2 == 0 else r * 0.382
+        pts.append(f'{cx + rr * math.cos(ang):.2f},{cy + rr * math.sin(ang):.2f}')
+    return f'<polygon points="{" ".join(pts)}" fill="{fill}"' + (f' stroke="{stroke}" stroke-width="1.6" stroke-linejoin="round"' if stroke else '') + '/>'
+def _tri(cx, cy, rot, broken):
+    out = []
+    for k, br in enumerate(broken):
+        y = -4 + k * 4
+        out.append(f'<rect x="-5" y="{y-1}" width="4.2" height="2"/><rect x="0.8" y="{y-1}" width="4.2" height="2"/>' if br else f'<rect x="-5" y="{y-1}" width="10" height="2"/>')
+    return f'<g transform="translate({cx},{cy}) rotate({rot})" fill="#000">{"".join(out)}</g>'
+FLAG_SVG = {
+ 'DE': _h('#000', '#dd0000', '#ffce00'), 'FR': _v('#0055a4', '#fff', '#ef4135'), 'IT': _v('#009246', '#fff', '#ce2b37'), 'RO': _v('#002b7f', '#fcd116', '#ce1126'),
+ 'BE': _v('#000', '#fae042', '#ed2939'), 'IE': _v('#169b62', '#fff', '#ff883e'), 'NL': _h('#ae1c28', '#fff', '#21468b'), 'HU': _h('#ce2939', '#fff', '#477050'), 'PL': _h('#fff', '#dc143c'),
+ 'AT': _h('#ed2939', '#fff', '#ed2939'), 'RU': _h('#fff', '#0039a6', '#d52b1e'), 'BG': _h('#fff', '#00966e', '#d62612'), 'LU': _h('#ed2939', '#fff', '#00a1de'),
+ 'ES': '<rect width="60" height="40" fill="#aa151b"/><rect y="10" width="60" height="20" fill="#f1bf00"/>',
+ 'SE': '<rect width="60" height="40" fill="#006aa7"/><rect x="18" width="8" height="40" fill="#fecc00"/><rect y="16" width="60" height="8" fill="#fecc00"/>',
+ 'FI': '<rect width="60" height="40" fill="#fff"/><rect x="18" width="8" height="40" fill="#002f6c"/><rect y="16" width="60" height="8" fill="#002f6c"/>',
+ 'DK': '<rect width="60" height="40" fill="#c8102e"/><rect x="18" width="7" height="40" fill="#fff"/><rect y="16.5" width="60" height="7" fill="#fff"/>',
+ 'NO': '<rect width="60" height="40" fill="#ba0c2f"/><rect x="16" width="12" height="40" fill="#fff"/><rect y="14" width="60" height="12" fill="#fff"/><rect x="19" width="6" height="40" fill="#00205b"/><rect y="17" width="60" height="6" fill="#00205b"/>',
+ 'CZ': '<rect width="60" height="20" fill="#fff"/><rect y="20" width="60" height="20" fill="#d7141a"/><polygon points="0,0 30,20 0,40" fill="#11457e"/>',
+ 'SK': _h('#fff', '#0b4ea2', '#ee1c25'), 'SI': _h('#fff', '#005da4', '#ed1c24'), 'RS': _h('#c6363c', '#0c4076', '#fff'),
+ 'GB': '<rect width="60" height="40" fill="#012169"/><path d="M0,0 L60,40 M60,0 L0,40" stroke="#fff" stroke-width="8"/><path d="M0,0 L60,40 M60,0 L0,40" stroke="#c8102e" stroke-width="3"/><path d="M30,0 V40 M0,20 H60" stroke="#fff" stroke-width="12"/><path d="M30,0 V40 M0,20 H60" stroke="#c8102e" stroke-width="7"/>',
+ 'US': '<rect width="60" height="40" fill="#fff"/>' + ''.join(f'<rect y="{k*40/13:.2f}" width="60" height="{40/13+0.05:.2f}" fill="#b22234"/>' for k in range(0, 13, 2)) + '<rect width="24" height="21.6" fill="#3c3b6e"/>' + ''.join(f'<circle cx="{2.5 + (i % 6) * 3.8 + (1.9 if (i // 6) % 2 else 0):.1f}" cy="{2.4 + (i // 6) * 4.2:.1f}" r="0.9" fill="#fff"/>' for i in range(30) if not ((i // 6) % 2 and i % 6 == 5)),
+ 'CA': '<rect width="60" height="40" fill="#fff"/><rect width="15" height="40" fill="#d80621"/><rect x="45" width="15" height="40" fill="#d80621"/><polygon points="30,8 32.5,13.5 36,12 34.5,18 39,17 33,23 34,27 30,25.5 26,27 27,23 21,17 25.5,18 24,12 27.5,13.5" fill="#d80621"/>',
+ 'MX': _v('#006847', '#fff', '#ce1126') + '<circle cx="30" cy="20" r="4" fill="#8a6d3b"/>',
+ 'BR': '<rect width="60" height="40" fill="#009c3b"/><polygon points="30,4 54,20 30,36 6,20" fill="#ffdf00"/><circle cx="30" cy="20" r="9" fill="#002776"/>',
+ 'AR': _h('#74acdf', '#fff', '#74acdf') + '<circle cx="30" cy="20" r="3.5" fill="#f6b40e"/>',
+ 'JP': '<rect width="60" height="40" fill="#fff"/><circle cx="30" cy="20" r="12" fill="#bc002d"/>',
+ 'CN': '<rect width="60" height="40" fill="#de2910"/>' + _star(10, 10, 6, '#ffde00') + _star(20, 4, 2, '#ffde00') + _star(24, 8.5, 2, '#ffde00') + _star(24, 13.5, 2, '#ffde00') + _star(20, 17.5, 2, '#ffde00'),
+ 'VN': '<rect width="60" height="40" fill="#da251d"/>' + _star(30, 20, 12, '#ffff00'),
+ 'KR': '<rect width="60" height="40" fill="#fff"/><g transform="rotate(-33.7 30 20)"><path d="M20,20 A10,10 0 0 1 40,20 Z" fill="#cd2e3a"/><path d="M20,20 A10,10 0 0 0 40,20 Z" fill="#0047a0"/><circle cx="25" cy="20" r="5" fill="#cd2e3a"/><circle cx="35" cy="20" r="5" fill="#0047a0"/></g>' + _tri(11, 8.5, -33.7, (False, False, False)) + _tri(49, 8.5, 33.7, (True, False, True)) + _tri(11, 31.5, 33.7, (False, True, False)) + _tri(49, 31.5, -33.7, (True, True, True)),
+ 'TW': '<rect width="60" height="40" fill="#fe0000"/><rect width="30" height="20" fill="#000095"/><circle cx="15" cy="10" r="5" fill="#fff"/>',
+ 'IN': _h('#ff9933', '#fff', '#138808') + '<circle cx="30" cy="20" r="5" fill="none" stroke="#000080" stroke-width="1.5"/>',
+ 'TH': '<rect width="60" height="40" fill="#a51931"/><rect y="6.7" width="60" height="26.6" fill="#fff"/><rect y="13.3" width="60" height="13.4" fill="#2d2a4a"/>',
+ 'MY': '<rect width="60" height="40" fill="#fff"/>' + ''.join(f'<rect y="{k*40/14:.2f}" width="60" height="{40/14+0.05:.2f}" fill="#cc0001"/>' for k in range(0, 14, 2)) + '<rect width="30" height="22.9" fill="#010066"/><circle cx="12" cy="11.5" r="7" fill="#ffcc00"/><circle cx="14.5" cy="11.5" r="6" fill="#010066"/>' + _star(22, 11.5, 4, '#ffcc00'),
+ 'ID': _h('#ff0000', '#fff'), 'MC': _h('#ce1126', '#fff'), 'SG': _h('#ed2939', '#fff') + '<circle cx="12" cy="10" r="6" fill="#fff"/><circle cx="14.5" cy="10" r="5.3" fill="#ed2939"/>',
+ 'TR': '<rect width="60" height="40" fill="#e30a17"/><circle cx="24" cy="20" r="10" fill="#fff"/><circle cx="26.5" cy="20" r="8" fill="#e30a17"/>' + _star(37, 20, 5, '#fff', rot=180),
+ 'MA': '<rect width="60" height="40" fill="#c1272d"/>' + _star(30, 20, 11, 'none', stroke='#006233'),
+ 'CH': '<rect width="60" height="40" fill="#da291c"/><rect x="26.5" y="8" width="7" height="24" fill="#fff"/><rect x="18" y="16.5" width="24" height="7" fill="#fff"/>',
+ 'HR': _h('#ff0000', '#fff', '#171796') + '<rect x="24" y="12.5" width="12" height="15" fill="#fff"/>' + ''.join(f'<rect x="{24 + i*2.4:.1f}" y="{12.5 + j*3:.1f}" width="2.4" height="3" fill="#ff0000"/>' for i in range(5) for j in range(5) if (i + j) % 2 == 0),
+ 'PT': '<rect width="24" height="40" fill="#006600"/><rect x="24" width="36" height="40" fill="#ff0000"/><circle cx="24" cy="20" r="7" fill="#ffcc00"/><circle cx="24" cy="20" r="4" fill="#ff0000"/>',
+ 'ZA': '<rect width="60" height="40" fill="#fff"/><rect width="60" height="13.3" fill="#e03c31"/><rect y="26.7" width="60" height="13.3" fill="#001489"/><polygon points="0,0 24,20 0,40" fill="#000"/><polygon points="0,4 20,20 0,36 -8,36 -8,4" fill="#ffb81c"/><polygon points="10,0 60,0 60,10 25,20 60,30 60,40 10,40 0,33 0,7" fill="none"/><path d="M0,7 L21,20 L0,33" fill="none" stroke="#007749" stroke-width="7"/><path d="M14,0 L60,0 M14,40 L60,40" stroke="#007749" stroke-width="0"/><rect x="21" y="16.5" width="39" height="7" fill="#007749"/>',
+ 'UZ': _h('#1eb53a', '#fff', '#0099b5')[::-1] if False else _h('#0099b5', '#fff', '#1eb53a'), 'EG': _h('#ce1126', '#fff', '#000'), 'IR': _h('#239f40', '#fff', '#da0000'), 'KZ': '<rect width="60" height="40" fill="#00afca"/><circle cx="30" cy="20" r="7" fill="#fec50c"/>',
+ 'AE': '<rect width="60" height="40" fill="#fff"/><rect width="15" height="40" fill="#ff0000"/><rect x="15" width="45" height="13.3" fill="#00732f"/><rect x="15" y="26.7" width="45" height="13.3" fill="#000"/>', 'SA': '<rect width="60" height="40" fill="#006c35"/>',
+ 'AU': '<rect width="60" height="40" fill="#012169"/>' + _star(45, 20, 4, '#fff') + _star(42, 8, 2.2, '#fff') + _star(52, 14, 2.2, '#fff') + _star(50, 28, 2.2, '#fff') + _star(40, 32, 2.2, '#fff') + _star(15, 30, 5, '#fff'),
+ 'NZ': '<rect width="60" height="40" fill="#012169"/>' + ''.join(_star(x, y, 2.6, '#c8102e') for x, y in ((44, 10), (52, 17), (40, 22), (46, 30))),
+}
+def flag_svg_use(code, cls='fl'):
+    if not code: return ''
+    name = COUNTRY_NAME.get(code, code)
+    if code in FLAG_SVG: return f'<svg class="{cls}" viewBox="0 0 60 40" role="img" aria-label="{E(name)}"><use href="#fl-{code.lower()}"/></svg>'
+    return f'<span class="{cls} txt" role="img" aria-label="{E(name)}">{E(code)}</span>'
+def country_text(cb):
+    name = cb.get('country_name') or COUNTRY_NAME.get(cb.get('country'), cb.get('country'))
+    org = (cb.get('origin') or '').split(' (')[0]
+    parts = [name + (f' (marque of {org} origin)' if org and org != name else '')]
+    if cb.get('hq'): parts.append('head office ' + cb['hq'] + (f" ({cb['hq_entity']})" if cb.get('hq_entity') else ''))
+    bi = [COUNTRY_NAME.get(c, c) for c in (cb.get('built_in') or [])]
+    if bi: parts.append('models for Europe built in ' + ', '.join(bi))
+    t = ' · '.join(p for p in parts if p)
+    if cb.get('note'): t += '. ' + cb['note'].strip().rstrip('.') + '.'
+    if cb.get('confidence') == 'low': t += ' (not fully verified)'
+    return t
+CB = COUNTRIES.get('brands') or {}; CG = COUNTRIES.get('groups') or {}
+flag_codes = sorted({c for cb in CB.values() for c in (cb.get('country'), cb.get('second_flag')) if c} | {cg.get('country') for cg in CG.values() if cg.get('country')})
+flag_defs = ('<svg class="flagdefs" width="0" height="0" aria-hidden="true"><defs>' + ''.join(f'<symbol id="fl-{c.lower()}" viewBox="0 0 60 40">{FLAG_SVG[c]}</symbol>' for c in flag_codes if c in FLAG_SVG) + '</defs></svg>') if flag_codes else ''
+def brand_flags(b):
+    cb = CB.get(b) or {}
+    if not cb.get('country'): return ''
+    return f'<span class="flags" title="{E(country_text(cb))}">{flag_svg_use(cb["country"])}{flag_svg_use(cb.get("second_flag"), "fl sec") if cb.get("second_flag") else ""}</span>'
+def group_flags(label):
+    cg = CG.get(label) or {}
+    if not cg.get('country'): return ''
+    tip = (cg.get('country_name') or COUNTRY_NAME.get(cg['country'], cg['country'])) + ' · parent company ' + (cg.get('hq_entity') or label) + (', head office ' + cg['hq'] if cg.get('hq') else '')
+    return f'<span class="flags" title="{E(tip)}">{flag_svg_use(cg["country"])}</span>'
+flag_legend = f'<span>{flag_svg_use("DE")}Flag in the brand header: the country of the brand\'s head office (Wikipedia); a smaller second flag marks the one foreign country where its models for Europe are built. Hover a flag for the office and the plants; the group header carries the parent company\'s flag.</span>' if CB else ''
+
 # ---------- matrix ----------
 cells = []
 col = 2
 cells.append('<div class="corner hdr" style="grid-row:1/3;grid-column:1"><span>Class ↓ / Brand →</span></div>')
 for gi, g in enumerate(groups):
     n = len(g['brands'])
-    cells.append(f'<div class="ghdr hdr" data-group="{E(g["label"])}" style="grid-row:1;grid-column:{col}/{col+n}"><span>{E(g["label"])}</span></div>')
+    cells.append(f'<div class="ghdr hdr" data-group="{E(g["label"])}" style="grid-row:1;grid-column:{col}/{col+n}"><span>{E(g["label"])}{group_flags(g["label"])}</span></div>')
     for b in g['brands']:
-        cells.append(f'<div class="bhdr hdr" data-group="{E(g["label"])}" data-brand="{E(b)}" style="grid-row:2;grid-column:{col}"><span>{E(b)}</span></div>')
+        cells.append(f'<div class="bhdr hdr" data-group="{E(g["label"])}" data-brand="{E(b)}" style="grid-row:2;grid-column:{col}"><span class="bn">{E(b)}</span>{brand_flags(b)}</div>')
         col += 1
 NCOL = col - 1
-# Sub-row assignment: within a class row, every member of a twin group sits on the same horizontal line.
-# A brand with k members in one group occupies k consecutive sub-rows; the other members align with the first.
+# Sub-row assignment (v1.12): within a class row every twin group gets a line of its own. All its members sit on that line
+# (a brand with k members of one group stacks them on k consecutive lines, starting at the group's line) and no tile of
+# another group, nor of a brand without a twin, is placed between the first and the last member on that line. Groups whose
+# column spans do not overlap share a line. The order in which the groups claim lines is searched (fixed seed) for the
+# arrangement with the fewest lines and the fullest top lines.
+colidx = {b: i for i, b in enumerate(brands)}
 def assign_subrows(rowcode):
     cols = {b: by_cell.get((rowcode, b), []) for b in brands}
     order = {m['id']: k for ms in cols.values() for k, m in enumerate(ms)}
-    occ = defaultdict(set); sub = {}
     def by_brand(g):
         mb = defaultdict(list)
         for i in g['members']:
@@ -137,23 +231,58 @@ def assign_subrows(rowcode):
         for b in mb: mb[b].sort(key=lambda i: order.get(i, 99))
         return mb
     ginfo = [(g, by_brand(g)) for g in DATA['twin_groups'] if g['row'] == rowcode]
-    ginfo.sort(key=lambda x: (-max((len(v) for v in x[1].values()), default=1), -len(x[1]), x[0]['slot'], x[0]['id']))
+    ginfo = [(g, mb) for g, mb in ginfo if mb]
+    def place(seq):
+        occ = defaultdict(set); sub = {}; spans = defaultdict(list); gcell = defaultdict(dict); home = {}
+        for g, mb in seq:
+            cs = [colidx[b] for b in mb]; c1, c2 = min(cs), max(cs); s = 0
+            while True:   # lowest line whose span is free of foreign tiles and where every brand can stack its members through that line
+                ok = not any(c1 < c < c2 for c in gcell[s]); blocks = {}
+                if ok:
+                    for b, ids in mb.items():
+                        k = len(ids); col = colidx[b]; chosen = None
+                        for u in range(k - 1, -1, -1):   # a brand's k members form a block of k lines through the family line; the highest free block wins (fills the top of the column)
+                            top = s - u
+                            if top < 0: continue
+                            if all(l not in occ[b] and not any(a < col < z for (a, z, _) in spans[l]) for l in range(top, top + k)): chosen = top; break
+                        if chosen is None: ok = False; break
+                        blocks[b] = chosen
+                if ok: break
+                s += 1
+            home[g['id']] = s; spans[s].append((c1, c2, g['id']))
+            for b, ids in mb.items():
+                for k, i in enumerate(ids): sub[i] = blocks[b] + k; occ[b].add(blocks[b] + k); gcell[blocks[b] + k][colidx[b]] = g['id']
+        for b, ms in cols.items():
+            for m in ms:
+                if m['id'] in sub: continue
+                c = colidx[b]; s = 0
+                while s in occ[b] or any(a < c < z for (a, z, _) in spans[s]): s += 1
+                sub[m['id']] = s; occ[b].add(s)
+        return sub, home
+    def score(sub):   # fewest lines, then fewest brand columns with an empty top cell, then the fullest top lines
+        S = max(sub.values()) + 1 if sub else 1; cnt = [0] * S
+        for v in sub.values(): cnt[v] += 1
+        top = {mid[i]['brand'] for i, v in sub.items() if v == 0}
+        holes = sum(1 for b, ms in cols.items() if ms and b not in top)
+        return (S, holes, [-c for c in cnt])
+    base_seq = sorted(ginfo, key=lambda x: (-len(x[1]), -sum(len(v) for v in x[1].values()), x[0]['slot'], x[0]['id']))
+    rnd = random.Random(7); best = None
+    for trial in range(301 if len(ginfo) > 1 else 1):
+        seq = base_seq[:] if trial == 0 else rnd.sample(base_seq, len(base_seq))
+        sub, home = place(seq); sc = score(sub)
+        if best is None or sc < best[0]: best = (sc, sub, home)
+    sc, sub, home = best
+    bars = []; above = {}
     for g, mb in ginfo:
-        s = 0
-        while any((s + k) in occ[b] for b, ids in mb.items() for k in range(len(ids))): s += 1
+        s = home[g['id']]; cs = sorted(colidx[b] for b in mb)
+        if len(cs) >= 2: bars.append((s, brands[cs[0]], brands[cs[-1]], g['id']))
         for b, ids in mb.items():
-            for k, i in enumerate(ids): sub[i] = s + k; occ[b].add(s + k)
-    for b, ms in cols.items():
-        for m in ms:
-            if m['id'] in sub: continue
-            s = 0
-            while s in occ[b]: s += 1
-            sub[m['id']] = s; occ[b].add(s)
-    return sub, (max(sub.values()) + 1 if sub else 1)
+            for k in range(1, len(ids)): above[ids[k]] = ids[k - 1]
+    return sub, (max(sub.values()) + 1 if sub else 1), bars, above
 
 base = 3; sub_report = []
 for ri, r in enumerate(rows):
-    sub, S = assign_subrows(r['code'])
+    sub, S, bars, above = assign_subrows(r['code'])
     stack = max([len(by_cell.get((r['code'], b), [])) for b in brands] + [0])
     sub_report.append(f"{r['code']:12s} {S:2d} sub-rows (tallest brand stack {stack})")
     cells.append(f'<div class="rhdr hdr" data-row="{E(r["code"])}" data-sub="{S}" style="grid-row:{base}/{base+S};grid-column:1"><span class="rn">{E(r["name"])}</span><span class="rd">{E(r["desc"])}</span></div>')
@@ -162,10 +291,13 @@ for ri, r in enumerate(rows):
         for b in g['brands']:
             ms = by_cell.get((r['code'], b), [])
             cells.append(f'<div class="cell{" empty" if not ms else ""}" data-row="{E(r["code"])}" data-brand="{E(b)}" data-group="{E(g["label"])}" style="grid-row:{base}/{base+S};grid-column:{col}"></div>')
-            for m in ms: tiles_html.append(tile(m, sub[m['id']], f'grid-row:{base+sub[m["id"]]};grid-column:{col}'))
+            for m in ms: tiles_html.append(tile(m, sub[m['id']], f'grid-row:{base+sub[m["id"]]};grid-column:{col}', above.get(m['id'])))
             col += 1
     for s in range(1, S, 2):
         cells.append(f'<div class="stripe" data-row="{E(r["code"])}" data-s="{s}" style="grid-row:{base+s};grid-column:2/{NCOL+1}"></div>')
+    for s, b1, b2, gid in bars:   # a bar in the family colour along the family's line, behind the tiles
+        g = tgs[gid]; dashed = all(mid[i].get('twin_style') != 1 for i in g['members'] if i in mid)
+        cells.append(f'<div class="gbar{" dashed" if dashed else ""}" data-row="{E(r["code"])}" data-s="{s}" data-g="{E(gid)}" style="grid-row:{base+s};grid-column:{colidx[b1]+2}/{colidx[b2]+3};--gc:var(--c{g["slot"]+1})"></div>')
     cells.extend(tiles_html)
     base += S
 matrix = '\n'.join(cells)
@@ -204,6 +336,9 @@ AGENT_LABEL = {'vw-group':'Volkswagen Group','stellantis':'Stellantis','renault-
 for a, ss in sorted(src_by_agent.items(), key=lambda x: AGENT_LABEL.get(x[0], x[0])):
     srcs += f'<details><summary>{E(AGENT_LABEL.get(a, a))} ({len(ss)})</summary><ul>' + ''.join(f'<li><a href="{E(s.get("url",""))}" target="_blank" rel="noopener">{E(s.get("what") or s.get("url",""))}</a></li>' for s in ss) + '</ul></details>'
 
+if CB:
+    cs = sorted({u for cb in list(CB.values()) + list(CG.values()) for u in (cb.get('sources') or [])})
+    srcs += f'<details><summary>Brand countries: head offices and plants ({len(cs)})</summary><p>Checked on {E(COUNTRIES.get("checked_on", ""))}. The flag shows the country of the brand\'s head office; a second flag the single foreign country that builds its models for Europe.</p><ul>' + ''.join(f'<li><a href="{E(u)}" target="_blank" rel="noopener">{E(u.replace("https://", ""))}</a></li>' for u in cs) + '</ul></details>'
 meta = DATA['meta']
 n_t1 = sum(1 for m in models if m.get('twin_style') == 1)
 n_t2 = sum(1 for m in models if m.get('twin_style') == 2)
@@ -275,6 +410,7 @@ data_json = json.dumps({'ext': {i: {k: {kk: v.get(kk) for kk in ('page', 'source
                         'drive': {i: {k: v.get(k) for k in ('drives', 'awd', 'awd_term', 'note', 'confidence', 'source')} for i, v in DRIVE.items() if isinstance(v, dict)},
                         'groups': {g['id']: g for g in DATA['twin_groups']},
                         'rows': {r['code']: r['name'] for r in rows},
+                        'countries': {b: {k: cb.get(k) for k in ('country', 'country_name', 'origin', 'hq', 'hq_entity', 'built_in', 'second_flag', 'note', 'confidence', 'sources')} for b, cb in CB.items()}, 'country_names': COUNTRY_NAME, 'flag_codes': [c for c in flag_codes if c in FLAG_SVG],
                         'dims': dims_out, 'check': {'edges': FLAGS.get('edges', []), 'groups': FLAGS.get('groups', {})}}, ensure_ascii=False)
 
 page = f'''<meta charset="utf-8">
@@ -353,6 +489,26 @@ a {{ color:inherit }}
 .corner {{ left:0; top:0; z-index:5; width:170px; padding:8px 10px; border-right:2px solid var(--line-2); color:var(--muted); font-size:11px; text-transform:uppercase; letter-spacing:.06em; font-family:var(--display); font-weight:600 }}
 .cell {{ border-bottom:1px solid var(--line); border-right:1px solid var(--line) }}
 .stripe {{ background:color-mix(in srgb, var(--fg) 4%, transparent); pointer-events:none }}
+.gbar {{ position:relative; z-index:0; pointer-events:none }}
+.gbar::before {{ content:""; position:absolute; left:calc(var(--colw) / 2); right:calc(var(--colw) / 2); top:50%; height:8px; margin-top:-4px; border-radius:4px; background:color-mix(in srgb, var(--gc) 45%, transparent) }}
+.gbar.dashed::before {{ background:repeating-linear-gradient(90deg, color-mix(in srgb, var(--gc) 45%, transparent) 0 14px, transparent 14px 22px) }}
+.gbar.lit::before {{ background:color-mix(in srgb, var(--gc) 85%, transparent) }}
+.gbar.dashed.lit::before {{ background:repeating-linear-gradient(90deg, color-mix(in srgb, var(--gc) 85%, transparent) 0 14px, transparent 14px 22px) }}
+.matrix.focus .gbar:not(.lit) {{ opacity:.2 }}
+.tile.stack::before {{ content:""; position:absolute; top:-10px; left:50%; width:8px; height:8px; margin-left:-4px; background:color-mix(in srgb, var(--gc) 45%, transparent) }}
+.tile.t1.stack::before, .tile.t2.stack::before {{ top:-10.5px }}
+.tile.stack.lit::before {{ background:color-mix(in srgb, var(--gc) 85%, transparent) }}
+.bhdr {{ flex-direction:row; align-items:center; justify-content:space-between; gap:6px }}
+.bhdr .bn {{ overflow:hidden; text-overflow:ellipsis; white-space:nowrap; min-width:0 }}
+.flagdefs {{ position:absolute; width:0; height:0; overflow:hidden }}
+.flags {{ flex:none; display:inline-flex; align-items:center; gap:3px; vertical-align:middle }}
+.fl {{ display:block; width:21px; height:14px; border-radius:2px; box-shadow:0 0 0 1px color-mix(in srgb, var(--fg) 22%, transparent); flex:none }}
+.fl.sec {{ width:16px; height:11px }}
+.fl.txt {{ font:700 9px/14px var(--display); text-align:center; background:var(--surface); color:var(--fg-2); letter-spacing:.04em }}
+.ghdr .flags {{ display:inline-flex; margin-left:6px }}
+.ghdr .fl {{ width:18px; height:12px }}
+.legend .fl, .detail .fl {{ display:inline-block; vertical-align:-2px; margin-right:4px }}
+.detail .sub.ctry {{ text-transform:none; letter-spacing:0; font-family:var(--body); font-weight:400; font-size:12.5px; line-height:1.4; color:var(--fg-2); margin-top:4px }}
 .cell.last-in-group {{ border-right:2px solid var(--line-2) }}
 .cell.empty {{ background:repeating-linear-gradient(135deg, transparent 0 6px, var(--surface-2) 6px 7px) }}
 .tile {{ position:relative; z-index:1; display:flex; flex-direction:column; gap:3px; width:calc(var(--colw) - 10px); margin:4px 5px; text-align:left; font:inherit; color:inherit; background:var(--tilebg); border:2px solid var(--line); border-radius:8px; padding:4px; cursor:pointer; transition:opacity .15s, box-shadow .15s }}
@@ -438,7 +594,8 @@ details summary {{ cursor:pointer; font-weight:600 }}
     <span><i class="ex t1"></i>Solid frame + chip: same vehicle under another badge (rebadge / twin)</span>
     <span><i class="ex t2"></i>Dashed frame: same platform, different body (platform sibling)</span>
     <span><i class="ex t0"></i>Plain: no twin on sale in Europe</span>
-    <span>Same colour within a row = same family, and the members of a family sit on the same line. Hover a tile to light up its relatives; click for details and sources.</span>
+    <span>Same colour within a row = same family. Each family has a line of its own, joined by a bar in its colour, and nothing else sits between its members on that line; a brand with two members of one family stacks the second below the first (short stub). Hover a tile to light up its relatives; click for details and sources.</span>
+    {flag_legend}
     <span><span class="yr yr-lg">2025 model</span> carsized.com has no picture of the current generation, so the tile shows the newest previous model it has; the badge gives that model’s year.</span>
     <span><span class="tag awd">AWD</span> Sold with all-wheel drive or 4x4 in at least one version ({n_awd} models); the detail panel names the manufacturer's term and the versions it is limited to.</span>
   </div>
@@ -461,6 +618,7 @@ details summary {{ cursor:pointer; font-weight:600 }}
   </fieldset>
 </section>
 
+{flag_defs}
 <div class="mwrap" id="mwrap"><div class="matrix" id="matrix" style="grid-template-columns:170px repeat({NCOL-1}, var(--colw))">
 {matrix}
 </div></div>
@@ -470,7 +628,7 @@ details summary {{ cursor:pointer; font-weight:600 }}
 <section class="notes">
   <h2>How to read the chart</h2>
   <p>Columns are brands, grouped under the company that owns them (joint ventures and alliance partners are noted in the group header). Rows are vehicle classes, roughly by length and body type; the Swiss market name is used where a model is sold under several names in Europe. One tile is one nameplate: body styles, trims and performance versions are not split out.</p>
-  <p>A coloured frame marks a family. A solid frame with a filled chip means the vehicle shares its body shell with the other solid tiles of that colour in the same row and is essentially the same car with different badges and fascias (for example the Renault Kangoo, Mercedes-Benz Citan and Nissan Townstar). A dashed frame means the vehicle shares the platform and much of its technology but has its own body (for example the VW Golf, SEAT Leon, Škoda Octavia and Audi A3). Within a class, the members of a family are placed on the same line, so a family can be read straight across the brand columns. Colours repeat between rows; only tiles in the same row and colour belong together.</p>
+  <p>A coloured frame marks a family. A solid frame with a filled chip means the vehicle shares its body shell with the other solid tiles of that colour in the same row and is essentially the same car with different badges and fascias (for example the Renault Kangoo, Mercedes-Benz Citan and Nissan Townstar). A dashed frame means the vehicle shares the platform and much of its technology but has its own body (for example the VW Golf, SEAT Leon, Škoda Octavia and Audi A3). Within a class, every family has a line of its own: its members sit on that line, joined by a bar in the family colour, and no other vehicle is placed between them, so a family can be read straight across the brand columns (families whose brands lie in different parts of the chart share a line). A brand with two members of one family, such as the Volkswagen ID.4 and ID.5, stacks the second directly below the first. Colours repeat between rows; only tiles in the same row and colour belong together.</p>
   <p>Scope: four-wheeled vehicles with a permissible gross weight up to 3.5 t, from city cars to Sprinter-sized vans and pickups, that a customer could order new from an official European sales network in October 2026. "Run-out" marks models whose order books are closed or closing while stock is still sold. "Not in CH" marks models sold elsewhere in Europe but not in Switzerland at the time of checking.</p>
   <h2>Twin groups by class</h2>
   {twinlist}
@@ -489,6 +647,8 @@ details summary {{ cursor:pointer; font-weight:600 }}
 const D = JSON.parse(document.getElementById('data').textContent);
 const matrix = document.getElementById('matrix'), wrap = document.getElementById('mwrap');
 const tiles = [...matrix.querySelectorAll('.tile')];
+const byId = new Map(tiles.map(t => [t.dataset.id, t]));
+const bars = [...matrix.querySelectorAll('.gbar')];
 const detail = document.getElementById('detail');
 let pinned = null;
 
@@ -544,10 +704,20 @@ function layout() {{
     const b = bandOf.get(s.dataset.row); s.classList.toggle('hide', !b);
     if (b) {{ s.style.gridRow = b[0] + (+s.dataset.s); s.style.gridColumn = '2/' + (visBrands.length + 2); }}
   }});
+  const visible = new Map();
   tiles.forEach(t => {{
     const b = bandOf.get(t.dataset.row), col = colOf.get(t.dataset.brand);
-    const vis = shown.get(t) && b && col; t.classList.toggle('hide', !vis);
+    const vis = !!(shown.get(t) && b && col); t.classList.toggle('hide', !vis); visible.set(t, vis);
     if (vis) {{ t.style.gridRow = b[0] + (+t.dataset.s); t.style.gridColumn = col; }}
+  }});
+  // stub between stacked members of one family: only when the member above is visible and framed
+  tiles.forEach(t => {{ const a = t.dataset.above && byId.get(t.dataset.above); t.classList.toggle('stack', !!(a && visible.get(a) && visible.get(t) && !t.classList.contains('plain') && !a.classList.contains('plain'))); }});
+  // family bars: from the first to the last visible member on the family's line
+  bars.forEach(bar => {{
+    const b = bandOf.get(bar.dataset.row);
+    const cols = b ? tiles.filter(t => t.dataset.g === bar.dataset.g && t.dataset.row === bar.dataset.row && t.dataset.s === bar.dataset.s && visible.get(t) && !t.classList.contains('plain')).map(t => colOf.get(t.dataset.brand)) : [];
+    const vis = cols.length >= 2; bar.classList.toggle('hide', !vis);
+    if (vis) {{ bar.style.gridRow = b[0] + (+bar.dataset.s); bar.style.gridColumn = Math.min(...cols) + '/' + (Math.max(...cols) + 1); }}
   }});
   // last-in-group borders
   const lastBrandOfGroup = new Map(); visBrands.forEach(b => lastBrandOfGroup.set(b.dataset.group, b.dataset.brand));
@@ -596,18 +766,23 @@ document.querySelectorAll('input[name=size]').forEach(i => i.addEventListener('c
 function light(g, on) {{
   matrix.classList.toggle('focus', !!(on && g));
   tiles.forEach(t => t.classList.toggle('lit', !!(on && g && t.dataset.g === g)));
+  bars.forEach(b => b.classList.toggle('lit', !!(on && g && b.dataset.g === g)));
 }}
 tiles.forEach(t => {{
   t.addEventListener('mouseenter', () => {{ if (!pinned) light(t.dataset.g, true); }});
   t.addEventListener('mouseleave', () => {{ if (!pinned) light(null, false); }});
   t.addEventListener('click', () => openDetail(t.dataset.id));
 }});
+const FLC = new Set(D.flag_codes || []);
+function flagUse(c, cls) {{ if (!c) return ''; const n = (D.country_names || {{}})[c] || c; return FLC.has(c) ? `<svg class="${{cls || 'fl'}}" viewBox="0 0 60 40" role="img" aria-label="${{esc(n)}}"><use href="#fl-${{c.toLowerCase()}}"/></svg>` : `<span class="${{cls || 'fl'}} txt">${{esc(c)}}</span>`; }}
+function countryText(cb) {{ const N = D.country_names || {{}}; const org = (cb.origin || '').split(' (')[0], nm = cb.country_name || N[cb.country] || cb.country; const parts = [nm + (org && org !== nm ? ` (marque of ${{org}} origin)` : '')]; if (cb.hq) parts.push('head office ' + cb.hq + (cb.hq_entity ? ` (${{cb.hq_entity}})` : '')); const bi = (cb.built_in || []).map(c => N[c] || c); if (bi.length) parts.push('models for Europe built in ' + bi.join(', ')); let t = parts.filter(Boolean).join(' · '); if (cb.note) t += '. ' + cb.note.trim().replace(/\\.$/, '') + '.'; if (cb.confidence === 'low') t += ' (not fully verified)'; return t; }}
 function fullName(o) {{ const b = o.brand.toLowerCase(), d = o.display.toLowerCase(); return (d === b || d.startsWith(b + ' ')) ? o.display : o.brand + ' ' + o.display; }}
 function openDetail(id) {{
   const m = D.models[id]; if (!m) return;
   pinned = id; light(m.twin_group, true);
   const g = m.twin_group ? D.groups[m.twin_group] : null;
   const twins = [], sibs = [];
+  const bc = D.countries && D.countries[m.brand];
   const dm = D.dims[id]; const ex = D.ext && D.ext[id]; const dv = D.drive && D.drive[id]; const num = v => (v == null ? '–' : Number(v).toLocaleString('en-US'));
   const DRV = {{FWD: 'front-wheel drive', RWD: 'rear-wheel drive', AWD: 'all-wheel drive'}};
   const driveText = d => {{ const parts = (d.drives || []).filter(k => DRV[k]).map(k => DRV[k] + (k === 'AWD' && d.awd_term ? ` (${{d.awd_term}})` : '')); let t = parts.length ? parts.join(' or ') : 'not researched'; t = t.charAt(0).toUpperCase() + t.slice(1); if (d.note) t += ' — ' + d.note; if (d.confidence === 'low') t += ' (unverified)'; else if (d.confidence === 'medium') t += ' (not checked on a manufacturer page)'; return t; }};
@@ -619,6 +794,7 @@ function openDetail(id) {{
   detail.innerHTML = `<button class="btn close" type="button" aria-label="Close">✕</button>
     <div class="sub">${{esc(m.group)}} · ${{esc(D.rows[m.row] || m.row)}}</div>
     <h3>${{esc(fullName(m))}}</h3>
+    ${{bc ? `<div class="sub ctry">${{flagUse(bc.country)}}${{bc.second_flag ? flagUse(bc.second_flag, 'fl sec') : ''}}${{esc(countryText(bc))}}${{(bc.sources || []).length ? ` <a href="${{esc(bc.sources[0])}}" target="_blank" rel="noopener"><small>source</small></a>` : ''}}</div>` : ''}}
     <dl>
       ${{m.generation ? `<dt>Generation</dt><dd>${{esc(m.generation)}}</dd>` : ''}}
       ${{m.body ? `<dt>Body</dt><dd>${{esc(m.body)}}</dd>` : ''}}

@@ -1,0 +1,2197 @@
+{
+ "checked_on": "2026-11-01",
+ "brands": {
+  "Volkswagen": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Wolfsburg, Germany",
+   "hq_entity": "Volkswagen AG (Volkswagen Passenger Cars brand)",
+   "built_in": [
+    "DE",
+    "ES",
+    "PT",
+    "SK",
+    "PL",
+    "ZA",
+    "TR"
+   ],
+   "second_flag": null,
+   "note": "Built mostly in Germany; T-Cross/Taigo/ID. Polo/ID. Cross in Spain, T-Roc in Portugal, Passat/Touareg in Slovakia, Caddy/Crafter in Poland, Polo (Kariega, since Pamplona ended in 2024) and Amarok (Ford Silverton) in South Africa; the Transporter/Caravelle is a rebadged Ford Transit Custom, which Ford Otosan builds in Gölcük (TR).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories",
+    "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk6",
+    "https://en.wikipedia.org/wiki/Volkswagen_Amarok",
+    "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T7)",
+    "https://en.wikipedia.org/wiki/List_of_Ford_factories"
+   ]
+  },
+  "Audi": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Ingolstadt, Germany",
+   "hq_entity": "AUDI AG",
+   "built_in": [
+    "DE",
+    "HU",
+    "SK",
+    "MX",
+    "ES"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Audi",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories"
+   ]
+  },
+  "Škoda": {
+   "country": "CZ",
+   "country_name": "Czech Republic",
+   "origin": "Czech Republic",
+   "hq": "Mladá Boleslav, Czech Republic",
+   "hq_entity": "Škoda Auto a.s.",
+   "built_in": [
+    "CZ",
+    "SK",
+    "ES"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/%C5%A0koda_Auto"
+   ]
+  },
+  "SEAT": {
+   "country": "ES",
+   "country_name": "Spain",
+   "origin": "Spain",
+   "hq": "Martorell, Spain",
+   "hq_entity": "SEAT S.A.",
+   "built_in": [
+    "ES",
+    "CZ"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SEAT",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories"
+   ]
+  },
+  "Cupra": {
+   "country": "ES",
+   "country_name": "Spain",
+   "origin": "Spain",
+   "hq": "Martorell, Spain",
+   "hq_entity": "SEAT S.A. (Cupra brand)",
+   "built_in": [
+    "ES",
+    "DE",
+    "HU",
+    "CN",
+    "CZ"
+   ],
+   "second_flag": null,
+   "note": "Formentor, Leon and Raval are built in Martorell, but the Born comes from Zwickau (DE), the Terramar from Győr (HU) and the Tavascan from VW Anhui (CN), so no single foreign country dominates.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cupra_(marque)",
+    "https://en.wikipedia.org/wiki/SEAT",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories"
+   ]
+  },
+  "Porsche": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Stuttgart, Germany",
+   "hq_entity": "Dr. Ing. h.c. F. Porsche AG",
+   "built_in": [
+    "DE",
+    "SK"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Porsche",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories"
+   ]
+  },
+  "Bentley": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Crewe, England, United Kingdom",
+   "hq_entity": "Bentley Motors Limited",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bentley",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories"
+   ]
+  },
+  "Lamborghini": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Sant'Agata Bolognese, Italy",
+   "hq_entity": "Automobili Lamborghini S.p.A.",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lamborghini"
+   ]
+  },
+  "MAN": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Munich, Germany",
+   "hq_entity": "MAN Truck & Bus SE",
+   "built_in": [
+    "PL"
+   ],
+   "second_flag": "PL",
+   "note": "MAN's only model in the chart, the TGE, is a rebadged VW Crafter built at VW's Września plant in Poland.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/MAN_Truck_%26_Bus",
+    "https://en.wikipedia.org/wiki/List_of_Volkswagen_Group_factories"
+   ]
+  },
+  "Peugeot": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Poissy, France",
+   "hq_entity": "Automobiles Peugeot (Stellantis)",
+   "built_in": [
+    "FR",
+    "ES",
+    "SK",
+    "PT",
+    "IT",
+    "PL",
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Peugeot",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Citroën": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Poissy, France",
+   "hq_entity": "Automobiles Citroën SAS (Stellantis)",
+   "built_in": [
+    "SK",
+    "ES",
+    "FR",
+    "RS",
+    "PT",
+    "IT",
+    "PL",
+    "GB",
+    "MA"
+   ],
+   "second_flag": null,
+   "note": "Most Citroën cars are built outside France (C3/C3 Aircross in Trnava and Kragujevac, C4 in Madrid, Berlingo in Vigo/Mangualde, Ami in Kenitra), but in several countries, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Citro%C3%ABn",
+    "https://en.wikipedia.org/wiki/Stellantis",
+    "https://en.wikipedia.org/wiki/PSA_Kenitra_plant",
+    "https://www.citroen.fr/mentions-legales.html"
+   ]
+  },
+  "DS": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Poissy, France",
+   "hq_entity": "DS Automobiles (Stellantis; site published by Automobiles Citroën SAS, Poissy)",
+   "built_in": [
+    "IT",
+    "FR",
+    "DE"
+   ],
+   "second_flag": null,
+   "note": "N°7 and N°8 are built in Melfi (IT) and N°4 in Rüsselsheim (DE); DS 3 (Poissy) and the runout DS 7 (Mulhouse) are French-built. Wikipedia gives no head-office row; Poissy is from the brand's French legal notice.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/DS_Automobiles",
+    "https://en.wikipedia.org/wiki/Stellantis",
+    "https://www.dsautomobiles.fr/mentions-legales.html"
+   ]
+  },
+  "Opel": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Rüsselsheim am Main, Germany",
+   "hq_entity": "Opel Automobile GmbH (Stellantis)",
+   "built_in": [
+    "DE",
+    "ES",
+    "FR",
+    "SK",
+    "PT",
+    "PL",
+    "IT",
+    "GB",
+    "MA"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Opel",
+    "https://en.wikipedia.org/wiki/Stellantis",
+    "https://en.wikipedia.org/wiki/PSA_Kenitra_plant"
+   ]
+  },
+  "Fiat": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Turin, Italy",
+   "hq_entity": "Fiat Automobiles S.p.A. (Stellantis Europe)",
+   "built_in": [
+    "IT",
+    "RS",
+    "PL",
+    "ES",
+    "PT",
+    "FR",
+    "MA"
+   ],
+   "second_flag": null,
+   "note": "500 (Mirafiori), Panda (Pomigliano) and Ducato (Atessa) are Italian-built; Grande Panda comes from Kragujevac (RS), 600 from Tychy (PL), Doblò/Qubo L from Vigo/Mangualde, Scudo/Ulysse from Hordain and Topolino from Kenitra.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fiat_Automobiles",
+    "https://en.wikipedia.org/wiki/Stellantis",
+    "https://en.wikipedia.org/wiki/PSA_Kenitra_plant"
+   ]
+  },
+  "Abarth": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Turin, Italy",
+   "hq_entity": "Abarth & C. S.p.A. (Stellantis Europe)",
+   "built_in": [
+    "IT",
+    "PL"
+   ],
+   "second_flag": null,
+   "note": "500e is built at Mirafiori (Turin), 600e at Tychy (PL) with the Fiat 600.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Abarth",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Alfa Romeo": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Turin, Italy",
+   "hq_entity": "Alfa Romeo Automobiles S.p.A. (Stellantis Europe)",
+   "built_in": [
+    "IT",
+    "PL"
+   ],
+   "second_flag": null,
+   "note": "Junior is built in Tychy (PL); Tonale, Giulia and Stelvio in Italy.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alfa_Romeo",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Lancia": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Turin, Italy",
+   "hq_entity": "Lancia Automobiles S.p.A. (Stellantis Europe)",
+   "built_in": [
+    "ES",
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "Ypsilon is built in Zaragoza (ES), Gamma in Melfi (IT).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lancia",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Jeep": {
+   "country": "US",
+   "country_name": "United States",
+   "origin": "United States",
+   "hq": "Toledo, Ohio, United States",
+   "hq_entity": "Jeep brand of FCA US LLC (Stellantis North America)",
+   "built_in": [
+    "PL",
+    "IT",
+    "US"
+   ],
+   "second_flag": null,
+   "note": "American brand, but its European volume models are European-built: Avenger in Tychy (PL), Compass in Melfi (IT); only the runout Wrangler/Grand Cherokee come from the US. Two foreign countries, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jeep",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Maserati": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Modena, Italy",
+   "hq_entity": "Maserati S.p.A.",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maserati",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Leapmotor": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Hangzhou, China",
+   "hq_entity": "Zhejiang Leapmotor Technology Co., Ltd.",
+   "built_in": [
+    "CN",
+    "ES"
+   ],
+   "second_flag": null,
+   "note": "Chinese brand sold in Europe by Leapmotor International (51 % Stellantis); T03 assembly in Tychy (PL) ended in March 2025, B05 (and from 2026 B10) are built in Zaragoza (ES), the rest are imported from China.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Leapmotor",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Renault": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Boulogne-Billancourt, France",
+   "hq_entity": "Renault S.A. / Renault s.a.s. (Renault Group)",
+   "built_in": [
+    "FR",
+    "ES",
+    "TR",
+    "SI"
+   ],
+   "second_flag": null,
+   "note": "Electric and van models are French-built (Douai, Maubeuge, Sandouville, Batilly); Captur/Symbioz (Valladolid) and Austral/Espace/Rafale (Palencia) come from Spain, Clio from Bursa (TR), Twingo from Novo Mesto (SI).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Renault"
+   ]
+  },
+  "Dacia": {
+   "country": "RO",
+   "country_name": "Romania",
+   "origin": "Romania",
+   "hq": "Mioveni, Romania",
+   "hq_entity": "S.C. Automobile Dacia S.A.",
+   "built_in": [
+    "RO",
+    "MA",
+    "TR",
+    "SI",
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Sandero/Duster/Bigster are built in Mioveni (Sandero also in Tangier); the Jogger moved to Tangier (MA) in July 2024, the Striker is built in Bursa (TR), the second-generation Spring in Novo Mesto (SI) and the runout first-generation Spring in China – several foreign countries, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Automobile_Dacia",
+    "https://en.wikipedia.org/wiki/Dacia_Jogger",
+    "https://en.wikipedia.org/wiki/Dacia_Spring",
+    "https://en.wikipedia.org/wiki/Dacia_Striker"
+   ]
+  },
+  "Alpine": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Dieppe, France",
+   "hq_entity": "Manufacture Alpine Dieppe Jean Rédélé SAS (formerly Société des Automobiles Alpine; Renault Group)",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "A110 and A390 are built in Dieppe, the A290 with the Renault 5 in Douai. Wikipedia gives no head-office row; Dieppe is the registered office in the French company register.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alpine_(automobile)",
+    "https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/662750074"
+   ]
+  },
+  "Mobilize": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Boulogne-Billancourt, France",
+   "hq_entity": "Mobilize (business unit of Renault Group)",
+   "built_in": [
+    "MA"
+   ],
+   "second_flag": "MA",
+   "note": "Mobilize is a Renault business unit with no separate head office on Wikipedia (Renault Group HQ used); its only chart model, the Duo (runout, production ended Dec 2025), was built at Renault's Tangier plant in Morocco.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mobilize_(marque)",
+    "https://en.wikipedia.org/wiki/Mobilize_Duo",
+    "https://en.wikipedia.org/wiki/Renault"
+   ]
+  },
+  "Nissan": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Yokohama, Japan",
+   "hq_entity": "Nissan Motor Co., Ltd.",
+   "built_in": [
+    "GB",
+    "FR",
+    "JP"
+   ],
+   "second_flag": null,
+   "note": "Qashqai, Juke and Leaf are built in Sunderland (GB) and Micra/Townstar/Primastar/Interstar by Renault in France; X-Trail and Ariya come from Japan – two foreign countries plus Japan, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nissan",
+    "https://en.wikipedia.org/wiki/Nissan_Motor_Manufacturing_UK"
+   ]
+  },
+  "Mitsubishi": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Minato, Tokyo, Japan",
+   "hq_entity": "Mitsubishi Motors Corporation",
+   "built_in": [
+    "ES",
+    "FR",
+    "JP",
+    "TH",
+    "TR"
+   ],
+   "second_flag": null,
+   "note": "Most of the European range is Renault-built (ASX and Grandis in Valladolid, Eclipse Cross in Douai, runout Colt in Bursa); Outlander PHEV comes from Japan and L200 from Thailand (plant list on the Mitsubishi page; per-model plants not stated there) – several countries, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Motors",
+    "https://en.wikipedia.org/wiki/Renault"
+   ]
+  },
+  "Mercedes-Benz": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Stuttgart, Germany",
+   "hq_entity": "Mercedes-Benz AG (Mercedes-Benz Group)",
+   "built_in": [
+    "DE",
+    "HU",
+    "US",
+    "ES",
+    "AT",
+    "ZA"
+   ],
+   "second_flag": null,
+   "note": "Mostly German plants (Sindelfingen, Bremen, Rastatt, Düsseldorf/Ludwigsfelde); CLA/A-Class in Kecskemét (HU), GLE/GLS/EQ SUVs in Vance (US), Vito/V-Class in Vitoria (ES), G-Class by Magna Steyr in Graz (AT), right-hand-drive C-Class in East London (ZA).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-Benz",
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Group",
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+   ]
+  },
+  "smart": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "Germany",
+   "hq": "Ningbo, China",
+   "hq_entity": "Smart Automobile Co., Ltd. (50:50 Mercedes-Benz AG / Zhejiang Geely Holding)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Swiss-born German marque, but since 2019 it is run by the Mercedes–Geely joint venture Smart Automobile Co. headquartered in Ningbo and all current models are built in China (Xi'an), so the flag is CN; Smart Europe GmbH in Stuttgart only handles European sales.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Smart_(marque)",
+    "https://en.wikipedia.org/wiki/Smart_1"
+   ]
+  },
+  "BMW": {
+   "country": "DE",
+   "country_name": "Germany",
+   "origin": "Germany",
+   "hq": "Munich, Germany",
+   "hq_entity": "Bayerische Motoren Werke AG",
+   "built_in": [
+    "DE",
+    "US",
+    "HU",
+    "MX",
+    "ZA"
+   ],
+   "second_flag": null,
+   "note": "Mostly German plants (Munich, Dingolfing, Regensburg, Leipzig); X5/X6/X7/XM from Spartanburg (US), iX3 from Debrecen (HU), 2 Series Coupé from San Luis Potosí (MX), X3 also from Rosslyn (ZA).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/BMW"
+   ]
+  },
+  "MINI": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Oxford, England, United Kingdom",
+   "hq_entity": "MINI brand of BMW AG (home plant: Plant Oxford/Cowley)",
+   "built_in": [
+    "GB",
+    "CN",
+    "DE"
+   ],
+   "second_flag": null,
+   "note": "British marque owned by BMW (Munich); Wikipedia gives Country: United Kingdom but no head-office row, so Oxford is used. Petrol Cooper and Convertible are built in Oxford, the electric Cooper E/SE and Aceman in China (Spotlight Automotive, BMW–Great Wall JV), the Countryman in Leipzig (DE) – two foreign countries, so no second flag.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mini_(marque)",
+    "https://en.wikipedia.org/wiki/BMW"
+   ]
+  },
+  "Rolls-Royce": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Goodwood, West Sussex, England, United Kingdom",
+   "hq_entity": "Rolls-Royce Motor Cars Limited (BMW subsidiary)",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+   ]
+  },
+  "Toyota": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Toyota City, Aichi, Japan",
+   "hq_entity": "Toyota Motor Corporation",
+   "built_in": [
+    "FR",
+    "GB",
+    "CZ",
+    "TR",
+    "JP",
+    "IN",
+    "ES",
+    "IT",
+    "PL"
+   ],
+   "second_flag": null,
+   "note": "Japanese brand with large European production (Yaris/Yaris Cross in Valenciennes-Onnaing FR, Corolla in Burnaston GB, Aygo X in Kolín CZ, C-HR in Sakarya TR); RAV4, bZ4X, Land Cruiser etc. come from Japan, the Urban Cruiser from Suzuki India and the Proace vans from Stellantis plants (ES/FR/IT/PL). Hilux source not verified.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Toyota",
+    "https://en.wikipedia.org/wiki/Toyota_Motor_Europe",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Lexus": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Toyota City, Aichi, Japan",
+   "hq_entity": "Lexus (luxury division of Toyota Motor Corporation)",
+   "built_in": [
+    "JP"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lexus"
+   ]
+  },
+  "Subaru": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Ebisu, Shibuya, Tokyo, Japan",
+   "hq_entity": "Subaru Corporation",
+   "built_in": [
+    "JP"
+   ],
+   "second_flag": null,
+   "note": "Cars are built in Ōta/Yajima (Gunma); Solterra and Uncharted are Toyota-built rebadges (Japan).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Subaru"
+   ]
+  },
+  "Suzuki": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Hamamatsu, Shizuoka, Japan",
+   "hq_entity": "Suzuki Motor Corporation",
+   "built_in": [
+    "HU",
+    "JP",
+    "IN"
+   ],
+   "second_flag": null,
+   "note": "Vitara and S-Cross are built by Magyar Suzuki in Esztergom (HU), the Swift in Japan, the e Vitara by Suzuki Motor Gujarat (IN); the Across is a Toyota RAV4 rebadge from Japan – several countries, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Suzuki",
+    "https://en.wikipedia.org/wiki/Magyar_Suzuki"
+   ]
+  },
+  "Mazda": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Fuchū, Hiroshima, Japan",
+   "hq_entity": "Mazda Motor Corporation",
+   "built_in": [
+    "JP",
+    "CN",
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "Mazda 6e and CX-6e are shipped from Changan Mazda in China and the Mazda2 Hybrid is a Toyota Yaris built in Valenciennes (FR); the rest is Japanese-built.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazda"
+   ]
+  },
+  "Honda": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Minato, Tokyo, Japan",
+   "hq_entity": "Honda Motor Co., Ltd.",
+   "built_in": [
+    "JP",
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "European ZR-V (GAC Honda, Guangzhou) and CR-V e:HEV/e:PHEV (Dongfeng Honda, Wuhan) come from China; Civic, Jazz, Prelude and Super-N are Japanese-built, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Honda",
+    "https://en.wikipedia.org/wiki/Honda_CR-V_(sixth_generation)",
+    "https://en.wikipedia.org/wiki/Honda_ZR-V",
+    "https://en.wikipedia.org/wiki/Honda_HR-V_(third_generation)"
+   ]
+  },
+  "Hyundai": {
+   "country": "KR",
+   "country_name": "South Korea",
+   "origin": "South Korea",
+   "hq": "Seoul, South Korea",
+   "hq_entity": "Hyundai Motor Company",
+   "built_in": [
+    "KR",
+    "CZ",
+    "TR"
+   ],
+   "second_flag": null,
+   "note": "i30, Tucson and Kona are built in Nošovice (CZ), i20/Bayon/Ioniq 3 in İzmit (TR); Inster, Ioniq 5/6/9, Santa Fe, Nexo and Staria come from Korea.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+   ]
+  },
+  "Kia": {
+   "country": "KR",
+   "country_name": "South Korea",
+   "origin": "South Korea",
+   "hq": "Seoul, South Korea",
+   "hq_entity": "Kia Corporation",
+   "built_in": [
+    "KR",
+    "SK",
+    "MX"
+   ],
+   "second_flag": null,
+   "note": "Sportage, XCeed, EV2 and EV4 hatchback are built in Žilina (SK), the K4 in Mexico; the rest come from Korea.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kia"
+   ]
+  },
+  "Genesis": {
+   "country": "KR",
+   "country_name": "South Korea",
+   "origin": "South Korea",
+   "hq": "Seoul, South Korea",
+   "hq_entity": "Genesis (luxury brand of Hyundai Motor Company)",
+   "built_in": [
+    "KR"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia gives no head-office row for the brand; it is a Hyundai Motor Company division (Seoul) and European models are built in Ulsan.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Genesis_Motor",
+    "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+   ]
+  },
+  "Ford": {
+   "country": "US",
+   "country_name": "United States",
+   "origin": "United States",
+   "hq": "Dearborn, Michigan, United States",
+   "hq_entity": "Ford Motor Company",
+   "built_in": [
+    "TR",
+    "RO",
+    "DE",
+    "ES",
+    "PL",
+    "ZA",
+    "US",
+    "MX",
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "American brand whose European range is mostly European-built: Transit/Transit Custom by Ford Otosan (TR), Puma and Courier in Craiova (RO), Explorer/Capri in Cologne (DE), Kuga in Valencia (ES), Connect by VW in Poznań (PL); Ranger from Silverton (ZA), Mustang/Bronco from the US, Mach-E from Mexico, Transit City from JMC (CN) – no single foreign country.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+    "https://en.wikipedia.org/wiki/List_of_Ford_factories"
+   ]
+  },
+  "Cadillac": {
+   "country": "US",
+   "country_name": "United States",
+   "origin": "United States",
+   "hq": "Detroit, Michigan, United States",
+   "hq_entity": "Cadillac Motor Car Division of General Motors",
+   "built_in": [
+    "US",
+    "MX",
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Lyriq and Vistiq are built in Spring Hill (US); the Optiq is built in Ramos Arizpe (MX) and Wuhan (CN, SAIC-GM) and Wikipedia does not say which plant supplies Europe, so both are listed; either way no single foreign country.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cadillac",
+    "https://en.wikipedia.org/wiki/Cadillac_Optiq"
+   ]
+  },
+  "Chevrolet": {
+   "country": "US",
+   "country_name": "United States",
+   "origin": "United States",
+   "hq": "Detroit, Michigan, United States",
+   "hq_entity": "Chevrolet division of General Motors",
+   "built_in": [
+    "US"
+   ],
+   "second_flag": null,
+   "note": "Only the Corvette is sold in Europe; it is built in Bowling Green, Kentucky.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chevrolet",
+    "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)"
+   ]
+  },
+  "Tesla": {
+   "country": "US",
+   "country_name": "United States",
+   "origin": "United States",
+   "hq": "Austin, Texas, United States",
+   "hq_entity": "Tesla, Inc.",
+   "built_in": [
+    "DE",
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "American brand with no US-built cars in Europe: the Model Y comes mainly from Gigafactory Berlin in Grünheide (DE), the Model 3 from Gigafactory Shanghai (CN) – two foreign countries, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+    "https://en.wikipedia.org/wiki/Tesla_Model_3",
+    "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+   ]
+  },
+  "Volvo": {
+   "country": "SE",
+   "country_name": "Sweden",
+   "origin": "Sweden",
+   "hq": "Gothenburg, Sweden",
+   "hq_entity": "Volvo Car AB (Volvo Cars; 78.7 % Geely Holding)",
+   "built_in": [
+    "SE",
+    "BE",
+    "CN",
+    "US"
+   ],
+   "second_flag": null,
+   "note": "Swedish brand under Chinese (Geely) ownership; XC90, XC60, V60 and EX60 come from Torslanda (SE), XC40 and EX30 from Ghent (BE), ES90 and part of XC60/EX30 from China, EX90 from Ridgeville (US).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Volvo_Cars"
+   ]
+  },
+  "Polestar": {
+   "country": "SE",
+   "country_name": "Sweden",
+   "origin": "Sweden",
+   "hq": "Torslanda, Gothenburg, Sweden",
+   "hq_entity": "Polestar Automotive Holding UK PLC (operational HQ Torslanda; legal seat Bristol, UK)",
+   "built_in": [
+    "CN",
+    "US",
+    "KR"
+   ],
+   "second_flag": null,
+   "note": "Swedish brand with no Swedish production: Polestar 2 (Luqiao), 4 (Hangzhou Bay/Ningbo) and 5 (Chongqing/Wuhan) are built in China, but the Polestar 3 has been built only in Ridgeville, South Carolina (US) since March 2026, and the 4 is also built in Busan (KR) – three of four models Chinese-built is not 'nearly all', so no second flag (CN would be the majority choice).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Polestar",
+    "https://en.wikipedia.org/wiki/Polestar_3",
+    "https://en.wikipedia.org/wiki/Polestar_4",
+    "https://en.wikipedia.org/wiki/Polestar_5"
+   ]
+  },
+  "Lynk & Co": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Hangzhou, China",
+   "hq_entity": "Lynk & Co Automotive Technology Co., Ltd (51 % Zeekr Group, 49 % Geely Auto)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia's lead and infobox call it a Chinese brand headquartered in Hangzhou; the European business (Lynk & Co Europe/International) is based in Gothenburg and since March 2026 Volvo Cars is the exclusive European importer. Wikipedia lists only Chinese plants for the European models (01 and 08 Meishan/Ningbo, 02 Zhangjiakou); no Ghent production is mentioned.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lynk_%26_Co",
+    "https://en.wikipedia.org/wiki/Lynk_%26_Co_01"
+   ]
+  },
+  "Zeekr": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Ningbo, Zhejiang, China",
+   "hq_entity": "Zeekr Intelligent Technology Holding Limited (Zeekr Group; 100 % Geely Auto)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeekr"
+   ]
+  },
+  "Lotus": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Hethel, Norfolk, England, United Kingdom",
+   "hq_entity": "Lotus Group / Lotus Cars (Geely Holding; consolidated into Wuhan-based Lotus Technology Inc. in August 2026)",
+   "built_in": [
+    "GB",
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "British marque: Emira and Evija are built at Hethel, but the electric Eletre and Emeya are built by Lotus Technology in Wuhan (CN) – half the range, so no second flag. Wikipedia still gives Hethel as head office although Lotus Cars was folded into the Wuhan-based Lotus Technology in August 2026.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lotus_Cars",
+    "https://en.wikipedia.org/wiki/Lotus_Eletre",
+    "https://en.wikipedia.org/wiki/Lotus_Emeya"
+   ]
+  },
+  "Farizon": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "China (city not given on Wikipedia)",
+   "hq_entity": "Farizon Auto (commercial-vehicle brand of Zhejiang Geely Holding)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Farizon_Auto",
+    "https://en.wikipedia.org/wiki/Farizon_SV"
+   ]
+  },
+  "LEVC": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Ansty Park, near Coventry, England, United Kingdom",
+   "hq_entity": "London EV Company Limited (Geely Holding)",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/LEVC"
+   ]
+  },
+  "Geely": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Hangzhou, China",
+   "hq_entity": "Geely Automobile Holdings Limited (Geely Auto)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Geely_Auto"
+   ]
+  },
+  "MG": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "United Kingdom",
+   "hq": "Shanghai, China",
+   "hq_entity": "MG Motor (division of SAIC Motor's passenger-vehicle branch; European office Birmingham, UK; SAIC Motor Europe B.V. in the Netherlands)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia calls MG Motor a British manufacturer owned by SAIC, but its infobox gives Shanghai as main office (Birmingham only as European office) and says European cars are imported from SAIC's Chinese plants (Thai/Indian/Indonesian plants serve their regions), so the flag is CN with no second flag. If the chart preferred marque origin it would be GB + second flag CN.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/MG_Motor",
+    "https://en.wikipedia.org/wiki/SAIC_Motor"
+   ]
+  },
+  "Maxus": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Shanghai, China",
+   "hq_entity": "SAIC Maxus Automotive Co., Ltd. (wholly owned by SAIC Motor)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia's Maxus article gives no head-office or plant; Shanghai is the seat of the wholly owning parent SAIC Motor. All Maxus vans/MPVs for Europe are Chinese-built.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SAIC_Maxus",
+    "https://en.wikipedia.org/wiki/SAIC_Motor"
+   ]
+  },
+  "BYD": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Shenzhen, Guangdong, China",
+   "hq_entity": "BYD Auto Co., Ltd. (BYD Company; infobox lists Xi'an and Shenzhen)",
+   "built_in": [
+    "CN",
+    "TH"
+   ],
+   "second_flag": null,
+   "note": "Most European BYDs are imported from China; the Rayong (TH) plant has exported the Dolphin to Europe since August 2025, and the Szeged (HU) plant was due to start in 2026 (start not confirmed on Wikipedia).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/BYD_Auto",
+    "https://en.wikipedia.org/wiki/BYD_Company"
+   ]
+  },
+  "Denza": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Shenzhen, Guangdong, China",
+   "hq_entity": "Shenzhen Denza New Energy Co., Ltd. (BYD Auto)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Denza"
+   ]
+  },
+  "Omoda": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhu, Anhui, China",
+   "hq_entity": "Omoda brand of Chery Automobile Co., Ltd.",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Chery planned Omoda production in the former Nissan plant in Barcelona (Ebro JV), but Wikipedia does not confirm Omoda assembly there; European cars are treated as Chinese-built.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Omoda",
+    "https://en.wikipedia.org/wiki/Chery"
+   ]
+  },
+  "Jaecoo": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhu, Anhui, China",
+   "hq_entity": "Jaecoo brand of Chery Automobile Co., Ltd.",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jaecoo"
+   ]
+  },
+  "Chery": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhu, Anhui, China",
+   "hq_entity": "Chery Automobile Co. Ltd.",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Chery-badged Tiggos for Europe come from China; their Spanish- and Italian-assembled twins are sold as Ebro and DR.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chery"
+   ]
+  },
+  "Lepas": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhu, Anhui, China",
+   "hq_entity": "Lepas (export brand of Chery Automobile, introduced April 2025)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "No Wikipedia article for the brand; HQ and nationality taken from Chery, which lists Lepas as a subsidiary brand for overseas markets.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chery"
+   ]
+  },
+  "Ebro": {
+   "country": "ES",
+   "country_name": "Spain",
+   "origin": "Spain",
+   "hq": "Barcelona, Spain",
+   "hq_entity": "Ebro / EV Motors (Ebro Factory, Zona Franca; Wikipedia lists Chery as owner)",
+   "built_in": [
+    "ES"
+   ],
+   "second_flag": null,
+   "note": "Spanish brand whose models are Chery designs (S400/S700/S800/S900 = Tiggo 4/7/8/9) assembled in Barcelona's Zona Franca plant from CKD kits shipped from China; assembly is Spanish, so no second flag (CN would apply only if the chart counted kit origin).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ebro_(Chery)",
+    "https://en.wikipedia.org/wiki/Chery"
+   ]
+  },
+  "DR": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Macchia d'Isernia, Italy",
+   "hq_entity": "DR Automobiles Groupe",
+   "built_in": [
+    "CN",
+    "IT"
+   ],
+   "second_flag": "CN",
+   "note": "Italian company selling rebadged Chinese cars (Chery, BAIC, Dongfeng, Changan, JAC); Italy's antitrust authority fined DR EUR 6 million in 2024 because the cars are predominantly manufactured in China and only get minor finishing/assembly in Italy, so second flag CN.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/DR_Automobiles",
+    "https://en.wikipedia.org/wiki/Chery",
+    "https://www.wionews.com/autonews/italys-dr-automobiles-fined-for-misleading-over-chinese-origin-cars-733858/amp"
+   ]
+  },
+  "Ora": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Baoding, Hebei, China",
+   "hq_entity": "Ora marque of Great Wall Motor",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia gives no brand head office; GWM (Baoding) is used. GWM closed its Munich European HQ in August 2024 and runs Europe directly from China.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ora_(marque)",
+    "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+   ]
+  },
+  "Wey": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Baoding, Hebei, China",
+   "hq_entity": "Wey marque of Great Wall Motor",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia gives no brand head office; GWM (Baoding) is used.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wey_(marque)",
+    "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+   ]
+  },
+  "Haval": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Baoding, Hebei, China",
+   "hq_entity": "Haval marque of Great Wall Motor",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia gives no brand head office; GWM (Baoding) is used. Haval's Russian and Brazilian plants do not supply the EU/UK.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Haval_(marque)",
+    "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+   ]
+  },
+  "XPeng": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Guangzhou, Guangdong, China",
+   "hq_entity": "Guangzhou Xiaopeng Motors Technology Co., Ltd.",
+   "built_in": [
+    "CN",
+    "AT"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia says cars for the European market are built with Magna Steyr in Graz (AT) – the G6 lists Graz – but the X9 lists only Chinese/Asian plants, so the range is mixed and stays without second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/XPeng",
+    "https://en.wikipedia.org/wiki/XPeng_G6",
+    "https://en.wikipedia.org/wiki/XPeng_X9"
+   ]
+  },
+  "NIO": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Shanghai, China",
+   "hq_entity": "Nio Inc.",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nio_Inc."
+   ]
+  },
+  "Firefly": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Shanghai, China",
+   "hq_entity": "Firefly brand of Nio Inc.",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia has no brand article; Firefly is a Nio brand (Nio HQ Shanghai) and the car is built at Nio F2 in Hefei.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Firefly_(vehicle)",
+    "https://en.wikipedia.org/wiki/Nio_Inc."
+   ]
+  },
+  "Deepal": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Chongqing, China",
+   "hq_entity": "Deepal (51 % Changan Automobile)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "Changan's Rayong (TH) plant builds right-hand-drive Deepals for ASEAN/Australia/NZ/South Africa; Wikipedia does not say where European cars come from (treated as China).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Deepal",
+    "https://en.wikipedia.org/wiki/Changan_Automobile"
+   ]
+  },
+  "Voyah": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhan, Hubei, China",
+   "hq_entity": "Voyah (luxury subsidiary of Dongfeng Motor Corporation)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Voyah"
+   ]
+  },
+  "Dongfeng": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhan, Hubei, China",
+   "hq_entity": "Dongfeng Motor Corporation (Nammi/Box)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dongfeng_Motors"
+   ]
+  },
+  "Mhero": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Wuhan, Hubei, China",
+   "hq_entity": "M-Hero Technology (Dongfeng Motor Group)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "No brand article on Wikipedia; the Mhero I (= M-Hero 917) is built by Dongfeng in Wuhan, Dongfeng's home city.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/M-Hero_917",
+    "https://en.wikipedia.org/wiki/Dongfeng_Motors"
+   ]
+  },
+  "Hongqi": {
+   "country": "CN",
+   "country_name": "China",
+   "origin": "China",
+   "hq": "Changchun, Jilin, China",
+   "hq_entity": "Hongqi (FAW Group)",
+   "built_in": [
+    "CN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hongqi_(marque)"
+   ]
+  },
+  "Land Rover": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Whitley, Coventry, England, United Kingdom",
+   "hq_entity": "Jaguar Land Rover Automotive PLC (JLR; Tata Motors)",
+   "built_in": [
+    "GB",
+    "SK"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia has no head-office row for the brand, so JLR's head office (Whitley, Coventry) is used; Gaydon is the former Land Rover HQ. Range Rover/Sport/Velar (Solihull) and Evoque/Discovery Sport (Halewood) are British-built, Defender and Discovery come from Nitra (SK) – not nearly all, so no second flag.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Land_Rover",
+    "https://en.wikipedia.org/wiki/Jaguar_Land_Rover"
+   ]
+  },
+  "KGM": {
+   "country": "KR",
+   "country_name": "South Korea",
+   "origin": "South Korea",
+   "hq": "Pyeongtaek, South Korea",
+   "hq_entity": "KG Mobility Corporation (KG Group)",
+   "built_in": [
+    "KR"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/KG_Mobility"
+   ]
+  },
+  "Isuzu": {
+   "country": "JP",
+   "country_name": "Japan",
+   "origin": "Japan",
+   "hq": "Yokohama, Japan",
+   "hq_entity": "Isuzu Motors Ltd.",
+   "built_in": [
+    "TH"
+   ],
+   "second_flag": "TH",
+   "note": "Isuzu's only European model, the D-Max, is built by Isuzu Motors Thailand (Samut Prakan); Wikipedia lists Thailand, China and South Africa as D-Max plants without naming the European source, trade press confirms the European D-Max EV comes from Thailand.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Isuzu",
+    "https://en.wikipedia.org/wiki/Isuzu_D-Max",
+    "https://newmobility.news/en/2025/10/02/isuzu-d-max-ev-enters-production-in-thailand-and-comes-to-europe/"
+   ]
+  },
+  "Ineos": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "London, England, United Kingdom",
+   "hq_entity": "Ineos Automotive Ltd (Ineos)",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": "FR",
+   "note": "British company; the Grenadier (and its Quartermaster pickup) is built in the former smart plant in Hambach, France, since October 2022.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ineos_Automotive"
+   ]
+  },
+  "Iveco": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Turin, Italy",
+   "hq_entity": "Iveco S.p.A. (Iveco Group N.V.)",
+   "built_in": [
+    "IT",
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "The Daily is built in Suzzara (IT); the electric eJolly and eSuperJolly are Stellantis-built rebadges of the K0 van (Hordain, FR) and the e-Ducato (Atessa, IT) – van plants per the chart's model notes, not per the Iveco page. Iveco Group's sale to Tata Motors was due to close in H1 2026.",
+   "confidence": "medium",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Iveco",
+    "https://en.wikipedia.org/wiki/Iveco_Daily",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Renault Trucks": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Saint-Priest (Lyon), France",
+   "hq_entity": "Renault Trucks SAS (Volvo Group)",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "French brand owned by Sweden's Volvo Group; its Trafic and Master are rebadged Renault vans built by Renault in France.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Renault_Trucks",
+    "https://en.wikipedia.org/wiki/Renault"
+   ]
+  },
+  "Lucid": {
+   "country": "US",
+   "country_name": "United States",
+   "origin": "United States",
+   "hq": "Newark, California, United States",
+   "hq_entity": "Lucid Group, Inc. (majority owner: Saudi Public Investment Fund)",
+   "built_in": [
+    "US",
+    "SA"
+   ],
+   "second_flag": null,
+   "note": "Air and Gravity are built in Casa Grande, Arizona; the KAEC plant in Saudi Arabia does final assembly of Gravity kits shipped from Casa Grande (Wikipedia does not say which plant supplies Europe).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lucid_Motors"
+   ]
+  },
+  "Ferrari": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Maranello, Italy",
+   "hq_entity": "Ferrari S.p.A. (Ferrari N.V.)",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ferrari"
+   ]
+  },
+  "Aston Martin": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Gaydon, Warwickshire, England, United Kingdom",
+   "hq_entity": "Aston Martin Lagonda Global Holdings PLC",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "Sports cars are built in Gaydon, the DBX in St Athan (Wales).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Aston_Martin"
+   ]
+  },
+  "McLaren": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Woking, England, United Kingdom",
+   "hq_entity": "McLaren Automotive (owned by CYVN Holdings, Abu Dhabi; merged with Forseven)",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/McLaren_Automotive"
+   ]
+  },
+  "Morgan": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Malvern, Worcestershire, England, United Kingdom",
+   "hq_entity": "Morgan Motor Company Limited (Investindustrial majority)",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Morgan_Motor_Company"
+   ]
+  },
+  "Caterham": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "origin": "United Kingdom",
+   "hq": "Dartford, Kent, England, United Kingdom",
+   "hq_entity": "Caterham Cars Ltd. (Caterham Group; owned by VT Holdings, Japan, since 2021)",
+   "built_in": [
+    "GB"
+   ],
+   "second_flag": null,
+   "note": "British maker under Japanese ownership (VT Holdings); the Seven is built in a new Dartford facility since 2024.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Caterham_Cars"
+   ]
+  },
+  "Bugatti": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Molsheim, France",
+   "hq_entity": "Bugatti Automobiles S.A.S. (Bugatti Rimac, Croatia)",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "French marque owned by the Croatian joint venture Bugatti Rimac (Rimac Group 55 %, HOF Capital 45 % since Porsche sold out in April 2026); cars are built in Molsheim.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bugatti_Automobiles",
+    "https://en.wikipedia.org/wiki/Bugatti_Rimac"
+   ]
+  },
+  "Rimac": {
+   "country": "HR",
+   "country_name": "Croatia",
+   "origin": "Croatia",
+   "hq": "Sveta Nedelja, Croatia",
+   "hq_entity": "Rimac Automobili (Bugatti Rimac)",
+   "built_in": [
+    "HR"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rimac_Automobili"
+   ]
+  },
+  "Koenigsegg": {
+   "country": "SE",
+   "country_name": "Sweden",
+   "origin": "Sweden",
+   "hq": "Ängelholm, Sweden",
+   "hq_entity": "Koenigsegg Automotive AB",
+   "built_in": [
+    "SE"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Koenigsegg"
+   ]
+  },
+  "Pagani": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "San Cesario sul Panaro, Italy",
+   "hq_entity": "Pagani Automobili S.p.A.",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pagani_Automobili"
+   ]
+  },
+  "VinFast": {
+   "country": "VN",
+   "country_name": "Vietnam",
+   "origin": "Vietnam",
+   "hq": "Hai Phong, Vietnam",
+   "hq_entity": "VinFast Auto Ltd. (Vingroup)",
+   "built_in": [
+    "VN"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/VinFast"
+   ]
+  },
+  "Microlino": {
+   "country": "CH",
+   "country_name": "Switzerland",
+   "origin": "Switzerland",
+   "hq": "Küsnacht, Switzerland",
+   "hq_entity": "Micro Mobility Systems Ltd (Micro)",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": "IT",
+   "note": "Swiss company; the Microlino is built in Micro's own factory in Turin, Italy (developed with Cecomp).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Microlino",
+    "https://en.wikipedia.org/wiki/Micro_Mobility_Systems"
+   ]
+  },
+  "Piaggio": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Pontedera, Italy",
+   "hq_entity": "Piaggio & C. S.p.A. (Piaggio Group, IMMSI)",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "The Porter NP6 is a Foton-derived van assembled in Pontedera from Foton-supplied components (China).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Piaggio"
+   ]
+  },
+  "Aixam": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Aix-les-Bains, France",
+   "hq_entity": "Aixam-Mega (Polaris; infobox lists Polaris Industries with 44 %)",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "French maker owned by the American Polaris group since 2013; vehicles are built in France (Aix-les-Bains/Andancette).",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Aixam",
+    "https://en.wikipedia.org/wiki/Polaris_Inc."
+   ]
+  },
+  "Ligier": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Abrest, France",
+   "hq_entity": "Ligier Group (Ligier Automotive; 21 Investimenti)",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "Since the Montaigu-Vendée (Microcar) plant closure announced in January 2025, all production is at Abrest.",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ligier"
+   ]
+  },
+  "Chatenet": {
+   "country": "FR",
+   "country_name": "France",
+   "origin": "France",
+   "hq": "Pierre-Buffière, France",
+   "hq_entity": "Automobiles Chatenet",
+   "built_in": [
+    "FR"
+   ],
+   "second_flag": null,
+   "note": "Wikipedia only says Haute-Vienne; the Pierre-Buffière address is from the company's website ('fabriqué en France').",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Automobiles_Chatenet",
+    "https://www.automobiles-chatenet.com/"
+   ]
+  },
+  "Casalini": {
+   "country": "IT",
+   "country_name": "Italy",
+   "origin": "Italy",
+   "hq": "Piacenza, Italy",
+   "hq_entity": "Casalini (founded 1939 by Giovanni Casalini)",
+   "built_in": [
+    "IT"
+   ],
+   "second_flag": null,
+   "note": "",
+   "confidence": "high",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Casalini"
+   ]
+  }
+ },
+ "groups": {
+  "Volkswagen Group": {
+   "country": "DE",
+   "country_name": "Germany",
+   "hq": "Wolfsburg, Germany",
+   "hq_entity": "Volkswagen AG",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Group"
+   ]
+  },
+  "Stellantis": {
+   "country": "NL",
+   "country_name": "Netherlands",
+   "hq": "Hoofddorp, Netherlands",
+   "hq_entity": "Stellantis N.V.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ]
+  },
+  "Renault Group": {
+   "country": "FR",
+   "country_name": "France",
+   "hq": "Boulogne-Billancourt, France",
+   "hq_entity": "Renault S.A.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Renault"
+   ]
+  },
+  "Nissan": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Yokohama, Japan",
+   "hq_entity": "Nissan Motor Co., Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nissan"
+   ]
+  },
+  "Mitsubishi Motors": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Minato, Tokyo, Japan",
+   "hq_entity": "Mitsubishi Motors Corporation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mitsubishi_Motors"
+   ]
+  },
+  "Mercedes-Benz Group": {
+   "country": "DE",
+   "country_name": "Germany",
+   "hq": "Stuttgart, Germany",
+   "hq_entity": "Mercedes-Benz Group AG",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Group"
+   ]
+  },
+  "BMW Group": {
+   "country": "DE",
+   "country_name": "Germany",
+   "hq": "Munich, Germany",
+   "hq_entity": "Bayerische Motoren Werke AG",
+   "sources": [
+    "https://en.wikipedia.org/wiki/BMW"
+   ]
+  },
+  "Toyota Motor": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Toyota City, Aichi, Japan",
+   "hq_entity": "Toyota Motor Corporation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Toyota"
+   ]
+  },
+  "Subaru": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Ebisu, Shibuya, Tokyo, Japan",
+   "hq_entity": "Subaru Corporation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Subaru"
+   ]
+  },
+  "Suzuki": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Hamamatsu, Shizuoka, Japan",
+   "hq_entity": "Suzuki Motor Corporation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Suzuki"
+   ]
+  },
+  "Mazda": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Fuchū, Hiroshima, Japan",
+   "hq_entity": "Mazda Motor Corporation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazda"
+   ]
+  },
+  "Honda": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Minato, Tokyo, Japan",
+   "hq_entity": "Honda Motor Co., Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Honda"
+   ]
+  },
+  "Hyundai Motor Group": {
+   "country": "KR",
+   "country_name": "South Korea",
+   "hq": "Seoul, South Korea",
+   "hq_entity": "Hyundai Motor Group (chaebol)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hyundai_Motor_Group"
+   ]
+  },
+  "Ford": {
+   "country": "US",
+   "country_name": "United States",
+   "hq": "Dearborn, Michigan, United States",
+   "hq_entity": "Ford Motor Company",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+   ]
+  },
+  "General Motors": {
+   "country": "US",
+   "country_name": "United States",
+   "hq": "Detroit, Michigan, United States",
+   "hq_entity": "General Motors Company",
+   "sources": [
+    "https://en.wikipedia.org/wiki/General_Motors"
+   ]
+  },
+  "Tesla": {
+   "country": "US",
+   "country_name": "United States",
+   "hq": "Austin, Texas, United States",
+   "hq_entity": "Tesla, Inc.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tesla,_Inc."
+   ]
+  },
+  "Geely Holding": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Hangzhou, China",
+   "hq_entity": "Zhejiang Geely Holding Group Co., Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Geely"
+   ]
+  },
+  "SAIC Motor": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Anting, Shanghai, China",
+   "hq_entity": "SAIC Motor Corp., Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SAIC_Motor"
+   ]
+  },
+  "BYD": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Shenzhen, Guangdong, China",
+   "hq_entity": "BYD Company Limited",
+   "sources": [
+    "https://en.wikipedia.org/wiki/BYD_Company"
+   ]
+  },
+  "Chery": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Wuhu, Anhui, China",
+   "hq_entity": "Chery Automobile Co. Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chery"
+   ]
+  },
+  "Ebro (EV Motors)": {
+   "country": "ES",
+   "country_name": "Spain",
+   "hq": "Barcelona, Spain",
+   "hq_entity": "EV Motors / Ebro Factory (Zona Franca, Barcelona; Wikipedia's Ebro infobox lists Chery as owner)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ebro_(Chery)"
+   ]
+  },
+  "DR Automobiles": {
+   "country": "IT",
+   "country_name": "Italy",
+   "hq": "Macchia d'Isernia, Italy",
+   "hq_entity": "DR Automobiles Groupe",
+   "sources": [
+    "https://en.wikipedia.org/wiki/DR_Automobiles"
+   ]
+  },
+  "Great Wall Motor": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Baoding, Hebei, China",
+   "hq_entity": "Great Wall Motor Company Limited",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+   ]
+  },
+  "XPeng": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Guangzhou, Guangdong, China",
+   "hq_entity": "XPeng Inc. (Guangzhou Xiaopeng Motors Technology Co., Ltd.)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/XPeng"
+   ]
+  },
+  "NIO": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Shanghai, China",
+   "hq_entity": "Nio Inc.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nio_Inc."
+   ]
+  },
+  "Changan": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Jiangbei, Chongqing, China",
+   "hq_entity": "China Changan Automobile Group Co., Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Changan_Automobile"
+   ]
+  },
+  "Dongfeng": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Wuhan, Hubei, China",
+   "hq_entity": "Dongfeng Motor Corporation Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dongfeng_Motors"
+   ]
+  },
+  "FAW": {
+   "country": "CN",
+   "country_name": "China",
+   "hq": "Changchun, Jilin, China",
+   "hq_entity": "China FAW Group Corp., Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/FAW_Group"
+   ]
+  },
+  "Tata Motors": {
+   "country": "IN",
+   "country_name": "India",
+   "hq": "Mumbai, India",
+   "hq_entity": "Tata Motors (since the 1 Oct 2025 demerger JLR sits with the passenger-vehicle company; the listed 'Tata Motors Limited' is the commercial-vehicle company)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tata_Motors",
+    "https://en.wikipedia.org/wiki/Jaguar_Land_Rover"
+   ]
+  },
+  "KG Mobility": {
+   "country": "KR",
+   "country_name": "South Korea",
+   "hq": "Pyeongtaek, South Korea",
+   "hq_entity": "KG Mobility Corporation (KG Group)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/KG_Mobility"
+   ]
+  },
+  "Isuzu": {
+   "country": "JP",
+   "country_name": "Japan",
+   "hq": "Yokohama, Japan",
+   "hq_entity": "Isuzu Motors Ltd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Isuzu"
+   ]
+  },
+  "Ineos": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "hq": "London, England, United Kingdom",
+   "hq_entity": "Ineos (parent of Ineos Automotive Ltd)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ineos_Automotive"
+   ]
+  },
+  "Iveco Group": {
+   "country": "IT",
+   "country_name": "Italy",
+   "hq": "Turin, Italy",
+   "hq_entity": "Iveco Group N.V. (incorporated in Amsterdam; sale to Tata Motors expected to close H1 2026)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Iveco_Group"
+   ]
+  },
+  "Volvo Group": {
+   "country": "SE",
+   "country_name": "Sweden",
+   "hq": "Gothenburg, Sweden",
+   "hq_entity": "AB Volvo",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Volvo_Group"
+   ]
+  },
+  "Lucid": {
+   "country": "US",
+   "country_name": "United States",
+   "hq": "Newark, California, United States",
+   "hq_entity": "Lucid Group, Inc.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lucid_Motors"
+   ]
+  },
+  "Ferrari": {
+   "country": "IT",
+   "country_name": "Italy",
+   "hq": "Maranello, Italy",
+   "hq_entity": "Ferrari N.V. / Ferrari S.p.A.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ferrari"
+   ]
+  },
+  "Aston Martin": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "hq": "Gaydon, Warwickshire, England, United Kingdom",
+   "hq_entity": "Aston Martin Lagonda Global Holdings PLC",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Aston_Martin"
+   ]
+  },
+  "McLaren": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "hq": "Woking, England, United Kingdom",
+   "hq_entity": "McLaren (owned by CYVN Holdings, Abu Dhabi)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/McLaren_Automotive"
+   ]
+  },
+  "Morgan": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "hq": "Malvern, Worcestershire, England, United Kingdom",
+   "hq_entity": "Morgan Motor Company Limited",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Morgan_Motor_Company"
+   ]
+  },
+  "Caterham": {
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "hq": "Dartford, Kent, England, United Kingdom",
+   "hq_entity": "Caterham Group (VT Holdings, Japan)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Caterham_Cars"
+   ]
+  },
+  "Bugatti Rimac": {
+   "country": "HR",
+   "country_name": "Croatia",
+   "hq": "Sveta Nedelja, Croatia",
+   "hq_entity": "Bugatti Rimac d.o.o. (Rimac Group 55 %, HOF Capital 45 %)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bugatti_Rimac"
+   ]
+  },
+  "Koenigsegg": {
+   "country": "SE",
+   "country_name": "Sweden",
+   "hq": "Ängelholm, Sweden",
+   "hq_entity": "Koenigsegg Automotive AB",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Koenigsegg"
+   ]
+  },
+  "Pagani": {
+   "country": "IT",
+   "country_name": "Italy",
+   "hq": "San Cesario sul Panaro, Italy",
+   "hq_entity": "Pagani Automobili S.p.A.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pagani_Automobili"
+   ]
+  },
+  "VinFast": {
+   "country": "VN",
+   "country_name": "Vietnam",
+   "hq": "Hai Phong, Vietnam",
+   "hq_entity": "VinFast Auto Ltd. (Vingroup)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/VinFast"
+   ]
+  },
+  "Micro Mobility": {
+   "country": "CH",
+   "country_name": "Switzerland",
+   "hq": "Küsnacht, Switzerland",
+   "hq_entity": "Micro Mobility Systems Ltd",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Micro_Mobility_Systems"
+   ]
+  },
+  "Piaggio": {
+   "country": "IT",
+   "country_name": "Italy",
+   "hq": "Pontedera, Italy",
+   "hq_entity": "Piaggio Group (IMMSI)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Piaggio"
+   ]
+  },
+  "Polaris": {
+   "country": "US",
+   "country_name": "United States",
+   "hq": "Medina, Minnesota, United States",
+   "hq_entity": "Polaris Inc.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Polaris_Inc."
+   ]
+  },
+  "Ligier Group": {
+   "country": "FR",
+   "country_name": "France",
+   "hq": "Abrest, France",
+   "hq_entity": "Ligier Group",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ligier"
+   ]
+  },
+  "Chatenet": {
+   "country": "FR",
+   "country_name": "France",
+   "hq": "Pierre-Buffière, France",
+   "hq_entity": "Automobiles Chatenet",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Automobiles_Chatenet",
+    "https://www.automobiles-chatenet.com/"
+   ]
+  },
+  "Casalini": {
+   "country": "IT",
+   "country_name": "Italy",
+   "hq": "Piacenza, Italy",
+   "hq_entity": "Casalini",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Casalini"
+   ]
+  }
+ }
+}
