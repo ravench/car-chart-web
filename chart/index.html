@@ -2808,6 +2808,8 @@ function layout() {
   const okR = new Set(rInputs.filter(i => i.checked).map(i => i.dataset.row));
   const okP = new Set(pInputs.filter(i => i.checked).map(i => i.dataset.pt)), okD = new Set(dInputs.filter(i => i.checked).map(i => i.dataset.drive));
   const ptFilt = pInputs.some(i => !i.checked), dvFilt = dInputs.some(i => !i.checked), anyFilt = onlyTwins || ptFilt || dvFilt;
+  const rowFilt = rInputs.some(i => !i.checked), grFilt = gInputs.some(i => !i.checked);
+  const groupOfBrand = new Map([...matrix.querySelectorAll('.bhdr')].map(h => [h.dataset.brand, h.dataset.group]));
   // tiles: twin, powertrain and drive filters
   const shown = new Map();
   tiles.forEach(t => {
@@ -2819,9 +2821,9 @@ function layout() {
     t.classList.toggle('t2', !!(showT2 && t.dataset.g && !t.classList.contains('t1')));
     if (!showT2 && t.dataset.g && !t.classList.contains('t1')) t.classList.add('plain'); else t.classList.remove('plain');
   });
-  // columns: visible brand columns
+  // columns: a brand column stays only if its group is selected and, once any filter is active, at least one of its cars is shown in a selected class
   const bh = [...matrix.querySelectorAll('.bhdr')];
-  const visBrands = bh.filter(h => okG.has(h.dataset.group) && (!anyFilt || tiles.some(t => t.dataset.brand === h.dataset.brand && shown.get(t))));
+  const visBrands = bh.filter(h => okG.has(h.dataset.group) && (!(anyFilt || rowFilt) || tiles.some(t => t.dataset.brand === h.dataset.brand && shown.get(t) && okR.has(t.dataset.row))));
   const colOf = new Map(); visBrands.forEach((h, i) => colOf.set(h.dataset.brand, i + 2));
   bh.forEach(h => { const c = colOf.get(h.dataset.brand); h.classList.toggle('hide', !c); if (c) h.style.gridColumn = c; });
   // group headers span
@@ -2831,7 +2833,7 @@ function layout() {
   });
   // rows: each class is a band of sub-rows; the members of a twin group share one sub-row
   const rh = [...matrix.querySelectorAll('.rhdr')];
-  const visRows = rh.filter(h => okR.has(h.dataset.row) && (!anyFilt || tiles.some(t => t.dataset.row === h.dataset.row && shown.get(t))));
+  const visRows = rh.filter(h => okR.has(h.dataset.row) && (!(anyFilt || grFilt) || tiles.some(t => t.dataset.row === h.dataset.row && shown.get(t) && okG.has(groupOfBrand.get(t.dataset.brand)))));
   const bandOf = new Map(); let base = 3;
   visRows.forEach(h => { const S = +h.dataset.sub || 1; bandOf.set(h.dataset.row, [base, S]); base += S; });
   const span = b => b[0] + '/' + (b[0] + b[1]);
