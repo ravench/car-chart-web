@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+web-release/out/
+.DS_Store

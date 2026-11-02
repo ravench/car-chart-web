@@ -1,9 +1,9 @@
-# Identical Car Chart v1.16 — self-contained copy (2026-11-02)
+# Identical Car Chart v1.17 — self-contained copy (2026-11-02)
 
 Open `index.html` in a browser (serve the folder over http for the front views, e.g. `python3 -m http.server`;
 the side views work from a plain file:// open as well).
 
-- `index.html` — the chart (also published at https://claude.ai/artifact/SQLziPkb5ir5kasuaUEHrc, Version 28 = v1.16)
+- `index.html` — the chart (also published at https://claude.ai/artifact/SQLziPkb5ir5kasuaUEHrc, Version 29 = v1.17)
 - `img/`, `img_manifest.json` — side-view pictures (WebP) and `img/fronts.json` (front views, packed); 34 side pictures new since v1.14a, see below
 - `img/sides.json`, `img/sides_packed.txt` — the 29 new side pictures packed as base64 (only the published artifact needs them, see "Artifact file limit"); this folder has every picture as a single file too
 - `research/` — model research files, incl. `research/countries/brand_countries.json` (brand countries for the flags; the poster build needs it)
@@ -32,5 +32,4 @@ v1.15a (2026-11-01), published as Version 27. Only `index.html`, `img/renault-ma
 
 v1.16 (2026-11-02), published as Version 28. Only `index.html` and `build/gen.py` changed (pictures and data as in v1.15a). Raven asked that the web version hide columns that contain no cars once filters are applied: brand columns (and their group headers) now disappear when none of the brand's cars is visible in the selected classes, and class rows disappear when none of their cars belongs to a selected group - under every filter combination (class, group, twins-only, powertrain, drive). Before, the class and group filters left empty columns and rows (choosing only Pickups kept all 96 columns; now 10 remain). Checked with the layout, alignment and filter scripts and in a headless browser.
 
-
-Superseded by chart-v1.17 (2026-11-02, Version 29): version number shown in the page header, see ../chart-v1.17/README.md.
+v1.17 (2026-11-02), published as Version 29. Only `index.html` and `build/gen.py` changed (pictures and data as in v1.15a). Raven reported that, on car-chart.forestraven.net, the three smallest classes plus the hybrid powertrains still left an empty Volkswagen column. That is the v1.15 behaviour (Volkswagen has hybrids only from the compact class up, so its column emptied but stayed); the v1.16 page hides it. The live site was serving v1.16 at the time and behaved correctly in Raven's own browser, and a sweep of 7,326 filter combinations (`build/sweep_v117.js`: every powertrain subset, every drive subset, the twins toggles and every single group, each against 36 class selections) found no empty column, empty row or orphaned tile, so the report came from a stale copy of the page (browser cache or a tab loaded before the upload). Change: the header now shows the chart version ("Version 1.17", `CHART_VERSION` in `gen.py`), so a reader can tell which release is loaded. The web release was asked to make the server revalidate `index.html` on every visit (`Cache-Control: no-cache`) so that a new upload is never masked by a cached page.

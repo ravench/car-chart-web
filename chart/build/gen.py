@@ -17,6 +17,7 @@ for _i in [k for k, v in DIMS.items() if v.get('prev_model') and k not in PREV]:
 PREV_YEAR = {k: int(v) for k, v in (FLAGS.get('prev_year') or {}).items()}   # id -> badge year (last year of carsized's range, capped at 2025)
 COUNTRIES_PATH = sys.argv[8] if len(sys.argv) > 8 else os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'research', 'countries', 'brand_countries.json')
 COUNTRIES = json.load(open(COUNTRIES_PATH)) if os.path.exists(COUNTRIES_PATH) else {'brands': {}, 'groups': {}}   # brand -> {country, hq, built_in, second_flag, note, sources}
+CHART_VERSION = '1.17'   # shown in the page header so a reader (and a stale browser cache) can be told apart from the newest release
 import random, math
 def full_name(brand, display):
     """'DR' + 'DR 6' -> 'DR 6'; 'Polestar' + 'Polestar 4' -> 'Polestar 4'; 'BMW' + 'X5' -> 'BMW X5'."""
@@ -590,7 +591,7 @@ details summary {{ cursor:pointer; font-weight:600 }}
     <h1>Identical Car Chart</h1>
     <p class="lede">Every car and van up to 3.5 t that can be ordered new in Europe in October 2026, sorted by brand and vehicle class. Vehicles that are the same car under different badges share a coloured frame.</p>
   </div>
-  <div class="meta"><span>Market <b>Europe · Swiss names</b></span><span>Checked <b>{E(meta.get('checked_on',''))}</b></span><span>Models <b>{len(models)}</b></span><span>Twin groups <b>{len(DATA['twin_groups'])}</b></span><span>Rebadged <b>{n_t1}</b> · siblings <b>{n_t2}</b></span></div>
+  <div class="meta"><span>Market <b>Europe · Swiss names</b></span><span>Checked <b>{E(meta.get('checked_on',''))}</b></span><span>Models <b>{len(models)}</b></span><span>Twin groups <b>{len(DATA['twin_groups'])}</b></span><span>Rebadged <b>{n_t1}</b> · siblings <b>{n_t2}</b></span><span>Version <b>{CHART_VERSION}</b></span></div>
 </header>
 
 <section class="panel">
