@@ -1,0 +1,1691 @@
+[
+{
+"id": "volkswagen-id-polo",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID. Polo",
+"display": "ID. Polo",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback (BEV)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB+",
+"twin_members": [
+"Cupra Raval"
+]
+},
+{
+"id": "volkswagen-polo",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Polo",
+"display": "Polo",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "VI (AW, 2017–; facelift 2021)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"SEAT Ibiza",
+"Škoda Fabia",
+"Audi A1"
+]
+},
+{
+"id": "audi-a1",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A1",
+"display": "A1",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback (Sportback) / allstreet",
+"generation": "II (GB, 2018–2026)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen Polo",
+"SEAT Ibiza",
+"Škoda Fabia"
+]
+},
+{
+"id": "skoda-fabia",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Fabia",
+"display": "Fabia",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "IV (2021–)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen Polo",
+"SEAT Ibiza",
+"Audi A1"
+]
+},
+{
+"id": "seat-ibiza",
+"brand": "SEAT",
+"group": "Volkswagen Group",
+"model": "Ibiza",
+"display": "Ibiza",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback",
+"generation": "V (2017–; facelifts 2021, 2025)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen Polo",
+"Škoda Fabia",
+"Audi A1"
+]
+},
+{
+"id": "cupra-raval",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Raval",
+"display": "Raval",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback (BEV)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB+",
+"twin_members": [
+"Volkswagen ID. Polo"
+]
+},
+{
+"id": "volkswagen-id-cross",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID. Cross",
+"display": "ID. Cross",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV (BEV)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB+",
+"twin_members": [
+"Škoda Epiq"
+]
+},
+{
+"id": "volkswagen-t-cross",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "T-Cross",
+"display": "T-Cross",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (2019–; facelift 2024)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen Taigo",
+"SEAT Arona",
+"Škoda Kamiq",
+"Audi Q2"
+]
+},
+{
+"id": "volkswagen-taigo",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Taigo",
+"display": "Taigo",
+"other_names": [],
+"row": "b-suv",
+"body": "coupé-crossover",
+"generation": "I (2021–)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen T-Cross",
+"SEAT Arona",
+"Škoda Kamiq",
+"Audi Q2"
+]
+},
+{
+"id": "audi-q2",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q2",
+"display": "Q2",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (GA, 2016–2026; facelift 2020)",
+"powertrains": [
+"petrol",
+"diesel"
+],
+"status": "runout",
+"ch_on_sale": true,
+"platform": "MQB (A1)",
+"twin_members": [
+"Volkswagen T-Cross",
+"Volkswagen Taigo",
+"SEAT Arona",
+"Škoda Kamiq"
+]
+},
+{
+"id": "skoda-epiq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Epiq",
+"display": "Epiq",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV-crossover (BEV)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB+",
+"twin_members": [
+"Volkswagen ID. Cross"
+]
+},
+{
+"id": "skoda-kamiq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Kamiq",
+"display": "Kamiq",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (2019–; facelift 2023)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen T-Cross",
+"Volkswagen Taigo",
+"SEAT Arona",
+"Audi Q2"
+]
+},
+{
+"id": "seat-arona",
+"brand": "SEAT",
+"group": "Volkswagen Group",
+"model": "Arona",
+"display": "Arona",
+"other_names": [],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (2017–; facelifts 2021, 2025)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": [
+"Volkswagen T-Cross",
+"Volkswagen Taigo",
+"Škoda Kamiq",
+"Audi Q2"
+]
+},
+{
+"id": "volkswagen-golf",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Golf",
+"display": "Golf",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback / estate (Variant)",
+"generation": "VIII (2019–; facelift 2024)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"SEAT Leon",
+"Cupra Leon",
+"Škoda Octavia",
+"Audi A3"
+]
+},
+{
+"id": "volkswagen-id-3",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID.3",
+"display": "ID.3 Neo",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback (BEV)",
+"generation": "I (2020–; major 'Neo' update 2026)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Cupra Born",
+"Audi A2 e-tron"
+]
+},
+{
+"id": "audi-a2-e-tron",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A2 e-tron",
+"display": "A2 e-tron",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door compact hatchback with MPV-like silhouette (BEV)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB (rear motor)",
+"twin_members": [
+"Volkswagen ID.3",
+"Cupra Born"
+]
+},
+{
+"id": "audi-a3",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A3",
+"display": "A3",
+"other_names": [],
+"row": "c-hatch",
+"body": "Sportback / Limousine / allstreet",
+"generation": "IV (8Y, 2020–; facelift 2024)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Golf",
+"SEAT Leon",
+"Cupra Leon",
+"Škoda Octavia"
+]
+},
+{
+"id": "skoda-octavia",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Octavia",
+"display": "Octavia",
+"other_names": [],
+"row": "c-hatch",
+"body": "liftback / Combi",
+"generation": "IV (2019–; facelift 2024)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Golf",
+"SEAT Leon",
+"Cupra Leon",
+"Audi A3"
+]
+},
+{
+"id": "skoda-scala",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Scala",
+"display": "Scala",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback",
+"generation": "I (2019–; facelift 2023)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A0",
+"twin_members": []
+},
+{
+"id": "seat-leon",
+"brand": "SEAT",
+"group": "Volkswagen Group",
+"model": "Leon",
+"display": "Leon",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback / Sportstourer estate",
+"generation": "IV (2020–; facelift 2024)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Cupra Leon",
+"Volkswagen Golf",
+"Škoda Octavia",
+"Audi A3"
+]
+},
+{
+"id": "cupra-born",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Born",
+"display": "Born",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback (BEV)",
+"generation": "I (2021–; facelift 2026)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.3",
+"Audi A2 e-tron"
+]
+},
+{
+"id": "cupra-leon",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Leon",
+"display": "Leon",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback / Sportstourer",
+"generation": "I (2020–; facelift 2024)",
+"powertrains": [
+"petrol",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"SEAT Leon",
+"Volkswagen Golf",
+"Škoda Octavia",
+"Audi A3"
+]
+},
+{
+"id": "volkswagen-id-tiguan",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID. Tiguan",
+"display": "ID. Tiguan",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV (BEV)",
+"generation": "I (2026/27–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB+",
+"twin_members": [
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Škoda Enyaq",
+"Škoda Elroq",
+"Audi Q4 e-tron",
+"Cupra Tavascan",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "volkswagen-id-4",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID.4",
+"display": "ID.4",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV (BEV)",
+"generation": "I (2020–; facelift 2024)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.5",
+"Volkswagen ID. Tiguan",
+"Škoda Enyaq",
+"Škoda Elroq",
+"Audi Q4 e-tron",
+"Cupra Tavascan",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "volkswagen-id-5",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID.5",
+"display": "ID.5",
+"other_names": [],
+"row": "c-suv",
+"body": "coupé-SUV (BEV)",
+"generation": "I (2022–; facelift 2024)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.4",
+"Volkswagen ID. Tiguan",
+"Škoda Enyaq",
+"Škoda Elroq",
+"Audi Q4 e-tron",
+"Cupra Tavascan",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "volkswagen-t-roc",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "T-Roc",
+"display": "T-Roc",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV (2nd gen); 1st-gen Cabriolet continues",
+"generation": "II (2025–); Cabriolet still gen I (2020–2027)",
+"powertrains": [
+"petrol",
+"MHEV",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Tiguan",
+"Audi Q3",
+"Cupra Formentor",
+"Cupra Terramar"
+]
+},
+{
+"id": "volkswagen-tiguan",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Tiguan",
+"display": "Tiguan",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "III (2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen T-Roc",
+"Audi Q3",
+"Cupra Formentor",
+"Cupra Terramar"
+]
+},
+{
+"id": "audi-q3",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q3",
+"display": "Q3",
+"other_names": [],
+"row": "c-suv",
+"body": "SUV / Sportback",
+"generation": "III (2025–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Tiguan",
+"Volkswagen T-Roc",
+"Cupra Formentor",
+"Cupra Terramar"
+]
+},
+{
+"id": "audi-q4-e-tron",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q4 e-tron",
+"display": "Q4 e-tron",
+"other_names": [],
+"row": "c-suv",
+"body": "SUV / Sportback (BEV)",
+"generation": "I (2021–; MY2027 refresh 2026)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Volkswagen ID. Tiguan",
+"Škoda Enyaq",
+"Škoda Elroq",
+"Cupra Tavascan",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "skoda-elroq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Elroq",
+"display": "Elroq",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV (BEV)",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Volkswagen ID. Tiguan",
+"Škoda Enyaq",
+"Audi Q4 e-tron",
+"Cupra Tavascan",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "skoda-enyaq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Enyaq",
+"display": "Enyaq",
+"other_names": [],
+"row": "c-suv",
+"body": "SUV / Coupé (BEV)",
+"generation": "I (2021–; facelift 2025)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Volkswagen ID. Tiguan",
+"Škoda Elroq",
+"Audi Q4 e-tron",
+"Cupra Tavascan",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "skoda-karoq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Karoq",
+"display": "Karoq",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "I (2017–; facelift 2022)",
+"powertrains": [
+"petrol",
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB A1",
+"twin_members": [
+"SEAT Ateca",
+"Cupra Ateca"
+]
+},
+{
+"id": "seat-ateca",
+"brand": "SEAT",
+"group": "Volkswagen Group",
+"model": "Ateca",
+"display": "Ateca",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "I (2016–2026; facelift 2020)",
+"powertrains": [
+"petrol",
+"diesel"
+],
+"status": "runout",
+"ch_on_sale": true,
+"platform": "MQB A1",
+"twin_members": [
+"Cupra Ateca",
+"Škoda Karoq"
+]
+},
+{
+"id": "cupra-ateca",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Ateca",
+"display": "Ateca",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "I (2018–2026; facelift 2020)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": true,
+"platform": "MQB A1",
+"twin_members": [
+"SEAT Ateca",
+"Škoda Karoq"
+]
+},
+{
+"id": "cupra-formentor",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Formentor",
+"display": "Formentor",
+"other_names": [],
+"row": "c-suv",
+"body": "crossover coupé-SUV",
+"generation": "I (2020–; facelift 2024)",
+"powertrains": [
+"petrol",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Tiguan",
+"Volkswagen T-Roc",
+"Audi Q3",
+"Cupra Terramar"
+]
+},
+{
+"id": "cupra-tavascan",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Tavascan",
+"display": "Tavascan",
+"other_names": [],
+"row": "c-suv",
+"body": "coupé-SUV (BEV)",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": [
+"Volkswagen ID.4",
+"Volkswagen ID.5",
+"Volkswagen ID. Tiguan",
+"Škoda Enyaq",
+"Škoda Elroq",
+"Audi Q4 e-tron",
+"Ford Explorer",
+"Ford Capri"
+]
+},
+{
+"id": "cupra-terramar",
+"brand": "Cupra",
+"group": "Volkswagen Group",
+"model": "Terramar",
+"display": "Terramar",
+"other_names": [],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "I (2024–)",
+"powertrains": [
+"petrol",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Tiguan",
+"Volkswagen T-Roc",
+"Audi Q3",
+"Cupra Formentor"
+]
+},
+{
+"id": "volkswagen-id-7",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID.7",
+"display": "ID.7",
+"other_names": [],
+"row": "d-car",
+"body": "fastback saloon / estate (Tourer) (BEV)",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": []
+},
+{
+"id": "volkswagen-passat",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Passat",
+"display": "Passat",
+"other_names": [],
+"row": "d-car",
+"body": "estate (Variant only)",
+"generation": "B9 (2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Škoda Superb"
+]
+},
+{
+"id": "audi-a5",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A5",
+"display": "A5",
+"other_names": [],
+"row": "d-car",
+"body": "saloon (Limousine) / Avant",
+"generation": "II (B10, 2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPC",
+"twin_members": []
+},
+{
+"id": "skoda-superb",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Superb",
+"display": "Superb",
+"other_names": [],
+"row": "d-car",
+"body": "liftback / Combi",
+"generation": "IV (2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Passat"
+]
+},
+{
+"id": "volkswagen-tayron",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Tayron",
+"display": "Tayron",
+"other_names": [],
+"row": "d-suv",
+"body": "mid-size SUV (5/7 seats)",
+"generation": "I (Europe, 2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Škoda Kodiaq"
+]
+},
+{
+"id": "audi-q5",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q5",
+"display": "Q5",
+"other_names": [],
+"row": "d-suv",
+"body": "SUV / Sportback",
+"generation": "III (2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPC",
+"twin_members": []
+},
+{
+"id": "audi-q6-e-tron",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q6 e-tron",
+"display": "Q6 e-tron",
+"other_names": [],
+"row": "d-suv",
+"body": "SUV / Sportback (BEV)",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPE",
+"twin_members": [
+"Porsche Macan"
+]
+},
+{
+"id": "skoda-kodiaq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Kodiaq",
+"display": "Kodiaq",
+"other_names": [],
+"row": "d-suv",
+"body": "mid-size SUV (5/7 seats)",
+"generation": "II (2024–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo",
+"twin_members": [
+"Volkswagen Tayron"
+]
+},
+{
+"id": "skoda-peaq",
+"brand": "Škoda",
+"group": "Volkswagen Group",
+"model": "Peaq",
+"display": "Peaq",
+"other_names": [],
+"row": "d-suv",
+"body": "large 7-seat SUV (BEV)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB",
+"twin_members": []
+},
+{
+"id": "porsche-macan",
+"brand": "Porsche",
+"group": "Volkswagen Group",
+"model": "Macan",
+"display": "Macan",
+"other_names": [],
+"row": "d-suv",
+"body": "SUV (BEV)",
+"generation": "II (electric, 2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPE",
+"twin_members": [
+"Audi Q6 e-tron"
+]
+},
+{
+"id": "audi-a6",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A6",
+"display": "A6",
+"other_names": [],
+"row": "e-car",
+"body": "saloon / Avant",
+"generation": "C9 (2025–)",
+"powertrains": [
+"petrol",
+"diesel",
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPC",
+"twin_members": []
+},
+{
+"id": "audi-a6-e-tron",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A6 e-tron",
+"display": "A6 e-tron",
+"other_names": [],
+"row": "e-car",
+"body": "Sportback / Avant (BEV)",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPE",
+"twin_members": []
+},
+{
+"id": "audi-a8",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "A8",
+"display": "A8",
+"other_names": [],
+"row": "e-car",
+"body": "luxury saloon (standard / L)",
+"generation": "IV (D5, 2017–2026; facelift 2021)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "runout",
+"ch_on_sale": false,
+"platform": "MLB evo",
+"twin_members": []
+},
+{
+"id": "audi-e-tron-gt",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "e-tron GT",
+"display": "e-tron GT",
+"other_names": [],
+"row": "e-car",
+"body": "4-door GT (BEV)",
+"generation": "I (2021–; facelift 2024)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "J1",
+"twin_members": [
+"Porsche Taycan"
+]
+},
+{
+"id": "porsche-panamera",
+"brand": "Porsche",
+"group": "Volkswagen Group",
+"model": "Panamera",
+"display": "Panamera",
+"other_names": [],
+"row": "e-car",
+"body": "4-door GT",
+"generation": "III (G3, 2024–)",
+"powertrains": [
+"petrol",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MSB (evo)",
+"twin_members": [
+"Bentley Flying Spur"
+]
+},
+{
+"id": "porsche-taycan",
+"brand": "Porsche",
+"group": "Volkswagen Group",
+"model": "Taycan",
+"display": "Taycan",
+"other_names": [],
+"row": "e-car",
+"body": "saloon / Sport Turismo / Cross Turismo (BEV)",
+"generation": "I (2019–; facelift 2024)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "J1",
+"twin_members": [
+"Audi e-tron GT"
+]
+},
+{
+"id": "bentley-flying-spur",
+"brand": "Bentley",
+"group": "Volkswagen Group",
+"model": "Flying Spur",
+"display": "Flying Spur",
+"other_names": [],
+"row": "e-car",
+"body": "luxury saloon",
+"generation": "III (2019–; hybrid-only update 2024)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MSB",
+"twin_members": [
+"Porsche Panamera"
+]
+},
+{
+"id": "volkswagen-touareg",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Touareg",
+"display": "Touareg",
+"other_names": [],
+"row": "e-suv",
+"body": "large SUV",
+"generation": "III (2018–2026; facelift 2023)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "runout",
+"ch_on_sale": true,
+"platform": "MLB evo",
+"twin_members": [
+"Porsche Cayenne",
+"Audi Q8",
+"Lamborghini Urus",
+"Bentley Bentayga"
+]
+},
+{
+"id": "audi-q7",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q7",
+"display": "Q7",
+"other_names": [],
+"row": "e-suv",
+"body": "large SUV (5/7 seats)",
+"generation": "III (2026–; PPC)",
+"powertrains": [
+"diesel",
+"MHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MLB evo (II) / PPC (III)",
+"twin_members": [
+"Audi Q9"
+]
+},
+{
+"id": "audi-q8",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q8",
+"display": "Q8",
+"other_names": [],
+"row": "e-suv",
+"body": "coupé-SUV",
+"generation": "I (2018–; facelift 2023)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MLB evo",
+"twin_members": [
+"Porsche Cayenne",
+"Volkswagen Touareg",
+"Lamborghini Urus",
+"Bentley Bentayga"
+]
+},
+{
+"id": "audi-q9",
+"brand": "Audi",
+"group": "Volkswagen Group",
+"model": "Q9",
+"display": "Q9",
+"other_names": [],
+"row": "e-suv",
+"body": "full-size 3-row SUV (flagship above Q8)",
+"generation": "I (2026–; MY2027)",
+"powertrains": [
+"diesel",
+"MHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPC",
+"twin_members": [
+"Audi Q7"
+]
+},
+{
+"id": "porsche-cayenne",
+"brand": "Porsche",
+"group": "Volkswagen Group",
+"model": "Cayenne",
+"display": "Cayenne",
+"other_names": [],
+"row": "e-suv",
+"body": "SUV / Coupé; combustion (MLB evo) and Cayenne Electric (PPE)",
+"generation": "III (PO536, 2018–; facelift 2023) + Cayenne Electric (2025–)",
+"powertrains": [
+"petrol",
+"PHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MLB evo (combustion); PPE (Cayenne Electric)",
+"twin_members": [
+"Audi Q8",
+"Volkswagen Touareg",
+"Lamborghini Urus",
+"Bentley Bentayga"
+]
+},
+{
+"id": "bentley-bentayga",
+"brand": "Bentley",
+"group": "Volkswagen Group",
+"model": "Bentayga",
+"display": "Bentayga",
+"other_names": [],
+"row": "e-suv",
+"body": "large SUV (standard / EWB)",
+"generation": "I (2015–; facelift 2020; EWB 2022)",
+"powertrains": [
+"petrol",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MLB evo",
+"twin_members": [
+"Porsche Cayenne",
+"Audi Q8",
+"Volkswagen Touareg",
+"Lamborghini Urus"
+]
+},
+{
+"id": "lamborghini-urus",
+"brand": "Lamborghini",
+"group": "Volkswagen Group",
+"model": "Urus",
+"display": "Urus SE",
+"other_names": [],
+"row": "e-suv",
+"body": "large SUV",
+"generation": "I (2018–; Urus SE PHEV 2024)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MLB evo",
+"twin_members": [
+"Porsche Cayenne",
+"Audi Q8",
+"Volkswagen Touareg",
+"Bentley Bentayga"
+]
+},
+{
+"id": "porsche-911",
+"brand": "Porsche",
+"group": "Volkswagen Group",
+"model": "911",
+"display": "911",
+"other_names": [],
+"row": "sports",
+"body": "coupé / cabriolet / Targa",
+"generation": "992 (2019–; 992.2 update 2024)",
+"powertrains": [
+"petrol",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Porsche 992",
+"twin_members": []
+},
+{
+"id": "bentley-continental-gt",
+"brand": "Bentley",
+"group": "Volkswagen Group",
+"model": "Continental GT",
+"display": "Continental GT",
+"other_names": [],
+"row": "sports",
+"body": "2-door coupé / GTC convertible",
+"generation": "IV (2024–)",
+"powertrains": [
+"PHEV",
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MSB",
+"twin_members": []
+},
+{
+"id": "lamborghini-revuelto",
+"brand": "Lamborghini",
+"group": "Volkswagen Group",
+"model": "Revuelto",
+"display": "Revuelto",
+"other_names": [],
+"row": "sports",
+"body": "2-door supercar (V12 PHEV)",
+"generation": "I (2023–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Lamborghini monofuselage",
+"twin_members": []
+},
+{
+"id": "lamborghini-temerario",
+"brand": "Lamborghini",
+"group": "Volkswagen Group",
+"model": "Temerario",
+"display": "Temerario",
+"other_names": [],
+"row": "sports",
+"body": "2-door supercar (V8 PHEV)",
+"generation": "I (2025–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Lamborghini (new aluminium spaceframe)",
+"twin_members": []
+},
+{
+"id": "volkswagen-caddy",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Caddy",
+"display": "Caddy",
+"other_names": [
+"Caddy Maxi (LWB, 7 seats)",
+"Caddy California (micro-camper)",
+"Caddy Life"
+],
+"row": "mpv-small",
+"body": "5/7-seat leisure activity vehicle (Caddy / Caddy Maxi); Caddy California camper",
+"generation": "Typ SB ('Caddy 5', 2020–; 'Caddy 2026' facelift-level update, launch autumn 2026)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB (VW Group)",
+"twin_members": [
+"Ford Tourneo Connect"
+]
+},
+{
+"id": "volkswagen-caravelle",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Caravelle",
+"display": "Caravelle",
+"other_names": [
+"e-Caravelle"
+],
+"row": "mpv-large",
+"body": "up to 9-seat people carrier",
+"generation": "'T7' (2024/25–; Ford-built)",
+"powertrains": [
+"diesel",
+"PHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford Transit Custom (2023) platform",
+"twin_members": [
+"Ford Tourneo Custom"
+]
+},
+{
+"id": "volkswagen-id-buzz",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID. Buzz",
+"display": "ID. Buzz",
+"other_names": [
+"ID. Buzz LWB (7-seat)",
+"ID. Buzz GTX"
+],
+"row": "mpv-large",
+"body": "electric MPV (SWB 5-seat / LWB 6–7-seat)",
+"generation": "I (2022–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB (VW Group)",
+"twin_members": []
+},
+{
+"id": "volkswagen-multivan",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Multivan",
+"display": "Multivan",
+"other_names": [
+"Multivan eHybrid",
+"California Beach / Coast / Ocean (camper version, 5,173 mm)"
+],
+"row": "mpv-large",
+"body": "7-seat MPV (standard / long)",
+"generation": "T7 (2021–; MQB)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB evo (VW Group)",
+"twin_members": [
+"Volkswagen California"
+]
+},
+{
+"id": "volkswagen-caddy-cargo",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Caddy Cargo",
+"display": "Caddy Cargo",
+"other_names": [
+"Caddy Cargo Maxi (LWB)"
+],
+"row": "van-small",
+"body": "panel van (SWB / Maxi)",
+"generation": "Typ SB ('Caddy 5', 2020–; 'Caddy 2026' facelift-level update, launch autumn 2026)",
+"powertrains": [
+"petrol",
+"diesel",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MQB (VW Group)",
+"twin_members": [
+"Ford Transit Connect"
+]
+},
+{
+"id": "volkswagen-id-buzz-cargo",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "ID. Buzz Cargo",
+"display": "ID. Buzz Cargo",
+"other_names": [],
+"row": "van-mid",
+"body": "electric panel van (SWB)",
+"generation": "I (2022–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "MEB (VW Group)",
+"twin_members": []
+},
+{
+"id": "volkswagen-transporter",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Transporter",
+"display": "Transporter",
+"other_names": [
+"Transporter Kastenwagen / Kombi / Pritsche",
+"e-Transporter (electric)"
+],
+"row": "van-mid",
+"body": "panel van (L1/L2, H1/H2), kombi, single/double-cab chassis",
+"generation": "'T7' (2024/25–; Ford-built; VW does not officially use the T7 code for it)",
+"powertrains": [
+"diesel",
+"PHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford Transit Custom (2023) platform",
+"twin_members": [
+"Ford Transit Custom"
+]
+},
+{
+"id": "volkswagen-crafter",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Crafter",
+"display": "Crafter",
+"other_names": [],
+"row": "van-large",
+"body": "panel van, chassis cab, platform cab, kombi (3.0–5.5 t; 3.5 t class)",
+"generation": "II (SY/SZ, 2017–; facelift 2024)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Volkswagen Crafter II (FWD/RWD/4MOTION)",
+"twin_members": [
+"MAN TGE",
+"Volkswagen Grand California"
+]
+},
+{
+"id": "man-tge",
+"brand": "MAN",
+"group": "Volkswagen Group",
+"model": "TGE",
+"display": "TGE",
+"other_names": [],
+"row": "van-large",
+"body": "panel van, chassis cab, platform cab, kombi (3.0–5.5 t; 3.5 t class)",
+"generation": "I (2017–; facelift 2024)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Volkswagen Crafter II",
+"twin_members": [
+"Volkswagen Crafter",
+"Volkswagen Grand California"
+]
+},
+{
+"id": "volkswagen-amarok",
+"brand": "Volkswagen",
+"group": "Volkswagen Group",
+"model": "Amarok",
+"display": "Amarok",
+"other_names": [
+"Amarok PanAmericana / Aventura"
+],
+"row": "pickup",
+"body": "double-cab (and single-cab in some markets) pickup",
+"generation": "II (2023–; Ford Ranger based)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Ford T6.2 (body-on-frame)",
+"twin_members": [
+"Ford Ranger"
+]
+}
+]

@@ -1,0 +1,686 @@
+{
+ "citroen-ami": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-rocks": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-topolino": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-500": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-panda": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No 4x4 in the current Pandina range (1.0 Hybrid only); the old Panda 4x4 is discontinued",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/de-de/fiat/press/der-neue-fiat-pandina-kann-jetzt-bestellt-werden"
+ },
+ "abarth-500e": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "leapmotor-t03": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "medium",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/t03"
+ },
+ "peugeot-208": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "citroen-c3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-corsa": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-grande-panda": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "A Grande Panda 4x4 (electrified rear axle) has only been shown as a concept (2026); not on sale",
+  "confidence": "high",
+  "source": "https://www.autoblog.it/post/fiat-grande-panda-4x4-il-mito-sta-per-tornare-anteprima-in-italia"
+ },
+ "lancia-ypsilon": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Ypsilon HF (280 PS BEV) is FWD; 'HF Integrale' AWD is only the Rally2 competition car",
+  "confidence": "high",
+  "source": "https://www.wrc.com/en/news/lancia-confirms-works-supported-wrc-return-with-ypsilon-rally2-hf-integrale"
+ },
+ "peugeot-2008": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "citroen-c3-aircross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ds-ds-3": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-frontera": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-mokka": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mokka GSE (280 PS) is FWD too",
+  "confidence": "high",
+  "source": null
+ },
+ "fiat-600": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No 4x4 version found (unlike sister models Jeep Avenger 4xe and Alfa Romeo Junior Q4)",
+  "confidence": "medium",
+  "source": null
+ },
+ "abarth-600e": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Scorpionissima (280 PS) is FWD with a mechanical limited-slip differential",
+  "confidence": "high",
+  "source": null
+ },
+ "alfa-romeo-junior": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "AWD only on the Junior Ibrida Q4 (1.2 48V hybrid, 145 PS, rear e-motor); Elettrica (incl. Veloce) and other Ibrida FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/alfa-romeo/press/alfa-romeo-junior-ibrida-q4-allradversion-kann-ab-sofort-bestellt-werden"
+ },
+ "jeep-avenger": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4xe",
+  "note": "AWD only on the Avenger 4xe (1.2 e-Hybrid 145 PS with rear e-motor); petrol, e-Hybrid and Electric FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/jeep/press/jeep-avenger-my25-guenstiger-und-neu-mit-allrad-bestellbar"
+ },
+ "leapmotor-b03x": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/der-leapmotor-b03x-startet-in-der-schweiz"
+ },
+ "peugeot-308": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "peugeot-408": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "citroen-c4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "ds-n-4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "opel-astra": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": null,
+  "confidence": "high",
+  "source": null
+ },
+ "leapmotor-b05": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (218 PS)",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/leapmotor-scheibt-rekordzahlen-und-lanciert-den-neuen-leapmotor-b05-fuer-chf-25-900"
+ },
+ "peugeot-3008": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "AWD only on the E-3008 Dual Motor 325 (BEV); Hybrid, Plug-in Hybrid and single-motor E-3008 FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/peugeot/press/peugeot-stellt-die-peugeot-e-3008-e-5008-in-der-version-dual-motor-325-vor"
+ },
+ "citroen-c5-aircross": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "No AWD version (Hybrid, Plug-in Hybrid and ë-C5 Aircross all FWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "ds-ds-7": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "AWD on the Plug-in Hybrid 4x4 300 and 4x4 360; Plug-in Hybrid 225 and diesel (Ligne Noire edition) FWD",
+  "confidence": "high",
+  "source": "https://www.dsautomobiles.ch/de/modelle/neuer-ds-7/ds-7-plug-in-hybrid.html"
+ },
+ "ds-n-7": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the E-Tense AWD Long Range (dual-motor BEV, 350 PS / 375 PS boost), deliveries from autumn 2026; Hybrid and FWD BEVs front-drive",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/de-de/ds/press/bestellstart-in-wenigen-wochen-ds-automobiles-gibt-einen-ausblick-auf-die-preise-fuer-den-neuen-ds-n07"
+ },
+ "opel-grandland": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the Grandland Electric AWD (dual-motor BEV, 325 PS); Hybrid, Plug-in Hybrid and single-motor Electric FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/opel/press/auf-neuen-wegen-der-opel-grandland-electric-mit-allradantrieb"
+ },
+ "alfa-romeo-tonale": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "AWD only on the Plug-in Hybrid Q4 (1.3 PHEV, 280 PS CH / 270 PS DE); 1.5 Hybrid and 1.6 diesel FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/alfa-romeo/press/alfa-romeo-senkt-die-preise-auf-seine-suv"
+ },
+ "lancia-gamma": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "HF Integrale",
+  "note": "AWD only on the Gamma HF Integrale (dual-motor BEV, 375 PS), orders opened at the Paris show Oct 2026; Hybrid and single-motor BEVs FWD",
+  "confidence": "medium",
+  "source": "https://www.electrive.net/2026/10/14/weltpremiere-fuer-den-lancia-gamma-in-paris/"
+ },
+ "jeep-compass": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4xe",
+  "note": "AWD only on the Compass 4xe (dual-motor BEV, 375 PS, orders since June 2026); e-Hybrid, Plug-in Hybrid and single-motor Electric FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/em-en/jeep/press/new-jeep-compass-doubles-up-on-freedom-of-choice-orders-open-today-across-europe-for-the-new-4xe"
+ },
+ "leapmotor-b10": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "BEV and Hybrid EV (range extender) both rear-driven",
+  "confidence": "medium",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/neuer-leapmotor-b10-hybrid-ev-innovation-leicht-gemacht"
+ },
+ "alfa-romeo-giulia": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "Q4 AWD on the 2.2 diesel 210 PS (and 2.0 Turbo 280 PS where offered); RWD on the 2.2 diesel 160 PS (Italy) and the Quadrifoglio 520 PS",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/it-it/download-price-lists/272"
+ },
+ "peugeot-5008": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "AWD only on the E-5008 Dual Motor 325 (BEV); Hybrid, Plug-in Hybrid and single-motor E-5008 FWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/peugeot/press/peugeot-stellt-die-peugeot-e-3008-e-5008-in-der-version-dual-motor-325-vor"
+ },
+ "ds-n-8": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "AWD only on the N°8 4x4 Long Range (dual-motor, 350 PS / 375 PS boost; 'AWD Long Range' in DE); FWD and FWD Long Range front-drive",
+  "confidence": "high",
+  "source": "https://www.dsautomobiles.ch/de/modelle/ds-n8.html"
+ },
+ "alfa-romeo-stelvio": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Q4",
+  "note": "Switzerland: every version Q4 (2.2 diesel 210, 2.0 Turbo 280, Quadrifoglio 520); RWD only on the 2.2 diesel 160 PS sold in Italy",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/alfa-romeo/press/alfa-romeo-senkt-die-preise-auf-seine-suv"
+ },
+ "jeep-grand-cherokee": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4xe",
+  "note": "Europe: 2.0 4xe plug-in hybrid only, permanent 4x4; runout",
+  "confidence": "high",
+  "source": "https://www.automobile.at/neuwagen/jeep/grand-cherokee.html"
+ },
+ "maserati-grecale": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD (GT, Modena, Trofeo V6 and dual-motor Folgore)",
+  "confidence": "high",
+  "source": "https://autotijd.be/de/motor/maserati/grecale"
+ },
+ "leapmotor-c10": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "AWD only on the dual-motor C10 4x4 (BEV, about 570-600 PS; in CH since early 2026, kept for MY2027); BEV and Hybrid EV (range extender) RWD",
+  "confidence": "high",
+  "source": "https://www.media.stellantis.com/ch-de/leapmotor/press/premiere-im-schnee-leapmotor-c10-4x4"
+ },
+ "jeep-wrangler": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "4x4 only (2.0 turbo petrol); runout",
+  "confidence": "high",
+  "source": null
+ },
+ "maserati-granturismo": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD (Modena, Trofeo and tri-motor Folgore), coupé and GranCabrio",
+  "confidence": "high",
+  "source": "https://autotijd.be/de/motor/maserati/granturismo"
+ },
+ "maserati-mcpura": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined V6, coupé and Cielo: RWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "peugeot-rifter": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-berlingo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-combo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-qubo-l": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-traveller": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-spacetourer": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-zafira": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-ulysse": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-partner": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-berlingo-van": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-combo-cargo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-doblo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat Professional's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-expert": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-jumpy": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-vivaro": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-scudo": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat Professional's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "peugeot-boxer": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Peugeot's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "citroen-jumper": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Citroën's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "opel-movano": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Opel's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ },
+ "fiat-ducato": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Factory FWD only; Dangel 4x4 aftermarket conversions of the diesel exist but were not found in Fiat Professional's own configurator/price list, so not counted",
+  "confidence": "medium",
+  "source": null
+ }
+}

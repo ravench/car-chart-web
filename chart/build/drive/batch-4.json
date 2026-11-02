@@ -1,0 +1,1074 @@
+[
+{
+"id": "geely-e2",
+"brand": "Geely",
+"group": "Geely Holding",
+"model": "E2",
+"display": "E2",
+"other_names": [
+"Geely EX2 (UK)",
+"Geely Xingyuan (China)"
+],
+"row": "b-hatch",
+"body": "5-door small electric hatchback/crossover",
+"generation": "I (2024–; Europe 2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "GEA",
+"twin_members": []
+},
+{
+"id": "volvo-ex30",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "EX30",
+"display": "EX30",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door compact SUV (incl. EX30 Cross Country variant)",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SEA (Geely SEA2 variant)",
+"twin_members": [
+"smart #1",
+"smart #3",
+"Zeekr X",
+"Lynk & Co 02"
+]
+},
+{
+"id": "lynk-co-02",
+"brand": "Lynk & Co",
+"group": "Geely Holding",
+"model": "02",
+"display": "02",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door compact crossover (electric)",
+"generation": "I (2024–, MY27 shown at Turin 2026)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SEA (SEA2)",
+"twin_members": [
+"Volvo EX30",
+"smart #1",
+"smart #3",
+"Zeekr X"
+]
+},
+{
+"id": "zeekr-x",
+"brand": "Zeekr",
+"group": "Geely Holding",
+"model": "X",
+"display": "X",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door compact SUV (electric)",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SEA (SEA2)",
+"twin_members": [
+"Volvo EX30",
+"smart #1",
+"smart #3",
+"Lynk & Co 02"
+]
+},
+{
+"id": "volvo-xc40",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "XC40",
+"display": "XC40 / EX40 / EC40",
+"other_names": [
+"EX40 (battery-electric version, XC40 Recharge until 2024)",
+"EC40 (electric coupé version, C40 Recharge until 2024)"
+],
+"row": "c-suv",
+"body": "5-door compact SUV (mild-hybrid petrol)",
+"generation": "I (2017–; facelift 2022; EX40/EC40 since 2024)",
+"powertrains": [
+"MHEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMA",
+"twin_members": [
+"Volvo EX40",
+"Volvo EC40",
+"Lynk & Co 01"
+]
+},
+{
+"id": "lynk-co-01",
+"brand": "Lynk & Co",
+"group": "Geely Holding",
+"model": "01",
+"display": "01",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door compact SUV (PHEV)",
+"generation": "I (2017–, 'New 01' facelift 2024)",
+"powertrains": [
+"PHEV",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMA",
+"twin_members": [
+"Volvo XC40",
+"Volvo EX40",
+"Volvo EC40"
+]
+},
+{
+"id": "geely-e5",
+"brand": "Geely",
+"group": "Geely Holding",
+"model": "E5",
+"display": "E5",
+"other_names": [
+"Geely EX5 (UK)"
+],
+"row": "c-suv",
+"body": "5-door compact SUV (electric)",
+"generation": "I (2024–; Europe 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "GEA",
+"twin_members": []
+},
+{
+"id": "volvo-v60",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "V60",
+"display": "V60",
+"other_names": [],
+"row": "d-car",
+"body": "5-door mid-size estate (incl. V60 Cross Country variant)",
+"generation": "II (2018–, facelift 2020)",
+"powertrains": [
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA",
+"twin_members": []
+},
+{
+"id": "polestar-2",
+"brand": "Polestar",
+"group": "Geely Holding",
+"model": "2",
+"display": "Polestar 2",
+"other_names": [],
+"row": "d-car",
+"body": "5-door liftback saloon (electric)",
+"generation": "I (2020–, MY24 update)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMA",
+"twin_members": []
+},
+{
+"id": "zeekr-7-gt",
+"brand": "Zeekr",
+"group": "Geely Holding",
+"model": "7 GT",
+"display": "7 GT",
+"other_names": [
+"Zeekr 007 GT (China)"
+],
+"row": "d-car",
+"body": "5-door shooting brake (electric)",
+"generation": "I (2025–; Europe 2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SEA",
+"twin_members": []
+},
+{
+"id": "volvo-ex60",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "EX60",
+"display": "EX60",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door mid-size electric SUV",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA3",
+"twin_members": []
+},
+{
+"id": "volvo-xc60",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "XC60",
+"display": "XC60",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door mid-size SUV",
+"generation": "II (2017–, facelift 2025)",
+"powertrains": [
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA",
+"twin_members": []
+},
+{
+"id": "polestar-4",
+"brand": "Polestar",
+"group": "Geely Holding",
+"model": "4",
+"display": "Polestar 4",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door SUV-coupe (electric; high-riding estate variant with rear window due Q4 2026)",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SEA",
+"twin_members": []
+},
+{
+"id": "lynk-co-08",
+"brand": "Lynk & Co",
+"group": "Geely Holding",
+"model": "08",
+"display": "08",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door mid-size SUV (PHEV, up to 200 km EV range)",
+"generation": "I (2023–; Europe 2025–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "CMA Evo",
+"twin_members": []
+},
+{
+"id": "zeekr-7x",
+"brand": "Zeekr",
+"group": "Geely Holding",
+"model": "7X",
+"display": "7X",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door mid-size SUV (electric)",
+"generation": "I (2024–; all-new 7X shown Paris 2026, deliveries Q1 2027)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SEA",
+"twin_members": [
+"smart #5"
+]
+},
+{
+"id": "geely-starray-em-i",
+"brand": "Geely",
+"group": "Geely Holding",
+"model": "Starray EM-i",
+"display": "Starray EM-i",
+"other_names": [
+"Geely Galaxy Starship 7 EM-i (China)"
+],
+"row": "d-suv",
+"body": "5-door mid-size SUV (PHEV, 30 kWh, 136 km EV range)",
+"generation": "I (2025–; Europe 2026–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "GEA (EM-i hybrid)",
+"twin_members": []
+},
+{
+"id": "volvo-es90",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "ES90",
+"display": "ES90",
+"other_names": [],
+"row": "e-car",
+"body": "5-door liftback executive saloon (electric)",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA2 (800 V)",
+"twin_members": []
+},
+{
+"id": "polestar-5",
+"brand": "Polestar",
+"group": "Geely Holding",
+"model": "5",
+"display": "Polestar 5",
+"other_names": [],
+"row": "e-car",
+"body": "4-door grand tourer (electric)",
+"generation": "I (2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "PPA (bonded aluminium)",
+"twin_members": []
+},
+{
+"id": "zeekr-001",
+"brand": "Zeekr",
+"group": "Geely Holding",
+"model": "001",
+"display": "001",
+"other_names": [],
+"row": "e-car",
+"body": "5-door shooting brake / liftback (electric)",
+"generation": "I (2021–, 2024 update)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SEA",
+"twin_members": []
+},
+{
+"id": "lotus-emeya",
+"brand": "Lotus",
+"group": "Geely Holding",
+"model": "Emeya",
+"display": "Emeya",
+"other_names": [],
+"row": "e-car",
+"body": "4-door GT saloon (electric)",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "EPA (Electric Premium Architecture)",
+"twin_members": []
+},
+{
+"id": "volvo-ex90",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "EX90",
+"display": "EX90",
+"other_names": [],
+"row": "e-suv",
+"body": "5-door large electric SUV (7 seats)",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA2",
+"twin_members": [
+"Polestar 3"
+]
+},
+{
+"id": "volvo-xc90",
+"brand": "Volvo",
+"group": "Geely Holding",
+"model": "XC90",
+"display": "XC90",
+"other_names": [],
+"row": "e-suv",
+"body": "5-door large SUV (7 seats)",
+"generation": "II (2015–, facelift 2024)",
+"powertrains": [
+"MHEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA",
+"twin_members": []
+},
+{
+"id": "polestar-3",
+"brand": "Polestar",
+"group": "Geely Holding",
+"model": "3",
+"display": "Polestar 3",
+"other_names": [],
+"row": "e-suv",
+"body": "5-door large electric SUV",
+"generation": "I (2023–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "SPA2",
+"twin_members": [
+"Volvo EX90"
+]
+},
+{
+"id": "zeekr-9x",
+"brand": "Zeekr",
+"group": "Geely Holding",
+"model": "9X",
+"display": "9X",
+"other_names": [],
+"row": "e-suv",
+"body": "5-door full-size luxury SUV (PHEV, 6 seats)",
+"generation": "I (2025–; Europe orders Oct 2026)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "SEA-S",
+"twin_members": []
+},
+{
+"id": "lotus-eletre",
+"brand": "Lotus",
+"group": "Geely Holding",
+"model": "Eletre",
+"display": "Eletre",
+"other_names": [],
+"row": "e-suv",
+"body": "5-door large SUV (electric; Eletre X range-extender hybrid from 2026)",
+"generation": "I (2023–; Eletre X 2026)",
+"powertrains": [
+"BEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "EPA (Electric Premium Architecture) / X-Hybrid",
+"twin_members": []
+},
+{
+"id": "lotus-emira",
+"brand": "Lotus",
+"group": "Geely Holding",
+"model": "Emira",
+"display": "Emira",
+"other_names": [],
+"row": "sports",
+"body": "2-door mid-engined sports coupe",
+"generation": "I (2022–)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Lotus bonded aluminium (Evora-derived)",
+"twin_members": []
+},
+{
+"id": "lotus-evija",
+"brand": "Lotus",
+"group": "Geely Holding",
+"model": "Evija",
+"display": "Evija",
+"other_names": [],
+"row": "sports",
+"body": "2-door electric hypercar",
+"generation": "I (2022–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "bespoke carbon monocoque",
+"twin_members": []
+},
+{
+"id": "levc-tx",
+"brand": "LEVC",
+"group": "Geely Holding",
+"model": "TX",
+"display": "TX",
+"other_names": [],
+"row": "mpv-large",
+"body": "purpose-built 6-passenger taxi (range-extender electric); TX Access/TX Shuttle variants",
+"generation": "I (2018–; successor 'Next Generation Taxi' due H2 2027)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "LEVC aluminium 'eCity' platform",
+"twin_members": []
+},
+{
+"id": "farizon-sv",
+"brand": "Farizon",
+"group": "Geely Holding",
+"model": "SV",
+"display": "SV",
+"other_names": [
+"Farizon SuperVan"
+],
+"row": "van-mid",
+"body": "electric panel van (L1 / L2 / L3; H1–H3), chassis cab",
+"generation": "I (2024–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "Geely GXA-M (drive-by-wire electric van architecture)",
+"twin_members": []
+},
+{
+"id": "farizon-v7e",
+"brand": "Farizon",
+"group": "Geely Holding",
+"model": "V7E",
+"display": "V7E",
+"other_names": [],
+"row": "van-mid",
+"body": "electric medium panel van (2-seat, 6.95 m3, up to 1,338 kg payload)",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": null,
+"twin_members": []
+},
+{
+"id": "levc-vn5",
+"brand": "LEVC",
+"group": "Geely Holding",
+"model": "VN5",
+"display": "VN5",
+"other_names": [],
+"row": "van-mid",
+"body": "range-extender panel van",
+"generation": "I (2020–)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "LEVC/Geely eCity (TX taxi, aluminium)",
+"twin_members": []
+},
+{
+"id": "kgm-tivoli",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Tivoli",
+"display": "Tivoli",
+"other_names": [
+"SsangYong Tivoli (pre-2023 badge)"
+],
+"row": "b-suv",
+"body": "small SUV",
+"generation": "I (X100, 2015–; facelifts 2019, 2024)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM X100 (monocoque)",
+"twin_members": []
+},
+{
+"id": "kgm-korando",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Korando",
+"display": "Korando",
+"other_names": [
+"SsangYong Korando (pre-2023 badge)"
+],
+"row": "c-suv",
+"body": "compact SUV",
+"generation": "IV (C300, 2019–; facelift 2024)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM C300",
+"twin_members": []
+},
+{
+"id": "kgm-actyon",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Actyon",
+"display": "Actyon",
+"other_names": [],
+"row": "d-suv",
+"body": "mid-size coupé-SUV",
+"generation": "II (J120, 2024–; EU 2025; Actyon Hybrid 2026)",
+"powertrains": [
+"petrol",
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM J100 (Torres architecture)",
+"twin_members": [
+"KGM Torres"
+]
+},
+{
+"id": "kgm-torres",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Torres",
+"display": "Torres / Torres EVX",
+"other_names": [],
+"row": "d-suv",
+"body": "mid-size SUV (Torres petrol/hybrid; Torres EVX BEV with own fascias; EVX Cargo Van N1 in DE)",
+"generation": "I (J100 Torres 2022–, EU 2024; U100 Torres EVX 2023–; Torres Hybrid 2025/26)",
+"powertrains": [
+"petrol",
+"HEV",
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM J100/U100 (Torres architecture; EVX uses BYD LFP battery)",
+"twin_members": [
+"KGM Actyon"
+]
+},
+{
+"id": "kgm-rexton",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Rexton",
+"display": "Rexton",
+"other_names": [
+"SsangYong Rexton (pre-2023 badge)"
+],
+"row": "offroad",
+"body": "body-on-frame 7-seat SUV",
+"generation": "II (Y400, 2017–; facelifts 2020, 2023)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM Y400 ladder frame",
+"twin_members": []
+},
+{
+"id": "kgm-musso",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Musso",
+"display": "Musso (previous generation)",
+"other_names": [
+"Musso Grand (LWB; listed in CH from CHF 44'311, not in UK Oct 2026)",
+"SsangYong Musso (pre-2023 brand name)",
+"Rexton Sports (Korea)"
+],
+"row": "pickup",
+"body": "double-cab pickup (standard / Grand long bed)",
+"generation": "I (Q200/Q250, 2018–)",
+"powertrains": [
+"diesel"
+],
+"status": "runout",
+"ch_on_sale": false,
+"platform": "SsangYong/KGM body-on-frame (Rexton-based)",
+"twin_members": []
+},
+{
+"id": "kgm-musso-ev",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Musso EV",
+"display": "Musso EV",
+"other_names": [
+"KGM Musso EV (O100)"
+],
+"row": "pickup",
+"body": "electric double-cab pickup",
+"generation": "I (O100, 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM (unibody-style EV pickup, 80.6 kWh LFP blade battery)",
+"twin_members": []
+},
+{
+"id": "kgm-musso-rhino",
+"brand": "KGM",
+"group": "KG Mobility",
+"model": "Musso Rhino",
+"display": "Musso",
+"other_names": [
+"Musso Rhino (UK)",
+"Musso Grand (long wheelbase, 5,460 mm)"
+],
+"row": "pickup",
+"body": "double-cab pickup (Rhino / Rhino+ extended wheelbase 3,210 mm)",
+"generation": "II (Q300, 2026–)",
+"powertrains": [
+"diesel"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "KGM body-on-frame (new Musso Q300)",
+"twin_members": []
+},
+{
+"id": "honda-super-n",
+"brand": "Honda",
+"group": "Honda",
+"model": "Super-N",
+"display": "Super-N",
+"other_names": [],
+"row": "a-city",
+"body": "5-door city car",
+"generation": "I (2026–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Honda N-One e: (kei-car based BEV)",
+"twin_members": []
+},
+{
+"id": "honda-jazz",
+"brand": "Honda",
+"group": "Honda",
+"model": "Jazz",
+"display": "Jazz",
+"other_names": [],
+"row": "b-hatch",
+"body": "5-door hatchback (incl. Crosstar)",
+"generation": "IV / GR (2020–; facelift 2023)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Honda global small car platform",
+"twin_members": []
+},
+{
+"id": "honda-hr-v",
+"brand": "Honda",
+"group": "Honda",
+"model": "HR-V",
+"display": "HR-V",
+"other_names": [],
+"row": "b-suv",
+"body": "5-door crossover SUV",
+"generation": "III / RV (2021–; facelift 2024)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Honda global small car platform",
+"twin_members": []
+},
+{
+"id": "honda-civic",
+"brand": "Honda",
+"group": "Honda",
+"model": "Civic",
+"display": "Civic",
+"other_names": [],
+"row": "c-hatch",
+"body": "5-door hatchback",
+"generation": "XI / FL (2022–; facelift 2025)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Honda Architecture",
+"twin_members": []
+},
+{
+"id": "honda-zr-v",
+"brand": "Honda",
+"group": "Honda",
+"model": "ZR-V",
+"display": "ZR-V",
+"other_names": [],
+"row": "c-suv",
+"body": "5-door SUV",
+"generation": "I / RZ (2023–; update 2025)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Honda Architecture (Civic-based)",
+"twin_members": []
+},
+{
+"id": "honda-cr-v",
+"brand": "Honda",
+"group": "Honda",
+"model": "CR-V",
+"display": "CR-V",
+"other_names": [],
+"row": "d-suv",
+"body": "5-door SUV",
+"generation": "VI / RS (2023–)",
+"powertrains": [
+"HEV",
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Honda Architecture",
+"twin_members": []
+},
+{
+"id": "honda-prelude",
+"brand": "Honda",
+"group": "Honda",
+"model": "Prelude",
+"display": "Prelude",
+"other_names": [],
+"row": "sports",
+"body": "2-door coupé",
+"generation": "VI / BC (2025–; Europe 2026)",
+"powertrains": [
+"HEV"
+],
+"status": "on_sale",
+"ch_on_sale": true,
+"platform": "Honda Architecture (Civic-based)",
+"twin_members": []
+},
+{
+"id": "mclaren-750s",
+"brand": "McLaren",
+"group": "McLaren",
+"model": "750S",
+"display": "750S",
+"other_names": [],
+"row": "sports",
+"body": "mid-engined V8 coupé / Spider",
+"generation": "I (2023–)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "McLaren Monocage II-based carbon tub",
+"twin_members": []
+},
+{
+"id": "mclaren-artura",
+"brand": "McLaren",
+"group": "McLaren",
+"model": "Artura",
+"display": "Artura",
+"other_names": [],
+"row": "sports",
+"body": "mid-engined V6 PHEV coupé / Spider",
+"generation": "I (2021–; Spider 2024; 2025 update)",
+"powertrains": [
+"PHEV"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "McLaren Carbon Lightweight Architecture (MCLA)",
+"twin_members": []
+},
+{
+"id": "mclaren-gts",
+"brand": "McLaren",
+"group": "McLaren",
+"model": "GTS",
+"display": "GTS",
+"other_names": [],
+"row": "sports",
+"body": "mid-engined V8 grand tourer",
+"generation": "I (2023–; replaced GT)",
+"powertrains": [
+"petrol"
+],
+"status": "on_sale",
+"ch_on_sale": null,
+"platform": "McLaren Monocell II-T carbon tub",
+"twin_members": []
+},
+{
+"id": "mclaren-w1",
+"brand": "McLaren",
+"group": "McLaren",
+"model": "W1",
+"display": "W1",
+"other_names": [],
+"row": "sports",
+"body": "mid-engined V8 PHEV hypercar (399 units)",
+"generation": "I (2024–; 399 units; deliveries 2026)",
+"powertrains": [
+"PHEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "McLaren Aerocell carbon tub",
+"twin_members": []
+},
+{
+"id": "koenigsegg-cc850",
+"brand": "Koenigsegg",
+"group": "Koenigsegg",
+"model": "CC850",
+"display": "CC850",
+"other_names": [],
+"row": "sports",
+"body": "mid-engined V8 targa (70 units)",
+"generation": "I (2023–; 70 units)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "Koenigsegg carbon monocoque (Jesko-based)",
+"twin_members": []
+},
+{
+"id": "koenigsegg-gemera",
+"brand": "Koenigsegg",
+"group": "Koenigsegg",
+"model": "Gemera",
+"display": "Gemera",
+"other_names": [],
+"row": "sports",
+"body": "four-seat mega-GT (300 units), 2-door",
+"generation": "I (2024–; 300 units)",
+"powertrains": [
+"PHEV"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "Koenigsegg carbon monocoque",
+"twin_members": []
+},
+{
+"id": "koenigsegg-jesko",
+"brand": "Koenigsegg",
+"group": "Koenigsegg",
+"model": "Jesko",
+"display": "Jesko",
+"other_names": [
+"Jesko Attack",
+"Jesko Absolut"
+],
+"row": "sports",
+"body": "mid-engined V8 hypercar (125 units; Attack / Absolut)",
+"generation": "I (2021–; 125 units)",
+"powertrains": [
+"petrol"
+],
+"status": "runout",
+"ch_on_sale": null,
+"platform": "Koenigsegg carbon monocoque",
+"twin_members": []
+},
+{
+"id": "deepal-s05",
+"brand": "Deepal",
+"group": "Changan",
+"model": "S05",
+"display": "S05",
+"other_names": [
+"Changan Deepal S05"
+],
+"row": "c-suv",
+"body": "SUV",
+"generation": "I (2024–; Europe 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Changan EPA1",
+"twin_members": []
+},
+{
+"id": "deepal-s07",
+"brand": "Deepal",
+"group": "Changan",
+"model": "S07",
+"display": "S07",
+"other_names": [
+"Changan Deepal S07",
+"Deepal S7 (China)"
+],
+"row": "d-suv",
+"body": "SUV",
+"generation": "I (2023–; Europe 2025–)",
+"powertrains": [
+"BEV"
+],
+"status": "on_sale",
+"ch_on_sale": false,
+"platform": "Changan EPA1",
+"twin_members": [
+"Mazda CX-6e"
+]
+}
+]

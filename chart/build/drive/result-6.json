@@ -1,0 +1,571 @@
+{
+ "toyota-aygo-x": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.5 Hybrid (116 PS) only, front-wheel drive",
+  "confidence": "high",
+  "source": null
+ },
+ "toyota-yaris": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "GR-FOUR",
+  "note": "AWD only on the GR Yaris (1.6 turbo, 280 PS, GR-FOUR, from CHF 44,900); every Yaris Hybrid version (116/130 PS) is FWD (CH price list valid from 01.06.2026)",
+  "confidence": "high",
+  "source": "https://de.toyota.ch/neuwagen-kaufen/gr-yaris"
+ },
+ "toyota-urban-cruiser": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 61 kWh battery (184 PS); 49 kWh (144 PS) and 61 kWh (174 PS) are FWD",
+  "confidence": "high",
+  "source": "https://de.toyota.ch/neuwagen-kaufen/urban-cruiser"
+ },
+ "toyota-yaris-cross": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "1.5 Hybrid 130 PS available with AWD-i (Comfort, Trend, Premium); GR SPORT is FWD only (CH price list valid from 21.08.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2429363/storage/MjQyOTM2My8wL21hc3Rlci8vLzI0Njk5NDEz"
+ },
+ "lexus-lbx": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "1.5 Hybrid (136 PS) as FWD or E-FOUR electric AWD (selected trims); new LBX AWD cars listed by Swiss Lexus dealers; LBX Morizo RR not offered in Europe",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_LBX_AT.pdf"
+ },
+ "toyota-corolla": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "1.8 and 2.0 Hybrid, hatchback and Touring Sports, all FWD (CH price lists valid from 29.09.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/487249/storage/MDQ4NzI0OS8wL21hc3Rlci8vLzIzOTExNTU1"
+ },
+ "toyota-prius": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 Plug-in Hybrid, FWD only in Europe",
+  "confidence": "high",
+  "source": null
+ },
+ "toyota-c-hr": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "AWD only on the 2.0 Hybrid (180 PS); the 1.8 Hybrid and the 2.0 Plug-in Hybrid (223 PS) are FWD only (CH price lists valid from 27.07.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2134322/storage/MjEzNDMyMi8wL21hc3Rlci8vLzI0NDY2ODYx"
+ },
+ "toyota-c-hr-plus": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD 252 kW (343 PS) with the 77 kWh battery; FWD 165 kW (224 PS); some markets also have a 57.7 kWh FWD base version",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2290825/storage/MjI5MDgyNS8wL21hc3Rlci8vLzIzOTQ0Nzkw"
+ },
+ "toyota-corolla-cross": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "AWD only with the 2.0 Hybrid (180 PS); the 1.8 Hybrid is FWD only; GR SPORT and Premium are AWD only",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2417145/storage/MjQxNzE0NS8wL21hc3Rlci8vLzIzOTQ0ODg5"
+ },
+ "toyota-rav4": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD-i",
+  "note": "Both the 2.5 Hybrid (AWD 194 PS) and the Plug-in Hybrid (AWD 309 PS) come as FWD or AWD; GR SPORT and Premium are AWD only (CH price list valid from 08.10.2026)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2364906/storage/MjM2NDkwNi8wL21hc3Rlci8vLzI0NzQwOTA2"
+ },
+ "lexus-nx": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "NX 350h as FWD or E-FOUR; NX 450h+ plug-in hybrid is E-FOUR only",
+  "confidence": "high",
+  "source": "https://preview3.assetsadobe.com/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_NX_AT.pdf"
+ },
+ "lexus-ux": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "UX 300h as FWD or E-FOUR (AWD only on F SPORT in the AT list); the UX 300e is no longer listed",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_UX_AT.pdf"
+ },
+ "toyota-bz4x": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only with the 73.1 kWh battery, 252 kW (343 PS); FWD with 57.7 kWh (167 PS) or 73.1 kWh (224 PS)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2191803/storage/MjE5MTgwMy8wL21hc3Rlci8vLzI0MDA5Mjg5"
+ },
+ "toyota-bz4x-touring": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "74.7 kWh battery: FWD 165 kW (224 PS, Style only) or AWD 279 kW (380 PS)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2327160/storage/MjMyNzE2MC8wL21hc3Rlci8vLzIzOTEzMTc2"
+ },
+ "lexus-rz": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "DIRECT4",
+  "note": "RZ 350e is FWD; RZ 500e and RZ 550e F SPORT have DIRECT4 AWD",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_RZ_AT.pdf"
+ },
+ "toyota-mirai": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Fuel-cell saloon, rear-wheel drive only",
+  "confidence": "high",
+  "source": null
+ },
+ "lexus-es": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD / DIRECT4",
+  "note": "New 8th-gen ES in CH: ES 300h hybrid (196 PS) AWD, ES 500e electric DIRECT4 AWD; only the electric ES 350e is FWD (the outgoing 7th-gen ES 300h, still in some price lists, was FWD)",
+  "confidence": "high",
+  "source": "https://de.lexus.ch/new-cars/es"
+ },
+ "lexus-rx": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR / DIRECT4",
+  "note": "AWD only: RX 350h and RX 450h+ have E-FOUR, RX 500h has DIRECT4; no FWD version in the Lexus Austria price list",
+  "confidence": "high",
+  "source": "https://scene7.toyota.eu/is/content/toyotaeurope/lexus/nmsc/austria/broschueren-preislisten/aktuelle-preislisten/Preisliste_RX_AT.pdf"
+ },
+ "toyota-land-cruiser": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Permanent four-wheel drive on every version (2.8 diesel 48V mild hybrid, 205/230 PS, 8-speed automatic)",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2208852/storage/MjIwODg1Mi8wL21hc3Rlci8vLzI0MDI1OTc4"
+ },
+ "toyota-gr-supra": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Runout; 3.0 straight-six, rear-wheel drive only",
+  "confidence": "high",
+  "source": null
+ },
+ "toyota-proace-city-verso": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (1.2 petrol, 1.5 diesel, electric) are FWD; Toyota France sold Dangel 4x4 conversions of the pre-facelift van (2022), but no 4x4 appears in current CH or FR listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/1918481/storage/MTkxODQ4MS8wL21hc3Rlci8vLzI0NjUyNDQ3"
+ },
+ "toyota-proace-verso": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (2.2 diesel 150/180 PS, electric) are FWD; Dangel 4x4 conversions were sold through Toyota France for the pre-facelift model (2022), not in current listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/1725040/storage/MTcyNTA0MC8wL21hc3Rlci8vLzIzOTEyMjc0"
+ },
+ "lexus-lm": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "E-FOUR",
+  "note": "LM 350h, 2.5 hybrid (250 PS), with E-FOUR electric AWD on every version",
+  "confidence": "high",
+  "source": "https://de.lexus.ch/modelle/lm"
+ },
+ "toyota-proace-city": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (1.2 petrol, 1.5 diesel, electric) are FWD; Toyota France sold Dangel 4x4 conversions of the pre-facelift van (2022), but none appear in current CH or FR listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2017717/storage/MjAxNzcxNy8wL21hc3Rlci8vLzI0Nzk3NzQx"
+ },
+ "toyota-proace": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All CH versions (1.5/2.2 diesel, electric) are FWD; Toyota France sold Dangel 4x4 conversions of the pre-facelift van (2022), but none appear in current CH or FR listings",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/1946036/storage/MTk0NjAzNi8wL21hc3Rlci8vLzIzOTE0ODgz"
+ },
+ "toyota-proace-max": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "All panel van, chassis cab and special-body versions (2.2 diesel 120–180 PS, electric) are FWD; no RWD or 4x4 version",
+  "confidence": "high",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2066749/storage/MjA2Njc0OS8wL21hc3Rlci8vLzIzOTE1MDUx"
+ },
+ "toyota-hilux": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Every version in the CH price lists is 4x4: the new electric Hilux (dual-motor AWD, 196 PS), the 2.8 48V mild hybrid (204 PS), and the outgoing 2.4/2.8 diesel including Single/Extra Cab; no 4x2 in CH",
+  "confidence": "medium",
+  "source": "https://efg-inside-live-ch.mishost.ch/hcms/v3.3/entity/document/2364467/storage/MjM2NDQ2Ny8wL21hc3Rlci8vLzI0NzQxMTE4"
+ },
+ "nissan-micra": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Electric, single front motor (Renault 5-based)",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-juke": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "DIG-T petrol and Hybrid, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-leaf": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Electric, single front motor",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-ariya": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "e-4ORCE",
+  "note": "e-4ORCE AWD on the 87 kWh Evolve e-4ORCE, the Evolve400 (from stock only) and the NISMO; 63 and 87 kWh versions otherwise FWD",
+  "confidence": "high",
+  "source": "https://de.nissan.ch/fahrzeuge/neuwagen/ariya.html"
+ },
+ "nissan-qashqai": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "ALL-MODE 4x4-i",
+  "note": "4WD only with the 1.3 Mild-Hybrid 158 PS Xtronic (not on ACENTA); e-POWER 190/205 PS is FWD only (CH MY25.5 price list valid from 01.01.2026)",
+  "confidence": "high",
+  "source": "https://document.astara-partner.com/document/Nissan/CH/qashqai/de-ch"
+ },
+ "nissan-x-trail": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "e-4ORCE",
+  "note": "e-POWER 204 PS FWD (5 seats, N-CONNECTA only) or e-4ORCE 214 PS AWD (5 or 7 seats); the CH list has no mild-hybrid version",
+  "confidence": "high",
+  "source": "https://document.astara-partner.com/document/Nissan/CH/X-TrailCH/de-ch"
+ },
+ "nissan-townstar-kombi": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and electric, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-primastar-kombi": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 dCi diesel, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-townstar-van-small": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Petrol and electric, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-primastar-van-mid": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 dCi diesel, FWD only",
+  "confidence": "high",
+  "source": null
+ },
+ "nissan-interstar": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "FWD only: dCi 130/150/170 diesel and Interstar-e 40/87 kWh; the CH brochure and price list (MY25) list no RWD, twin-wheel or 4x4 version",
+  "confidence": "high",
+  "source": "https://www-europe.nissan-cdn.net/content/dam/Nissan/ch/Pricelists-and-Brochures/NewInterstar/neuer-interstar-broschuere.pdf"
+ },
+ "firefly-firefly": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (105 kW)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-et5": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "ET5 and ET5 Touring, runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-el6": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-et7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-el7": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "nio-el8": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Runout; every European version has front and rear motors (AWD)",
+  "confidence": "medium",
+  "source": null
+ },
+ "dongfeng-box": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor (70/95 kW)",
+  "confidence": "medium",
+  "source": null
+ },
+ "voyah-courage": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Base versions use a single rear motor (215/230 kW). In China a dual-motor AWD top version (405 kW) is also sold, but I could not confirm it is offered in Europe",
+  "confidence": "low",
+  "source": "https://en.wikipedia.org/wiki/Voyah_Courage"
+ },
+ "voyah-free": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "European Free (BEV and range-extender PHEV) believed to be dual-motor 4WD; in China a single-motor RWD version (2025 '318' EREV, 215 kW) also exists, and I could not confirm whether it is sold in Europe",
+  "confidence": "low",
+  "source": "https://en.wikipedia.org/wiki/Voyah_Free"
+ },
+ "mhero-mhero-i": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "Multi-motor electric off-roader, AWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "voyah-dream": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "European Dream (BEV and PHEV) believed to be dual-motor 4WD; not verified with an importer page",
+  "confidence": "low",
+  "source": null
+ },
+ "renault-trucks-trafic": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "2.0 Blue dCi diesel, FWD only",
+  "confidence": "medium",
+  "source": null
+ },
+ "renault-trucks-master": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Master IV diesel and E-Tech electric are FWD; its twin, the Nissan Interstar, is FWD only in the CH brochure. Not checked whether Renault Trucks also lists RWD heavy versions or 4x4 conversions",
+  "confidence": "medium",
+  "source": null
+ },
+ "lucid-air": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Air Pure is single-motor RWD; Touring and Grand Touring are dual-motor AWD; Sapphire is tri-motor AWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "lucid-gravity": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Touring and Grand Touring are dual-motor AWD",
+  "confidence": "medium",
+  "source": null
+ },
+ "isuzu-d-max": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Most versions are 4x4 (shift-on-the-fly); 4x2 only on base Single Cab in some markets; the D-Max EV is 4x4",
+  "confidence": "medium",
+  "source": null
+ }
+}

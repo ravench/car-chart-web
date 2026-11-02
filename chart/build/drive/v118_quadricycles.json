@@ -1,0 +1,146 @@
+{
+ "aixam-city": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse Kubota 479 cc diesel with variator, front-wheel drive; the maker's e-City pages also list front driving wheels",
+  "confidence": "high",
+  "source": "https://www.aixam.it/it/minicar-city/sport",
+  "quote": "Ruote motrici | trazione anteriore",
+  "checked_on": "2026-11-02"
+ },
+ "aixam-coupe": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse Kubota 479 cc diesel with variator, front-wheel drive; the maker's e-Coupé pages list front driving wheels too (Ruote motrici: Anteriori)",
+  "confidence": "high",
+  "source": "https://www.aixam.it/it/minicar-coupe/sport",
+  "quote": "Ruote motrici | trazione anteriore",
+  "checked_on": "2026-11-02"
+ },
+ "aixam-crossover": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse Kubota 479 cc diesel with variator, front-wheel drive; the maker's e-Crossover page lists front driving wheels too (Ruote motrici: Anteriori)",
+  "confidence": "high",
+  "source": "https://www.aixam.it/it/minicar-crossover/pack",
+  "quote": "Ruote motrici | trazione anteriore",
+  "checked_on": "2026-11-02"
+ },
+ "aixam-easy": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse Kubota 479 cc diesel with variator, front-wheel drive (Access, Chic, GT); the maker's electric easy page lists front driving wheels too (Ruote motrici: Anteriori)",
+  "confidence": "high",
+  "source": "https://www.aixam.it/it/easy/access",
+  "quote": "Ruote motrici | trazione anteriore",
+  "checked_on": "2026-11-02"
+ },
+ "aixam-e-scouty": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Electric 6 kW / 40 Nm motor with variator, front driving wheels (e-Scouty EVO)",
+  "confidence": "high",
+  "source": "https://www.aixam.it/it/e-scouty/evo",
+  "quote": "Ruote motrici | Anteriori",
+  "checked_on": "2026-11-02"
+ },
+ "aixam-d-truck-e-truck": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "D-Truck: front transverse Kubota 479 cc diesel with variator, front-wheel drive; the maker's e-Truck page lists front driving wheels too (Ruote motrici: Anteriori)",
+  "confidence": "high",
+  "source": "https://www.aixam-pro.it/it/d-truck/furgone",
+  "quote": "Ruote motrici | trazione anteriore",
+  "checked_on": "2026-11-02"
+ },
+ "ligier-js50": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Diesel REVO D+ (500 cc, CVT) and electric versions both front-wheel drive per ADAC (Vorderrad for REVO D+ and Elektro 11.04 kWh); Ligier's own pages do not state it",
+  "confidence": "medium",
+  "source": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/ligier/js-50/2generation/340721/",
+  "quote": "Antriebsart | Vorderrad",
+  "checked_on": "2026-11-02"
+ },
+ "ligier-myli": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse electric motor with reduction gear, front-wheel drive (Myli LAB and MAX; ADAC also lists REVO D+ diesel LAB/MAX from 09/26 as Vorderrad); Ligier's own pages do not state it",
+  "confidence": "medium",
+  "source": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/ligier/myli/1generation/352767/",
+  "quote": "Antriebsart | Vorderrad",
+  "checked_on": "2026-11-02"
+ },
+ "ligier-pulse-4": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Asynchronous electric motor, single-speed automatic, front-wheel drive per Spanish catalogues (motor.es long L3 version, quecochemecompro short version); Ligier's own sheets do not state it",
+  "confidence": "medium",
+  "source": "https://www.motor.es/ligier/pulse-4-comercial/l3-largo-86-kwh-n1-45987.html",
+  "quote": "Tracción: Delantera",
+  "checked_on": "2026-11-02"
+ },
+ "chatenet-ch46": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse diesel with front-axle drive per one catalogue entry (CH46 0.5 Lombardini, 2021 on) whose other engine data are wrong; not stated by Chatenet; Kubota K and CH46e assumed alike",
+  "confidence": "low",
+  "source": "https://www.autocentrum.pl/chatenet/ch46/silnik-diesla-0.5-lombardini-kohler-evo-8km-od-2021/",
+  "quote": "Napęd na przednią oś Dostępny",
+  "checked_on": "2026-11-02"
+ },
+ "casalini-650": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front transverse Kubota diesel with CVT, front-wheel drive: ADAC lists the Casalini M20 (04/22-06/24) as front-wheel drive with a front engine and CVT, and the 650 is the 2026 version of the M20 with the new Kubota engine (the Austrian general importer sells it as 'M20 650, neues Modell 2026'); casalini.eu itself gives no drive data",
+  "confidence": "medium",
+  "source": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/casalini/m20/1generation/324272",
+  "quote": "Antriebsart | Vorderrad; Getriebeart | CVT-Getriebe; Einbauposition / Motorbauart (Verbrennungsmotor) | Frontmotor / Reihe (Casalini M20 GranTurismo, 04/22 - 06/24)",
+  "checked_on": "2026-11-02"
+ },
+ "ligier-js60": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-wheel drive inferred for the 2026 JS60: Ligier's model page, equipment sheet and press release give no driven wheels, and no catalogue has the new car yet; the previous JS60 (09/20-10/24), the JS50 and the Myli with the same REVO D+ diesel and 11.04 kWh electric powertrains are all listed as front-wheel drive with a front engine and CVT by ADAC",
+  "confidence": "low",
+  "source": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/ligier/js-60/1generation/324270/",
+  "quote": "Antriebsart | Vorderrad; Getriebeart | CVT-Getriebe; Einbauposition / Motorbauart (Verbrennungsmotor) | Frontmotor / Reihe (Ligier JS 60 Diesel DCI Revolution Chic, 09/20 - 10/24)",
+  "checked_on": "2026-11-02"
+ }
+}

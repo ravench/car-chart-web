@@ -1,0 +1,572 @@
+{
+ "geely-e2": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear-mounted motor (Xingyuan/EX2 layout); no dual-motor version announced for Europe. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "volvo-ex30": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "RWD on single-motor P3/P5/P5 Long Range; AWD only on P8 AWD (ex Twin Motor Performance, 428 PS). EX30 Cross Country is sold only as P8 AWD.",
+  "confidence": "high",
+  "source": "https://www.volvocars.com/de/cars/ex30-electric/"
+ },
+ "lynk-co-02": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single motor, rear-wheel drive ('Hinterradantrieb') only.",
+  "confidence": "high",
+  "source": "https://www.lynkco.com/de-ch/cars/02"
+ },
+ "zeekr-x": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Core RWD and Long Range RWD; AWD only on Privilege AWD (dual motor, 365 kW).",
+  "confidence": "high",
+  "source": "https://zeekr.eu/models/x"
+ },
+ "volvo-xc40": {
+  "drives": [
+   "FWD",
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "XC40 mild hybrids (B3, B4) are FWD only in CH/DE; single-motor EX40/EC40 (P5, P5 Long Range) are RWD; AWD only on electric EX40/EC40 P8 AWD and P8 Performance AWD (Twin Motor).",
+  "confidence": "high",
+  "source": "https://automobilrevue.ch/neuheiten/volvo-xc40-ex40-und-ec40-mehr-technik-zum-neuen-modelljahr"
+ },
+ "lynk-co-01": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Front-wheel drive ('Frontantrieb') only; no AWD version in Europe.",
+  "confidence": "high",
+  "source": "https://www.lynkco.com/de-ch/cars/01"
+ },
+ "geely-e5": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor (160 kW); no dual-motor version in Europe. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "volvo-v60": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "B4 mild hybrid is FWD; AWD only on the T6 AWD plug-in hybrid. V60 Cross Country is no longer available new (DE page: 'nicht mehr lieferbar'; not listed in CH).",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-v60-kombi-facelift/"
+ },
+ "polestar-2": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Standard/Long Range Single Motor are RWD; AWD on Long Range Dual Motor (optionally with Performance pack).",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-2/"
+ },
+ "zeekr-7-gt": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Business Edition RWD and Long Range RWD; AWD only on Privilege AWD (dual motor, 475 kW). zeekr.eu model page could not be fetched; per Zeekr NL configurator as reported.",
+  "confidence": "high",
+  "source": "http://thedriven.io/2026/01/17/zeekr-7gt-pricing-and-specs-revealed-undercuts-popular-7x-suv/"
+ },
+ "volvo-ex60": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "P6 is RWD; AWD on P10 AWD and P12 AWD.",
+  "confidence": "high",
+  "source": "https://www.volvocars.com/uk/cars/ex60-electric/"
+ },
+ "volvo-xc60": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD: B5 AWD mild hybrid, T6 AWD and T8 AWD plug-in hybrids (motorized.ch: 'Alle Varianten des Volvo XC60 SUV verfügen über Allradantrieb'); no FWD B4 in CH/DE.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-xc-60-suv/"
+ },
+ "polestar-4": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Rear Motor (single motor) is RWD; AWD on Dual Motor (400 kW).",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-4/"
+ },
+ "lynk-co-08": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Plug-in hybrid with front-wheel drive in Europe (the 4WD EM-P is China-only); the Swiss page does not state the drive type, so not confirmed on a manufacturer page.",
+  "confidence": "medium",
+  "source": "https://www.lynkco.com/de-ch/cars/08"
+ },
+ "zeekr-7x": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Core RWD and Long Range RWD; AWD only on Privilege AWD (ex Performance, dual motor, 470 kW). Applies to the current 7X; the all-new 7X arrives Q1 2027.",
+  "confidence": "high",
+  "source": "https://www.electrive.com/2025/05/21/zeekr-starts-delivering-the-7x-in-norway"
+ },
+ "geely-starray-em-i": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "EM-i plug-in hybrid drives the front wheels; no AWD version. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "volvo-es90": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Twin Motor",
+  "note": "Single Motor Extended Range is RWD; AWD on Twin Motor and Twin Motor Performance.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-es90-limousine/"
+ },
+ "polestar-5": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "AWD only: Dual Motor and Performance (both dual motor).",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-5/"
+ },
+ "zeekr-001": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Long Range RWD (single motor); AWD on Privilege AWD and Performance AWD (dual motor, 400 kW).",
+  "confidence": "high",
+  "source": "https://zeekr.eu/models/001"
+ },
+ "lotus-emeya": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only: Emeya 600 and 900 are both dual-motor (front + rear). The Swiss page names the versions but does not spell out the drive layout.",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/emeya"
+ },
+ "volvo-ex90": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Twin Motor",
+  "note": "Single Motor (245 kW) is RWD ('Hinterradantrieb'); AWD on Twin Motor and Twin Motor Performance.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-ex90-suv/"
+ },
+ "volvo-xc90": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "All versions AWD: B5 AWD mild hybrid and T8 AWD plug-in hybrid; no FWD version.",
+  "confidence": "high",
+  "source": "https://www.motorized.ch/car/volvo-xc-90-suv/"
+ },
+ "polestar-3": {
+  "drives": [
+   "RWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "Dual Motor",
+  "note": "Rear Motor is RWD; AWD on Dual Motor and Performance.",
+  "confidence": "high",
+  "source": "https://www.polestar.com/de/polestar-3/"
+ },
+ "zeekr-9x": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only: Ultra AWD plug-in hybrid with front + rear motors (897 hp system).",
+  "confidence": "high",
+  "source": "https://zeekr.eu/models/9x"
+ },
+ "lotus-eletre": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only: Eletre 600 and 900 are dual-motor with 'Allradtraktion'; the Eletre X range-extender also drives through front and rear e-motors (its Swiss page does not state the layout).",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/eletre"
+ },
+ "lotus-emira": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined, rear-wheel drive only (V6 and 2.0 turbo four).",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/"
+ },
+ "lotus-evija": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "Four electric motors (one per wheel), AWD only.",
+  "confidence": "high",
+  "source": "https://www.lotuscars.com/de-CH/"
+ },
+ "levc-tx": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Range-extender electric; the e-motor drives the rear wheels. Not sold in CH. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "high",
+  "source": null
+ },
+ "farizon-sv": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front e-motor driving the front wheels, as best recalled; not verified (search and fetch budgets exhausted).",
+  "confidence": "low",
+  "source": null
+ },
+ "farizon-v7e": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Could not be verified (search and fetch budgets exhausted). Single-motor 2WD with no AWD version known; rear drive assumed from the usual rear-motor layout of Chinese medium e-vans.",
+  "confidence": "low",
+  "source": null
+ },
+ "levc-vn5": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Same range-extender drivetrain as the TX taxi: e-motor drives the rear wheels. Not sold in CH. Not verified on a manufacturer page.",
+  "confidence": "high",
+  "source": null
+ },
+ "kgm-tivoli": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "1.5 T-GDi petrol (163 PS) in 2WD (front) or 4WD; KGM Switzerland advertises the Tivoli Steel as 'Der günstigste 4x4 der Schweiz'.",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-korando": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "1.5 T-GDi petrol with 6-speed automatic: 2WD (front) standard; 'Allrad 4x4' (4WD 6AT) is a CHF 3,000 option on every trim (Steel, Blackline, Titanium).",
+  "confidence": "high",
+  "source": "https://www.kgm.ch/de/modelle/korando"
+ },
+ "kgm-actyon": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "KGM Switzerland advertises the 'KGM Actyon 4x4'; the 1.5 T-GDi petrol comes in 2WD and 4WD (per the site's technical table), while the Actyon Hybrid is 2WD (front) only.",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-torres": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "4WD only with the 1.5 T-GDi petrol (2WD or 4WD); Torres Hybrid is 2WD only and the Torres EVX (single front motor) is FWD. Swiss model pages not fetched (budget exhausted).",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-rexton": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4WD",
+  "note": "2.2 e-XDi diesel (202 PS) with '4WD Allradantrieb' only; the diesel row of KGM CH's technical table lists 4WD only.",
+  "confidence": "high",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-musso": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "Run-out: 2.2 e-XDi diesel, 4WD only (part-time 4x4, rear-drive based); Musso Grand long-bed likewise. Still listed on KGM CH's price page (Musso from CHF 42,689, Musso Grand from CHF 44,311).",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de/preislisten"
+ },
+ "kgm-musso-ev": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "KGM Switzerland advertises the Musso EV as '4x4' (dual motor); a 2WD version with a single front motor also exists, but its Swiss availability is not confirmed.",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de"
+ },
+ "kgm-musso-rhino": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "4x4",
+  "note": "2.2 e-XDi diesel with part-time 4x4 (rear-drive based); KGM CH lists Musso (MY26) from CHF 35,143 and Musso Grand (MY26) from CHF 36,998, and its diesel row shows 4WD only. A 2WD version elsewhere in Europe is not ruled out.",
+  "confidence": "medium",
+  "source": "https://www.kgm.ch/de/preislisten"
+ },
+ "honda-super-n": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single front motor, FWD only (N-One e: based). Not sold in CH.",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-jazz": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only (incl. Crosstar).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-hr-v": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only in Europe.",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-civic": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only (the Type R was also FWD).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-zr-v": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV, FWD only in Europe (4WD is Japan-only). Not verified on a Honda page (honda.ch fetch failed).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-cr-v": {
+  "drives": [
+   "FWD",
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "AWD only on the e:HEV full hybrid; e:PHEV plug-in hybrid is FWD only. Not verified on a Honda page (honda.ch fetch failed).",
+  "confidence": "high",
+  "source": null
+ },
+ "honda-prelude": {
+  "drives": [
+   "FWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "e:HEV coupé, FWD only.",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-750s": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined V8, RWD only (coupé and Spider).",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-artura": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "V6 plug-in hybrid with the e-motor in the gearbox; RWD only (coupé and Spider).",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-gts": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Mid-engined V8, RWD only.",
+  "confidence": "high",
+  "source": null
+ },
+ "mclaren-w1": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "V8 hybrid hypercar, RWD only (limited run).",
+  "confidence": "high",
+  "source": null
+ },
+ "koenigsegg-cc850": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Twin-turbo V8, RWD only (limited run).",
+  "confidence": "high",
+  "source": null
+ },
+ "koenigsegg-gemera": {
+  "drives": [
+   "AWD"
+  ],
+  "awd": true,
+  "awd_term": "AWD",
+  "note": "HV8 hybrid with Dark Matter e-motor: 'four-wheel drive and four-wheel torque vectoring' (limited run).",
+  "confidence": "high",
+  "source": "https://www.koenigsegg.com/model/gemera"
+ },
+ "koenigsegg-jesko": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Twin-turbo V8, RWD only (Attack and Absolut; limited run).",
+  "confidence": "high",
+  "source": null
+ },
+ "deepal-s05": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (BEV), RWD only in Europe. Not sold in CH. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ },
+ "deepal-s07": {
+  "drives": [
+   "RWD"
+  ],
+  "awd": false,
+  "awd_term": null,
+  "note": "Single rear motor (BEV, 160 kW), RWD only in Europe. Not sold in CH. Not verified on a manufacturer page (fetch budget exhausted).",
+  "confidence": "medium",
+  "source": null
+ }
+}
