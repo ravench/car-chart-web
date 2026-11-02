@@ -1,0 +1,53 @@
+name: Web release
+
+# Builds the web release of the chart (web-release/build_release.py) and publishes the zip, whose files sit at
+# the top level of the archive (no parent folder): unzip it straight into the web root of car-chart.forestraven.net.
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write  # attach the zip to the GitHub release on tag pushes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build release
+        id: build
+        run: |
+          python3 web-release/build_release.py chart --poster poster/identical-car-chart-A0.pdf --out "$RUNNER_TEMP/release"
+          ver=$(sed -n 's/.*Version <b>\([0-9.]*[a-z]*\)<\/b>.*/v\1/p' chart/index.html | head -1)
+          echo "version=$ver" >> "$GITHUB_OUTPUT"
+          ls -la "$RUNNER_TEMP/release"
+          # sanity checks: flat archive with the page, the .htaccess and the poster at the top level
+          unzip -l "$RUNNER_TEMP/release/car-chart-$ver.zip" | grep -E ' (index\.html|\.htaccess|identical-car-chart-A0\.pdf)$'
+          if unzip -Z1 "$RUNNER_TEMP/release/car-chart-$ver.zip" | grep -q '^car-chart/'; then echo 'parent folder in zip'; exit 1; fi
+
+      # Workflow artifact: the release files themselves, so the artifact download (GitHub always zips it) is
+      # the flat archive. .htaccess is a dot-file, which upload-artifact skips unless told otherwise.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: car-chart-${{ steps.build.outputs.version }}
+          path: ${{ runner.temp }}/release/folder/
+          include-hidden-files: true
+          retention-days: 90
+
+      - name: Attach to GitHub release
+        if: startsWith(github.ref, 'refs/tags/')
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+          ZIP: ${{ runner.temp }}/release/car-chart-${{ steps.build.outputs.version }}.zip
+        run: |
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Identical Car Chart $TAG" --notes "Web release of chart $TAG. Unzip into the web root (no parent folder)."
+          gh release upload "$TAG" "$ZIP" --clobber

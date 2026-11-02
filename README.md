@@ -25,7 +25,7 @@ with v1.17. `git diff v1.16 v1.17 -- chart/build/data.json` shows the data chang
 
 The scripts were written for the project folder layout (`chart-vX.Y/`, `release-web/`, `poster-a0/` side by side):
 
-- Web release: `python3 web-release/build_release.py chart` (pass the chart folder; the poster PDF is picked up from `../poster-a0/` in that layout, so copy `poster/identical-car-chart-A0.pdf` there or skip it).
+- Web release: `python3 web-release/build_release.py` (uses `chart/` and `poster/`; output in `web-release/out/<version>/`). GitHub Actions builds it on every push to `main` and on `v*` tags; download the zip from the run's artifacts or the tag's release.
 - Poster: see `poster/README.md` (needs Python with Pillow and segno, Node with Playwright/Chromium).
 
 Pictures come from carsized.com and from the manufacturers' websites, press libraries and configurators
