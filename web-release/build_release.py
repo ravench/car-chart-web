@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Build the web release of the Identical Car Chart for a WordPress blog.
 
-Usage:  python3 build_release.py [CHART_DIR] [--base-url https://car-chart.forestraven.net/]
+Usage:  python3 build_release.py [CHART_DIR] [--base-url URL] [--poster PDF] [--out DIR]
 
-CHART_DIR defaults to the newest ../chart-vX.Y folder. Output goes to ./out/<version>/:
-  folder/              upload this folder as-is (index.html, img/, fonts/); pictures load lazily
-  car-chart-<v>.zip    the same folder zipped
+CHART_DIR defaults to ../chart (git repository layout) or else the newest ../chart-vX.Y folder (project
+folder layout). The poster defaults to ../poster/ or ../poster-a0/identical-car-chart-A0.pdf. The version
+is read from the chart header ("Version 1.17"). Output goes to ./out/<version>/ (or --out):
+  folder/              upload the contents of this folder to the web root (index.html, img/, fonts/, .htaccess)
+  car-chart-<v>.zip    the same files zipped, at the top level of the archive (no parent folder)
   single/car-chart.html  one file with every picture, front view and font inlined (~30 MB)
   wordpress-embed.html   Custom HTML block for a full-screen WordPress page
   page-car-chart.php     optional page template (alternative to the block)
@@ -29,11 +31,34 @@ DESC = ('Which cars are quasi the same vehicle under different badges: every bra
         'grouped by owner, with each model placed by vehicle class and shared-platform twins framed in colour.')
 
 
-def newest_chart():
+def default_chart():
+    if (ROOT / 'chart' / 'index.html').exists():  # git repository layout
+        return ROOT / 'chart'
     def key(p):
         return tuple(int(x) for x in re.findall(r'\d+', p.name.split('chart-v', 1)[1]))
     dirs = [p for p in ROOT.glob('chart-v*') if (p / 'index.html').exists()]
     return max(dirs, key=key)
+
+
+def default_poster():
+    for p in (ROOT / 'poster' / POSTER, ROOT / 'poster-a0' / POSTER):
+        if p.exists():
+            return p
+    return ROOT / 'poster-a0' / POSTER  # missing: the release is built without the poster
+
+
+def chart_version(src, html):
+    m = re.search(r'Version <b>([\d.]+[a-z]?)</b>', html)
+    if m:
+        return 'v' + m.group(1)
+    m = re.search(r'v\d+(\.\d+)*[a-z]?$', src.name)
+    return m.group(0) if m else src.name
+
+
+def opt(args, name, default=None):
+    if name in args:
+        i = args.index(name); v = args[i + 1]; del args[i:i + 2]; return v
+    return default
 
 
 def get(url):
@@ -158,23 +183,22 @@ iframe.car-chart{{position:fixed;inset:var(--wp-admin--admin-bar--height,0) 0 0 
 
 def main():
     args = sys.argv[1:]
-    base_url = 'https://car-chart.forestraven.net/'
-    if '--base-url' in args:
-        i = args.index('--base-url'); base_url = args[i + 1]; del args[i:i + 2]
-    src = Path(args[0]).resolve() if args else newest_chart()
-    version = src.name.replace('chart-', '')
-    out = HERE / 'out' / version
+    base_url = opt(args, '--base-url', 'https://car-chart.forestraven.net/')
+    pdf = Path(opt(args, '--poster', default_poster())).resolve()
+    out_opt = opt(args, '--out')
+    src = Path(args[0]).resolve() if args else default_chart()
+    raw = (src / 'index.html').read_text()
+    version = chart_version(src, raw)
+    out = Path(out_opt).resolve() if out_opt else HERE / 'out' / version
     if out.exists():
         shutil.rmtree(out)
     (out / 'folder').mkdir(parents=True)
     (out / 'single').mkdir()
     fl = fonts()
-    raw = (src / 'index.html').read_text()
 
     # folder release (with the A0 poster PDF when the poster thread has produced one)
     fdir = out / 'folder'
     page = skeleton(raw, fl, False, version)
-    pdf = ROOT / 'poster-a0' / POSTER
     if pdf.exists():
         meta_end = '</div>\n</header>'
         assert page.count(meta_end) == 1, 'header changed; update the poster link insertion'
@@ -203,7 +227,7 @@ def main():
     with zipfile.ZipFile(zp, 'w', zipfile.ZIP_DEFLATED) as z:
         for f in sorted(fdir.rglob('*')):
             if f.is_file():
-                z.write(f, Path('car-chart') / f.relative_to(fdir))
+                z.write(f, f.relative_to(fdir))  # files at the top level, no parent folder
 
     # single-file release
     single, n = inline_assets(skeleton(raw, fl, True, version), src)
@@ -212,7 +236,7 @@ def main():
     embed_snippets(base_url, out)
     mb = lambda p: p.stat().st_size / 1e6
     size = sum(f.stat().st_size for f in fdir.rglob('*') if f.is_file()) / 1e6
-    print(f'source  {src}')
+    print(f'source  {src}  ({version})')
     print(f'poster  {pdf if pdf.exists() else "none (no poster PDF yet)"}')
     print(f'folder  {fdir}  {size:.1f} MB')
     print(f'zip     {zp}  {mb(zp):.1f} MB')

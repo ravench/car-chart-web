@@ -8,14 +8,14 @@ Output lands in `out/<version>/`. The chart itself is unchanged; the script only
 
 | Output | Size | Use |
 |---|---|---|
-| `car-chart-<v>.zip` / `folder/` | 30 MB zipped, 37 MB unpacked (13 MB of it the poster PDF) | Upload the `car-chart` folder by FTP / hosting file manager. Pictures load lazily, so the first view is light. |
+| `car-chart-<v>.zip` / `folder/` (files at the top level of the zip, no parent folder) | 30 MB zipped, 37 MB unpacked (13 MB of it the poster PDF) | Upload the `car-chart` folder by FTP / hosting file manager. Pictures load lazily, so the first view is light. |
 | `single/car-chart.html` | 28 MB | One file with everything inside. Works opened from disk or uploaded anywhere that serves HTML. |
 | `wordpress-embed.html` | – | Paste into a **Custom HTML** block on an empty page: the chart covers the whole window, with a small "← Blog" button. |
 | `page-car-chart.php` | – | Alternative: a theme page template that outputs only the full-screen chart (keeps `wp_head`/`wp_footer`, so analytics still run). |
 
 ## Self-hosted WordPress (recommended)
-1. Unzip `car-chart-<v>.zip` and upload the `car-chart` folder to `wp-content/uploads/` (so the chart is at
-   `https://<your-blog>/wp-content/uploads/car-chart/index.html`). That URL already works on its own.
+1. Unzip `car-chart-<v>.zip` into the folder that should serve the chart (the zip has no parent folder; for
+   car-chart.forestraven.net that is the subdomain's web root). That URL already works on its own.
 2. Create a page (e.g. "Car chart"), add a **Custom HTML** block, paste `wordpress-embed.html`, publish.
    Or copy `page-car-chart.php` into your child theme and pick "Car chart (full screen)" as the page template.
 3. Updating later: replace the folder; the page needs no change.
@@ -44,3 +44,10 @@ and the poster PDF, so browsers revalidate them on every visit (a cheap 304 when
 once. Without it the server sent no Cache-Control and browsers kept the old page for hours. Pictures and fonts keep
 the server's default caching. It is wrapped in `<IfModule mod_headers.c>`, so it does nothing where that module is
 missing. It is a dot-file: make sure your FTP client / file manager uploads hidden files.
+
+## GitHub Actions (since v1.17)
+`.github/workflows/web-release.yml` builds the release on every push to `main`, on `v*` tags and by hand
+(Actions → Web release → Run workflow). The run's artifact `car-chart-<version>` holds the release files; its
+download is the flat zip (no parent folder, `.htaccess` included). On a tag push the zip is also attached to the
+GitHub release of that tag. Local build in this repository: `python3 web-release/build_release.py` (picks up
+`chart/` and `poster/` by itself; `--out DIR` to choose the output folder).
