@@ -16,9 +16,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
@@ -35,7 +35,7 @@ jobs:
 
       # Workflow artifact: the release files themselves, so the artifact download (GitHub always zips it) is
       # the flat archive. .htaccess is a dot-file, which upload-artifact skips unless told otherwise.
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: car-chart-${{ steps.build.outputs.version }}
           path: ${{ runner.temp }}/release/folder/
